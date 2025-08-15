@@ -1,0 +1,92 @@
+
+------------
+FILES NEEDED
+------------
+
+We need two videos:
+
+1. The main video, called "video.mp4", onto which we will put the subtitles
+   and audio.
+2. The optional publicitary pause video, called "publicitary_pause.mp4".
+
+Make sure these files are in the working folder.
+
+Both videos must have the same resolution, video codec, and audio codec in
+order to work correctly. You can check this in VLC:
+Tools -> Codec Information (or press Ctrl+J).
+
+
+------------------------------
+1) GET SCRIPT FROM REDDIT POST
+------------------------------
+
+Run the scrapper script and paste the Reddit link when asked. The retrieved
+script will be saved as "script.txt" and the link will be recorded in
+"history.csv".
+
+    python scrapper.py
+
+
+-----------------------------
+2) GENERATE AUDIO FROM SCRIPT
+-----------------------------
+
+There are two options:
+
+    a) audio_web_api.py
+       Uses the Remsky/Kokoro-TTS-Zero web API to generate audio.
+       This has a daily limit.
+
+           python audio_web_api.py
+
+    b) audio_local_api.py
+       Uses a local instance of KokoroTTS, so it has no daily limit,
+       but consumes system resources.
+
+           docker run -p 8880:8880 ghcr.io/remsky/kokoro-fastapi-cpu:latest
+           python audio_local_api.py
+
+
+--------------------------
+3) OVERLAP AUDIO AND VIDEO
+--------------------------
+
+The script takes "video.mp4", lowers its volume (factor set on line 29),
+raises the generated audio volume (also set on line 29), and merges them
+into a single video called "temp_synced.mp4".
+
+    python video_audio_track.py
+
+
+------------------------------
+4) BURN SUBTITLES ON THE VIDEO
+------------------------------
+
+The script uses the Whisper model to generate subtitles from
+"temp_synced.mp4", formats them into an ASS file with a small animation,
+and burns them into the video. The result is saved as "final_with_subs.mp4"
+and the subtitles as "subs.ass".
+
+    python subtitles.py
+
+
+------------------------------------------
+5) INSERT THE PUBLICITARY PAUSE (OPTIONAL)
+------------------------------------------
+
+The script takes "final_with_subs.mp4", splits it in two, then inserts
+"publicitary_pause.mp4" in the middle, and saves the result.
+
+    python publicitary_pause.py
+
+
+Your video is now ready to be uploaded to any social media platform.
+
+
+--------------------
+6) CLEAR THE PROJECT
+--------------------
+
+This clears the files that where generated during the process.
+
+    python clear.py

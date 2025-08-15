@@ -1,0 +1,212 @@
+[Script Info]
+                ScriptType: v4.00+
+                PlayResX: 1920
+                PlayResY: 1080
+                Timer: 100.0000
+
+                [V4+ Styles]
+                Format: Name, Fontname, Fontsize, PrimaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+                Style: Default,Roboto,68,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,200,200,0,0,1,4,0,5,0,0,40,0
+
+                [Events]
+                Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+                Dialogue: 0,0:00:00.00,0:00:00.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(940,970,\fs20)\fad(0,30)}Ada, for\Npulling
+Dialogue: 0,0:00:00.97,0:00:01.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}away from my
+Dialogue: 0,0:00:01.97,0:00:02.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bestie after\Nyears
+Dialogue: 0,0:00:02.97,0:00:03.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of supporting\Nher
+Dialogue: 0,0:00:03.97,0:00:04.96,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}through a\Nmental
+Dialogue: 0,0:00:04.96,0:00:05.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(809,839,\fs20)\fad(0,30)}health
+Dialogue: 0,0:00:05.80,0:00:06.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crisis.
+Dialogue: 0,0:00:06.80,0:00:07.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Am I the
+Dialogue: 0,0:00:07.80,0:00:08.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}a hole for
+Dialogue: 0,0:00:08.81,0:00:09.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}wanting to drop
+Dialogue: 0,0:00:09.81,0:00:10.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}my best friend
+Dialogue: 0,0:00:10.81,0:00:11.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of three years?
+Dialogue: 0,0:00:12.45,0:00:13.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}So boom, I'm
+Dialogue: 0,0:00:13.45,0:00:14.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}F-16 and I'm
+Dialogue: 0,0:00:14.45,0:00:15.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}in a current
+Dialogue: 0,0:00:15.45,0:00:16.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}friendship with\Nmy
+Dialogue: 0,0:00:16.44,0:00:17.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}best friend.
+Dialogue: 0,0:00:17.92,0:00:18.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'll call her
+Dialogue: 0,0:00:18.92,0:00:19.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}A. We've known
+Dialogue: 0,0:00:19.92,0:00:20.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}each other\Nsince
+Dialogue: 0,0:00:20.92,0:00:21.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}seventh grade\Nand
+Dialogue: 0,0:00:21.92,0:00:22.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we dated during
+Dialogue: 0,0:00:22.92,0:00:23.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that time
+Dialogue: 0,0:00:24.32,0:00:25.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which
+Dialogue: 0,0:00:25.32,0:00:26.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}ended
+Dialogue: 0,0:00:26.32,0:00:26.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(210,240,\fs20)\fad(0,30)}horribly.
+Dialogue: 0,0:00:26.57,0:00:27.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}In that
+Dialogue: 0,0:00:27.57,0:00:28.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}relationship,\Nit
+Dialogue: 0,0:00:28.57,0:00:29.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}was very
+Dialogue: 0,0:00:29.57,0:00:30.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}emotionally\Ndraining
+Dialogue: 0,0:00:30.57,0:00:31.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}because of
+Dialogue: 0,0:00:31.57,0:00:32.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}how she
+Dialogue: 0,0:00:32.57,0:00:33.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}would hurt
+Dialogue: 0,0:00:33.57,0:00:34.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(769,799,\fs20)\fad(0,30)}H-E-R-S-E-L-F
+Dialogue: 0,0:00:34.36,0:00:35.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and
+Dialogue: 0,0:00:35.36,0:00:36.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}almost
+Dialogue: 0,0:00:36.36,0:00:36.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(490,520,\fs20)\fad(0,30)}O-D.
+Dialogue: 0,0:00:36.89,0:00:37.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now fast
+Dialogue: 0,0:00:37.89,0:00:38.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}forwarding to
+Dialogue: 0,0:00:38.89,0:00:39.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Valentine's,\Nwe're
+Dialogue: 0,0:00:39.89,0:00:40.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}not friends
+Dialogue: 0,0:00:40.89,0:00:41.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}A-T-M, this
+Dialogue: 0,0:00:41.89,0:00:42.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}girl comes
+Dialogue: 0,0:00:42.89,0:00:43.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(369,399,\fs20)\fad(0,30)}up to
+Dialogue: 0,0:00:43.28,0:00:44.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we're going to
+Dialogue: 0,0:00:44.28,0:00:45.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}call her Abby.
+Dialogue: 0,0:00:45.53,0:00:46.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}She comes and
+Dialogue: 0,0:00:46.53,0:00:47.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}gives me a
+Dialogue: 0,0:00:47.53,0:00:48.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}letter saying a
+Dialogue: 0,0:00:48.53,0:00:49.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}wanted me to
+Dialogue: 0,0:00:49.53,0:00:50.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(890,920,\fs20)\fad(0,30)}give you this.
+Dialogue: 0,0:00:50.45,0:00:51.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Mind you I'm
+Dialogue: 0,0:00:51.45,0:00:52.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}already having\Na
+Dialogue: 0,0:00:52.45,0:00:53.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bad day because
+Dialogue: 0,0:00:53.45,0:00:54.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of family\Nissues
+Dialogue: 0,0:00:54.45,0:00:55.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that happened\Non
+Dialogue: 0,0:00:55.45,0:00:56.13,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(649,679,\fs20)\fad(0,30)}Valentine's
+Dialogue: 0,0:00:56.12,0:00:57.12,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Day two
+Dialogue: 0,0:00:57.12,0:00:58.12,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}years ago.
+Dialogue: 0,0:00:58.44,0:00:59.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}In this
+Dialogue: 0,0:00:59.44,0:01:00.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}letter, it's
+Dialogue: 0,0:01:00.44,0:01:01.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}all this
+Dialogue: 0,0:01:01.44,0:01:02.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}hateful stuff
+Dialogue: 0,0:01:02.44,0:01:03.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she said
+Dialogue: 0,0:01:03.44,0:01:04.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}and how
+Dialogue: 0,0:01:04.44,0:01:04.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(410,440,\fs20)\fad(0,30)}much she
+Dialogue: 0,0:01:04.89,0:01:05.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}That day
+Dialogue: 0,0:01:05.89,0:01:06.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I went
+Dialogue: 0,0:01:06.89,0:01:07.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}into the
+Dialogue: 0,0:01:07.89,0:01:08.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bathroom and
+Dialogue: 0,0:01:08.89,0:01:09.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(809,839,\fs20)\fad(0,30)}cried for
+Dialogue: 0,0:01:09.72,0:01:10.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now we're
+Dialogue: 0,0:01:10.72,0:01:11.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}into eighth
+Dialogue: 0,0:01:11.72,0:01:12.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}grade and
+Dialogue: 0,0:01:12.72,0:01:13.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she apologizes
+Dialogue: 0,0:01:13.72,0:01:14.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to me
+Dialogue: 0,0:01:14.72,0:01:15.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which I
+Dialogue: 0,0:01:15.72,0:01:16.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}forget her
+Dialogue: 0,0:01:16.72,0:01:16.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(90,120,\fs20)\fad(0,30)}but never
+Dialogue: 0,0:01:16.84,0:01:17.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We've been\Nfriends
+Dialogue: 0,0:01:17.84,0:01:18.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}since then but
+Dialogue: 0,0:01:18.84,0:01:19.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}he mental\Nhealth
+Dialogue: 0,0:01:19.84,0:01:20.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}was bad since
+Dialogue: 0,0:01:20.84,0:01:21.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the day I
+Dialogue: 0,0:01:21.84,0:01:22.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(849,879,\fs20)\fad(0,30)}met her.
+Dialogue: 0,0:01:22.73,0:01:23.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}What really got
+Dialogue: 0,0:01:23.73,0:01:24.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}worse was in
+Dialogue: 0,0:01:24.73,0:01:25.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Sophomore year,\Nshe'd
+Dialogue: 0,0:01:25.73,0:01:26.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}been posting\Nstuff
+Dialogue: 0,0:01:26.73,0:01:27.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}on Twitter\Ntagging
+Dialogue: 0,0:01:28.32,0:01:29.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}a certain\Ncommunity
+Dialogue: 0,0:01:29.32,0:01:30.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which I feel
+Dialogue: 0,0:01:30.32,0:01:31.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}like she\Nshouldn't
+Dialogue: 0,0:01:31.32,0:01:32.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}be in and
+Dialogue: 0,0:01:32.32,0:01:33.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}posted her\NIqwa.
+Dialogue: 0,0:01:34.25,0:01:35.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We went to
+Dialogue: 0,0:01:35.25,0:01:36.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the admin about
+Dialogue: 0,0:01:36.25,0:01:37.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}it, showed\Nscreenshots
+Dialogue: 0,0:01:37.25,0:01:38.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and more.
+Dialogue: 0,0:01:38.53,0:01:39.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}She got sent
+Dialogue: 0,0:01:39.53,0:01:40.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to the mental
+Dialogue: 0,0:01:40.53,0:01:41.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}hospital for\Ntwo
+Dialogue: 0,0:01:41.53,0:01:42.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(810,840,\fs20)\fad(0,30)}weeks.
+Dialogue: 0,0:01:42.37,0:01:43.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now it's\Ntowards
+Dialogue: 0,0:01:43.37,0:01:44.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the end of
+Dialogue: 0,0:01:44.37,0:01:45.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Sophomore year\Nand
+Dialogue: 0,0:01:45.37,0:01:46.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she randomly\Ncomes
+Dialogue: 0,0:01:46.37,0:01:47.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}up to me
+Dialogue: 0,0:01:47.37,0:01:48.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crying saying
+Dialogue: 0,0:01:48.57,0:01:49.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if I hate
+Dialogue: 0,0:01:49.57,0:01:50.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her and stuff.
+Dialogue: 0,0:01:50.76,0:01:51.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I asked where'd
+Dialogue: 0,0:01:51.76,0:01:52.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she get that
+Dialogue: 0,0:01:52.76,0:01:53.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}from and told
+Dialogue: 0,0:01:53.76,0:01:54.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}me Abby told
+Dialogue: 0,0:01:54.76,0:01:55.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her that Abby
+Dialogue: 0,0:01:55.76,0:01:56.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}is having\Nfallouts
+Dialogue: 0,0:01:56.92,0:01:57.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}with her
+Dialogue: 0,0:01:57.92,0:01:58.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}friends during
+Dialogue: 0,0:01:58.92,0:01:59.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}this time
+Dialogue: 0,0:01:59.92,0:02:00.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and SM
+Dialogue: 0,0:02:00.92,0:02:01.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}more stuff
+Dialogue: 0,0:02:01.92,0:02:02.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(530,560,\fs20)\fad(0,30)}happening.
+Dialogue: 0,0:02:02.48,0:02:03.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I go to
+Dialogue: 0,0:02:03.48,0:02:04.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the bathroom\Nand
+Dialogue: 0,0:02:04.48,0:02:05.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crawl\Nunderneath the
+Dialogue: 0,0:02:05.48,0:02:06.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}stall on that
+Dialogue: 0,0:02:06.48,0:02:07.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}dirty, nasty\Nfloor
+Dialogue: 0,0:02:07.48,0:02:08.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}and console
+Dialogue: 0,0:02:08.48,0:02:09.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her.
+Dialogue: 0,0:02:09.65,0:02:10.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Once we got
+Dialogue: 0,0:02:10.65,0:02:11.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her out of
+Dialogue: 0,0:02:11.65,0:02:12.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}there and\Ntalked
+Dialogue: 0,0:02:12.65,0:02:13.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to the admin,
+Dialogue: 0,0:02:13.65,0:02:14.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we head into
+Dialogue: 0,0:02:14.65,0:02:15.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(569,599,\fs20)\fad(0,30)}class.
+Dialogue: 0,0:02:15.25,0:02:16.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}30 minutes\Nlater,
+Dialogue: 0,0:02:16.25,0:02:17.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she's back at
+Dialogue: 0,0:02:17.25,0:02:18.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}talking to that
+Dialogue: 0,0:02:18.25,0:02:19.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}same girl about
+Dialogue: 0,0:02:19.25,0:02:20.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if she wanting
+Dialogue: 0,0:02:20.25,0:02:20.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(569,599,\fs20)\fad(0,30)}to smoke
+Dialogue: 0,0:02:20.84,0:02:21.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}or something
+Dialogue: 0,0:02:21.84,0:02:22.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}later after
+Dialogue: 0,0:02:22.84,0:02:23.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I said
+Dialogue: 0,0:02:23.84,0:02:24.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}you shouldn't
+Dialogue: 0,0:02:24.84,0:02:25.77,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(890,920,\fs20)\fad(0,30)}hang out
+Dialogue: 0,0:02:25.77,0:02:26.77,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}That was my
+Dialogue: 0,0:02:26.77,0:02:27.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(769,799,\fs20)\fad(0,30)}breaking point.
+Dialogue: 0,0:02:27.56,0:02:28.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Over the
+Dialogue: 0,0:02:28.56,0:02:29.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}summer, I
+Dialogue: 0,0:02:29.56,0:02:30.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}barely talked
+Dialogue: 0,0:02:30.56,0:02:31.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to her
+Dialogue: 0,0:02:31.56,0:02:32.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}until\Nvolleyball
+Dialogue: 0,0:02:32.56,0:02:33.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}tryouts, she
+Dialogue: 0,0:02:33.56,0:02:34.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(770,800,\fs20)\fad(0,30)}didn't make
+Dialogue: 0,0:02:34.37,0:02:35.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now entering\Njunior
+Dialogue: 0,0:02:35.37,0:02:36.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}year, it just
+Dialogue: 0,0:02:36.37,0:02:37.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}started and\NIqqq
+Dialogue: 0,0:02:37.37,0:02:38.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if I have
+Dialogue: 0,0:02:38.37,0:02:39.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the mental\Ncapacity
+Dialogue: 0,0:02:39.37,0:02:40.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to deal
+Dialogue: 0,0:02:40.53,0:02:41.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}with that
+Dialogue: 0,0:02:41.53,0:02:42.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(650,680,\fs20)\fad(0,30)}anymore.
+Dialogue: 0,0:02:42.21,0:02:43.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'm tired
+Dialogue: 0,0:02:43.21,0:02:44.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of this
+Dialogue: 0,0:02:44.21,0:02:45.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bullshit app.
+Dialogue: 0,0:02:45.40,0:02:46.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We barely talk\Nnow
+Dialogue: 0,0:02:46.40,0:02:47.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and even at\Nlunch
+Dialogue: 0,0:02:47.40,0:02:48.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}when we sit\Ntogether
+Dialogue: 0,0:02:48.40,0:02:49.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and she thinks\NI'm
+Dialogue: 0,0:02:49.40,0:02:50.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}mad at
+Dialogue: 0,0:02:50.53,0:02:51.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her but I
+Dialogue: 0,0:02:51.53,0:02:52.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}told her I'm
+Dialogue: 0,0:02:52.53,0:02:53.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(610,640,\fs20)\fad(0,30)}not.
+Dialogue: 0,0:02:53.17,0:02:54.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I hate
+Dialogue: 0,0:02:54.17,0:02:55.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}confrontation\NBTW
+Dialogue: 0,0:02:55.17,0:02:56.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and just
+Dialogue: 0,0:02:56.17,0:02:57.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}didn't want
+Dialogue: 0,0:02:57.17,0:02:58.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to continue
+Dialogue: 0,0:02:58.17,0:02:59.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that\Nconversation.
+Dialogue: 0,0:02:59.61,0:03:00.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I think I've\Njust
+Dialogue: 0,0:03:00.61,0:03:01.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}grown out of\Nthat
+Dialogue: 0,0:03:01.61,0:03:02.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}friendship and\Ndon't know
+Dialogue: 0,0:03:02.61,0:03:03.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}what to do.
+Dialogue: 0,0:03:03.61,0:03:04.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Oh and
+Dialogue: 0,0:03:04.61,0:03:05.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she likes
+Dialogue: 0,0:03:05.61,0:03:06.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to gaslight
+Dialogue: 0,0:03:06.61,0:03:07.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}me and
+Dialogue: 0,0:03:07.61,0:03:08.01,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(370,400,\fs20)\fad(0,30)}others a
+Dialogue: 0,0:03:08.00,0:03:09.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Am I in
+Dialogue: 0,0:03:09.00,0:03:10.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the wrong or
+Dialogue: 0,0:03:10.00,0:03:11.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}no because I
+Dialogue: 0,0:03:11.00,0:03:12.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}don't think I'm
+Dialogue: 0,0:03:12.00,0:03:12.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(849,879,\fs20)\fad(0,30)}selfish for\Nthinking
+Dialogue: 0,0:03:12.88,0:03:13.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I really need\Npeople
+Dialogue: 0,0:03:13.88,0:03:14.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to tell me that
+Dialogue: 0,0:03:14.88,0:03:15.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'm not being\Ncrazy
+Dialogue: 0,0:03:15.88,0:03:16.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}for wanting to\Ndrop
+Dialogue: 0,0:03:16.88,0:03:17.20,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(289,319,\fs20)\fad(0,30)}her.

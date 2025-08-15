@@ -1,0 +1,9 @@
+# Ignore video files
+*.mp4
+
+# Ignore audio files
+*.wav
+
+# Ignore Python virtual environment
+venv/
+

@@ -1,0 +1,3 @@
+file '/home/alhazacod/coqui-tts-test/first_half.mp4'
+file '/home/alhazacod/coqui-tts-test/publicitary_pause.mp4'
+file '/home/alhazacod/coqui-tts-test/second_half.mp4'

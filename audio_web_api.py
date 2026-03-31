@@ -19,7 +19,7 @@ temp_audio_path = result[0]
 
 # Save it in the same folder as the script
 script_dir = os.path.dirname(os.path.abspath(__file__))
-final_path = os.path.join(script_dir, "audio.wav")
+final_path = os.path.join(script_dir, "output.wav")
 
 shutil.copy(temp_audio_path, final_path)
 

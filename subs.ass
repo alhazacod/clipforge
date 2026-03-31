@@ -1,212 +1,311 @@
 [Script Info]
-                ScriptType: v4.00+
-                PlayResX: 1920
-                PlayResY: 1080
-                Timer: 100.0000
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
 
-                [V4+ Styles]
-                Format: Name, Fontname, Fontsize, PrimaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-                Style: Default,Roboto,68,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,200,200,0,0,1,4,0,5,0,0,40,0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,100,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,5,0,0,60,1
+Style: Outline,Arial Black,100,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,5,0,0,60,1
 
-                [Events]
-                Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-                Dialogue: 0,0:00:00.00,0:00:00.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(940,970,\fs20)\fad(0,30)}Ada, for\Npulling
-Dialogue: 0,0:00:00.97,0:00:01.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}away from my
-Dialogue: 0,0:00:01.97,0:00:02.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bestie after\Nyears
-Dialogue: 0,0:00:02.97,0:00:03.97,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of supporting\Nher
-Dialogue: 0,0:00:03.97,0:00:04.96,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}through a\Nmental
-Dialogue: 0,0:00:04.96,0:00:05.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(809,839,\fs20)\fad(0,30)}health
-Dialogue: 0,0:00:05.80,0:00:06.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crisis.
-Dialogue: 0,0:00:06.80,0:00:07.80,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Am I the
-Dialogue: 0,0:00:07.80,0:00:08.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}a hole for
-Dialogue: 0,0:00:08.81,0:00:09.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}wanting to drop
-Dialogue: 0,0:00:09.81,0:00:10.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}my best friend
-Dialogue: 0,0:00:10.81,0:00:11.81,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of three years?
-Dialogue: 0,0:00:12.45,0:00:13.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}So boom, I'm
-Dialogue: 0,0:00:13.45,0:00:14.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}F-16 and I'm
-Dialogue: 0,0:00:14.45,0:00:15.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}in a current
-Dialogue: 0,0:00:15.45,0:00:16.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}friendship with\Nmy
-Dialogue: 0,0:00:16.44,0:00:17.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}best friend.
-Dialogue: 0,0:00:17.92,0:00:18.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'll call her
-Dialogue: 0,0:00:18.92,0:00:19.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}A. We've known
-Dialogue: 0,0:00:19.92,0:00:20.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}each other\Nsince
-Dialogue: 0,0:00:20.92,0:00:21.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}seventh grade\Nand
-Dialogue: 0,0:00:21.92,0:00:22.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we dated during
-Dialogue: 0,0:00:22.92,0:00:23.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that time
-Dialogue: 0,0:00:24.32,0:00:25.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which
-Dialogue: 0,0:00:25.32,0:00:26.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}ended
-Dialogue: 0,0:00:26.32,0:00:26.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(210,240,\fs20)\fad(0,30)}horribly.
-Dialogue: 0,0:00:26.57,0:00:27.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}In that
-Dialogue: 0,0:00:27.57,0:00:28.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}relationship,\Nit
-Dialogue: 0,0:00:28.57,0:00:29.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}was very
-Dialogue: 0,0:00:29.57,0:00:30.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}emotionally\Ndraining
-Dialogue: 0,0:00:30.57,0:00:31.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}because of
-Dialogue: 0,0:00:31.57,0:00:32.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}how she
-Dialogue: 0,0:00:32.57,0:00:33.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}would hurt
-Dialogue: 0,0:00:33.57,0:00:34.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(769,799,\fs20)\fad(0,30)}H-E-R-S-E-L-F
-Dialogue: 0,0:00:34.36,0:00:35.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and
-Dialogue: 0,0:00:35.36,0:00:36.36,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}almost
-Dialogue: 0,0:00:36.36,0:00:36.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(490,520,\fs20)\fad(0,30)}O-D.
-Dialogue: 0,0:00:36.89,0:00:37.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now fast
-Dialogue: 0,0:00:37.89,0:00:38.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}forwarding to
-Dialogue: 0,0:00:38.89,0:00:39.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Valentine's,\Nwe're
-Dialogue: 0,0:00:39.89,0:00:40.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}not friends
-Dialogue: 0,0:00:40.89,0:00:41.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}A-T-M, this
-Dialogue: 0,0:00:41.89,0:00:42.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}girl comes
-Dialogue: 0,0:00:42.89,0:00:43.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(369,399,\fs20)\fad(0,30)}up to
-Dialogue: 0,0:00:43.28,0:00:44.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we're going to
-Dialogue: 0,0:00:44.28,0:00:45.28,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}call her Abby.
-Dialogue: 0,0:00:45.53,0:00:46.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}She comes and
-Dialogue: 0,0:00:46.53,0:00:47.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}gives me a
-Dialogue: 0,0:00:47.53,0:00:48.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}letter saying a
-Dialogue: 0,0:00:48.53,0:00:49.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}wanted me to
-Dialogue: 0,0:00:49.53,0:00:50.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(890,920,\fs20)\fad(0,30)}give you this.
-Dialogue: 0,0:00:50.45,0:00:51.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Mind you I'm
-Dialogue: 0,0:00:51.45,0:00:52.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}already having\Na
-Dialogue: 0,0:00:52.45,0:00:53.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bad day because
-Dialogue: 0,0:00:53.45,0:00:54.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of family\Nissues
-Dialogue: 0,0:00:54.45,0:00:55.45,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that happened\Non
-Dialogue: 0,0:00:55.45,0:00:56.13,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(649,679,\fs20)\fad(0,30)}Valentine's
-Dialogue: 0,0:00:56.12,0:00:57.12,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Day two
-Dialogue: 0,0:00:57.12,0:00:58.12,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}years ago.
-Dialogue: 0,0:00:58.44,0:00:59.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}In this
-Dialogue: 0,0:00:59.44,0:01:00.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}letter, it's
-Dialogue: 0,0:01:00.44,0:01:01.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}all this
-Dialogue: 0,0:01:01.44,0:01:02.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}hateful stuff
-Dialogue: 0,0:01:02.44,0:01:03.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she said
-Dialogue: 0,0:01:03.44,0:01:04.44,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}and how
-Dialogue: 0,0:01:04.44,0:01:04.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(410,440,\fs20)\fad(0,30)}much she
-Dialogue: 0,0:01:04.89,0:01:05.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}That day
-Dialogue: 0,0:01:05.89,0:01:06.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I went
-Dialogue: 0,0:01:06.89,0:01:07.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}into the
-Dialogue: 0,0:01:07.89,0:01:08.89,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bathroom and
-Dialogue: 0,0:01:08.89,0:01:09.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(809,839,\fs20)\fad(0,30)}cried for
-Dialogue: 0,0:01:09.72,0:01:10.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now we're
-Dialogue: 0,0:01:10.72,0:01:11.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}into eighth
-Dialogue: 0,0:01:11.72,0:01:12.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}grade and
-Dialogue: 0,0:01:12.72,0:01:13.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she apologizes
-Dialogue: 0,0:01:13.72,0:01:14.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to me
-Dialogue: 0,0:01:14.72,0:01:15.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which I
-Dialogue: 0,0:01:15.72,0:01:16.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}forget her
-Dialogue: 0,0:01:16.72,0:01:16.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(90,120,\fs20)\fad(0,30)}but never
-Dialogue: 0,0:01:16.84,0:01:17.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We've been\Nfriends
-Dialogue: 0,0:01:17.84,0:01:18.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}since then but
-Dialogue: 0,0:01:18.84,0:01:19.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}he mental\Nhealth
-Dialogue: 0,0:01:19.84,0:01:20.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}was bad since
-Dialogue: 0,0:01:20.84,0:01:21.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the day I
-Dialogue: 0,0:01:21.84,0:01:22.72,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(849,879,\fs20)\fad(0,30)}met her.
-Dialogue: 0,0:01:22.73,0:01:23.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}What really got
-Dialogue: 0,0:01:23.73,0:01:24.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}worse was in
-Dialogue: 0,0:01:24.73,0:01:25.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Sophomore year,\Nshe'd
-Dialogue: 0,0:01:25.73,0:01:26.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}been posting\Nstuff
-Dialogue: 0,0:01:26.73,0:01:27.73,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}on Twitter\Ntagging
-Dialogue: 0,0:01:28.32,0:01:29.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}a certain\Ncommunity
-Dialogue: 0,0:01:29.32,0:01:30.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}which I feel
-Dialogue: 0,0:01:30.32,0:01:31.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}like she\Nshouldn't
-Dialogue: 0,0:01:31.32,0:01:32.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}be in and
-Dialogue: 0,0:01:32.32,0:01:33.32,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}posted her\NIqwa.
-Dialogue: 0,0:01:34.25,0:01:35.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We went to
-Dialogue: 0,0:01:35.25,0:01:36.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the admin about
-Dialogue: 0,0:01:36.25,0:01:37.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}it, showed\Nscreenshots
-Dialogue: 0,0:01:37.25,0:01:38.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and more.
-Dialogue: 0,0:01:38.53,0:01:39.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}She got sent
-Dialogue: 0,0:01:39.53,0:01:40.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to the mental
-Dialogue: 0,0:01:40.53,0:01:41.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}hospital for\Ntwo
-Dialogue: 0,0:01:41.53,0:01:42.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(810,840,\fs20)\fad(0,30)}weeks.
-Dialogue: 0,0:01:42.37,0:01:43.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now it's\Ntowards
-Dialogue: 0,0:01:43.37,0:01:44.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the end of
-Dialogue: 0,0:01:44.37,0:01:45.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Sophomore year\Nand
-Dialogue: 0,0:01:45.37,0:01:46.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she randomly\Ncomes
-Dialogue: 0,0:01:46.37,0:01:47.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}up to me
-Dialogue: 0,0:01:47.37,0:01:48.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crying saying
-Dialogue: 0,0:01:48.57,0:01:49.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if I hate
-Dialogue: 0,0:01:49.57,0:01:50.57,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her and stuff.
-Dialogue: 0,0:01:50.76,0:01:51.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I asked where'd
-Dialogue: 0,0:01:51.76,0:01:52.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she get that
-Dialogue: 0,0:01:52.76,0:01:53.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}from and told
-Dialogue: 0,0:01:53.76,0:01:54.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}me Abby told
-Dialogue: 0,0:01:54.76,0:01:55.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her that Abby
-Dialogue: 0,0:01:55.76,0:01:56.76,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}is having\Nfallouts
-Dialogue: 0,0:01:56.92,0:01:57.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}with her
-Dialogue: 0,0:01:57.92,0:01:58.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}friends during
-Dialogue: 0,0:01:58.92,0:01:59.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}this time
-Dialogue: 0,0:01:59.92,0:02:00.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and SM
-Dialogue: 0,0:02:00.92,0:02:01.92,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}more stuff
-Dialogue: 0,0:02:01.92,0:02:02.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(530,560,\fs20)\fad(0,30)}happening.
-Dialogue: 0,0:02:02.48,0:02:03.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I go to
-Dialogue: 0,0:02:03.48,0:02:04.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the bathroom\Nand
-Dialogue: 0,0:02:04.48,0:02:05.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}crawl\Nunderneath the
-Dialogue: 0,0:02:05.48,0:02:06.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}stall on that
-Dialogue: 0,0:02:06.48,0:02:07.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}dirty, nasty\Nfloor
-Dialogue: 0,0:02:07.48,0:02:08.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(969,999,\fs20)\fad(0,30)}and console
-Dialogue: 0,0:02:08.48,0:02:09.48,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her.
-Dialogue: 0,0:02:09.65,0:02:10.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Once we got
-Dialogue: 0,0:02:10.65,0:02:11.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her out of
-Dialogue: 0,0:02:11.65,0:02:12.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}there and\Ntalked
-Dialogue: 0,0:02:12.65,0:02:13.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to the admin,
-Dialogue: 0,0:02:13.65,0:02:14.65,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}we head into
-Dialogue: 0,0:02:14.65,0:02:15.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(569,599,\fs20)\fad(0,30)}class.
-Dialogue: 0,0:02:15.25,0:02:16.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}30 minutes\Nlater,
-Dialogue: 0,0:02:16.25,0:02:17.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she's back at
-Dialogue: 0,0:02:17.25,0:02:18.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}talking to that
-Dialogue: 0,0:02:18.25,0:02:19.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}same girl about
-Dialogue: 0,0:02:19.25,0:02:20.25,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if she wanting
-Dialogue: 0,0:02:20.25,0:02:20.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(569,599,\fs20)\fad(0,30)}to smoke
-Dialogue: 0,0:02:20.84,0:02:21.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}or something
-Dialogue: 0,0:02:21.84,0:02:22.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}later after
-Dialogue: 0,0:02:22.84,0:02:23.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I said
-Dialogue: 0,0:02:23.84,0:02:24.84,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}you shouldn't
-Dialogue: 0,0:02:24.84,0:02:25.77,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(890,920,\fs20)\fad(0,30)}hang out
-Dialogue: 0,0:02:25.77,0:02:26.77,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}That was my
-Dialogue: 0,0:02:26.77,0:02:27.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(769,799,\fs20)\fad(0,30)}breaking point.
-Dialogue: 0,0:02:27.56,0:02:28.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Over the
-Dialogue: 0,0:02:28.56,0:02:29.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}summer, I
-Dialogue: 0,0:02:29.56,0:02:30.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}barely talked
-Dialogue: 0,0:02:30.56,0:02:31.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to her
-Dialogue: 0,0:02:31.56,0:02:32.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}until\Nvolleyball
-Dialogue: 0,0:02:32.56,0:02:33.56,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}tryouts, she
-Dialogue: 0,0:02:33.56,0:02:34.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(770,800,\fs20)\fad(0,30)}didn't make
-Dialogue: 0,0:02:34.37,0:02:35.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Now entering\Njunior
-Dialogue: 0,0:02:35.37,0:02:36.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}year, it just
-Dialogue: 0,0:02:36.37,0:02:37.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}started and\NIqqq
-Dialogue: 0,0:02:37.37,0:02:38.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}if I have
-Dialogue: 0,0:02:38.37,0:02:39.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the mental\Ncapacity
-Dialogue: 0,0:02:39.37,0:02:40.37,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to deal
-Dialogue: 0,0:02:40.53,0:02:41.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}with that
-Dialogue: 0,0:02:41.53,0:02:42.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(650,680,\fs20)\fad(0,30)}anymore.
-Dialogue: 0,0:02:42.21,0:02:43.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'm tired
-Dialogue: 0,0:02:43.21,0:02:44.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}of this
-Dialogue: 0,0:02:44.21,0:02:45.21,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}bullshit app.
-Dialogue: 0,0:02:45.40,0:02:46.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}We barely talk\Nnow
-Dialogue: 0,0:02:46.40,0:02:47.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and even at\Nlunch
-Dialogue: 0,0:02:47.40,0:02:48.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}when we sit\Ntogether
-Dialogue: 0,0:02:48.40,0:02:49.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and she thinks\NI'm
-Dialogue: 0,0:02:49.40,0:02:50.40,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}mad at
-Dialogue: 0,0:02:50.53,0:02:51.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}her but I
-Dialogue: 0,0:02:51.53,0:02:52.53,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}told her I'm
-Dialogue: 0,0:02:52.53,0:02:53.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(610,640,\fs20)\fad(0,30)}not.
-Dialogue: 0,0:02:53.17,0:02:54.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I hate
-Dialogue: 0,0:02:54.17,0:02:55.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}confrontation\NBTW
-Dialogue: 0,0:02:55.17,0:02:56.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}and just
-Dialogue: 0,0:02:56.17,0:02:57.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}didn't want
-Dialogue: 0,0:02:57.17,0:02:58.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to continue
-Dialogue: 0,0:02:58.17,0:02:59.17,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}that\Nconversation.
-Dialogue: 0,0:02:59.61,0:03:00.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I think I've\Njust
-Dialogue: 0,0:03:00.61,0:03:01.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}grown out of\Nthat
-Dialogue: 0,0:03:01.61,0:03:02.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}friendship and\Ndon't know
-Dialogue: 0,0:03:02.61,0:03:03.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}what to do.
-Dialogue: 0,0:03:03.61,0:03:04.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Oh and
-Dialogue: 0,0:03:04.61,0:03:05.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}she likes
-Dialogue: 0,0:03:05.61,0:03:06.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to gaslight
-Dialogue: 0,0:03:06.61,0:03:07.61,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}me and
-Dialogue: 0,0:03:07.61,0:03:08.01,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(370,400,\fs20)\fad(0,30)}others a
-Dialogue: 0,0:03:08.00,0:03:09.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}Am I in
-Dialogue: 0,0:03:09.00,0:03:10.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}the wrong or
-Dialogue: 0,0:03:10.00,0:03:11.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}no because I
-Dialogue: 0,0:03:11.00,0:03:12.00,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}don't think I'm
-Dialogue: 0,0:03:12.00,0:03:12.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(849,879,\fs20)\fad(0,30)}selfish for\Nthinking
-Dialogue: 0,0:03:12.88,0:03:13.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I really need\Npeople
-Dialogue: 0,0:03:13.88,0:03:14.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}to tell me that
-Dialogue: 0,0:03:14.88,0:03:15.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}I'm not being\Ncrazy
-Dialogue: 0,0:03:15.88,0:03:16.88,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(970,1000,\fs20)\fad(0,30)}for wanting to\Ndrop
-Dialogue: 0,0:03:16.88,0:03:17.20,Default,,0,0,40,,{\fs20\t(0,30,\fs48)\t(289,319,\fs20)\fad(0,30)}her.
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.67,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(650,670,\fs20)\fad(20,20)}Si un\Nreactor nuclear
+Dialogue: 0,0:00:00.00,0:00:00.67,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(650,670,\fs20)\fad(20,20)}Si un\Nreactor nuclear
+Dialogue: 0,0:00:00.56,0:00:01.73,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1140,1160,\fs20)\fad(20,20)}realmente fuera\Ncomo en
+Dialogue: 0,0:00:00.56,0:00:01.73,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1140,1160,\fs20)\fad(20,20)}realmente fuera\Ncomo en
+Dialogue: 0,0:00:01.62,0:00:02.73,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1080,1100,\fs20)\fad(20,20)}las películas\Nla ciudad
+Dialogue: 0,0:00:01.62,0:00:02.73,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1080,1100,\fs20)\fad(20,20)}las películas\Nla ciudad
+Dialogue: 0,0:00:02.63,0:00:03.88,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1239,1259,\fs20)\fad(20,20)}entera estaría\Nevacuando ahora
+Dialogue: 0,0:00:02.63,0:00:03.88,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1239,1259,\fs20)\fad(20,20)}entera estaría\Nevacuando ahora
+Dialogue: 0,0:00:03.79,0:00:04.12,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(319,339,\fs20)\fad(20,20)}mismo
+Dialogue: 0,0:00:03.79,0:00:04.12,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(319,339,\fs20)\fad(20,20)}mismo
+Dialogue: 0,0:00:04.16,0:00:05.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1060,1080,\fs20)\fad(20,20)}Pero no\Nhabía sirenas
+Dialogue: 0,0:00:04.16,0:00:05.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1060,1080,\fs20)\fad(20,20)}Pero no\Nhabía sirenas
+Dialogue: 0,0:00:05.15,0:00:06.30,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}No había\Nluces rojas
+Dialogue: 0,0:00:05.15,0:00:06.30,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}No había\Nluces rojas
+Dialogue: 0,0:00:06.29,0:00:07.04,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(739,759,\fs20)\fad(20,20)}La sala\Nde control
+Dialogue: 0,0:00:06.29,0:00:07.04,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(739,759,\fs20)\fad(20,20)}La sala\Nde control
+Dialogue: 0,0:00:06.95,0:00:08.00,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}estaba\Nen silencio
+Dialogue: 0,0:00:06.95,0:00:08.00,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}estaba\Nen silencio
+Dialogue: 0,0:00:08.00,0:00:08.83,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(800,820,\fs20)\fad(20,20)}Eso es\Nlo normal
+Dialogue: 0,0:00:08.00,0:00:08.83,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(800,820,\fs20)\fad(20,20)}Eso es\Nlo normal
+Dialogue: 0,0:00:08.92,0:00:10.41,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1460,1480,\fs20)\fad(20,20)}Preguntó Lina\Nmientras observaba
+Dialogue: 0,0:00:08.92,0:00:10.41,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1460,1480,\fs20)\fad(20,20)}Preguntó Lina\Nmientras observaba
+Dialogue: 0,0:00:10.30,0:00:11.03,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(700,720,\fs20)\fad(20,20)}el panel\Ndel reactor
+Dialogue: 0,0:00:10.30,0:00:11.03,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(700,720,\fs20)\fad(20,20)}el panel\Ndel reactor
+Dialogue: 0,0:00:10.92,0:00:11.63,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(680,700,\fs20)\fad(20,20)}con inquietud
+Dialogue: 0,0:00:10.92,0:00:11.63,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(680,700,\fs20)\fad(20,20)}con inquietud
+Dialogue: 0,0:00:11.62,0:00:12.15,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(500,520,\fs20)\fad(20,20)}Su abuelo
+Dialogue: 0,0:00:11.62,0:00:12.15,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(500,520,\fs20)\fad(20,20)}Su abuelo
+Dialogue: 0,0:00:12.04,0:00:13.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}Mateo ingeniero\Nnuclear desde
+Dialogue: 0,0:00:12.04,0:00:13.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}Mateo ingeniero\Nnuclear desde
+Dialogue: 0,0:00:13.14,0:00:14.35,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}hacía 30\Naños sonrió
+Dialogue: 0,0:00:13.14,0:00:14.35,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}hacía 30\Naños sonrió
+Dialogue: 0,0:00:14.25,0:00:14.73,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(460,480,\fs20)\fad(20,20)}levemente
+Dialogue: 0,0:00:14.25,0:00:14.73,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(460,480,\fs20)\fad(20,20)}levemente
+Dialogue: 0,0:00:14.84,0:00:15.33,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(460,480,\fs20)\fad(20,20)}Muy normal
+Dialogue: 0,0:00:14.84,0:00:15.33,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(460,480,\fs20)\fad(20,20)}Muy normal
+Dialogue: 0,0:00:15.38,0:00:16.69,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1280,1300,\fs20)\fad(20,20)}Mateo señaló\Nla ventana
+Dialogue: 0,0:00:15.38,0:00:16.69,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1280,1300,\fs20)\fad(20,20)}Mateo señaló\Nla ventana
+Dialogue: 0,0:00:16.58,0:00:16.97,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(360,380,\fs20)\fad(20,20)}de seguridad
+Dialogue: 0,0:00:16.58,0:00:16.97,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(360,380,\fs20)\fad(20,20)}de seguridad
+Dialogue: 0,0:00:17.14,0:00:18.42,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1260,1280,\fs20)\fad(20,20)}Debajo una\Npiscina profunda
+Dialogue: 0,0:00:17.14,0:00:18.42,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1260,1280,\fs20)\fad(20,20)}Debajo una\Npiscina profunda
+Dialogue: 0,0:00:18.32,0:00:18.89,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(540,560,\fs20)\fad(20,20)}de\Nagua clara
+Dialogue: 0,0:00:18.32,0:00:18.89,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(540,560,\fs20)\fad(20,20)}de\Nagua clara
+Dialogue: 0,0:00:18.91,0:00:20.01,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1080,1100,\fs20)\fad(20,20)}En el\Nfondo estructuras
+Dialogue: 0,0:00:18.91,0:00:20.01,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1080,1100,\fs20)\fad(20,20)}En el\Nfondo estructuras
+Dialogue: 0,0:00:19.91,0:00:21.12,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}metálicas brillaban\Ncon un
+Dialogue: 0,0:00:19.91,0:00:21.12,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}metálicas brillaban\Ncon un
+Dialogue: 0,0:00:21.02,0:00:21.62,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(580,600,\fs20)\fad(20,20)}resplandor azul
+Dialogue: 0,0:00:21.02,0:00:21.62,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(580,600,\fs20)\fad(20,20)}resplandor azul
+Dialogue: 0,0:00:21.76,0:00:22.55,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}Ese es\Nel reactor
+Dialogue: 0,0:00:21.76,0:00:22.55,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}Ese es\Nel reactor
+Dialogue: 0,0:00:22.68,0:00:23.47,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}Ese es\Nel reactor
+Dialogue: 0,0:00:22.68,0:00:23.47,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}Ese es\Nel reactor
+Dialogue: 0,0:00:23.66,0:00:24.73,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}No\Nparece peligroso
+Dialogue: 0,0:00:23.66,0:00:24.73,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}No\Nparece peligroso
+Dialogue: 0,0:00:24.71,0:00:25.35,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(620,640,\fs20)\fad(20,20)}La mayoría\Nde las
+Dialogue: 0,0:00:24.71,0:00:25.35,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(620,640,\fs20)\fad(20,20)}La mayoría\Nde las
+Dialogue: 0,0:00:25.25,0:00:26.75,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1480,1500,\fs20)\fad(20,20)}cosas realmente\Npeligrosas no
+Dialogue: 0,0:00:25.25,0:00:26.75,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1480,1500,\fs20)\fad(20,20)}cosas realmente\Npeligrosas no
+Dialogue: 0,0:00:26.64,0:00:27.37,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(700,720,\fs20)\fad(20,20)}se\Nven dramáticas
+Dialogue: 0,0:00:26.64,0:00:27.37,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(700,720,\fs20)\fad(20,20)}se\Nven dramáticas
+Dialogue: 0,0:00:27.42,0:00:28.51,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1060,1080,\fs20)\fad(20,20)}Mateo caminó\Nhacia la
+Dialogue: 0,0:00:27.42,0:00:28.51,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1060,1080,\fs20)\fad(20,20)}Mateo caminó\Nhacia la
+Dialogue: 0,0:00:28.41,0:00:29.21,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(780,800,\fs20)\fad(20,20)}ventana que\Ndaba a
+Dialogue: 0,0:00:28.41,0:00:29.21,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(780,800,\fs20)\fad(20,20)}ventana que\Ndaba a
+Dialogue: 0,0:00:29.10,0:00:29.47,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(340,360,\fs20)\fad(20,20)}la ciudad
+Dialogue: 0,0:00:29.10,0:00:29.47,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(340,360,\fs20)\fad(20,20)}la ciudad
+Dialogue: 0,0:00:29.37,0:00:30.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}El sol\Nse estaba
+Dialogue: 0,0:00:29.37,0:00:30.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}El sol\Nse estaba
+Dialogue: 0,0:00:30.14,0:00:31.03,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(860,880,\fs20)\fad(20,20)}poniendo y\Nlas luces
+Dialogue: 0,0:00:30.14,0:00:31.03,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(860,880,\fs20)\fad(20,20)}poniendo y\Nlas luces
+Dialogue: 0,0:00:30.92,0:00:32.07,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1120,1140,\fs20)\fad(20,20)}comenzaban\Na encenderse
+Dialogue: 0,0:00:30.92,0:00:32.07,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1120,1140,\fs20)\fad(20,20)}comenzaban\Na encenderse
+Dialogue: 0,0:00:32.05,0:00:32.89,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Mira\Nesa ciudad
+Dialogue: 0,0:00:32.05,0:00:32.89,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Mira\Nesa ciudad
+Dialogue: 0,0:00:33.19,0:00:34.76,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1559,1579,\fs20)\fad(20,20)}Hospitales\Ntrenes fábricas
+Dialogue: 0,0:00:33.19,0:00:34.76,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1559,1579,\fs20)\fad(20,20)}Hospitales\Ntrenes fábricas
+Dialogue: 0,0:00:34.67,0:00:35.98,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1299,1319,\fs20)\fad(20,20)}servidores que\Nsostienen internet
+Dialogue: 0,0:00:34.67,0:00:35.98,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1299,1319,\fs20)\fad(20,20)}servidores que\Nsostienen internet
+Dialogue: 0,0:00:36.19,0:00:37.07,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Todo\Nnecesita energía
+Dialogue: 0,0:00:36.19,0:00:37.07,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Todo\Nnecesita energía
+Dialogue: 0,0:00:37.41,0:00:37.94,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(519,539,\fs20)\fad(20,20)}Muchísima
+Dialogue: 0,0:00:37.41,0:00:37.94,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(519,539,\fs20)\fad(20,20)}Muchísima
+Dialogue: 0,0:00:37.95,0:00:38.68,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(719,739,\fs20)\fad(20,20)}Durante más\Nde un
+Dialogue: 0,0:00:37.95,0:00:38.68,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(719,739,\fs20)\fad(20,20)}Durante más\Nde un
+Dialogue: 0,0:00:38.59,0:00:39.86,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1259,1279,\fs20)\fad(20,20)}siglo la\Nobtuvimos quemando
+Dialogue: 0,0:00:38.59,0:00:39.86,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1259,1279,\fs20)\fad(20,20)}siglo la\Nobtuvimos quemando
+Dialogue: 0,0:00:39.77,0:00:40.40,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(619,639,\fs20)\fad(20,20)}combustible
+Dialogue: 0,0:00:39.77,0:00:40.40,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(619,639,\fs20)\fad(20,20)}combustible
+Dialogue: 0,0:00:40.39,0:00:41.86,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1459,1479,\fs20)\fad(20,20)}Carbón\Npetróleo gas
+Dialogue: 0,0:00:40.39,0:00:41.86,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1459,1479,\fs20)\fad(20,20)}Carbón\Npetróleo gas
+Dialogue: 0,0:00:41.91,0:00:43.02,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Mateo tomó\Nuna tableta
+Dialogue: 0,0:00:41.91,0:00:43.02,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Mateo tomó\Nuna tableta
+Dialogue: 0,0:00:42.92,0:00:43.76,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}y escribió\Ndos números
+Dialogue: 0,0:00:42.92,0:00:43.76,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}y escribió\Ndos números
+Dialogue: 0,0:00:43.91,0:00:44.78,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Un kilogramo\Nde carbón
+Dialogue: 0,0:00:43.91,0:00:44.78,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Un kilogramo\Nde carbón
+Dialogue: 0,0:00:44.69,0:00:46.00,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1299,1319,\fs20)\fad(20,20)}produce unos\N8 kilovatios
+Dialogue: 0,0:00:44.69,0:00:46.00,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1299,1319,\fs20)\fad(20,20)}produce unos\N8 kilovatios
+Dialogue: 0,0:00:45.91,0:00:46.16,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(239,259,\fs20)\fad(20,20)}hora
+Dialogue: 0,0:00:45.91,0:00:46.16,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(239,259,\fs20)\fad(20,20)}hora
+Dialogue: 0,0:00:46.19,0:00:47.18,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Un kilogramo\Nde uranio
+Dialogue: 0,0:00:46.19,0:00:47.18,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Un kilogramo\Nde uranio
+Dialogue: 0,0:00:47.09,0:00:48.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}produce cerca\Nde 24
+Dialogue: 0,0:00:47.09,0:00:48.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}produce cerca\Nde 24
+Dialogue: 0,0:00:48.15,0:00:48.62,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}millones
+Dialogue: 0,0:00:48.15,0:00:48.62,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}millones
+Dialogue: 0,0:00:48.81,0:00:49.80,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Lina frunció\Nel seño
+Dialogue: 0,0:00:48.81,0:00:49.80,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Lina frunció\Nel seño
+Dialogue: 0,0:00:49.81,0:00:50.68,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Eso no\Npuede ser
+Dialogue: 0,0:00:49.81,0:00:50.68,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}Eso no\Npuede ser
+Dialogue: 0,0:00:50.59,0:00:51.08,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}correcto
+Dialogue: 0,0:00:50.59,0:00:51.08,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}correcto
+Dialogue: 0,0:00:51.07,0:00:51.70,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(619,639,\fs20)\fad(20,20)}Pero\Nlo es
+Dialogue: 0,0:00:51.07,0:00:51.70,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(619,639,\fs20)\fad(20,20)}Pero\Nlo es
+Dialogue: 0,0:00:51.69,0:00:52.75,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}La energía\Nnuclear viene
+Dialogue: 0,0:00:51.69,0:00:52.75,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}La energía\Nnuclear viene
+Dialogue: 0,0:00:52.65,0:00:53.57,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(899,919,\fs20)\fad(20,20)}del núcleo\Ndel átomo
+Dialogue: 0,0:00:52.65,0:00:53.57,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(899,919,\fs20)\fad(20,20)}del núcleo\Ndel átomo
+Dialogue: 0,0:00:53.57,0:00:54.94,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1359,1379,\fs20)\fad(20,20)}Cuando dividimos\Nátomos pesados
+Dialogue: 0,0:00:53.57,0:00:54.94,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1359,1379,\fs20)\fad(20,20)}Cuando dividimos\Nátomos pesados
+Dialogue: 0,0:00:54.85,0:00:55.78,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}como el\Nuranio una
+Dialogue: 0,0:00:54.85,0:00:55.78,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}como el\Nuranio una
+Dialogue: 0,0:00:55.69,0:00:56.70,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}pequeña fracción\Nde masa
+Dialogue: 0,0:00:55.69,0:00:56.70,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}pequeña fracción\Nde masa
+Dialogue: 0,0:00:56.60,0:00:57.68,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}se transforma\Nen energía
+Dialogue: 0,0:00:56.60,0:00:57.68,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}se transforma\Nen energía
+Dialogue: 0,0:00:57.73,0:00:58.80,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Energía igual\Na masa
+Dialogue: 0,0:00:57.73,0:00:58.80,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Energía igual\Na masa
+Dialogue: 0,0:00:58.71,0:00:59.32,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}por\Nla velocidad
+Dialogue: 0,0:00:58.71,0:00:59.32,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}por\Nla velocidad
+Dialogue: 0,0:00:59.37,0:00:59.84,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}De la\Nluz al
+Dialogue: 0,0:00:59.37,0:00:59.84,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}De la\Nluz al
+Dialogue: 0,0:00:59.75,0:01:00.22,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}cuadrado
+Dialogue: 0,0:00:59.75,0:01:00.22,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}cuadrado
+Dialogue: 0,0:01:00.17,0:01:01.16,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Entonces por\Nqué no
+Dialogue: 0,0:01:00.17,0:01:01.16,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Entonces por\Nqué no
+Dialogue: 0,0:01:01.07,0:01:01.96,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(879,899,\fs20)\fad(20,20)}explota como\Nuna bomba
+Dialogue: 0,0:01:01.07,0:01:01.96,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(879,899,\fs20)\fad(20,20)}explota como\Nuna bomba
+Dialogue: 0,0:01:01.95,0:01:02.86,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(899,919,\fs20)\fad(20,20)}Porque un\Nreactor está
+Dialogue: 0,0:01:01.95,0:01:02.86,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(899,919,\fs20)\fad(20,20)}Porque un\Nreactor está
+Dialogue: 0,0:01:02.77,0:01:03.80,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}diseñado\Npara impedirlo
+Dialogue: 0,0:01:02.77,0:01:03.80,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}diseñado\Npara impedirlo
+Dialogue: 0,0:01:03.85,0:01:04.46,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}En una\Nbomba el
+Dialogue: 0,0:01:03.85,0:01:04.46,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}En una\Nbomba el
+Dialogue: 0,0:01:04.37,0:01:05.62,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1239,1259,\fs20)\fad(20,20)}combustible tiene\Ncerca del
+Dialogue: 0,0:01:04.37,0:01:05.62,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1239,1259,\fs20)\fad(20,20)}combustible tiene\Ncerca del
+Dialogue: 0,0:01:05.53,0:01:06.67,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1120,1140,\fs20)\fad(20,20)}90\Nde uranio
+Dialogue: 0,0:01:05.53,0:01:06.67,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1120,1140,\fs20)\fad(20,20)}90\Nde uranio
+Dialogue: 0,0:01:06.57,0:01:07.31,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(719,739,\fs20)\fad(20,20)}235
+Dialogue: 0,0:01:06.57,0:01:07.31,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(719,739,\fs20)\fad(20,20)}235
+Dialogue: 0,0:01:07.65,0:01:08.75,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1079,1099,\fs20)\fad(20,20)}La reacción\Nocurre en
+Dialogue: 0,0:01:07.65,0:01:08.75,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1079,1099,\fs20)\fad(20,20)}La reacción\Nocurre en
+Dialogue: 0,0:01:08.65,0:01:09.26,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}microsegundos
+Dialogue: 0,0:01:08.65,0:01:09.26,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}microsegundos
+Dialogue: 0,0:01:09.23,0:01:10.03,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(779,799,\fs20)\fad(20,20)}En un\Nreactor solo
+Dialogue: 0,0:01:09.23,0:01:10.03,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(779,799,\fs20)\fad(20,20)}En un\Nreactor solo
+Dialogue: 0,0:01:09.93,0:01:10.82,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(879,899,\fs20)\fad(20,20)}hay entre\N3 y
+Dialogue: 0,0:01:09.93,0:01:10.82,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(879,899,\fs20)\fad(20,20)}hay entre\N3 y
+Dialogue: 0,0:01:10.73,0:01:11.32,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}5
+Dialogue: 0,0:01:10.73,0:01:11.32,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}5
+Dialogue: 0,0:01:11.23,0:01:12.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}Y la\Nreacción ocurre
+Dialogue: 0,0:01:11.23,0:01:12.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}Y la\Nreacción ocurre
+Dialogue: 0,0:01:12.35,0:01:12.84,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}lentamente
+Dialogue: 0,0:01:12.35,0:01:12.84,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}lentamente
+Dialogue: 0,0:01:12.93,0:01:14.17,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1219,1239,\fs20)\fad(20,20)}Cada fisión\Nlibera varios
+Dialogue: 0,0:01:12.93,0:01:14.17,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1219,1239,\fs20)\fad(20,20)}Cada fisión\Nlibera varios
+Dialogue: 0,0:01:14.07,0:01:14.54,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}neutrones
+Dialogue: 0,0:01:14.07,0:01:14.54,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(459,479,\fs20)\fad(20,20)}neutrones
+Dialogue: 0,0:01:14.59,0:01:15.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(839,859,\fs20)\fad(20,20)}Pero el\Nreactor está
+Dialogue: 0,0:01:14.59,0:01:15.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(839,859,\fs20)\fad(20,20)}Pero el\Nreactor está
+Dialogue: 0,0:01:15.35,0:01:16.32,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(959,979,\fs20)\fad(20,20)}diseñado para\Nque solo
+Dialogue: 0,0:01:15.35,0:01:16.32,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(959,979,\fs20)\fad(20,20)}diseñado para\Nque solo
+Dialogue: 0,0:01:16.23,0:01:17.26,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}uno continúe\Nla reacción
+Dialogue: 0,0:01:16.23,0:01:17.26,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}uno continúe\Nla reacción
+Dialogue: 0,0:01:17.31,0:01:18.36,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}Así\Npermanece estable
+Dialogue: 0,0:01:17.31,0:01:18.36,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}Así\Npermanece estable
+Dialogue: 0,0:01:18.53,0:01:19.64,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Como mantener\Nel equilibrio
+Dialogue: 0,0:01:18.53,0:01:19.64,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Como mantener\Nel equilibrio
+Dialogue: 0,0:01:19.54,0:01:20.36,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(799,819,\fs20)\fad(20,20)}en\Nuna bicicleta
+Dialogue: 0,0:01:19.54,0:01:20.36,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(799,819,\fs20)\fad(20,20)}en\Nuna bicicleta
+Dialogue: 0,0:01:20.59,0:01:21.09,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(480,500,\fs20)\fad(20,20)}Exactamente
+Dialogue: 0,0:01:20.59,0:01:21.09,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(480,500,\fs20)\fad(20,20)}Exactamente
+Dialogue: 0,0:01:21.13,0:01:22.28,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Caminaron hasta\Nla piscina
+Dialogue: 0,0:01:21.13,0:01:22.28,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Caminaron hasta\Nla piscina
+Dialogue: 0,0:01:22.18,0:01:22.60,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(400,420,\fs20)\fad(20,20)}del reactor
+Dialogue: 0,0:01:22.18,0:01:22.60,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(400,420,\fs20)\fad(20,20)}del reactor
+Dialogue: 0,0:01:22.76,0:01:23.67,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(880,900,\fs20)\fad(20,20)}El agua\Nbrillaba con
+Dialogue: 0,0:01:22.76,0:01:23.67,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(880,900,\fs20)\fad(20,20)}El agua\Nbrillaba con
+Dialogue: 0,0:01:23.57,0:01:24.60,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}una luz\Nazul intensa
+Dialogue: 0,0:01:23.57,0:01:24.60,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}una luz\Nazul intensa
+Dialogue: 0,0:01:24.59,0:01:25.53,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}Qué es\Nese brillo
+Dialogue: 0,0:01:24.59,0:01:25.53,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}Qué es\Nese brillo
+Dialogue: 0,0:01:25.60,0:01:26.23,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(600,620,\fs20)\fad(20,20)}Radiación de
+Dialogue: 0,0:01:25.60,0:01:26.23,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(600,620,\fs20)\fad(20,20)}Radiación de
+Dialogue: 0,0:01:26.13,0:01:26.59,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(439,459,\fs20)\fad(20,20)}Cherenkov
+Dialogue: 0,0:01:26.13,0:01:26.59,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(439,459,\fs20)\fad(20,20)}Cherenkov
+Dialogue: 0,0:01:26.75,0:01:27.90,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Partículas moviéndose\Nen el
+Dialogue: 0,0:01:26.75,0:01:27.90,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Partículas moviéndose\Nen el
+Dialogue: 0,0:01:27.81,0:01:28.75,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}agua más\Nrápido que
+Dialogue: 0,0:01:27.81,0:01:28.75,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(919,939,\fs20)\fad(20,20)}agua más\Nrápido que
+Dialogue: 0,0:01:28.65,0:01:29.26,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}la luz\Nen ese
+Dialogue: 0,0:01:28.65,0:01:29.26,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}la luz\Nen ese
+Dialogue: 0,0:01:29.17,0:01:29.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(260,280,\fs20)\fad(20,20)}medio
+Dialogue: 0,0:01:29.17,0:01:29.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(260,280,\fs20)\fad(20,20)}medio
+Dialogue: 0,0:01:29.37,0:01:30.39,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}No más\Nrápido que
+Dialogue: 0,0:01:29.37,0:01:30.39,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}No más\Nrápido que
+Dialogue: 0,0:01:30.29,0:01:30.84,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(539,559,\fs20)\fad(20,20)}la luz\Nen el
+Dialogue: 0,0:01:30.29,0:01:30.84,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(539,559,\fs20)\fad(20,20)}la luz\Nen el
+Dialogue: 0,0:01:30.75,0:01:31.17,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(400,420,\fs20)\fad(20,20)}vacío
+Dialogue: 0,0:01:30.75,0:01:31.17,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(400,420,\fs20)\fad(20,20)}vacío
+Dialogue: 0,0:01:31.21,0:01:32.04,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Salieron\Nal exterior
+Dialogue: 0,0:01:31.21,0:01:32.04,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Salieron\Nal exterior
+Dialogue: 0,0:01:32.21,0:01:33.36,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}La ciudad\Nestaba completamente
+Dialogue: 0,0:01:32.21,0:01:33.36,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}La ciudad\Nestaba completamente
+Dialogue: 0,0:01:33.26,0:01:34.04,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}iluminada
+Dialogue: 0,0:01:33.26,0:01:34.04,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(760,780,\fs20)\fad(20,20)}iluminada
+Dialogue: 0,0:01:34.09,0:01:35.06,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(959,979,\fs20)\fad(20,20)}La energía\Neólica y
+Dialogue: 0,0:01:34.09,0:01:35.06,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(959,979,\fs20)\fad(20,20)}La energía\Neólica y
+Dialogue: 0,0:01:34.96,0:01:35.68,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(699,719,\fs20)\fad(20,20)}solar\Nson buenas
+Dialogue: 0,0:01:34.96,0:01:35.68,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(699,719,\fs20)\fad(20,20)}solar\Nson buenas
+Dialogue: 0,0:01:35.71,0:01:36.89,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1159,1179,\fs20)\fad(20,20)}Pero dependen\Ndel clima
+Dialogue: 0,0:01:35.71,0:01:36.89,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1159,1179,\fs20)\fad(20,20)}Pero dependen\Ndel clima
+Dialogue: 0,0:01:36.87,0:01:37.92,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}Un reactor\Nproduce energía
+Dialogue: 0,0:01:36.87,0:01:37.92,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}Un reactor\Nproduce energía
+Dialogue: 0,0:01:37.82,0:01:38.59,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(740,760,\fs20)\fad(20,20)}día\Ny noche
+Dialogue: 0,0:01:37.82,0:01:38.59,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(740,760,\fs20)\fad(20,20)}día\Ny noche
+Dialogue: 0,0:01:38.65,0:01:39.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}Sin humo
+Dialogue: 0,0:01:38.65,0:01:39.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}Sin humo
+Dialogue: 0,0:01:39.15,0:01:40.23,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Sin dióxido\Nde carbono
+Dialogue: 0,0:01:39.15,0:01:40.23,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Sin dióxido\Nde carbono
+Dialogue: 0,0:01:40.37,0:01:41.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Mateo sostuvo\Nun pequeño
+Dialogue: 0,0:01:40.37,0:01:41.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1059,1079,\fs20)\fad(20,20)}Mateo sostuvo\Nun pequeño
+Dialogue: 0,0:01:41.35,0:01:42.36,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}cilindro metálico
+Dialogue: 0,0:01:41.35,0:01:42.36,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}cilindro metálico
+Dialogue: 0,0:01:42.35,0:01:43.20,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(839,859,\fs20)\fad(20,20)}Este pellet\Nde uranio
+Dialogue: 0,0:01:42.35,0:01:43.20,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(839,859,\fs20)\fad(20,20)}Este pellet\Nde uranio
+Dialogue: 0,0:01:43.10,0:01:44.17,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}produce la\Nmisma energía
+Dialogue: 0,0:01:43.10,0:01:44.17,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}produce la\Nmisma energía
+Dialogue: 0,0:01:44.07,0:01:44.95,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}que una\Ntonelada de
+Dialogue: 0,0:01:44.07,0:01:44.95,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(859,879,\fs20)\fad(20,20)}que una\Ntonelada de
+Dialogue: 0,0:01:44.85,0:01:45.20,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(339,359,\fs20)\fad(20,20)}carbón
+Dialogue: 0,0:01:44.85,0:01:45.20,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(339,359,\fs20)\fad(20,20)}carbón
+Dialogue: 0,0:01:45.25,0:01:46.31,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}Algo tan\Npequeño puede
+Dialogue: 0,0:01:45.25,0:01:46.31,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1040,1060,\fs20)\fad(20,20)}Algo tan\Npequeño puede
+Dialogue: 0,0:01:46.21,0:01:46.98,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(759,779,\fs20)\fad(20,20)}alimentar\Nuna ciudad
+Dialogue: 0,0:01:46.21,0:01:46.98,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(759,779,\fs20)\fad(20,20)}alimentar\Nuna ciudad
+Dialogue: 0,0:01:47.23,0:01:47.68,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(439,459,\fs20)\fad(20,20)}Varias
+Dialogue: 0,0:01:47.23,0:01:47.68,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(439,459,\fs20)\fad(20,20)}Varias
+Dialogue: 0,0:01:47.67,0:01:48.82,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Entonces la\Nenergía nuclear
+Dialogue: 0,0:01:47.67,0:01:48.82,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Entonces la\Nenergía nuclear
+Dialogue: 0,0:01:48.73,0:01:49.25,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(499,519,\fs20)\fad(20,20)}es segura
+Dialogue: 0,0:01:48.73,0:01:49.25,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(499,519,\fs20)\fad(20,20)}es segura
+Dialogue: 0,0:01:49.26,0:01:50.42,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Todo puede\Nser peligroso
+Dialogue: 0,0:01:49.26,0:01:50.42,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1139,1159,\fs20)\fad(20,20)}Todo puede\Nser peligroso
+Dialogue: 0,0:01:50.32,0:01:50.96,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(620,640,\fs20)\fad(20,20)}si se\Nhace mal
+Dialogue: 0,0:01:50.32,0:01:50.96,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(620,640,\fs20)\fad(20,20)}si se\Nhace mal
+Dialogue: 0,0:01:51.03,0:01:52.06,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}Pero cuando\Nrespetamos la
+Dialogue: 0,0:01:51.03,0:01:52.06,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1019,1039,\fs20)\fad(20,20)}Pero cuando\Nrespetamos la
+Dialogue: 0,0:01:51.96,0:01:53.34,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1359,1379,\fs20)\fad(20,20)}física la\Ntecnología funciona
+Dialogue: 0,0:01:51.96,0:01:53.34,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1359,1379,\fs20)\fad(20,20)}física la\Ntecnología funciona
+Dialogue: 0,0:01:53.25,0:01:53.84,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}como debe
+Dialogue: 0,0:01:53.25,0:01:53.84,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}como debe
+Dialogue: 0,0:01:53.93,0:01:54.95,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}La energía\Nnuclear es
+Dialogue: 0,0:01:53.93,0:01:54.95,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(999,1019,\fs20)\fad(20,20)}La energía\Nnuclear es
+Dialogue: 0,0:01:54.85,0:01:55.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}una de\Nlas fuentes
+Dialogue: 0,0:01:54.85,0:01:55.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(579,599,\fs20)\fad(20,20)}una de\Nlas fuentes
+Dialogue: 0,0:01:55.35,0:01:56.46,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}más densas\Ny limpias
+Dialogue: 0,0:01:55.35,0:01:56.46,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}más densas\Ny limpias
+Dialogue: 0,0:01:56.37,0:01:56.81,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(419,439,\fs20)\fad(20,20)}que tenemos
+Dialogue: 0,0:01:56.37,0:01:56.81,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(419,439,\fs20)\fad(20,20)}que tenemos
+Dialogue: 0,0:01:56.87,0:01:57.98,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Y si\Nqueremos electricidad
+Dialogue: 0,0:01:56.87,0:01:57.98,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1099,1119,\fs20)\fad(20,20)}Y si\Nqueremos electricidad
+Dialogue: 0,0:01:57.99,0:01:59.18,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1179,1199,\fs20)\fad(20,20)}hospitales y\Nagua potable
+Dialogue: 0,0:01:57.99,0:01:59.18,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1179,1199,\fs20)\fad(20,20)}hospitales y\Nagua potable
+Dialogue: 0,0:01:59.10,0:01:59.45,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(320,340,\fs20)\fad(20,20)}para mí
+Dialogue: 0,0:01:59.10,0:01:59.45,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(320,340,\fs20)\fad(20,20)}para mí
+Dialogue: 0,0:01:59.37,0:02:00.42,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}vamos a
+Dialogue: 0,0:01:59.37,0:02:00.42,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1039,1059,\fs20)\fad(20,20)}vamos a
+Dialogue: 0,0:02:00.32,0:02:00.98,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(639,659,\fs20)\fad(20,20)}necesitarla
+Dialogue: 0,0:02:00.32,0:02:00.98,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(639,659,\fs20)\fad(20,20)}necesitarla
+Dialogue: 0,0:02:00.93,0:02:01.92,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Detrás de\Nellos el
+Dialogue: 0,0:02:00.93,0:02:01.92,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(979,999,\fs20)\fad(20,20)}Detrás de\Nellos el
+Dialogue: 0,0:02:01.82,0:02:03.03,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}reactor seguía\Nfuncionando en
+Dialogue: 0,0:02:01.82,0:02:03.03,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1180,1200,\fs20)\fad(20,20)}reactor seguía\Nfuncionando en
+Dialogue: 0,0:02:02.93,0:02:03.42,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}silencio
+Dialogue: 0,0:02:02.93,0:02:03.42,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(479,499,\fs20)\fad(20,20)}silencio
+Dialogue: 0,0:02:03.35,0:02:04.10,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(739,759,\fs20)\fad(20,20)}Sin sirenas
+Dialogue: 0,0:02:03.35,0:02:04.10,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(739,759,\fs20)\fad(20,20)}Sin sirenas
+Dialogue: 0,0:02:04.01,0:02:04.84,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Sin explosiones
+Dialogue: 0,0:02:04.01,0:02:04.84,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(819,839,\fs20)\fad(20,20)}Sin explosiones
+Dialogue: 0,0:02:04.82,0:02:06.04,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}Solo\Nátomos dividiéndose
+Dialogue: 0,0:02:04.82,0:02:06.04,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(1199,1219,\fs20)\fad(20,20)}Solo\Nátomos dividiéndose
+Dialogue: 0,0:02:05.95,0:02:06.56,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}lentamente
+Dialogue: 0,0:02:05.95,0:02:06.56,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(599,619,\fs20)\fad(20,20)}lentamente
+Dialogue: 0,0:02:06.54,0:02:07.53,Default,,0,0,40,,{\fs20\t(0,20,\fs48)\t(960,980,\fs20)\fad(20,20)}Y alimentando\Nel mundo
+Dialogue: 0,0:02:06.54,0:02:07.53,Outline,,0,0,40,,{\fs20\t(0,20,\fs48)\t(960,980,\fs20)\fad(20,20)}Y alimentando\Nel mundo

@@ -2,11 +2,9 @@ import os
 import subprocess
 from datetime import timedelta
 
-name_first_split = "original_video_part1.mp4"
-
 def run_ffmpeg(cmd):
     """Run ffmpeg command and raise error if fails."""
-    result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    result = subprocess.run(cmd, check=True)
     if result.returncode != 0:
         print(result.stderr.decode())
         raise RuntimeError("ffmpeg command failed.")
@@ -89,7 +87,10 @@ def main():
         split_time = str(timedelta(seconds=int(split_time)))
 
     split_video(file_path, split_time)
-    crop_and_scale_to_9_16(name_first_split)
+    base_name, ext = os.path.splitext(file_path)
+    first_part = f"{base_name}_part1{ext}"
+    #crop_and_scale_to_9_16(first_part)
+    crop_to_9_16(first_part)
 
 if __name__ == "__main__":
     main()

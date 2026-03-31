@@ -3,7 +3,7 @@ import os
 
 # ==== CONFIG ====
 video_path = "video.mp4"
-audio_path = "audio.wav"
+audio_path = "output.wav"
 temp_video = "temp_synced.mp4"
 output_path = "final_with_subs.mp4"
 # =================
@@ -26,7 +26,7 @@ subprocess.run([
     "-i", audio_path,       # input 1 (new audio)
     "-t", duration,
     "-filter_complex",
-    "[0:a]volume=0.3[a0];[1:a]volume=1.5[a1];[a0][a1]amix=inputs=2:duration=first:dropout_transition=0[mix]",
+    "[0:a]volume=0.3[a0];[1:a]volume=1.7[a1];[a0][a1]amix=inputs=2:duration=first:dropout_transition=0[mix]",
     "-map", "0:v",          # keep original video
     "-map", "[mix]",        # mixed audio
     "-c:v", "copy",

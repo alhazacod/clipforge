@@ -1,13 +1,12 @@
 import subprocess
 import whisper
 import json
-import os
 import re
 
-# ── Config ────────────────────────────────────────────────────────────────────
+# -- Config --------------------------------------------------------------------
 VIDEO_INPUT      = "temp_synced.mp4"
 AUDIO_INPUT      = "output.wav"
-TRANSCRIPT_CACHE = "transcript.json"
+TRANSCRIPT_OUTPUT= "transcript.json"
 ASS_OUTPUT       = "subs.ass"
 VIDEO_OUTPUT     = "final_with_subs.mp4"
 
@@ -17,8 +16,11 @@ CHUNK_MAX_DURATION = 1.5   # seconds
 # ASS coordinate space is always 1920x1080 regardless of actual video resolution.
 # Adjust SUB_Y to move subtitles vertically: 540 = center, 960 = near bottom.
 SUB_X = 960
-SUB_Y = 600
-# ─────────────────────────────────────────────────────────────────────────────
+SUB_Y = 540
+
+RED   = r"\1c&H0000FF&"   # BGR
+WHITE = r"\1c&HFFFFFF&"
+# ------------------------------------------------------------------------------
 
 ASS_HEADER = """\
 [Script Info]
@@ -28,12 +30,11 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Black,90,&H000000FF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
+Style: Default,Arial Black,90,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
-# PrimaryColour = white, SecondaryColour = red (BGR) — \k highlights in red
 
 
 def ass_time(sec):
@@ -71,19 +72,32 @@ def build_chunks(words):
     return chunks
 
 
-def chunk_to_ass_line(chunk, next_start=None):
+def chunk_to_ass_lines(chunk, next_chunk_start=None):
     """
-    One ASS dialogue line for the full chunk using \\k karaoke tags.
-    \\an2\\pos() absolutely pins the bottom-center anchor so the baseline
-    never moves regardless of chunk length or line wrapping.
-    next_start clamps the end so adjacent chunks never overlap.
+    One dialogue line per word in the chunk, all sharing the same \pos()
+    so the block never moves. The active word is red, all others white.
     """
-    end_s = chunk[-1]["end"] + 0.05
-    if next_start is not None:
-        end_s = min(end_s, next_start - 0.05)
-    parts = [f"{{\\k{int((w['end'] - w['start']) * 100)}}}{w['word']}" for w in chunk]
-    text  = "{" + f"\\an2\\pos({SUB_X},{SUB_Y})" + "}" + " ".join(parts)
-    return f"Dialogue: 0,{ass_time(chunk[0]['start'] - 0.05)},{ass_time(end_s)},Default,,0,0,0,,{text}\n"
+    lines = []
+    pos   = f"\\an5\\pos({SUB_X},{SUB_Y})"
+
+    for i, active in enumerate(chunk):
+        words_str = " ".join(
+            f"{{{RED}}}{w['word']}{{{WHITE}}}" if j == i else w["word"]
+            for j, w in enumerate(chunk)
+        )
+        text  = "{" + pos + "}" + words_str
+        start = ass_time(active["start"] - 0.05)
+
+        if i + 1 < len(chunk):
+            end = ass_time(chunk[i + 1]["start"] - 0.05)
+        elif next_chunk_start is not None:
+            end = ass_time(next_chunk_start - 0.05)
+        else:
+            end = ass_time(active["end"] + 0.05)
+
+        lines.append(f"Dialogue: 0,{start},{end},Default,,0,0,0,,{text}\n")
+
+    return lines
 
 
 def write_ass(result, path):
@@ -95,23 +109,33 @@ def write_ass(result, path):
             chunks = build_chunks(seg["words"])
             for i, chunk in enumerate(chunks):
                 next_start = chunks[i + 1][0]["start"] if i + 1 < len(chunks) else None
-                f.write(chunk_to_ass_line(chunk, next_start))
+                f.writelines(chunk_to_ass_lines(chunk, next_start))
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-if os.path.exists(TRANSCRIPT_CACHE):
-    print(f"Loading transcript from {TRANSCRIPT_CACHE}...")
-    with open(TRANSCRIPT_CACHE, "r", encoding="utf-8") as f:
-        result = json.load(f)
-else:
-    print("Transcribing...")
+def transcribe(audio_input, transcript_path):
     model  = whisper.load_model("large-v3", device="cpu")
-    result = model.transcribe(AUDIO_INPUT, fp16=False, word_timestamps=True)
-    with open(TRANSCRIPT_CACHE, "w", encoding="utf-8") as f:
+    result = model.transcribe(audio_input, fp16=False, word_timestamps=True)
+    with open(transcript_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"Transcript saved to {TRANSCRIPT_CACHE}")
+    print(f"Transcript saved to {transcript_path}")
 
-write_ass(result, ASS_OUTPUT)
+
+def add_stylized_subtitles(transcript, ass_output):
+    with open(transcript, "r", encoding="utf-8") as f:
+        result = json.load(f)
+    write_ass(result, ass_output)
+    print(f"Transcript saved to {ass_output}")
+
+
+# -- Main ----------------------------------------------------------------------
+
+# you can skip the transcribe step if you already have the transcript and just want to change style values. Comment this for faster style testing
+print(f"Transcribing from {AUDIO_INPUT}...")
+transcribe(AUDIO_INPUT, TRANSCRIPT_OUTPUT)
+
+print(f"Loading transcript from {TRANSCRIPT_OUTPUT}...")
+add_stylized_subtitles(TRANSCRIPT_OUTPUT, ASS_OUTPUT)
+
 
 print("Burning subtitles...")
 subprocess.run([

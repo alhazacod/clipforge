@@ -5,153 +5,500 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Black,90,&H000000FF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
+Style: Default,Arial Black,90,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.56,Default,,0,0,0,,{\an2\pos(960,600)}{\k4}Si {\k6}un {\k16}reactor {\k36}nuclear
-Dialogue: 0,0:00:00.56,0:00:01.62,Default,,0,0,0,,{\an2\pos(960,600)}{\k36}realmente {\k38}fuera {\k19}como {\k11}en
-Dialogue: 0,0:00:01.62,0:00:02.63,Default,,0,0,0,,{\an2\pos(960,600)}{\k6}las {\k46}películas {\k20}la {\k22}ciudad
-Dialogue: 0,0:00:02.63,0:00:03.79,Default,,0,0,0,,{\an2\pos(960,600)}{\k33}entera {\k31}estaría {\k30}evacuando {\k19}ahora
-Dialogue: 0,0:00:03.79,0:00:04.12,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}mismo
-Dialogue: 0,0:00:04.16,0:00:05.15,Default,,0,0,0,,{\an2\pos(960,600)}{\k18}Pero {\k17}no {\k17}había {\k44}sirenas
-Dialogue: 0,0:00:05.15,0:00:06.29,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}No {\k15}había {\k38}luces {\k31}rojas
-Dialogue: 0,0:00:06.29,0:00:06.95,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}La {\k14}sala {\k12}de {\k21}control
-Dialogue: 0,0:00:06.95,0:00:08.00,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}estaba {\k17}en {\k40}silencio
-Dialogue: 0,0:00:08.00,0:00:08.83,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Eso {\k16}es {\k12}lo {\k21}normal
-Dialogue: 0,0:00:08.92,0:00:10.30,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}Preguntó {\k17}Lina {\k30}mientras {\k51}observaba
-Dialogue: 0,0:00:10.30,0:00:10.92,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}el {\k9}panel {\k19}del {\k22}reactor
-Dialogue: 0,0:00:10.92,0:00:11.63,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}con {\k35}inquietud
-Dialogue: 0,0:00:11.62,0:00:12.04,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Su {\k21}abuelo
-Dialogue: 0,0:00:12.04,0:00:13.14,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Mateo {\k35}ingeniero {\k17}nuclear {\k25}desde
-Dialogue: 0,0:00:13.14,0:00:14.25,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}hacía {\k16}30 {\k30}años {\k30}sonrió
-Dialogue: 0,0:00:14.25,0:00:14.73,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}levemente
-Dialogue: 0,0:00:14.84,0:00:15.33,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}Muy {\k19}normal
-Dialogue: 0,0:00:15.38,0:00:16.58,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Mateo {\k35}señaló {\k12}la {\k32}ventana
-Dialogue: 0,0:00:16.58,0:00:16.97,Default,,0,0,0,,{\an2\pos(960,600)}{\k7}de {\k20}seguridad
-Dialogue: 0,0:00:17.14,0:00:18.32,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Debajo {\k9}una {\k35}piscina {\k32}profunda
-Dialogue: 0,0:00:18.32,0:00:18.89,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}de {\k9}agua {\k26}clara
-Dialogue: 0,0:00:18.91,0:00:19.91,Default,,0,0,0,,{\an2\pos(960,600)}{\k16}En {\k7}el {\k28}fondo {\k40}estructuras
-Dialogue: 0,0:00:19.91,0:00:21.02,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}metálicas {\k44}brillaban {\k16}con {\k11}un
-Dialogue: 0,0:00:21.02,0:00:21.62,Default,,0,0,0,,{\an2\pos(960,600)}{\k34}resplandor {\k15}azul
-Dialogue: 0,0:00:21.76,0:00:22.55,Default,,0,0,0,,{\an2\pos(960,600)}{\k23}Ese {\k12}es {\k12}el {\k19}reactor
-Dialogue: 0,0:00:22.68,0:00:23.47,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}Ese {\k12}es {\k13}el {\k18}reactor
-Dialogue: 0,0:00:23.66,0:00:24.73,Default,,0,0,0,,{\an2\pos(960,600)}{\k16}No {\k19}parece {\k60}peligroso
-Dialogue: 0,0:00:24.71,0:00:25.25,Default,,0,0,0,,{\an2\pos(960,600)}{\k13}La {\k14}mayoría {\k19}de {\k6}las
-Dialogue: 0,0:00:25.25,0:00:26.64,Default,,0,0,0,,{\an2\pos(960,600)}{\k25}cosas {\k33}realmente {\k66}peligrosas {\k14}no
-Dialogue: 0,0:00:26.64,0:00:27.37,Default,,0,0,0,,{\an2\pos(960,600)}{\k12}se {\k12}ven {\k37}dramáticas
-Dialogue: 0,0:00:27.42,0:00:28.41,Default,,0,0,0,,{\an2\pos(960,600)}{\k32}Mateo {\k30}caminó {\k19}hacia {\k16}la
-Dialogue: 0,0:00:28.41,0:00:29.10,Default,,0,0,0,,{\an2\pos(960,600)}{\k30}ventana {\k11}que {\k24}daba {\k3}a
-Dialogue: 0,0:00:29.10,0:00:29.47,Default,,0,0,0,,{\an2\pos(960,600)}{\k1}la {\k24}ciudad
-Dialogue: 0,0:00:29.37,0:00:30.14,Default,,0,0,0,,{\an2\pos(960,600)}{\k27}El {\k17}sol {\k14}se {\k17}estaba
-Dialogue: 0,0:00:30.14,0:00:30.92,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}poniendo {\k12}y {\k3}las {\k26}luces
-Dialogue: 0,0:00:30.92,0:00:32.07,Default,,0,0,0,,{\an2\pos(960,600)}{\k48}comenzaban {\k14}a {\k42}encenderse
-Dialogue: 0,0:00:32.05,0:00:32.89,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}Mira {\k19}esa {\k30}ciudad
-Dialogue: 0,0:00:33.19,0:00:35.10,Default,,0,0,0,,{\an2\pos(960,600)}{\k43}Hospitales {\k43}trenes {\k57}fábricas {\k43}servidores
-Dialogue: 0,0:00:35.10,0:00:35.98,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}que {\k38}sostienen {\k19}internet
-Dialogue: 0,0:00:36.19,0:00:37.07,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}Todo {\k28}necesita {\k32}energía
-Dialogue: 0,0:00:37.41,0:00:37.94,Default,,0,0,0,,{\an2\pos(960,600)}{\k43}Muchísima
-Dialogue: 0,0:00:37.95,0:00:38.59,Default,,0,0,0,,{\an2\pos(960,600)}{\k34}Durante {\k9}más {\k12}de {\k7}un
-Dialogue: 0,0:00:38.59,0:00:39.77,Default,,0,0,0,,{\an2\pos(960,600)}{\k28}siglo {\k15}la {\k36}obtuvimos {\k29}quemando
-Dialogue: 0,0:00:39.77,0:00:40.40,Default,,0,0,0,,{\an2\pos(960,600)}{\k53}combustible
-Dialogue: 0,0:00:40.39,0:00:41.86,Default,,0,0,0,,{\an2\pos(960,600)}{\k44}Carbón {\k50}petróleo {\k29}gas
-Dialogue: 0,0:00:41.91,0:00:42.92,Default,,0,0,0,,{\an2\pos(960,600)}{\k28}Mateo {\k21}tomó {\k10}una {\k41}tableta
-Dialogue: 0,0:00:42.92,0:00:43.76,Default,,0,0,0,,{\an2\pos(960,600)}{\k6}y {\k30}escribió {\k13}dos {\k24}números
-Dialogue: 0,0:00:43.91,0:00:44.69,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}Un {\k33}kilogramo {\k3}de {\k30}carbón
-Dialogue: 0,0:00:44.69,0:00:45.91,Default,,0,0,0,,{\an2\pos(960,600)}{\k23}produce {\k32}unos {\k24}8 {\k42}kilovatios
-Dialogue: 0,0:00:45.91,0:00:46.16,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}hora
-Dialogue: 0,0:00:46.19,0:00:47.09,Default,,0,0,0,,{\an2\pos(960,600)}{\k19}Un {\k40}kilogramo {\k0}de {\k29}uranio
-Dialogue: 0,0:00:47.09,0:00:48.15,Default,,0,0,0,,{\an2\pos(960,600)}{\k29}produce {\k34}cerca {\k17}de {\k24}24
-Dialogue: 0,0:00:48.15,0:00:48.62,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}millones
-Dialogue: 0,0:00:48.81,0:00:49.80,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Lina {\k37}frunció {\k10}el {\k21}seño
-Dialogue: 0,0:00:49.81,0:00:50.59,Default,,0,0,0,,{\an2\pos(960,600)}{\k28}Eso {\k14}no {\k15}puede {\k20}ser
-Dialogue: 0,0:00:50.59,0:00:51.08,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}correcto
-Dialogue: 0,0:00:51.07,0:00:51.70,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}Pero {\k12}lo {\k23}es
-Dialogue: 0,0:00:51.69,0:00:52.65,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}La {\k17}energía {\k29}nuclear {\k38}viene
-Dialogue: 0,0:00:52.65,0:00:53.57,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}del {\k29}núcleo {\k7}del {\k22}átomo
-Dialogue: 0,0:00:53.57,0:00:54.85,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}Cuando {\k38}dividimos {\k25}átomos {\k39}pesados
-Dialogue: 0,0:00:54.85,0:00:55.69,Default,,0,0,0,,{\an2\pos(960,600)}{\k14}como {\k11}el {\k30}uranio {\k24}una
-Dialogue: 0,0:00:55.69,0:00:56.60,Default,,0,0,0,,{\an2\pos(960,600)}{\k23}pequeña {\k38}fracción {\k14}de {\k15}masa
-Dialogue: 0,0:00:56.60,0:00:57.68,Default,,0,0,0,,{\an2\pos(960,600)}{\k26}se {\k47}transforma {\k2}en {\k21}energía
-Dialogue: 0,0:00:57.73,0:00:58.71,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}Energía {\k20}igual {\k19}a {\k17}masa
-Dialogue: 0,0:00:58.71,0:00:59.32,Default,,0,0,0,,{\an2\pos(960,600)}{\k16}por {\k10}la {\k25}velocidad
-Dialogue: 0,0:00:59.37,0:00:59.75,Default,,0,0,0,,{\an2\pos(960,600)}{\k7}De {\k0}la {\k15}luz {\k14}al
-Dialogue: 0,0:00:59.75,0:01:00.22,Default,,0,0,0,,{\an2\pos(960,600)}{\k38}cuadrado
-Dialogue: 0,0:01:00.17,0:01:01.07,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}Entonces {\k19}por {\k7}qué {\k14}no
-Dialogue: 0,0:01:01.07,0:01:01.96,Default,,0,0,0,,{\an2\pos(960,600)}{\k30}explota {\k11}como {\k11}una {\k26}bomba
-Dialogue: 0,0:01:01.95,0:01:02.77,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Porque {\k12}un {\k17}reactor {\k29}está
-Dialogue: 0,0:01:02.77,0:01:03.80,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}diseñado {\k14}para {\k39}impedirlo
-Dialogue: 0,0:01:03.85,0:01:04.37,Default,,0,0,0,,{\an2\pos(960,600)}{\k11}En {\k10}una {\k23}bomba {\k6}el
-Dialogue: 0,0:01:04.37,0:01:05.53,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}combustible {\k32}tiene {\k26}cerca {\k17}del
-Dialogue: 0,0:01:05.53,0:01:07.31,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}90 {\k30}de {\k21}uranio {\k64}235
-Dialogue: 0,0:01:07.65,0:01:08.65,Default,,0,0,0,,{\an2\pos(960,600)}{\k23}La {\k28}reacción {\k46}ocurre {\k1}en
-Dialogue: 0,0:01:08.65,0:01:09.26,Default,,0,0,0,,{\an2\pos(960,600)}{\k51}microsegundos
-Dialogue: 0,0:01:09.23,0:01:09.93,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}En {\k6}un {\k19}reactor {\k24}solo
-Dialogue: 0,0:01:09.93,0:01:10.73,Default,,0,0,0,,{\an2\pos(960,600)}{\k29}hay {\k15}entre {\k21}3 {\k12}y
-Dialogue: 0,0:01:10.73,0:01:11.32,Default,,0,0,0,,{\an2\pos(960,600)}{\k50}5
-Dialogue: 0,0:01:11.23,0:01:12.35,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Y {\k5}la {\k30}reacción {\k35}ocurre
-Dialogue: 0,0:01:12.35,0:01:12.84,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}lentamente
-Dialogue: 0,0:01:12.93,0:01:14.07,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Cada {\k27}fisión {\k48}libera {\k18}varios
-Dialogue: 0,0:01:14.07,0:01:14.54,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}neutrones
-Dialogue: 0,0:01:14.59,0:01:15.35,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}Pero {\k12}el {\k20}reactor {\k26}está
-Dialogue: 0,0:01:15.35,0:01:16.23,Default,,0,0,0,,{\an2\pos(960,600)}{\k41}diseñado {\k16}para {\k14}que {\k15}solo
-Dialogue: 0,0:01:16.23,0:01:17.26,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}uno {\k37}continúe {\k9}la {\k26}reacción
-Dialogue: 0,0:01:17.31,0:01:18.36,Default,,0,0,0,,{\an2\pos(960,600)}{\k26}Así {\k45}permanece {\k23}estable
-Dialogue: 0,0:01:18.53,0:01:19.54,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}Como {\k28}mantener {\k24}el {\k33}equilibrio
-Dialogue: 0,0:01:19.54,0:01:20.36,Default,,0,0,0,,{\an2\pos(960,600)}{\k18}en {\k9}una {\k43}bicicleta
-Dialogue: 0,0:01:20.59,0:01:21.09,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Exactamente
-Dialogue: 0,0:01:21.13,0:01:22.18,Default,,0,0,0,,{\an2\pos(960,600)}{\k33}Caminaron {\k26}hasta {\k12}la {\k33}piscina
-Dialogue: 0,0:01:22.18,0:01:22.60,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}del {\k21}reactor
-Dialogue: 0,0:01:22.76,0:01:23.57,Default,,0,0,0,,{\an2\pos(960,600)}{\k12}El {\k14}agua {\k32}brillaba {\k21}con
-Dialogue: 0,0:01:23.57,0:01:24.60,Default,,0,0,0,,{\an2\pos(960,600)}{\k11}una {\k16}luz {\k21}azul {\k43}intensa
-Dialogue: 0,0:01:24.59,0:01:25.53,Default,,0,0,0,,{\an2\pos(960,600)}{\k17}Qué {\k6}es {\k21}ese {\k38}brillo
-Dialogue: 0,0:01:25.60,0:01:26.13,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Radiación {\k12}de
-Dialogue: 0,0:01:26.13,0:01:26.59,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}Cherenkov
-Dialogue: 0,0:01:26.75,0:01:27.81,Default,,0,0,0,,{\an2\pos(960,600)}{\k40}Partículas {\k39}moviéndose {\k18}en {\k7}el
-Dialogue: 0,0:01:27.81,0:01:28.65,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}agua {\k20}más {\k32}rápido {\k15}que
-Dialogue: 0,0:01:28.65,0:01:29.17,Default,,0,0,0,,{\an2\pos(960,600)}{\k6}la {\k19}luz {\k12}en {\k14}ese
-Dialogue: 0,0:01:29.17,0:01:29.45,Default,,0,0,0,,{\an2\pos(960,600)}{\k18}medio
-Dialogue: 0,0:01:29.37,0:01:30.29,Default,,0,0,0,,{\an2\pos(960,600)}{\k26}No {\k15}más {\k34}rápido {\k15}que
-Dialogue: 0,0:01:30.29,0:01:30.75,Default,,0,0,0,,{\an2\pos(960,600)}{\k6}la {\k17}luz {\k14}en {\k7}el
-Dialogue: 0,0:01:30.75,0:01:31.17,Default,,0,0,0,,{\an2\pos(960,600)}{\k32}vacío
-Dialogue: 0,0:01:31.21,0:01:32.04,Default,,0,0,0,,{\an2\pos(960,600)}{\k29}Salieron {\k17}al {\k26}exterior
-Dialogue: 0,0:01:32.21,0:01:33.26,Default,,0,0,0,,{\an2\pos(960,600)}{\k11}La {\k21}ciudad {\k32}estaba {\k39}completamente
-Dialogue: 0,0:01:33.26,0:01:34.04,Default,,0,0,0,,{\an2\pos(960,600)}{\k68}iluminada
-Dialogue: 0,0:01:34.09,0:01:34.96,Default,,0,0,0,,{\an2\pos(960,600)}{\k12}La {\k15}energía {\k43}eólica {\k15}y
-Dialogue: 0,0:01:34.96,0:01:35.68,Default,,0,0,0,,{\an2\pos(960,600)}{\k18}solar {\k20}son {\k23}buenas
-Dialogue: 0,0:01:35.71,0:01:36.89,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Pero {\k45}dependen {\k12}del {\k28}clima
-Dialogue: 0,0:01:36.87,0:01:37.82,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Un {\k15}reactor {\k34}produce {\k25}energía
-Dialogue: 0,0:01:37.82,0:01:38.59,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}día {\k12}y {\k18}noche
-Dialogue: 0,0:01:38.65,0:01:39.25,Default,,0,0,0,,{\an2\pos(960,600)}{\k23}Sin {\k26}humo
-Dialogue: 0,0:01:39.15,0:01:40.23,Default,,0,0,0,,{\an2\pos(960,600)}{\k25}Sin {\k38}dióxido {\k14}de {\k20}carbono
-Dialogue: 0,0:01:40.37,0:01:41.35,Default,,0,0,0,,{\an2\pos(960,600)}{\k26}Mateo {\k33}sostuvo {\k18}un {\k20}pequeño
-Dialogue: 0,0:01:41.35,0:01:42.36,Default,,0,0,0,,{\an2\pos(960,600)}{\k47}cilindro {\k43}metálico
-Dialogue: 0,0:01:42.35,0:01:43.10,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}Este {\k23}pellet {\k7}de {\k28}uranio
-Dialogue: 0,0:01:43.10,0:01:44.07,Default,,0,0,0,,{\an2\pos(960,600)}{\k28}produce {\k20}la {\k15}misma {\k32}energía
-Dialogue: 0,0:01:44.07,0:01:44.85,Default,,0,0,0,,{\an2\pos(960,600)}{\k25}que {\k10}una {\k33}tonelada {\k8}de
-Dialogue: 0,0:01:44.85,0:01:45.20,Default,,0,0,0,,{\an2\pos(960,600)}{\k25}carbón
-Dialogue: 0,0:01:45.25,0:01:46.21,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Algo {\k12}tan {\k35}pequeño {\k26}puede
-Dialogue: 0,0:01:46.21,0:01:46.98,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}alimentar {\k7}una {\k20}ciudad
-Dialogue: 0,0:01:47.23,0:01:47.68,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}Varias
-Dialogue: 0,0:01:47.67,0:01:48.73,Default,,0,0,0,,{\an2\pos(960,600)}{\k35}Entonces {\k17}la {\k15}energía {\k32}nuclear
-Dialogue: 0,0:01:48.73,0:01:49.25,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}es {\k26}segura
-Dialogue: 0,0:01:49.26,0:01:50.32,Default,,0,0,0,,{\an2\pos(960,600)}{\k16}Todo {\k17}puede {\k20}ser {\k51}peligroso
-Dialogue: 0,0:01:50.32,0:01:50.96,Default,,0,0,0,,{\an2\pos(960,600)}{\k12}si {\k9}se {\k14}hace {\k18}mal
-Dialogue: 0,0:01:51.03,0:01:51.96,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}Pero {\k18}cuando {\k45}respetamos {\k14}la
-Dialogue: 0,0:01:51.96,0:01:53.25,Default,,0,0,0,,{\an2\pos(960,600)}{\k24}física {\k15}la {\k24}tecnología {\k45}funciona
-Dialogue: 0,0:01:53.25,0:01:53.84,Default,,0,0,0,,{\an2\pos(960,600)}{\k32}como {\k17}debe
-Dialogue: 0,0:01:53.93,0:01:54.85,Default,,0,0,0,,{\an2\pos(960,600)}{\k14}La {\k15}energía {\k34}nuclear {\k28}es
-Dialogue: 0,0:01:54.85,0:01:55.35,Default,,0,0,0,,{\an2\pos(960,600)}{\k14}una {\k9}de {\k7}las {\k18}fuentes
-Dialogue: 0,0:01:55.35,0:01:56.37,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}más {\k39}densas {\k12}y {\k28}limpias
-Dialogue: 0,0:01:56.37,0:01:56.81,Default,,0,0,0,,{\an2\pos(960,600)}{\k14}que {\k20}tenemos
-Dialogue: 0,0:01:56.87,0:01:57.98,Default,,0,0,0,,{\an2\pos(960,600)}{\k15}Y {\k7}si {\k18}queremos {\k59}electricidad
-Dialogue: 0,0:01:57.99,0:01:59.18,Default,,0,0,0,,{\an2\pos(960,600)}{\k53}hospitales {\k6}y {\k12}agua {\k37}potable
-Dialogue: 0,0:01:59.10,0:01:59.45,Default,,0,0,0,,{\an2\pos(960,600)}{\k10}para {\k14}mí
-Dialogue: 0,0:01:59.37,0:02:00.98,Default,,0,0,0,,{\an2\pos(960,600)}{\k51}vamos {\k43}a {\k56}necesitarla
-Dialogue: 0,0:02:00.93,0:02:01.82,Default,,0,0,0,,{\an2\pos(960,600)}{\k37}Detrás {\k7}de {\k15}ellos {\k17}el
-Dialogue: 0,0:02:01.82,0:02:02.93,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}reactor {\k35}seguía {\k43}funcionando {\k10}en
-Dialogue: 0,0:02:02.93,0:02:03.42,Default,,0,0,0,,{\an2\pos(960,600)}{\k39}silencio
-Dialogue: 0,0:02:03.35,0:02:04.10,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Sin {\k43}sirenas
-Dialogue: 0,0:02:04.01,0:02:04.84,Default,,0,0,0,,{\an2\pos(960,600)}{\k20}Sin {\k53}explosiones
-Dialogue: 0,0:02:04.82,0:02:06.56,Default,,0,0,0,,{\an2\pos(960,600)}{\k21}Solo {\k38}átomos {\k51}dividiéndose {\k51}lentamente
-Dialogue: 0,0:02:06.54,0:02:07.53,Default,,0,0,0,,{\an2\pos(960,600)}{\k14}Y {\k48}alimentando {\k9}el {\k16}mundo
+Dialogue: 0,0:00:00.00,0:00:00.06,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Si{\1c&HFFFFFF&} un reactor nuclear
+Dialogue: 0,0:00:00.06,0:00:00.23,Default,,0,0,0,,{\an5\pos(960,540)}Si {\1c&H0000FF&}un{\1c&HFFFFFF&} reactor nuclear
+Dialogue: 0,0:00:00.23,0:00:00.45,Default,,0,0,0,,{\an5\pos(960,540)}Si un {\1c&H0000FF&}reactor{\1c&HFFFFFF&} nuclear
+Dialogue: 0,0:00:00.45,0:00:00.83,Default,,0,0,0,,{\an5\pos(960,540)}Si un reactor {\1c&H0000FF&}nuclear{\1c&HFFFFFF&}
+Dialogue: 0,0:00:00.83,0:00:01.42,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}lealmente{\1c&HFFFFFF&} fuera como en
+Dialogue: 0,0:00:01.42,0:00:01.67,Default,,0,0,0,,{\an5\pos(960,540)}lealmente {\1c&H0000FF&}fuera{\1c&HFFFFFF&} como en
+Dialogue: 0,0:00:01.67,0:00:01.86,Default,,0,0,0,,{\an5\pos(960,540)}lealmente fuera {\1c&H0000FF&}como{\1c&HFFFFFF&} en
+Dialogue: 0,0:00:01.86,0:00:02.01,Default,,0,0,0,,{\an5\pos(960,540)}lealmente fuera como {\1c&H0000FF&}en{\1c&HFFFFFF&}
+Dialogue: 0,0:00:02.01,0:00:02.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}las{\1c&HFFFFFF&} películas la ciudad
+Dialogue: 0,0:00:02.09,0:00:02.75,Default,,0,0,0,,{\an5\pos(960,540)}las {\1c&H0000FF&}películas{\1c&HFFFFFF&} la ciudad
+Dialogue: 0,0:00:02.75,0:00:03.05,Default,,0,0,0,,{\an5\pos(960,540)}las películas {\1c&H0000FF&}la{\1c&HFFFFFF&} ciudad
+Dialogue: 0,0:00:03.05,0:00:03.35,Default,,0,0,0,,{\an5\pos(960,540)}las películas la {\1c&H0000FF&}ciudad{\1c&HFFFFFF&}
+Dialogue: 0,0:00:03.35,0:00:03.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}entera{\1c&HFFFFFF&} estaría evacuando
+Dialogue: 0,0:00:03.89,0:00:04.45,Default,,0,0,0,,{\an5\pos(960,540)}entera {\1c&H0000FF&}estaría{\1c&HFFFFFF&} evacuando
+Dialogue: 0,0:00:04.45,0:00:04.89,Default,,0,0,0,,{\an5\pos(960,540)}entera estaría {\1c&H0000FF&}evacuando{\1c&HFFFFFF&}
+Dialogue: 0,0:00:04.89,0:00:05.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}ahora{\1c&HFFFFFF&} mismo
+Dialogue: 0,0:00:05.20,0:00:05.60,Default,,0,0,0,,{\an5\pos(960,540)}ahora {\1c&H0000FF&}mismo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:05.73,0:00:05.99,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Pero{\1c&HFFFFFF&} no había sirenas
+Dialogue: 0,0:00:05.99,0:00:06.16,Default,,0,0,0,,{\an5\pos(960,540)}Pero {\1c&H0000FF&}no{\1c&HFFFFFF&} había sirenas
+Dialogue: 0,0:00:06.16,0:00:06.33,Default,,0,0,0,,{\an5\pos(960,540)}Pero no {\1c&H0000FF&}había{\1c&HFFFFFF&} sirenas
+Dialogue: 0,0:00:06.33,0:00:06.95,Default,,0,0,0,,{\an5\pos(960,540)}Pero no había {\1c&H0000FF&}sirenas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:06.95,0:00:07.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}no{\1c&HFFFFFF&} había luces rojas
+Dialogue: 0,0:00:07.20,0:00:07.37,Default,,0,0,0,,{\an5\pos(960,540)}no {\1c&H0000FF&}había{\1c&HFFFFFF&} luces rojas
+Dialogue: 0,0:00:07.37,0:00:07.75,Default,,0,0,0,,{\an5\pos(960,540)}no había {\1c&H0000FF&}luces{\1c&HFFFFFF&} rojas
+Dialogue: 0,0:00:07.75,0:00:08.26,Default,,0,0,0,,{\an5\pos(960,540)}no había luces {\1c&H0000FF&}rojas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:08.26,0:00:08.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}La{\1c&HFFFFFF&} sala de control
+Dialogue: 0,0:00:08.54,0:00:08.78,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H0000FF&}sala{\1c&HFFFFFF&} de control
+Dialogue: 0,0:00:08.78,0:00:08.94,Default,,0,0,0,,{\an5\pos(960,540)}La sala {\1c&H0000FF&}de{\1c&HFFFFFF&} control
+Dialogue: 0,0:00:08.94,0:00:09.26,Default,,0,0,0,,{\an5\pos(960,540)}La sala de {\1c&H0000FF&}control{\1c&HFFFFFF&}
+Dialogue: 0,0:00:09.26,0:00:09.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}estaba{\1c&HFFFFFF&} en silencio
+Dialogue: 0,0:00:09.75,0:00:09.91,Default,,0,0,0,,{\an5\pos(960,540)}estaba {\1c&H0000FF&}en{\1c&HFFFFFF&} silencio
+Dialogue: 0,0:00:09.91,0:00:10.47,Default,,0,0,0,,{\an5\pos(960,540)}estaba en {\1c&H0000FF&}silencio{\1c&HFFFFFF&}
+Dialogue: 0,0:00:10.70,0:00:11.30,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Eso{\1c&HFFFFFF&} es lo normal
+Dialogue: 0,0:00:11.30,0:00:11.48,Default,,0,0,0,,{\an5\pos(960,540)}Eso {\1c&H0000FF&}es{\1c&HFFFFFF&} lo normal
+Dialogue: 0,0:00:11.48,0:00:11.60,Default,,0,0,0,,{\an5\pos(960,540)}Eso es {\1c&H0000FF&}lo{\1c&HFFFFFF&} normal
+Dialogue: 0,0:00:11.60,0:00:12.18,Default,,0,0,0,,{\an5\pos(960,540)}Eso es lo {\1c&H0000FF&}normal{\1c&HFFFFFF&}
+Dialogue: 0,0:00:12.18,0:00:13.28,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}preguntó{\1c&HFFFFFF&} Lina mientras
+Dialogue: 0,0:00:13.28,0:00:13.50,Default,,0,0,0,,{\an5\pos(960,540)}preguntó {\1c&H0000FF&}Lina{\1c&HFFFFFF&} mientras
+Dialogue: 0,0:00:13.50,0:00:13.94,Default,,0,0,0,,{\an5\pos(960,540)}preguntó Lina {\1c&H0000FF&}mientras{\1c&HFFFFFF&}
+Dialogue: 0,0:00:13.94,0:00:14.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}observaba{\1c&HFFFFFF&} el panel del
+Dialogue: 0,0:00:14.54,0:00:14.68,Default,,0,0,0,,{\an5\pos(960,540)}observaba {\1c&H0000FF&}el{\1c&HFFFFFF&} panel del
+Dialogue: 0,0:00:14.68,0:00:14.88,Default,,0,0,0,,{\an5\pos(960,540)}observaba el {\1c&H0000FF&}panel{\1c&HFFFFFF&} del
+Dialogue: 0,0:00:14.88,0:00:15.14,Default,,0,0,0,,{\an5\pos(960,540)}observaba el panel {\1c&H0000FF&}del{\1c&HFFFFFF&}
+Dialogue: 0,0:00:15.14,0:00:15.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}reactor{\1c&HFFFFFF&} con inquietud
+Dialogue: 0,0:00:15.44,0:00:15.78,Default,,0,0,0,,{\an5\pos(960,540)}reactor {\1c&H0000FF&}con{\1c&HFFFFFF&} inquietud
+Dialogue: 0,0:00:15.78,0:00:16.41,Default,,0,0,0,,{\an5\pos(960,540)}reactor con {\1c&H0000FF&}inquietud{\1c&HFFFFFF&}
+Dialogue: 0,0:00:16.44,0:00:16.73,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Su{\1c&HFFFFFF&} abuelo
+Dialogue: 0,0:00:16.73,0:00:17.10,Default,,0,0,0,,{\an5\pos(960,540)}Su {\1c&H0000FF&}abuelo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:17.10,0:00:17.55,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Mateo{\1c&HFFFFFF&} ingeniero nuclear desde
+Dialogue: 0,0:00:17.55,0:00:17.96,Default,,0,0,0,,{\an5\pos(960,540)}Mateo {\1c&H0000FF&}ingeniero{\1c&HFFFFFF&} nuclear desde
+Dialogue: 0,0:00:17.96,0:00:18.26,Default,,0,0,0,,{\an5\pos(960,540)}Mateo ingeniero {\1c&H0000FF&}nuclear{\1c&HFFFFFF&} desde
+Dialogue: 0,0:00:18.26,0:00:18.66,Default,,0,0,0,,{\an5\pos(960,540)}Mateo ingeniero nuclear {\1c&H0000FF&}desde{\1c&HFFFFFF&}
+Dialogue: 0,0:00:18.66,0:00:18.98,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}hacía{\1c&HFFFFFF&} 30 años sonrió
+Dialogue: 0,0:00:18.98,0:00:19.26,Default,,0,0,0,,{\an5\pos(960,540)}hacía {\1c&H0000FF&}30{\1c&HFFFFFF&} años sonrió
+Dialogue: 0,0:00:19.26,0:00:19.84,Default,,0,0,0,,{\an5\pos(960,540)}hacía 30 {\1c&H0000FF&}años{\1c&HFFFFFF&} sonrió
+Dialogue: 0,0:00:19.84,0:00:20.34,Default,,0,0,0,,{\an5\pos(960,540)}hacía 30 años {\1c&H0000FF&}sonrió{\1c&HFFFFFF&}
+Dialogue: 0,0:00:20.34,0:00:21.12,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}levemente{\1c&HFFFFFF&}
+Dialogue: 0,0:00:21.39,0:00:21.98,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Muy{\1c&HFFFFFF&} normal
+Dialogue: 0,0:00:21.98,0:00:22.37,Default,,0,0,0,,{\an5\pos(960,540)}Muy {\1c&H0000FF&}normal{\1c&HFFFFFF&}
+Dialogue: 0,0:00:24.21,0:00:24.80,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Mateo{\1c&HFFFFFF&} señaló la ventana
+Dialogue: 0,0:00:24.80,0:00:25.14,Default,,0,0,0,,{\an5\pos(960,540)}Mateo {\1c&H0000FF&}señaló{\1c&HFFFFFF&} la ventana
+Dialogue: 0,0:00:25.14,0:00:25.26,Default,,0,0,0,,{\an5\pos(960,540)}Mateo señaló {\1c&H0000FF&}la{\1c&HFFFFFF&} ventana
+Dialogue: 0,0:00:25.26,0:00:25.60,Default,,0,0,0,,{\an5\pos(960,540)}Mateo señaló la {\1c&H0000FF&}ventana{\1c&HFFFFFF&}
+Dialogue: 0,0:00:25.60,0:00:25.71,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}de{\1c&HFFFFFF&} seguridad
+Dialogue: 0,0:00:25.71,0:00:26.05,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H0000FF&}seguridad{\1c&HFFFFFF&}
+Dialogue: 0,0:00:32.81,0:00:33.35,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Ese{\1c&HFFFFFF&} es el reactor
+Dialogue: 0,0:00:33.35,0:00:33.51,Default,,0,0,0,,{\an5\pos(960,540)}Ese {\1c&H0000FF&}es{\1c&HFFFFFF&} el reactor
+Dialogue: 0,0:00:33.51,0:00:33.71,Default,,0,0,0,,{\an5\pos(960,540)}Ese es {\1c&H0000FF&}el{\1c&HFFFFFF&} reactor
+Dialogue: 0,0:00:33.71,0:00:34.37,Default,,0,0,0,,{\an5\pos(960,540)}Ese es el {\1c&H0000FF&}reactor{\1c&HFFFFFF&}
+Dialogue: 0,0:00:34.37,0:00:34.91,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Es{\1c&HFFFFFF&} al reactor
+Dialogue: 0,0:00:34.91,0:00:35.19,Default,,0,0,0,,{\an5\pos(960,540)}Es {\1c&H0000FF&}al{\1c&HFFFFFF&} reactor
+Dialogue: 0,0:00:35.19,0:00:35.62,Default,,0,0,0,,{\an5\pos(960,540)}Es al {\1c&H0000FF&}reactor{\1c&HFFFFFF&}
+Dialogue: 0,0:00:35.77,0:00:35.99,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Ese{\1c&HFFFFFF&} es el reactor
+Dialogue: 0,0:00:35.99,0:00:36.09,Default,,0,0,0,,{\an5\pos(960,540)}Ese {\1c&H0000FF&}es{\1c&HFFFFFF&} el reactor
+Dialogue: 0,0:00:36.09,0:00:36.23,Default,,0,0,0,,{\an5\pos(960,540)}Ese es {\1c&H0000FF&}el{\1c&HFFFFFF&} reactor
+Dialogue: 0,0:00:36.23,0:00:36.75,Default,,0,0,0,,{\an5\pos(960,540)}Ese es el {\1c&H0000FF&}reactor{\1c&HFFFFFF&}
+Dialogue: 0,0:00:36.75,0:00:37.26,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}pone{\1c&HFFFFFF&}
+Dialogue: 0,0:00:38.07,0:00:38.60,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}No{\1c&HFFFFFF&} parece peligroso
+Dialogue: 0,0:00:38.60,0:00:38.87,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H0000FF&}parece{\1c&HFFFFFF&} peligroso
+Dialogue: 0,0:00:38.87,0:00:39.90,Default,,0,0,0,,{\an5\pos(960,540)}No parece {\1c&H0000FF&}peligroso{\1c&HFFFFFF&}
+Dialogue: 0,0:00:40.03,0:00:40.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}La{\1c&HFFFFFF&} mayoría de las
+Dialogue: 0,0:00:40.53,0:00:40.81,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H0000FF&}mayoría{\1c&HFFFFFF&} de las
+Dialogue: 0,0:00:40.81,0:00:41.09,Default,,0,0,0,,{\an5\pos(960,540)}La mayoría {\1c&H0000FF&}de{\1c&HFFFFFF&} las
+Dialogue: 0,0:00:41.09,0:00:41.23,Default,,0,0,0,,{\an5\pos(960,540)}La mayoría de {\1c&H0000FF&}las{\1c&HFFFFFF&}
+Dialogue: 0,0:00:41.23,0:00:41.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}cosas{\1c&HFFFFFF&} realmente peligrosas
+Dialogue: 0,0:00:41.59,0:00:42.10,Default,,0,0,0,,{\an5\pos(960,540)}cosas {\1c&H0000FF&}realmente{\1c&HFFFFFF&} peligrosas
+Dialogue: 0,0:00:42.10,0:00:43.03,Default,,0,0,0,,{\an5\pos(960,540)}cosas realmente {\1c&H0000FF&}peligrosas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:43.03,0:00:43.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}no{\1c&HFFFFFF&} se ven dramáticas
+Dialogue: 0,0:00:43.53,0:00:43.67,Default,,0,0,0,,{\an5\pos(960,540)}no {\1c&H0000FF&}se{\1c&HFFFFFF&} ven dramáticas
+Dialogue: 0,0:00:43.67,0:00:43.85,Default,,0,0,0,,{\an5\pos(960,540)}no se {\1c&H0000FF&}ven{\1c&HFFFFFF&} dramáticas
+Dialogue: 0,0:00:43.85,0:00:44.46,Default,,0,0,0,,{\an5\pos(960,540)}no se ven {\1c&H0000FF&}dramáticas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:45.41,0:00:45.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Mateo{\1c&HFFFFFF&} caminó hacia la
+Dialogue: 0,0:00:45.95,0:00:46.41,Default,,0,0,0,,{\an5\pos(960,540)}Mateo {\1c&H0000FF&}caminó{\1c&HFFFFFF&} hacia la
+Dialogue: 0,0:00:46.41,0:00:46.59,Default,,0,0,0,,{\an5\pos(960,540)}Mateo caminó {\1c&H0000FF&}hacia{\1c&HFFFFFF&} la
+Dialogue: 0,0:00:46.59,0:00:46.75,Default,,0,0,0,,{\an5\pos(960,540)}Mateo caminó hacia {\1c&H0000FF&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:00:46.75,0:00:47.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}ventana{\1c&HFFFFFF&} que daba a
+Dialogue: 0,0:00:47.09,0:00:47.21,Default,,0,0,0,,{\an5\pos(960,540)}ventana {\1c&H0000FF&}que{\1c&HFFFFFF&} daba a
+Dialogue: 0,0:00:47.21,0:00:47.45,Default,,0,0,0,,{\an5\pos(960,540)}ventana que {\1c&H0000FF&}daba{\1c&HFFFFFF&} a
+Dialogue: 0,0:00:47.45,0:00:47.51,Default,,0,0,0,,{\an5\pos(960,540)}ventana que daba {\1c&H0000FF&}a{\1c&HFFFFFF&}
+Dialogue: 0,0:00:47.51,0:00:47.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}la{\1c&HFFFFFF&} ciudad
+Dialogue: 0,0:00:47.57,0:00:47.89,Default,,0,0,0,,{\an5\pos(960,540)}la {\1c&H0000FF&}ciudad{\1c&HFFFFFF&}
+Dialogue: 0,0:00:48.05,0:00:48.49,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}El{\1c&HFFFFFF&} sol se estaba
+Dialogue: 0,0:00:48.49,0:00:48.73,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H0000FF&}sol{\1c&HFFFFFF&} se estaba
+Dialogue: 0,0:00:48.73,0:00:48.87,Default,,0,0,0,,{\an5\pos(960,540)}El sol {\1c&H0000FF&}se{\1c&HFFFFFF&} estaba
+Dialogue: 0,0:00:48.87,0:00:49.05,Default,,0,0,0,,{\an5\pos(960,540)}El sol se {\1c&H0000FF&}estaba{\1c&HFFFFFF&}
+Dialogue: 0,0:00:49.05,0:00:49.49,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}poniendo{\1c&HFFFFFF&} y las luces
+Dialogue: 0,0:00:49.49,0:00:49.69,Default,,0,0,0,,{\an5\pos(960,540)}poniendo {\1c&H0000FF&}y{\1c&HFFFFFF&} las luces
+Dialogue: 0,0:00:49.69,0:00:49.81,Default,,0,0,0,,{\an5\pos(960,540)}poniendo y {\1c&H0000FF&}las{\1c&HFFFFFF&} luces
+Dialogue: 0,0:00:49.81,0:00:50.13,Default,,0,0,0,,{\an5\pos(960,540)}poniendo y las {\1c&H0000FF&}luces{\1c&HFFFFFF&}
+Dialogue: 0,0:00:50.13,0:00:50.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}comenzaban{\1c&HFFFFFF&} a encenderse
+Dialogue: 0,0:00:50.57,0:00:50.75,Default,,0,0,0,,{\an5\pos(960,540)}comenzaban {\1c&H0000FF&}a{\1c&HFFFFFF&} encenderse
+Dialogue: 0,0:00:50.75,0:00:51.30,Default,,0,0,0,,{\an5\pos(960,540)}comenzaban a {\1c&H0000FF&}encenderse{\1c&HFFFFFF&}
+Dialogue: 0,0:00:51.75,0:00:52.29,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Mira{\1c&HFFFFFF&} esa ciudad
+Dialogue: 0,0:00:52.29,0:00:52.45,Default,,0,0,0,,{\an5\pos(960,540)}Mira {\1c&H0000FF&}esa{\1c&HFFFFFF&} ciudad
+Dialogue: 0,0:00:52.45,0:00:53.25,Default,,0,0,0,,{\an5\pos(960,540)}Mira esa {\1c&H0000FF&}ciudad{\1c&HFFFFFF&}
+Dialogue: 0,0:00:53.25,0:00:53.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Hospitales{\1c&HFFFFFF&} trenes fábricas
+Dialogue: 0,0:00:53.79,0:00:54.42,Default,,0,0,0,,{\an5\pos(960,540)}Hospitales {\1c&H0000FF&}trenes{\1c&HFFFFFF&} fábricas
+Dialogue: 0,0:00:54.42,0:00:55.19,Default,,0,0,0,,{\an5\pos(960,540)}Hospitales trenes {\1c&H0000FF&}fábricas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:55.19,0:00:55.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}servidores{\1c&HFFFFFF&}
+Dialogue: 0,0:00:55.95,0:00:56.03,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Hay{\1c&HFFFFFF&} muchas cosas que
+Dialogue: 0,0:00:56.03,0:00:56.03,Default,,0,0,0,,{\an5\pos(960,540)}Hay {\1c&H0000FF&}muchas{\1c&HFFFFFF&} cosas que
+Dialogue: 0,0:00:56.03,0:00:56.03,Default,,0,0,0,,{\an5\pos(960,540)}Hay muchas {\1c&H0000FF&}cosas{\1c&HFFFFFF&} que
+Dialogue: 0,0:00:56.03,0:00:56.03,Default,,0,0,0,,{\an5\pos(960,540)}Hay muchas cosas {\1c&H0000FF&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:00:56.03,0:00:56.45,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}sostienen{\1c&HFFFFFF&} Internet
+Dialogue: 0,0:00:56.45,0:00:57.09,Default,,0,0,0,,{\an5\pos(960,540)}sostienen {\1c&H0000FF&}Internet{\1c&HFFFFFF&}
+Dialogue: 0,0:00:57.09,0:00:57.69,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Todo{\1c&HFFFFFF&} necesita energía
+Dialogue: 0,0:00:57.69,0:00:58.05,Default,,0,0,0,,{\an5\pos(960,540)}Todo {\1c&H0000FF&}necesita{\1c&HFFFFFF&} energía
+Dialogue: 0,0:00:58.05,0:00:58.54,Default,,0,0,0,,{\an5\pos(960,540)}Todo necesita {\1c&H0000FF&}energía{\1c&HFFFFFF&}
+Dialogue: 0,0:00:59.37,0:01:00.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Muchísima{\1c&HFFFFFF&}
+Dialogue: 0,0:01:00.33,0:01:01.05,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Asomisas{\1c&HFFFFFF&} vale
+Dialogue: 0,0:01:01.05,0:01:02.01,Default,,0,0,0,,{\an5\pos(960,540)}Asomisas {\1c&H0000FF&}vale{\1c&HFFFFFF&}
+Dialogue: 0,0:01:02.01,0:01:02.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Asomistea{\1c&HFFFFFF&}
+Dialogue: 0,0:01:02.91,0:01:03.39,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Gen{\1c&HFFFFFF&} en la fueste
+Dialogue: 0,0:01:03.39,0:01:03.73,Default,,0,0,0,,{\an5\pos(960,540)}Gen {\1c&H0000FF&}en{\1c&HFFFFFF&} la fueste
+Dialogue: 0,0:01:03.73,0:01:03.87,Default,,0,0,0,,{\an5\pos(960,540)}Gen en {\1c&H0000FF&}la{\1c&HFFFFFF&} fueste
+Dialogue: 0,0:01:03.87,0:01:04.21,Default,,0,0,0,,{\an5\pos(960,540)}Gen en la {\1c&H0000FF&}fueste{\1c&HFFFFFF&}
+Dialogue: 0,0:01:04.21,0:01:04.48,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:09.46,0:01:10.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Durante{\1c&HFFFFFF&} más de un
+Dialogue: 0,0:01:10.18,0:01:10.31,Default,,0,0,0,,{\an5\pos(960,540)}Durante {\1c&H0000FF&}más{\1c&HFFFFFF&} de un
+Dialogue: 0,0:01:10.31,0:01:10.43,Default,,0,0,0,,{\an5\pos(960,540)}Durante más {\1c&H0000FF&}de{\1c&HFFFFFF&} un
+Dialogue: 0,0:01:10.43,0:01:10.49,Default,,0,0,0,,{\an5\pos(960,540)}Durante más de {\1c&H0000FF&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:01:10.49,0:01:10.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}siglo{\1c&HFFFFFF&} la obtuvimos quemando
+Dialogue: 0,0:01:10.96,0:01:11.39,Default,,0,0,0,,{\an5\pos(960,540)}siglo {\1c&H0000FF&}la{\1c&HFFFFFF&} obtuvimos quemando
+Dialogue: 0,0:01:11.39,0:01:11.87,Default,,0,0,0,,{\an5\pos(960,540)}siglo la {\1c&H0000FF&}obtuvimos{\1c&HFFFFFF&} quemando
+Dialogue: 0,0:01:11.87,0:01:12.25,Default,,0,0,0,,{\an5\pos(960,540)}siglo la obtuvimos {\1c&H0000FF&}quemando{\1c&HFFFFFF&}
+Dialogue: 0,0:01:12.25,0:01:13.01,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}combustible{\1c&HFFFFFF&} carbón petróleo
+Dialogue: 0,0:01:13.01,0:01:13.68,Default,,0,0,0,,{\an5\pos(960,540)}combustible {\1c&H0000FF&}carbón{\1c&HFFFFFF&} petróleo
+Dialogue: 0,0:01:13.68,0:01:14.54,Default,,0,0,0,,{\an5\pos(960,540)}combustible carbón {\1c&H0000FF&}petróleo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:14.54,0:01:15.00,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}gas{\1c&HFFFFFF&}
+Dialogue: 0,0:01:15.10,0:01:15.60,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Mateo{\1c&HFFFFFF&} tomó una tableta
+Dialogue: 0,0:01:15.60,0:01:16.13,Default,,0,0,0,,{\an5\pos(960,540)}Mateo {\1c&H0000FF&}tomó{\1c&HFFFFFF&} una tableta
+Dialogue: 0,0:01:16.13,0:01:16.26,Default,,0,0,0,,{\an5\pos(960,540)}Mateo tomó {\1c&H0000FF&}una{\1c&HFFFFFF&} tableta
+Dialogue: 0,0:01:16.26,0:01:16.81,Default,,0,0,0,,{\an5\pos(960,540)}Mateo tomó una {\1c&H0000FF&}tableta{\1c&HFFFFFF&}
+Dialogue: 0,0:01:16.81,0:01:16.93,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}y{\1c&HFFFFFF&} escribió dos números
+Dialogue: 0,0:01:16.93,0:01:17.39,Default,,0,0,0,,{\an5\pos(960,540)}y {\1c&H0000FF&}escribió{\1c&HFFFFFF&} dos números
+Dialogue: 0,0:01:17.39,0:01:17.68,Default,,0,0,0,,{\an5\pos(960,540)}y escribió {\1c&H0000FF&}dos{\1c&HFFFFFF&} números
+Dialogue: 0,0:01:17.68,0:01:18.14,Default,,0,0,0,,{\an5\pos(960,540)}y escribió dos {\1c&H0000FF&}números{\1c&HFFFFFF&}
+Dialogue: 0,0:01:19.81,0:01:20.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Un{\1c&HFFFFFF&} kilogramo de carbón
+Dialogue: 0,0:01:20.53,0:01:21.17,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H0000FF&}kilogramo{\1c&HFFFFFF&} de carbón
+Dialogue: 0,0:01:21.17,0:01:21.26,Default,,0,0,0,,{\an5\pos(960,540)}Un kilogramo {\1c&H0000FF&}de{\1c&HFFFFFF&} carbón
+Dialogue: 0,0:01:21.26,0:01:21.68,Default,,0,0,0,,{\an5\pos(960,540)}Un kilogramo de {\1c&H0000FF&}carbón{\1c&HFFFFFF&}
+Dialogue: 0,0:01:21.68,0:01:21.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}produce{\1c&HFFFFFF&} unos 8 kilovatios
+Dialogue: 0,0:01:21.95,0:01:22.31,Default,,0,0,0,,{\an5\pos(960,540)}produce {\1c&H0000FF&}unos{\1c&HFFFFFF&} 8 kilovatios
+Dialogue: 0,0:01:22.31,0:01:22.68,Default,,0,0,0,,{\an5\pos(960,540)}produce unos {\1c&H0000FF&}8{\1c&HFFFFFF&} kilovatios
+Dialogue: 0,0:01:22.68,0:01:23.25,Default,,0,0,0,,{\an5\pos(960,540)}produce unos 8 {\1c&H0000FF&}kilovatios{\1c&HFFFFFF&}
+Dialogue: 0,0:01:23.25,0:01:23.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}hora{\1c&HFFFFFF&}
+Dialogue: 0,0:01:23.59,0:01:24.03,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Un{\1c&HFFFFFF&} kilogramo de uranio
+Dialogue: 0,0:01:24.03,0:01:24.60,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H0000FF&}kilogramo{\1c&HFFFFFF&} de uranio
+Dialogue: 0,0:01:24.60,0:01:24.65,Default,,0,0,0,,{\an5\pos(960,540)}Un kilogramo {\1c&H0000FF&}de{\1c&HFFFFFF&} uranio
+Dialogue: 0,0:01:24.65,0:01:25.01,Default,,0,0,0,,{\an5\pos(960,540)}Un kilogramo de {\1c&H0000FF&}uranio{\1c&HFFFFFF&}
+Dialogue: 0,0:01:25.01,0:01:25.26,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}produce{\1c&HFFFFFF&} cerca de 20
+Dialogue: 0,0:01:25.26,0:01:25.67,Default,,0,0,0,,{\an5\pos(960,540)}produce {\1c&H0000FF&}cerca{\1c&HFFFFFF&} de 20
+Dialogue: 0,0:01:25.67,0:01:25.85,Default,,0,0,0,,{\an5\pos(960,540)}produce cerca {\1c&H0000FF&}de{\1c&HFFFFFF&} 20
+Dialogue: 0,0:01:25.85,0:01:26.03,Default,,0,0,0,,{\an5\pos(960,540)}produce cerca de {\1c&H0000FF&}20{\1c&HFFFFFF&}
+Dialogue: 0,0:01:25.95,0:01:26.17,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}24{\1c&HFFFFFF&} millones
+Dialogue: 0,0:01:26.17,0:01:26.62,Default,,0,0,0,,{\an5\pos(960,540)}24 {\1c&H0000FF&}millones{\1c&HFFFFFF&}
+Dialogue: 0,0:01:27.51,0:01:28.07,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Lina{\1c&HFFFFFF&} frunció el seño
+Dialogue: 0,0:01:28.07,0:01:28.63,Default,,0,0,0,,{\an5\pos(960,540)}Lina {\1c&H0000FF&}frunció{\1c&HFFFFFF&} el seño
+Dialogue: 0,0:01:28.63,0:01:28.71,Default,,0,0,0,,{\an5\pos(960,540)}Lina frunció {\1c&H0000FF&}el{\1c&HFFFFFF&} seño
+Dialogue: 0,0:01:28.71,0:01:29.14,Default,,0,0,0,,{\an5\pos(960,540)}Lina frunció el {\1c&H0000FF&}seño{\1c&HFFFFFF&}
+Dialogue: 0,0:01:29.39,0:01:29.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Eso{\1c&HFFFFFF&} no puede ser
+Dialogue: 0,0:01:29.95,0:01:30.10,Default,,0,0,0,,{\an5\pos(960,540)}Eso {\1c&H0000FF&}no{\1c&HFFFFFF&} puede ser
+Dialogue: 0,0:01:30.10,0:01:30.29,Default,,0,0,0,,{\an5\pos(960,540)}Eso no {\1c&H0000FF&}puede{\1c&HFFFFFF&} ser
+Dialogue: 0,0:01:30.29,0:01:30.53,Default,,0,0,0,,{\an5\pos(960,540)}Eso no puede {\1c&H0000FF&}ser{\1c&HFFFFFF&}
+Dialogue: 0,0:01:30.53,0:01:31.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}correcto{\1c&HFFFFFF&}
+Dialogue: 0,0:01:31.35,0:01:31.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Pero{\1c&HFFFFFF&} lo es
+Dialogue: 0,0:01:31.90,0:01:32.03,Default,,0,0,0,,{\an5\pos(960,540)}Pero {\1c&H0000FF&}lo{\1c&HFFFFFF&} es
+Dialogue: 0,0:01:32.03,0:01:32.39,Default,,0,0,0,,{\an5\pos(960,540)}Pero lo {\1c&H0000FF&}es{\1c&HFFFFFF&}
+Dialogue: 0,0:01:32.39,0:01:32.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}La{\1c&HFFFFFF&} energía nuclear viene
+Dialogue: 0,0:01:32.79,0:01:33.04,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H0000FF&}energía{\1c&HFFFFFF&} nuclear viene
+Dialogue: 0,0:01:33.04,0:01:33.51,Default,,0,0,0,,{\an5\pos(960,540)}La energía {\1c&H0000FF&}nuclear{\1c&HFFFFFF&} viene
+Dialogue: 0,0:01:33.51,0:01:34.03,Default,,0,0,0,,{\an5\pos(960,540)}La energía nuclear {\1c&H0000FF&}viene{\1c&HFFFFFF&}
+Dialogue: 0,0:01:34.03,0:01:34.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}del{\1c&HFFFFFF&} núcleo del átomo
+Dialogue: 0,0:01:34.31,0:01:34.68,Default,,0,0,0,,{\an5\pos(960,540)}del {\1c&H0000FF&}núcleo{\1c&HFFFFFF&} del átomo
+Dialogue: 0,0:01:34.68,0:01:34.81,Default,,0,0,0,,{\an5\pos(960,540)}del núcleo {\1c&H0000FF&}del{\1c&HFFFFFF&} átomo
+Dialogue: 0,0:01:34.81,0:01:35.18,Default,,0,0,0,,{\an5\pos(960,540)}del núcleo del {\1c&H0000FF&}átomo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:35.26,0:01:35.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Cuando{\1c&HFFFFFF&} dividimos átomos pesados
+Dialogue: 0,0:01:35.75,0:01:36.31,Default,,0,0,0,,{\an5\pos(960,540)}Cuando {\1c&H0000FF&}dividimos{\1c&HFFFFFF&} átomos pesados
+Dialogue: 0,0:01:36.31,0:01:36.71,Default,,0,0,0,,{\an5\pos(960,540)}Cuando dividimos {\1c&H0000FF&}átomos{\1c&HFFFFFF&} pesados
+Dialogue: 0,0:01:36.71,0:01:37.29,Default,,0,0,0,,{\an5\pos(960,540)}Cuando dividimos átomos {\1c&H0000FF&}pesados{\1c&HFFFFFF&}
+Dialogue: 0,0:01:37.29,0:01:37.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}como{\1c&HFFFFFF&} el uranio una
+Dialogue: 0,0:01:37.46,0:01:37.60,Default,,0,0,0,,{\an5\pos(960,540)}como {\1c&H0000FF&}el{\1c&HFFFFFF&} uranio una
+Dialogue: 0,0:01:37.60,0:01:38.04,Default,,0,0,0,,{\an5\pos(960,540)}como el {\1c&H0000FF&}uranio{\1c&HFFFFFF&} una
+Dialogue: 0,0:01:38.04,0:01:38.40,Default,,0,0,0,,{\an5\pos(960,540)}como el uranio {\1c&H0000FF&}una{\1c&HFFFFFF&}
+Dialogue: 0,0:01:38.40,0:01:38.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}pequeña{\1c&HFFFFFF&} fracción de masa
+Dialogue: 0,0:01:38.68,0:01:39.17,Default,,0,0,0,,{\an5\pos(960,540)}pequeña {\1c&H0000FF&}fracción{\1c&HFFFFFF&} de masa
+Dialogue: 0,0:01:39.17,0:01:39.37,Default,,0,0,0,,{\an5\pos(960,540)}pequeña fracción {\1c&H0000FF&}de{\1c&HFFFFFF&} masa
+Dialogue: 0,0:01:39.37,0:01:39.54,Default,,0,0,0,,{\an5\pos(960,540)}pequeña fracción de {\1c&H0000FF&}masa{\1c&HFFFFFF&}
+Dialogue: 0,0:01:39.54,0:01:39.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}se{\1c&HFFFFFF&} transforma en energía
+Dialogue: 0,0:01:39.79,0:01:40.37,Default,,0,0,0,,{\an5\pos(960,540)}se {\1c&H0000FF&}transforma{\1c&HFFFFFF&} en energía
+Dialogue: 0,0:01:40.37,0:01:40.46,Default,,0,0,0,,{\an5\pos(960,540)}se transforma {\1c&H0000FF&}en{\1c&HFFFFFF&} energía
+Dialogue: 0,0:01:40.46,0:01:40.89,Default,,0,0,0,,{\an5\pos(960,540)}se transforma en {\1c&H0000FF&}energía{\1c&HFFFFFF&}
+Dialogue: 0,0:01:41.25,0:01:41.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Energía{\1c&HFFFFFF&} igual a masa
+Dialogue: 0,0:01:41.81,0:01:41.99,Default,,0,0,0,,{\an5\pos(960,540)}Energía {\1c&H0000FF&}igual{\1c&HFFFFFF&} a masa
+Dialogue: 0,0:01:41.99,0:01:42.13,Default,,0,0,0,,{\an5\pos(960,540)}Energía igual {\1c&H0000FF&}a{\1c&HFFFFFF&} masa
+Dialogue: 0,0:01:42.13,0:01:42.31,Default,,0,0,0,,{\an5\pos(960,540)}Energía igual a {\1c&H0000FF&}masa{\1c&HFFFFFF&}
+Dialogue: 0,0:01:42.31,0:01:42.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}por{\1c&HFFFFFF&} la velocidad de
+Dialogue: 0,0:01:42.53,0:01:42.63,Default,,0,0,0,,{\an5\pos(960,540)}por {\1c&H0000FF&}la{\1c&HFFFFFF&} velocidad de
+Dialogue: 0,0:01:42.63,0:01:42.90,Default,,0,0,0,,{\an5\pos(960,540)}por la {\1c&H0000FF&}velocidad{\1c&HFFFFFF&} de
+Dialogue: 0,0:01:42.90,0:01:43.17,Default,,0,0,0,,{\an5\pos(960,540)}por la velocidad {\1c&H0000FF&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:43.17,0:01:43.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}la{\1c&HFFFFFF&} luz al cuadrado
+Dialogue: 0,0:01:43.25,0:01:43.46,Default,,0,0,0,,{\an5\pos(960,540)}la {\1c&H0000FF&}luz{\1c&HFFFFFF&} al cuadrado
+Dialogue: 0,0:01:43.46,0:01:43.60,Default,,0,0,0,,{\an5\pos(960,540)}la luz {\1c&H0000FF&}al{\1c&HFFFFFF&} cuadrado
+Dialogue: 0,0:01:43.60,0:01:44.06,Default,,0,0,0,,{\an5\pos(960,540)}la luz al {\1c&H0000FF&}cuadrado{\1c&HFFFFFF&}
+Dialogue: 0,0:01:44.73,0:01:45.73,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Entonces{\1c&HFFFFFF&} por qué
+Dialogue: 0,0:01:45.73,0:01:46.04,Default,,0,0,0,,{\an5\pos(960,540)}Entonces {\1c&H0000FF&}por{\1c&HFFFFFF&} qué
+Dialogue: 0,0:01:46.04,0:01:46.25,Default,,0,0,0,,{\an5\pos(960,540)}Entonces por {\1c&H0000FF&}qué{\1c&HFFFFFF&}
+Dialogue: 0,0:01:46.25,0:01:46.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}no{\1c&HFFFFFF&} explota como una
+Dialogue: 0,0:01:46.37,0:01:46.87,Default,,0,0,0,,{\an5\pos(960,540)}no {\1c&H0000FF&}explota{\1c&HFFFFFF&} como una
+Dialogue: 0,0:01:46.87,0:01:47.04,Default,,0,0,0,,{\an5\pos(960,540)}no explota {\1c&H0000FF&}como{\1c&HFFFFFF&} una
+Dialogue: 0,0:01:47.04,0:01:47.25,Default,,0,0,0,,{\an5\pos(960,540)}no explota como {\1c&H0000FF&}una{\1c&HFFFFFF&}
+Dialogue: 0,0:01:47.25,0:01:47.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}bomba{\1c&HFFFFFF&}
+Dialogue: 0,0:01:48.01,0:01:48.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Porque{\1c&HFFFFFF&} un reactor está
+Dialogue: 0,0:01:48.57,0:01:48.68,Default,,0,0,0,,{\an5\pos(960,540)}Porque {\1c&H0000FF&}un{\1c&HFFFFFF&} reactor está
+Dialogue: 0,0:01:48.68,0:01:48.96,Default,,0,0,0,,{\an5\pos(960,540)}Porque un {\1c&H0000FF&}reactor{\1c&HFFFFFF&} está
+Dialogue: 0,0:01:48.96,0:01:49.23,Default,,0,0,0,,{\an5\pos(960,540)}Porque un reactor {\1c&H0000FF&}está{\1c&HFFFFFF&}
+Dialogue: 0,0:01:49.23,0:01:49.65,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}diseñado{\1c&HFFFFFF&} para impedirlo
+Dialogue: 0,0:01:49.65,0:01:49.81,Default,,0,0,0,,{\an5\pos(960,540)}diseñado {\1c&H0000FF&}para{\1c&HFFFFFF&} impedirlo
+Dialogue: 0,0:01:49.81,0:01:50.39,Default,,0,0,0,,{\an5\pos(960,540)}diseñado para {\1c&H0000FF&}impedirlo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:50.43,0:01:50.87,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}En{\1c&HFFFFFF&} una bomba el
+Dialogue: 0,0:01:50.87,0:01:51.03,Default,,0,0,0,,{\an5\pos(960,540)}En {\1c&H0000FF&}una{\1c&HFFFFFF&} bomba el
+Dialogue: 0,0:01:51.03,0:01:51.40,Default,,0,0,0,,{\an5\pos(960,540)}En una {\1c&H0000FF&}bomba{\1c&HFFFFFF&} el
+Dialogue: 0,0:01:51.40,0:01:51.53,Default,,0,0,0,,{\an5\pos(960,540)}En una bomba {\1c&H0000FF&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:01:51.53,0:01:52.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}combustible{\1c&HFFFFFF&} tiene cerca del
+Dialogue: 0,0:01:52.04,0:01:52.23,Default,,0,0,0,,{\an5\pos(960,540)}combustible {\1c&H0000FF&}tiene{\1c&HFFFFFF&} cerca del
+Dialogue: 0,0:01:52.23,0:01:52.51,Default,,0,0,0,,{\an5\pos(960,540)}combustible tiene {\1c&H0000FF&}cerca{\1c&HFFFFFF&} del
+Dialogue: 0,0:01:52.51,0:01:52.68,Default,,0,0,0,,{\an5\pos(960,540)}combustible tiene cerca {\1c&H0000FF&}del{\1c&HFFFFFF&}
+Dialogue: 0,0:01:52.68,0:01:53.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}90{\1c&HFFFFFF&} de uranio 235
+Dialogue: 0,0:01:53.31,0:01:53.57,Default,,0,0,0,,{\an5\pos(960,540)}90 {\1c&H0000FF&}de{\1c&HFFFFFF&} uranio 235
+Dialogue: 0,0:01:53.57,0:01:53.85,Default,,0,0,0,,{\an5\pos(960,540)}90 de {\1c&H0000FF&}uranio{\1c&HFFFFFF&} 235
+Dialogue: 0,0:01:53.85,0:01:54.62,Default,,0,0,0,,{\an5\pos(960,540)}90 de uranio {\1c&H0000FF&}235{\1c&HFFFFFF&}
+Dialogue: 0,0:01:54.95,0:01:55.32,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}La{\1c&HFFFFFF&} reacción ocurre en
+Dialogue: 0,0:01:55.32,0:01:55.67,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H0000FF&}reacción{\1c&HFFFFFF&} ocurre en
+Dialogue: 0,0:01:55.67,0:01:55.93,Default,,0,0,0,,{\an5\pos(960,540)}La reacción {\1c&H0000FF&}ocurre{\1c&HFFFFFF&} en
+Dialogue: 0,0:01:55.93,0:01:55.93,Default,,0,0,0,,{\an5\pos(960,540)}La reacción ocurre {\1c&H0000FF&}en{\1c&HFFFFFF&}
+Dialogue: 0,0:01:55.93,0:01:55.93,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}un{\1c&HFFFFFF&} reactor
+Dialogue: 0,0:01:55.93,0:01:56.03,Default,,0,0,0,,{\an5\pos(960,540)}un {\1c&H0000FF&}reactor{\1c&HFFFFFF&}
+Dialogue: 0,0:01:55.93,0:01:56.07,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}En{\1c&HFFFFFF&} un reactor solo
+Dialogue: 0,0:01:56.07,0:01:57.10,Default,,0,0,0,,{\an5\pos(960,540)}En {\1c&H0000FF&}un{\1c&HFFFFFF&} reactor solo
+Dialogue: 0,0:01:57.10,0:01:57.35,Default,,0,0,0,,{\an5\pos(960,540)}En un {\1c&H0000FF&}reactor{\1c&HFFFFFF&} solo
+Dialogue: 0,0:01:57.35,0:01:57.63,Default,,0,0,0,,{\an5\pos(960,540)}En un reactor {\1c&H0000FF&}solo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:57.63,0:01:57.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}hay{\1c&HFFFFFF&} entre 3 y
+Dialogue: 0,0:01:57.82,0:01:57.99,Default,,0,0,0,,{\an5\pos(960,540)}hay {\1c&H0000FF&}entre{\1c&HFFFFFF&} 3 y
+Dialogue: 0,0:01:57.99,0:01:58.25,Default,,0,0,0,,{\an5\pos(960,540)}hay entre {\1c&H0000FF&}3{\1c&HFFFFFF&} y
+Dialogue: 0,0:01:58.25,0:01:58.35,Default,,0,0,0,,{\an5\pos(960,540)}hay entre 3 {\1c&H0000FF&}y{\1c&HFFFFFF&}
+Dialogue: 0,0:01:58.35,0:01:58.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}5{\1c&HFFFFFF&}
+Dialogue: 0,0:01:58.85,0:01:59.43,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Y{\1c&HFFFFFF&} la reacción ocurre
+Dialogue: 0,0:01:59.43,0:01:59.57,Default,,0,0,0,,{\an5\pos(960,540)}Y {\1c&H0000FF&}la{\1c&HFFFFFF&} reacción ocurre
+Dialogue: 0,0:01:59.57,0:01:59.90,Default,,0,0,0,,{\an5\pos(960,540)}Y la {\1c&H0000FF&}reacción{\1c&HFFFFFF&} ocurre
+Dialogue: 0,0:01:59.90,0:02:00.39,Default,,0,0,0,,{\an5\pos(960,540)}Y la reacción {\1c&H0000FF&}ocurre{\1c&HFFFFFF&}
+Dialogue: 0,0:02:00.39,0:02:00.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}lentamente{\1c&HFFFFFF&}
+Dialogue: 0,0:02:00.96,0:02:01.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Cada{\1c&HFFFFFF&} fisión libera varios
+Dialogue: 0,0:02:01.15,0:02:01.45,Default,,0,0,0,,{\an5\pos(960,540)}Cada {\1c&H0000FF&}fisión{\1c&HFFFFFF&} libera varios
+Dialogue: 0,0:02:01.45,0:02:01.85,Default,,0,0,0,,{\an5\pos(960,540)}Cada fisión {\1c&H0000FF&}libera{\1c&HFFFFFF&} varios
+Dialogue: 0,0:02:01.85,0:02:02.01,Default,,0,0,0,,{\an5\pos(960,540)}Cada fisión libera {\1c&H0000FF&}varios{\1c&HFFFFFF&}
+Dialogue: 0,0:02:02.01,0:02:02.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}neutrones{\1c&HFFFFFF&}
+Dialogue: 0,0:02:02.59,0:02:02.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Pero{\1c&HFFFFFF&} el reactor está
+Dialogue: 0,0:02:02.89,0:02:03.03,Default,,0,0,0,,{\an5\pos(960,540)}Pero {\1c&H0000FF&}el{\1c&HFFFFFF&} reactor está
+Dialogue: 0,0:02:03.03,0:02:03.26,Default,,0,0,0,,{\an5\pos(960,540)}Pero el {\1c&H0000FF&}reactor{\1c&HFFFFFF&} está
+Dialogue: 0,0:02:03.26,0:02:03.67,Default,,0,0,0,,{\an5\pos(960,540)}Pero el reactor {\1c&H0000FF&}está{\1c&HFFFFFF&}
+Dialogue: 0,0:02:03.67,0:02:04.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}diseñado{\1c&HFFFFFF&} para que solo
+Dialogue: 0,0:02:04.09,0:02:04.26,Default,,0,0,0,,{\an5\pos(960,540)}diseñado {\1c&H0000FF&}para{\1c&HFFFFFF&} que solo
+Dialogue: 0,0:02:04.26,0:02:04.39,Default,,0,0,0,,{\an5\pos(960,540)}diseñado para {\1c&H0000FF&}que{\1c&HFFFFFF&} solo
+Dialogue: 0,0:02:04.39,0:02:04.57,Default,,0,0,0,,{\an5\pos(960,540)}diseñado para que {\1c&H0000FF&}solo{\1c&HFFFFFF&}
+Dialogue: 0,0:02:04.57,0:02:04.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}uno{\1c&HFFFFFF&} continúe la reacción
+Dialogue: 0,0:02:04.81,0:02:05.21,Default,,0,0,0,,{\an5\pos(960,540)}uno {\1c&H0000FF&}continúe{\1c&HFFFFFF&} la reacción
+Dialogue: 0,0:02:05.21,0:02:05.31,Default,,0,0,0,,{\an5\pos(960,540)}uno continúe {\1c&H0000FF&}la{\1c&HFFFFFF&} reacción
+Dialogue: 0,0:02:05.31,0:02:05.75,Default,,0,0,0,,{\an5\pos(960,540)}uno continúe la {\1c&H0000FF&}reacción{\1c&HFFFFFF&}
+Dialogue: 0,0:02:05.76,0:02:06.07,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Así{\1c&HFFFFFF&} permanece estable
+Dialogue: 0,0:02:06.07,0:02:06.51,Default,,0,0,0,,{\an5\pos(960,540)}Así {\1c&H0000FF&}permanece{\1c&HFFFFFF&} estable
+Dialogue: 0,0:02:06.51,0:02:06.82,Default,,0,0,0,,{\an5\pos(960,540)}Así permanece {\1c&H0000FF&}estable{\1c&HFFFFFF&}
+Dialogue: 0,0:02:07.25,0:02:07.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Como{\1c&HFFFFFF&} mantener el equilibrio
+Dialogue: 0,0:02:07.57,0:02:07.93,Default,,0,0,0,,{\an5\pos(960,540)}Como {\1c&H0000FF&}mantener{\1c&HFFFFFF&} el equilibrio
+Dialogue: 0,0:02:07.93,0:02:08.25,Default,,0,0,0,,{\an5\pos(960,540)}Como mantener {\1c&H0000FF&}el{\1c&HFFFFFF&} equilibrio
+Dialogue: 0,0:02:08.25,0:02:08.70,Default,,0,0,0,,{\an5\pos(960,540)}Como mantener el {\1c&H0000FF&}equilibrio{\1c&HFFFFFF&}
+Dialogue: 0,0:02:08.70,0:02:08.88,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}en{\1c&HFFFFFF&} una bicicleta
+Dialogue: 0,0:02:08.88,0:02:09.03,Default,,0,0,0,,{\an5\pos(960,540)}en {\1c&H0000FF&}una{\1c&HFFFFFF&} bicicleta
+Dialogue: 0,0:02:09.03,0:02:09.81,Default,,0,0,0,,{\an5\pos(960,540)}en una {\1c&H0000FF&}bicicleta{\1c&HFFFFFF&}
+Dialogue: 0,0:02:11.03,0:02:11.61,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Exactamente{\1c&HFFFFFF&}
+Dialogue: 0,0:02:11.96,0:02:12.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Caminaron{\1c&HFFFFFF&} hasta la piscina
+Dialogue: 0,0:02:12.44,0:02:12.66,Default,,0,0,0,,{\an5\pos(960,540)}Caminaron {\1c&H0000FF&}hasta{\1c&HFFFFFF&} la piscina
+Dialogue: 0,0:02:12.66,0:02:12.81,Default,,0,0,0,,{\an5\pos(960,540)}Caminaron hasta {\1c&H0000FF&}la{\1c&HFFFFFF&} piscina
+Dialogue: 0,0:02:12.81,0:02:13.16,Default,,0,0,0,,{\an5\pos(960,540)}Caminaron hasta la {\1c&H0000FF&}piscina{\1c&HFFFFFF&}
+Dialogue: 0,0:02:13.16,0:02:13.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}del{\1c&HFFFFFF&} reactor
+Dialogue: 0,0:02:13.25,0:02:13.57,Default,,0,0,0,,{\an5\pos(960,540)}del {\1c&H0000FF&}reactor{\1c&HFFFFFF&}
+Dialogue: 0,0:02:13.88,0:02:14.36,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}El{\1c&HFFFFFF&} agua brillaba con
+Dialogue: 0,0:02:14.36,0:02:14.54,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H0000FF&}agua{\1c&HFFFFFF&} brillaba con
+Dialogue: 0,0:02:14.54,0:02:14.90,Default,,0,0,0,,{\an5\pos(960,540)}El agua {\1c&H0000FF&}brillaba{\1c&HFFFFFF&} con
+Dialogue: 0,0:02:14.90,0:02:15.08,Default,,0,0,0,,{\an5\pos(960,540)}El agua brillaba {\1c&H0000FF&}con{\1c&HFFFFFF&}
+Dialogue: 0,0:02:15.08,0:02:15.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}una{\1c&HFFFFFF&} luz azul intensa
+Dialogue: 0,0:02:15.25,0:02:15.48,Default,,0,0,0,,{\an5\pos(960,540)}una {\1c&H0000FF&}luz{\1c&HFFFFFF&} azul intensa
+Dialogue: 0,0:02:15.48,0:02:15.92,Default,,0,0,0,,{\an5\pos(960,540)}una luz {\1c&H0000FF&}azul{\1c&HFFFFFF&} intensa
+Dialogue: 0,0:02:15.92,0:02:16.27,Default,,0,0,0,,{\an5\pos(960,540)}una luz azul {\1c&H0000FF&}intensa{\1c&HFFFFFF&}
+Dialogue: 0,0:02:16.99,0:02:17.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Qué{\1c&HFFFFFF&} es ese brillo
+Dialogue: 0,0:02:17.46,0:02:17.66,Default,,0,0,0,,{\an5\pos(960,540)}Qué {\1c&H0000FF&}es{\1c&HFFFFFF&} ese brillo
+Dialogue: 0,0:02:17.66,0:02:17.86,Default,,0,0,0,,{\an5\pos(960,540)}Qué es {\1c&H0000FF&}ese{\1c&HFFFFFF&} brillo
+Dialogue: 0,0:02:17.86,0:02:18.53,Default,,0,0,0,,{\an5\pos(960,540)}Qué es ese {\1c&H0000FF&}brillo{\1c&HFFFFFF&}
+Dialogue: 0,0:02:19.16,0:02:19.64,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Radiación{\1c&HFFFFFF&} de
+Dialogue: 0,0:02:19.64,0:02:19.75,Default,,0,0,0,,{\an5\pos(960,540)}Radiación {\1c&H0000FF&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:02:19.75,0:02:20.56,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Cherenkov{\1c&HFFFFFF&} Partículas
+Dialogue: 0,0:02:20.56,0:02:21.15,Default,,0,0,0,,{\an5\pos(960,540)}Cherenkov {\1c&H0000FF&}Partículas{\1c&HFFFFFF&}
+Dialogue: 0,0:02:21.32,0:02:21.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Moviéndose{\1c&HFFFFFF&} en el agua
+Dialogue: 0,0:02:21.81,0:02:21.96,Default,,0,0,0,,{\an5\pos(960,540)}Moviéndose {\1c&H0000FF&}en{\1c&HFFFFFF&} el agua
+Dialogue: 0,0:02:21.96,0:02:22.04,Default,,0,0,0,,{\an5\pos(960,540)}Moviéndose en {\1c&H0000FF&}el{\1c&HFFFFFF&} agua
+Dialogue: 0,0:02:22.04,0:02:22.26,Default,,0,0,0,,{\an5\pos(960,540)}Moviéndose en el {\1c&H0000FF&}agua{\1c&HFFFFFF&}
+Dialogue: 0,0:02:22.26,0:02:22.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}más{\1c&HFFFFFF&} rápido que la
+Dialogue: 0,0:02:22.44,0:02:22.76,Default,,0,0,0,,{\an5\pos(960,540)}más {\1c&H0000FF&}rápido{\1c&HFFFFFF&} que la
+Dialogue: 0,0:02:22.76,0:02:22.94,Default,,0,0,0,,{\an5\pos(960,540)}más rápido {\1c&H0000FF&}que{\1c&HFFFFFF&} la
+Dialogue: 0,0:02:22.94,0:02:23.00,Default,,0,0,0,,{\an5\pos(960,540)}más rápido que {\1c&H0000FF&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:02:23.00,0:02:23.16,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}luz{\1c&HFFFFFF&} en ese medio
+Dialogue: 0,0:02:23.16,0:02:23.31,Default,,0,0,0,,{\an5\pos(960,540)}luz {\1c&H0000FF&}en{\1c&HFFFFFF&} ese medio
+Dialogue: 0,0:02:23.31,0:02:23.44,Default,,0,0,0,,{\an5\pos(960,540)}luz en {\1c&H0000FF&}ese{\1c&HFFFFFF&} medio
+Dialogue: 0,0:02:23.44,0:02:23.79,Default,,0,0,0,,{\an5\pos(960,540)}luz en ese {\1c&H0000FF&}medio{\1c&HFFFFFF&}
+Dialogue: 0,0:02:23.84,0:02:24.26,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}No{\1c&HFFFFFF&} más rápido que
+Dialogue: 0,0:02:24.26,0:02:24.36,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H0000FF&}más{\1c&HFFFFFF&} rápido que
+Dialogue: 0,0:02:24.36,0:02:24.64,Default,,0,0,0,,{\an5\pos(960,540)}No más {\1c&H0000FF&}rápido{\1c&HFFFFFF&} que
+Dialogue: 0,0:02:24.64,0:02:24.81,Default,,0,0,0,,{\an5\pos(960,540)}No más rápido {\1c&H0000FF&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:02:24.81,0:02:24.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}la{\1c&HFFFFFF&} luz en el
+Dialogue: 0,0:02:24.90,0:02:25.04,Default,,0,0,0,,{\an5\pos(960,540)}la {\1c&H0000FF&}luz{\1c&HFFFFFF&} en el
+Dialogue: 0,0:02:25.04,0:02:25.18,Default,,0,0,0,,{\an5\pos(960,540)}la luz {\1c&H0000FF&}en{\1c&HFFFFFF&} el
+Dialogue: 0,0:02:25.18,0:02:25.26,Default,,0,0,0,,{\an5\pos(960,540)}la luz en {\1c&H0000FF&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:02:25.26,0:02:25.71,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}vacío{\1c&HFFFFFF&}
+Dialogue: 0,0:02:25.60,0:02:25.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Creo{\1c&HFFFFFF&} que
+Dialogue: 0,0:02:25.90,0:02:40.46,Default,,0,0,0,,{\an5\pos(960,540)}Creo {\1c&H0000FF&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:02:40.46,0:02:40.66,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}no{\1c&HFFFFFF&} me gustó como
+Dialogue: 0,0:02:40.66,0:02:41.20,Default,,0,0,0,,{\an5\pos(960,540)}no {\1c&H0000FF&}me{\1c&HFFFFFF&} gustó como
+Dialogue: 0,0:02:41.20,0:02:41.32,Default,,0,0,0,,{\an5\pos(960,540)}no me {\1c&H0000FF&}gustó{\1c&HFFFFFF&} como
+Dialogue: 0,0:02:41.32,0:02:41.40,Default,,0,0,0,,{\an5\pos(960,540)}no me gustó {\1c&H0000FF&}como{\1c&HFFFFFF&}
+Dialogue: 0,0:02:41.40,0:02:41.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}stomachache{\1c&HFFFFFF&}
+Dialogue: 0,0:02:41.68,0:02:41.86,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Esto{\1c&HFFFFFF&} Me cambió
+Dialogue: 0,0:02:41.86,0:02:43.06,Default,,0,0,0,,{\an5\pos(960,540)}Esto {\1c&H0000FF&}Me{\1c&HFFFFFF&} cambió
+Dialogue: 0,0:02:43.06,0:02:43.36,Default,,0,0,0,,{\an5\pos(960,540)}Esto Me {\1c&H0000FF&}cambió{\1c&HFFFFFF&}
+Dialogue: 0,0:02:43.36,0:02:43.36,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}de{\1c&HFFFFFF&} música
+Dialogue: 0,0:02:43.36,0:02:46.57,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H0000FF&}música{\1c&HFFFFFF&}
+Dialogue: 0,0:02:46.94,0:02:46.94,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}No{\1c&HFFFFFF&} me cambió de
+Dialogue: 0,0:02:46.94,0:02:47.00,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H0000FF&}me{\1c&HFFFFFF&} cambió de
+Dialogue: 0,0:02:47.00,0:02:47.26,Default,,0,0,0,,{\an5\pos(960,540)}No me {\1c&H0000FF&}cambió{\1c&HFFFFFF&} de
+Dialogue: 0,0:02:47.26,0:02:47.50,Default,,0,0,0,,{\an5\pos(960,540)}No me cambió {\1c&H0000FF&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:02:47.50,0:02:47.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}el{\1c&HFFFFFF&} karma físico
+Dialogue: 0,0:02:47.53,0:02:47.53,Default,,0,0,0,,{\an5\pos(960,540)}el {\1c&H0000FF&}karma{\1c&HFFFFFF&} físico
+Dialogue: 0,0:02:47.53,0:02:47.63,Default,,0,0,0,,{\an5\pos(960,540)}el karma {\1c&H0000FF&}físico{\1c&HFFFFFF&}
+Dialogue: 0,0:02:47.53,0:02:47.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}El{\1c&HFFFFFF&} río
+Dialogue: 0,0:02:47.53,0:02:47.85,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H0000FF&}río{\1c&HFFFFFF&}
+Dialogue: 0,0:02:47.75,0:02:48.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Quépers{\1c&HFFFFFF&}
+Dialogue: 0,0:02:48.48,0:02:49.17,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Adiós{\1c&HFFFFFF&}
+Dialogue: 0,0:02:49.06,0:02:49.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}No{\1c&HFFFFFF&}
+Dialogue: 0,0:02:50.62,0:02:50.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}No{\1c&HFFFFFF&} sé
+Dialogue: 0,0:02:50.75,0:02:50.85,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H0000FF&}sé{\1c&HFFFFFF&}
+Dialogue: 0,0:02:50.75,0:02:51.08,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Un{\1c&HFFFFFF&} des treblecle
+Dialogue: 0,0:02:51.08,0:02:51.08,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H0000FF&}des{\1c&HFFFFFF&} treblecle
+Dialogue: 0,0:02:51.08,0:02:53.22,Default,,0,0,0,,{\an5\pos(960,540)}Un des {\1c&H0000FF&}treblecle{\1c&HFFFFFF&}
+Dialogue: 0,0:02:53.22,0:02:53.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}participar{\1c&HFFFFFF&}
+Dialogue: 0,0:02:54.04,0:02:54.06,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Sorry{\1c&HFFFFFF&} about that
+Dialogue: 0,0:02:54.06,0:02:54.25,Default,,0,0,0,,{\an5\pos(960,540)}Sorry {\1c&H0000FF&}about{\1c&HFFFFFF&} that
+Dialogue: 0,0:02:54.25,0:02:54.37,Default,,0,0,0,,{\an5\pos(960,540)}Sorry about {\1c&H0000FF&}that{\1c&HFFFFFF&}
+Dialogue: 0,0:02:54.54,0:02:55.12,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Forward{\1c&HFFFFFF&} MV
+Dialogue: 0,0:02:55.12,0:02:55.68,Default,,0,0,0,,{\an5\pos(960,540)}Forward {\1c&H0000FF&}MV{\1c&HFFFFFF&}
+Dialogue: 0,0:02:55.58,0:02:55.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}del{\1c&HFFFFFF&} clima
+Dialogue: 0,0:02:55.68,0:02:56.14,Default,,0,0,0,,{\an5\pos(960,540)}del {\1c&H0000FF&}clima{\1c&HFFFFFF&}
+Dialogue: 0,0:02:56.14,0:02:56.58,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Un{\1c&HFFFFFF&} reactor produce energía
+Dialogue: 0,0:02:56.58,0:02:56.86,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H0000FF&}reactor{\1c&HFFFFFF&} produce energía
+Dialogue: 0,0:02:56.86,0:02:57.58,Default,,0,0,0,,{\an5\pos(960,540)}Un reactor {\1c&H0000FF&}produce{\1c&HFFFFFF&} energía
+Dialogue: 0,0:02:57.58,0:02:58.00,Default,,0,0,0,,{\an5\pos(960,540)}Un reactor produce {\1c&H0000FF&}energía{\1c&HFFFFFF&}
+Dialogue: 0,0:02:58.00,0:02:58.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}día{\1c&HFFFFFF&} y noche sin
+Dialogue: 0,0:02:58.68,0:02:58.96,Default,,0,0,0,,{\an5\pos(960,540)}día {\1c&H0000FF&}y{\1c&HFFFFFF&} noche sin
+Dialogue: 0,0:02:58.96,0:02:59.44,Default,,0,0,0,,{\an5\pos(960,540)}día y {\1c&H0000FF&}noche{\1c&HFFFFFF&} sin
+Dialogue: 0,0:02:59.44,0:02:59.72,Default,,0,0,0,,{\an5\pos(960,540)}día y noche {\1c&H0000FF&}sin{\1c&HFFFFFF&}
+Dialogue: 0,0:02:59.72,0:03:00.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}humo{\1c&HFFFFFF&} sin dióxido de
+Dialogue: 0,0:03:00.04,0:03:00.28,Default,,0,0,0,,{\an5\pos(960,540)}humo {\1c&H0000FF&}sin{\1c&HFFFFFF&} dióxido de
+Dialogue: 0,0:03:00.28,0:03:00.75,Default,,0,0,0,,{\an5\pos(960,540)}humo sin {\1c&H0000FF&}dióxido{\1c&HFFFFFF&} de
+Dialogue: 0,0:03:00.75,0:03:00.94,Default,,0,0,0,,{\an5\pos(960,540)}humo sin dióxido {\1c&H0000FF&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:03:00.94,0:03:01.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}carbono{\1c&HFFFFFF&} Mateo sostuvo
+Dialogue: 0,0:03:01.82,0:03:02.42,Default,,0,0,0,,{\an5\pos(960,540)}carbono {\1c&H0000FF&}Mateo{\1c&HFFFFFF&} sostuvo
+Dialogue: 0,0:03:02.42,0:03:03.03,Default,,0,0,0,,{\an5\pos(960,540)}carbono Mateo {\1c&H0000FF&}sostuvo{\1c&HFFFFFF&}
+Dialogue: 0,0:03:02.92,0:03:03.22,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}un{\1c&HFFFFFF&} pequeño cilindro metálico
+Dialogue: 0,0:03:03.22,0:03:03.56,Default,,0,0,0,,{\an5\pos(960,540)}un {\1c&H0000FF&}pequeño{\1c&HFFFFFF&} cilindro metálico
+Dialogue: 0,0:03:03.56,0:03:04.31,Default,,0,0,0,,{\an5\pos(960,540)}un pequeño {\1c&H0000FF&}cilindro{\1c&HFFFFFF&} metálico
+Dialogue: 0,0:03:04.31,0:03:05.14,Default,,0,0,0,,{\an5\pos(960,540)}un pequeño cilindro {\1c&H0000FF&}metálico{\1c&HFFFFFF&}
+Dialogue: 0,0:03:05.14,0:03:05.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Este{\1c&HFFFFFF&} pellet de uranio
+Dialogue: 0,0:03:05.75,0:03:06.12,Default,,0,0,0,,{\an5\pos(960,540)}Este {\1c&H0000FF&}pellet{\1c&HFFFFFF&} de uranio
+Dialogue: 0,0:03:06.12,0:03:06.25,Default,,0,0,0,,{\an5\pos(960,540)}Este pellet {\1c&H0000FF&}de{\1c&HFFFFFF&} uranio
+Dialogue: 0,0:03:06.25,0:03:06.64,Default,,0,0,0,,{\an5\pos(960,540)}Este pellet de {\1c&H0000FF&}uranio{\1c&HFFFFFF&}
+Dialogue: 0,0:03:06.64,0:03:06.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}produce{\1c&HFFFFFF&} la misma energía
+Dialogue: 0,0:03:06.92,0:03:07.14,Default,,0,0,0,,{\an5\pos(960,540)}produce {\1c&H0000FF&}la{\1c&HFFFFFF&} misma energía
+Dialogue: 0,0:03:07.14,0:03:07.32,Default,,0,0,0,,{\an5\pos(960,540)}produce la {\1c&H0000FF&}misma{\1c&HFFFFFF&} energía
+Dialogue: 0,0:03:07.32,0:03:07.68,Default,,0,0,0,,{\an5\pos(960,540)}produce la misma {\1c&H0000FF&}energía{\1c&HFFFFFF&}
+Dialogue: 0,0:03:07.68,0:03:07.98,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}que{\1c&HFFFFFF&} una tonelada
+Dialogue: 0,0:03:07.98,0:03:08.10,Default,,0,0,0,,{\an5\pos(960,540)}que {\1c&H0000FF&}una{\1c&HFFFFFF&} tonelada
+Dialogue: 0,0:03:08.10,0:03:08.67,Default,,0,0,0,,{\an5\pos(960,540)}que una {\1c&H0000FF&}tonelada{\1c&HFFFFFF&}
+Dialogue: 0,0:03:08.56,0:03:08.70,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}de{\1c&HFFFFFF&} carbón
+Dialogue: 0,0:03:08.70,0:03:09.31,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H0000FF&}carbón{\1c&HFFFFFF&}
+Dialogue: 0,0:03:09.31,0:03:09.86,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Algo{\1c&HFFFFFF&} tan pequeño puede
+Dialogue: 0,0:03:09.86,0:03:09.98,Default,,0,0,0,,{\an5\pos(960,540)}Algo {\1c&H0000FF&}tan{\1c&HFFFFFF&} pequeño puede
+Dialogue: 0,0:03:09.98,0:03:10.44,Default,,0,0,0,,{\an5\pos(960,540)}Algo tan {\1c&H0000FF&}pequeño{\1c&HFFFFFF&} puede
+Dialogue: 0,0:03:10.44,0:03:10.75,Default,,0,0,0,,{\an5\pos(960,540)}Algo tan pequeño {\1c&H0000FF&}puede{\1c&HFFFFFF&}
+Dialogue: 0,0:03:10.75,0:03:11.34,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}alimentar{\1c&HFFFFFF&} una ciudad
+Dialogue: 0,0:03:11.34,0:03:11.46,Default,,0,0,0,,{\an5\pos(960,540)}alimentar {\1c&H0000FF&}una{\1c&HFFFFFF&} ciudad
+Dialogue: 0,0:03:11.46,0:03:12.58,Default,,0,0,0,,{\an5\pos(960,540)}alimentar una {\1c&H0000FF&}ciudad{\1c&HFFFFFF&}
+Dialogue: 0,0:03:12.58,0:03:14.64,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Varias{\1c&HFFFFFF&}
+Dialogue: 0,0:03:14.64,0:03:15.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Entonces{\1c&HFFFFFF&} la energía
+Dialogue: 0,0:03:15.54,0:03:15.94,Default,,0,0,0,,{\an5\pos(960,540)}Entonces {\1c&H0000FF&}la{\1c&HFFFFFF&} energía
+Dialogue: 0,0:03:15.94,0:03:16.22,Default,,0,0,0,,{\an5\pos(960,540)}Entonces la {\1c&H0000FF&}energía{\1c&HFFFFFF&}
+Dialogue: 0,0:03:16.22,0:03:16.72,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}nuclear{\1c&HFFFFFF&} es
+Dialogue: 0,0:03:16.72,0:03:17.15,Default,,0,0,0,,{\an5\pos(960,540)}nuclear {\1c&H0000FF&}es{\1c&HFFFFFF&}
+Dialogue: 0,0:03:17.04,0:03:17.70,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}segura{\1c&HFFFFFF&} Todo puede ser
+Dialogue: 0,0:03:17.70,0:03:18.00,Default,,0,0,0,,{\an5\pos(960,540)}segura {\1c&H0000FF&}Todo{\1c&HFFFFFF&} puede ser
+Dialogue: 0,0:03:18.00,0:03:18.18,Default,,0,0,0,,{\an5\pos(960,540)}segura Todo {\1c&H0000FF&}puede{\1c&HFFFFFF&} ser
+Dialogue: 0,0:03:18.18,0:03:18.38,Default,,0,0,0,,{\an5\pos(960,540)}segura Todo puede {\1c&H0000FF&}ser{\1c&HFFFFFF&}
+Dialogue: 0,0:03:18.38,0:03:18.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}peligroso{\1c&HFFFFFF&} si se hace
+Dialogue: 0,0:03:18.92,0:03:19.00,Default,,0,0,0,,{\an5\pos(960,540)}peligroso {\1c&H0000FF&}si{\1c&HFFFFFF&} se hace
+Dialogue: 0,0:03:19.00,0:03:19.12,Default,,0,0,0,,{\an5\pos(960,540)}peligroso si {\1c&H0000FF&}se{\1c&HFFFFFF&} hace
+Dialogue: 0,0:03:19.12,0:03:19.22,Default,,0,0,0,,{\an5\pos(960,540)}peligroso si se {\1c&H0000FF&}hace{\1c&HFFFFFF&}
+Dialogue: 0,0:03:19.22,0:03:19.50,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}mal{\1c&HFFFFFF&} pero cuando respetamos
+Dialogue: 0,0:03:19.50,0:03:19.92,Default,,0,0,0,,{\an5\pos(960,540)}mal {\1c&H0000FF&}pero{\1c&HFFFFFF&} cuando respetamos
+Dialogue: 0,0:03:19.92,0:03:20.12,Default,,0,0,0,,{\an5\pos(960,540)}mal pero {\1c&H0000FF&}cuando{\1c&HFFFFFF&} respetamos
+Dialogue: 0,0:03:20.12,0:03:20.64,Default,,0,0,0,,{\an5\pos(960,540)}mal pero cuando {\1c&H0000FF&}respetamos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:20.64,0:03:20.78,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}la{\1c&HFFFFFF&} física la tecnología
+Dialogue: 0,0:03:20.78,0:03:21.26,Default,,0,0,0,,{\an5\pos(960,540)}la {\1c&H0000FF&}física{\1c&HFFFFFF&} la tecnología
+Dialogue: 0,0:03:21.26,0:03:21.53,Default,,0,0,0,,{\an5\pos(960,540)}la física {\1c&H0000FF&}la{\1c&HFFFFFF&} tecnología
+Dialogue: 0,0:03:21.53,0:03:21.95,Default,,0,0,0,,{\an5\pos(960,540)}la física la {\1c&H0000FF&}tecnología{\1c&HFFFFFF&}
+Dialogue: 0,0:03:21.84,0:03:22.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}funciona{\1c&HFFFFFF&} como debe
+Dialogue: 0,0:03:22.25,0:03:22.64,Default,,0,0,0,,{\an5\pos(960,540)}funciona {\1c&H0000FF&}como{\1c&HFFFFFF&} debe
+Dialogue: 0,0:03:22.64,0:03:23.00,Default,,0,0,0,,{\an5\pos(960,540)}funciona como {\1c&H0000FF&}debe{\1c&HFFFFFF&}
+Dialogue: 0,0:03:23.00,0:03:23.38,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}La{\1c&HFFFFFF&} energía nuclear es
+Dialogue: 0,0:03:23.38,0:03:23.64,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H0000FF&}energía{\1c&HFFFFFF&} nuclear es
+Dialogue: 0,0:03:23.64,0:03:24.03,Default,,0,0,0,,{\an5\pos(960,540)}La energía {\1c&H0000FF&}nuclear{\1c&HFFFFFF&} es
+Dialogue: 0,0:03:24.03,0:03:24.32,Default,,0,0,0,,{\an5\pos(960,540)}La energía nuclear {\1c&H0000FF&}es{\1c&HFFFFFF&}
+Dialogue: 0,0:03:24.32,0:03:24.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}una{\1c&HFFFFFF&} de las fuentes
+Dialogue: 0,0:03:24.44,0:03:24.54,Default,,0,0,0,,{\an5\pos(960,540)}una {\1c&H0000FF&}de{\1c&HFFFFFF&} las fuentes
+Dialogue: 0,0:03:24.54,0:03:24.66,Default,,0,0,0,,{\an5\pos(960,540)}una de {\1c&H0000FF&}las{\1c&HFFFFFF&} fuentes
+Dialogue: 0,0:03:24.66,0:03:24.98,Default,,0,0,0,,{\an5\pos(960,540)}una de las {\1c&H0000FF&}fuentes{\1c&HFFFFFF&}
+Dialogue: 0,0:03:24.98,0:03:25.14,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}más{\1c&HFFFFFF&} densas y limpias
+Dialogue: 0,0:03:25.14,0:03:25.53,Default,,0,0,0,,{\an5\pos(960,540)}más {\1c&H0000FF&}densas{\1c&HFFFFFF&} y limpias
+Dialogue: 0,0:03:25.53,0:03:25.60,Default,,0,0,0,,{\an5\pos(960,540)}más densas {\1c&H0000FF&}y{\1c&HFFFFFF&} limpias
+Dialogue: 0,0:03:25.60,0:03:25.96,Default,,0,0,0,,{\an5\pos(960,540)}más densas y {\1c&H0000FF&}limpias{\1c&HFFFFFF&}
+Dialogue: 0,0:03:25.96,0:03:26.10,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}que{\1c&HFFFFFF&} tenemos
+Dialogue: 0,0:03:26.10,0:03:26.46,Default,,0,0,0,,{\an5\pos(960,540)}que {\1c&H0000FF&}tenemos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:26.50,0:03:26.78,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}y{\1c&HFFFFFF&} si queremos electricidad
+Dialogue: 0,0:03:26.78,0:03:26.90,Default,,0,0,0,,{\an5\pos(960,540)}y {\1c&H0000FF&}si{\1c&HFFFFFF&} queremos electricidad
+Dialogue: 0,0:03:26.90,0:03:27.10,Default,,0,0,0,,{\an5\pos(960,540)}y si {\1c&H0000FF&}queremos{\1c&HFFFFFF&} electricidad
+Dialogue: 0,0:03:27.10,0:03:27.94,Default,,0,0,0,,{\an5\pos(960,540)}y si queremos {\1c&H0000FF&}electricidad{\1c&HFFFFFF&}
+Dialogue: 0,0:03:27.94,0:03:28.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}hospitales{\1c&HFFFFFF&} y agua potable
+Dialogue: 0,0:03:28.68,0:03:28.75,Default,,0,0,0,,{\an5\pos(960,540)}hospitales {\1c&H0000FF&}y{\1c&HFFFFFF&} agua potable
+Dialogue: 0,0:03:28.75,0:03:28.90,Default,,0,0,0,,{\an5\pos(960,540)}hospitales y {\1c&H0000FF&}agua{\1c&HFFFFFF&} potable
+Dialogue: 0,0:03:28.90,0:03:29.31,Default,,0,0,0,,{\an5\pos(960,540)}hospitales y agua {\1c&H0000FF&}potable{\1c&HFFFFFF&}
+Dialogue: 0,0:03:29.31,0:03:29.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}para{\1c&HFFFFFF&} miles de millones
+Dialogue: 0,0:03:29.46,0:03:29.64,Default,,0,0,0,,{\an5\pos(960,540)}para {\1c&H0000FF&}miles{\1c&HFFFFFF&} de millones
+Dialogue: 0,0:03:29.64,0:03:29.84,Default,,0,0,0,,{\an5\pos(960,540)}para miles {\1c&H0000FF&}de{\1c&HFFFFFF&} millones
+Dialogue: 0,0:03:29.84,0:03:30.22,Default,,0,0,0,,{\an5\pos(960,540)}para miles de {\1c&H0000FF&}millones{\1c&HFFFFFF&}
+Dialogue: 0,0:03:30.22,0:03:30.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}vamos{\1c&HFFFFFF&} a necesitarla
+Dialogue: 0,0:03:30.53,0:03:30.70,Default,,0,0,0,,{\an5\pos(960,540)}vamos {\1c&H0000FF&}a{\1c&HFFFFFF&} necesitarla
+Dialogue: 0,0:03:30.70,0:03:31.37,Default,,0,0,0,,{\an5\pos(960,540)}vamos a {\1c&H0000FF&}necesitarla{\1c&HFFFFFF&}
+Dialogue: 0,0:03:32.20,0:03:32.70,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}Detrás{\1c&HFFFFFF&} de ellos el
+Dialogue: 0,0:03:32.70,0:03:32.84,Default,,0,0,0,,{\an5\pos(960,540)}Detrás {\1c&H0000FF&}de{\1c&HFFFFFF&} ellos el
+Dialogue: 0,0:03:32.84,0:03:33.26,Default,,0,0,0,,{\an5\pos(960,540)}Detrás de {\1c&H0000FF&}ellos{\1c&HFFFFFF&} el
+Dialogue: 0,0:03:33.26,0:03:33.62,Default,,0,0,0,,{\an5\pos(960,540)}Detrás de ellos {\1c&H0000FF&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:03:33.62,0:03:33.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}reactor{\1c&HFFFFFF&} seguía funcionando en
+Dialogue: 0,0:03:33.90,0:03:34.46,Default,,0,0,0,,{\an5\pos(960,540)}reactor {\1c&H0000FF&}seguía{\1c&HFFFFFF&} funcionando en
+Dialogue: 0,0:03:34.46,0:03:35.06,Default,,0,0,0,,{\an5\pos(960,540)}reactor seguía {\1c&H0000FF&}funcionando{\1c&HFFFFFF&} en
+Dialogue: 0,0:03:35.06,0:03:35.16,Default,,0,0,0,,{\an5\pos(960,540)}reactor seguía funcionando {\1c&H0000FF&}en{\1c&HFFFFFF&}
+Dialogue: 0,0:03:35.16,0:03:35.72,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}silencio{\1c&HFFFFFF&} sin sirenas
+Dialogue: 0,0:03:35.72,0:03:36.12,Default,,0,0,0,,{\an5\pos(960,540)}silencio {\1c&H0000FF&}sin{\1c&HFFFFFF&} sirenas
+Dialogue: 0,0:03:36.12,0:03:36.91,Default,,0,0,0,,{\an5\pos(960,540)}silencio sin {\1c&H0000FF&}sirenas{\1c&HFFFFFF&}
+Dialogue: 0,0:03:36.81,0:03:37.16,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}sin{\1c&HFFFFFF&} explosiones solo
+Dialogue: 0,0:03:37.16,0:03:38.03,Default,,0,0,0,,{\an5\pos(960,540)}sin {\1c&H0000FF&}explosiones{\1c&HFFFFFF&} solo
+Dialogue: 0,0:03:38.03,0:03:38.46,Default,,0,0,0,,{\an5\pos(960,540)}sin explosiones {\1c&H0000FF&}solo{\1c&HFFFFFF&}
+Dialogue: 0,0:03:38.46,0:03:38.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}átomos{\1c&HFFFFFF&} dividiéndose lentamente
+Dialogue: 0,0:03:38.90,0:03:39.53,Default,,0,0,0,,{\an5\pos(960,540)}átomos {\1c&H0000FF&}dividiéndose{\1c&HFFFFFF&} lentamente
+Dialogue: 0,0:03:39.53,0:03:40.08,Default,,0,0,0,,{\an5\pos(960,540)}átomos dividiéndose {\1c&H0000FF&}lentamente{\1c&HFFFFFF&}
+Dialogue: 0,0:03:40.08,0:03:40.32,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H0000FF&}y{\1c&HFFFFFF&} alimentando el mundo
+Dialogue: 0,0:03:40.32,0:03:41.00,Default,,0,0,0,,{\an5\pos(960,540)}y {\1c&H0000FF&}alimentando{\1c&HFFFFFF&} el mundo
+Dialogue: 0,0:03:41.00,0:03:41.10,Default,,0,0,0,,{\an5\pos(960,540)}y alimentando {\1c&H0000FF&}el{\1c&HFFFFFF&} mundo
+Dialogue: 0,0:03:41.10,0:03:41.39,Default,,0,0,0,,{\an5\pos(960,540)}y alimentando el {\1c&H0000FF&}mundo{\1c&HFFFFFF&}

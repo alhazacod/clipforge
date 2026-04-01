@@ -42,7 +42,7 @@ for i, (voice_name, text) in enumerate(voice_blocks, start=1):
 
     response = requests.post(KOKORO_URL, json=payload, stream=True)
     if response.status_code != 200:
-        print(f"❌ Error {response.status_code}: {response.text}")
+        print(f" Error {response.status_code}: {response.text}")
         continue
 
     with open(output_path, "wb") as f:
@@ -58,7 +58,7 @@ with open(concat_file, "w", encoding="utf-8") as f:
         f.write(f"file '{os.path.abspath(wav)}'\n")
 
 # 5. Merge with ffmpeg
-print(f"\n🔊 Combining {len(wav_files)} segments into {OUTPUT_FILE}...")
+print(f"\n Combining {len(wav_files)} segments into {OUTPUT_FILE}...")
 subprocess.run([
     "ffmpeg", "-y",
     "-f", "concat", "-safe", "0",
@@ -67,4 +67,4 @@ subprocess.run([
     OUTPUT_FILE
 ], check=True)
 
-print(f"✅ Done! Saved combined audio as '{OUTPUT_FILE}'")
+print(f" Done! Saved combined audio as '{OUTPUT_FILE}'")

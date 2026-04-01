@@ -1,9 +1,9 @@
 import os
 
-files = ['videos_to_concat.txt', 
-         'first_half.mp4',
-         'second_half.mp4',
-         'temp_synced.mp4']
+files = [
+         'temp_synced.mp4',
+         'final_with_subs.mp4',
+         ]
 
 
 for file_path in files:

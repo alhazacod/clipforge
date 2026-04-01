@@ -1,153 +1,67 @@
-<voice name="em_alex">Si un reactor nuclear realmente fuera como en las películas… la ciudad entera estaría evacuando ahora mismo.</voice>
+<voice name="es_m_franco">Si un reactor nuclear realmente fuera como en las películas… la ciudad entera estaría evacuando ahora mismo. Pero no había sirenas. No había luces rojas. La sala de control estaba en silencio.</voice>
 
-<voice name="em_alex">Pero no había sirenas.</voice>
+<voice name="es_f_diana">¿Eso es lo normal?</voice>
 
-<voice name="em_alex">No había luces rojas.</voice>
+<voice name="es_m_franco">Preguntó Lina mientras observaba el panel del reactor con inquietud. Su abuelo Mateo, ingeniero nuclear desde hacía treinta años, sonrió levemente.</voice>
 
-<voice name="em_alex">La sala de control estaba en silencio.</voice>
+<voice name="es_m_aldo">Muy normal.</voice>
 
-<voice name="ef_dora">¿Eso es lo normal?</voice>
+<voice name="es_m_franco">Mateo señaló la ventana de seguridad. Debajo, una piscina profunda de agua clara. En el fondo, estructuras metálicas brillaban con un resplandor azul.</voice>
 
-<voice name="em_alex">Preguntó Lina mientras observaba el panel del reactor con inquietud.</voice>
+<voice name="es_f_diana">¿Ese es el reactor?</voice>
 
-<voice name="em_alex">Su abuelo Mateo, ingeniero nuclear desde hacía treinta años, sonrió levemente.</voice>
+<voice name="es_m_aldo">Ese es el reactor.</voice>
 
-<voice name="em_santa">Muy normal.</voice>
+<voice name="es_f_diana">No parece peligroso.</voice>
 
-<voice name="em_alex">Mateo señaló la ventana de seguridad.</voice>
+<voice name="es_m_aldo">La mayoría de las cosas realmente peligrosas no se ven dramáticas.</voice>
 
-<voice name="em_alex">Debajo, una piscina profunda de agua clara.</voice>
+<voice name="es_m_franco">Mateo caminó hacia la ventana que daba a la ciudad. El sol se estaba poniendo y las luces comenzaban a encenderse.</voice>
 
-<voice name="em_alex">En el fondo, estructuras metálicas brillaban con un resplandor azul.</voice>
+<voice name="es_m_aldo">Mira esa ciudad. Hospitales. Trenes. Fábricas. Servidores que sostienen internet. Todo necesita energía.</voice>
 
-<voice name="ef_dora">¿Ese es el reactor?</voice>
+<voice name="es_f_diana">Muchísima.</voice>
 
-<voice name="em_santa">Ese es el reactor.</voice>
+<voice name="es_m_aldo">Durante más de un siglo, la obtuvimos quemando combustible. Carbón. Petróleo. Gas.</voice>
 
-<voice name="ef_dora">No parece peligroso.</voice>
+<voice name="es_m_franco">Mateo tomó una tableta y escribió dos números.</voice>
 
-<voice name="em_santa">La mayoría de las cosas realmente peligrosas no se ven dramáticas.</voice>
+<voice name="es_m_aldo">Un kilogramo de carbón produce unos ocho kilovatios-hora. Un kilogramo de uranio produce cerca de veinticuatro millones.</voice>
 
-<voice name="em_alex">Mateo caminó hacia la ventana que daba a la ciudad.</voice>
+<voice name="es_m_franco">Lina frunció el ceño.</voice>
 
-<voice name="em_alex">El sol se estaba poniendo y las luces comenzaban a encenderse.</voice>
+<voice name="es_f_diana">Eso no puede ser correcto.</voice>
 
-<voice name="em_santa">Mira esa ciudad.</voice>
+<voice name="es_m_aldo">Pero lo es. La energía nuclear viene del núcleo del átomo. Cuando dividimos átomos pesados como el uranio, una pequeña fracción de masa se transforma en energía. Energía igual a masa por la velocidad de la luz al cuadrado.</voice>
 
-<voice name="em_santa">Hospitales.</voice>
+<voice name="es_f_diana">Entonces… ¿por qué no explota como una bomba?</voice>
 
-<voice name="em_santa">Trenes.</voice>
+<voice name="es_m_aldo">Porque un reactor está diseñado para impedirlo. En una bomba el combustible tiene cerca del noventa por ciento de uranio doscientos treinta y cinco. La reacción ocurre en microsegundos. En un reactor solo hay entre tres y cinco por ciento. Y la reacción ocurre lentamente. Cada fisión libera varios neutrones. Pero el reactor está diseñado para que solo uno continúe la reacción. Así permanece estable.</voice>
 
-<voice name="em_santa">Fábricas.</voice>
+<voice name="es_f_diana">Como mantener el equilibrio en una bicicleta.</voice>
 
-<voice name="em_santa">Servidores que sostienen internet.</voice>
+<voice name="es_m_aldo">Exactamente.</voice>
 
-<voice name="em_santa">Todo necesita energía.</voice>
+<voice name="es_m_franco">Caminaron hasta la piscina del reactor. El agua brillaba con una luz azul intensa.</voice>
 
-<voice name="ef_dora">Muchísima.</voice>
+<voice name="es_f_diana">¿Qué es ese brillo?</voice>
 
-<voice name="em_santa">Durante más de un siglo, la obtuvimos quemando combustible.</voice>
+<voice name="es_m_aldo">Radiación de Cherenkov. Partículas moviéndose en el agua más rápido que la luz en ese medio. No más rápido que la luz en el vacío.</voice>
 
-<voice name="em_santa">Carbón.</voice>
+<voice name="es_m_franco">Salieron al exterior. La ciudad estaba completamente iluminada.</voice>
 
-<voice name="em_santa">Petróleo.</voice>
+<voice name="es_m_aldo">La energía eólica y solar son buenas. Pero dependen del clima. Un reactor produce energía día y noche. Sin humo. Sin dióxido de carbono.</voice>
 
-<voice name="em_santa">Gas.</voice>
+<voice name="es_m_franco">Mateo sostuvo un pequeño cilindro metálico.</voice>
 
-<voice name="em_alex">Mateo tomó una tableta y escribió dos números.</voice>
+<voice name="es_m_aldo">Este pellet de uranio produce la misma energía que una tonelada de carbón.</voice>
 
-<voice name="em_santa">Un kilogramo de carbón produce unos ocho kilovatios-hora.</voice>
+<voice name="es_f_diana">¿Algo tan pequeño puede alimentar una ciudad?</voice>
 
-<voice name="em_santa">Un kilogramo de uranio produce cerca de veinticuatro millones.</voice>
+<voice name="es_m_aldo">Varias.</voice>
 
-<voice name="em_alex">Lina frunció el ceño.</voice>
+<voice name="es_f_diana">Entonces… ¿la energía nuclear es segura?</voice>
 
-<voice name="ef_dora">Eso no puede ser correcto.</voice>
+<voice name="es_m_aldo">Todo puede ser peligroso si se hace mal. Pero cuando respetamos la física… la tecnología funciona como debe. La energía nuclear es una de las fuentes más densas y limpias que tenemos. Y si queremos electricidad, hospitales y agua potable para miles de millones… vamos a necesitarla.</voice>
 
-<voice name="em_santa">Pero lo es.</voice>
-
-<voice name="em_santa">La energía nuclear viene del núcleo del átomo.</voice>
-
-<voice name="em_santa">Cuando dividimos átomos pesados como el uranio, una pequeña fracción de masa se transforma en energía.</voice>
-
-<voice name="em_santa">Energía igual a masa por la velocidad de la luz al cuadrado.</voice>
-
-<voice name="ef_dora">Entonces… ¿por qué no explota como una bomba?</voice>
-
-<voice name="em_santa">Porque un reactor está diseñado para impedirlo.</voice>
-
-<voice name="em_santa">En una bomba el combustible tiene cerca del noventa por ciento de uranio doscientos treinta y cinco.</voice>
-
-<voice name="em_santa">La reacción ocurre en microsegundos.</voice>
-
-<voice name="em_santa">En un reactor solo hay entre tres y cinco por ciento.</voice>
-
-<voice name="em_santa">Y la reacción ocurre lentamente.</voice>
-
-<voice name="em_santa">Cada fisión libera varios neutrones.</voice>
-
-<voice name="em_santa">Pero el reactor está diseñado para que solo uno continúe la reacción.</voice>
-
-<voice name="em_santa">Así permanece estable.</voice>
-
-<voice name="ef_dora">Como mantener el equilibrio en una bicicleta.</voice>
-
-<voice name="em_santa">Exactamente.</voice>
-
-<voice name="em_alex">Caminaron hasta la piscina del reactor.</voice>
-
-<voice name="em_alex">El agua brillaba con una luz azul intensa.</voice>
-
-<voice name="ef_dora">¿Qué es ese brillo?</voice>
-
-<voice name="em_santa">Radiación de Cherenkov.</voice>
-
-<voice name="em_santa">Partículas moviéndose en el agua más rápido que la luz en ese medio.</voice>
-
-<voice name="em_santa">No más rápido que la luz en el vacío.</voice>
-
-<voice name="em_alex">Salieron al exterior.</voice>
-
-<voice name="em_alex">La ciudad estaba completamente iluminada.</voice>
-
-<voice name="em_santa">La energía eólica y solar son buenas.</voice>
-
-<voice name="em_santa">Pero dependen del clima.</voice>
-
-<voice name="em_santa">Un reactor produce energía día y noche.</voice>
-
-<voice name="em_santa">Sin humo.</voice>
-
-<voice name="em_santa">Sin dióxido de carbono.</voice>
-
-<voice name="em_alex">Mateo sostuvo un pequeño cilindro metálico.</voice>
-
-<voice name="em_santa">Este pellet de uranio produce la misma energía que una tonelada de carbón.</voice>
-
-<voice name="ef_dora">¿Algo tan pequeño puede alimentar una ciudad?</voice>
-
-<voice name="em_santa">Varias.</voice>
-
-<voice name="ef_dora">Entonces… ¿la energía nuclear es segura?</voice>
-
-<voice name="em_santa">Todo puede ser peligroso si se hace mal.</voice>
-
-<voice name="em_santa">Pero cuando respetamos la física…</voice>
-
-<voice name="em_santa">la tecnología funciona como debe.</voice>
-
-<voice name="em_santa">La energía nuclear es una de las fuentes más densas y limpias que tenemos.</voice>
-
-<voice name="em_santa">Y si queremos electricidad, hospitales y agua potable para miles de millones…</voice>
-
-<voice name="em_santa">vamos a necesitarla.</voice>
-
-<voice name="em_alex">Detrás de ellos, el reactor seguía funcionando en silencio.</voice>
-
-<voice name="em_alex">Sin sirenas.</voice>
-
-<voice name="em_alex">Sin explosiones.</voice>
-
-<voice name="em_alex">Solo átomos dividiéndose lentamente…</voice>
-
-<voice name="em_alex">y alimentando el mundo.</voice>
+<voice name="es_m_franco">Detrás de ellos, el reactor seguía funcionando en silencio. Sin sirenas. Sin explosiones. Solo átomos dividiéndose lentamente… y alimentando el mundo.</voice>

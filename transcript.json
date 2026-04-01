@@ -1,0 +1,4841 @@
+{
+  "text": " Si un reactor nuclear realmente fuera como en las películas, la ciudad entera estaría evacuando ahora mismo. Pero no había sirenas. No había luces rojas. La sala de control estaba en silencio. Eso es lo normal. Preguntó Lina mientras observaba el panel del reactor con inquietud. Su abuelo Mateo, ingeniero nuclear desde hacía 30 años, sonrió levemente. Muy normal. Mateo señaló la ventana de seguridad. Debajo, una piscina profunda de agua clara. En el fondo, estructuras metálicas brillaban con un resplandor azul. Ese es el reactor. Ese es el reactor. No parece peligroso. La mayoría de las cosas realmente peligrosas no se ven dramáticas. Mateo caminó hacia la ventana que daba a la ciudad. El sol se estaba poniendo y las luces comenzaban a encenderse. Mira esa ciudad. Hospitales, trenes, fábricas, servidores que sostienen internet. Todo necesita energía. Muchísima. Durante más de un siglo, la obtuvimos quemando combustible. Carbón, petróleo, gas. Mateo tomó una tableta y escribió dos números. Un kilogramo de carbón produce unos 8 kilovatios hora. Un kilogramo de uranio produce cerca de 24 millones. Lina frunció el seño. Eso no puede ser correcto. Pero lo es. La energía nuclear viene del núcleo del átomo. Cuando dividimos átomos pesados como el uranio, una pequeña fracción de masa se transforma en energía. Energía igual a masa por la velocidad. De la luz al cuadrado. Entonces, ¿por qué no explota como una bomba? Porque un reactor está diseñado para impedirlo. En una bomba, el combustible tiene cerca del 90% de uranio-235. La reacción ocurre en microsegundos. En un reactor solo hay entre 3 y 5%. Y la reacción ocurre lentamente. Cada fisión libera varios neutrones. Pero el reactor está diseñado para que solo uno continúe la reacción. Así permanece estable. Como mantener el equilibrio en una bicicleta. Exactamente. Caminaron hasta la piscina del reactor. El agua brillaba con una luz azul intensa. ¿Qué es ese brillo? Radiación de Cherenkov. Partículas moviéndose en el agua más rápido que la luz en ese medio. No más rápido que la luz en el vacío. Salieron al exterior. La ciudad estaba completamente iluminada. La energía eólica y solar son buenas. Pero dependen del clima. Un reactor produce energía día y noche. Sin humo. Sin dióxido de carbono. Mateo sostuvo un pequeño cilindro metálico. Este pellet de uranio produce la misma energía que una tonelada de carbón. Algo tan pequeño puede alimentar una ciudad. Varias. Entonces, la energía nuclear es segura. Todo puede ser peligroso si se hace mal. Pero cuando respetamos la física, la tecnología funciona como debe. La energía nuclear es una de las fuentes más densas y limpias que tenemos. Y si queremos electricidad, hospitales y agua potable, para mí, vamos a necesitarla. Detrás de ellos, el reactor seguía funcionando en silencio. Sin sirenas. Sin explosiones. Solo átomos dividiéndose lentamente. Y alimentando el mundo.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.08,
+      "text": " Si un reactor nuclear realmente fuera como en las películas, la ciudad entera estaría evacuando ahora mismo.",
+      "tokens": [
+        50365,
+        4909,
+        517,
+        20628,
+        8179,
+        14446,
+        24818,
+        2617,
+        465,
+        2439,
+        31810,
+        296,
+        11,
+        635,
+        24329,
+        948,
+        1663,
+        8755,
+        2686,
+        20245,
+        84,
+        1806,
+        9923,
+        12461,
+        13,
+        50575
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Si",
+          "start": 0.0,
+          "end": 0.04,
+          "probability": 0.9832801818847656
+        },
+        {
+          "word": " un",
+          "start": 0.04,
+          "end": 0.1,
+          "probability": 0.9998958110809326
+        },
+        {
+          "word": " reactor",
+          "start": 0.1,
+          "end": 0.26,
+          "probability": 0.9989138841629028
+        },
+        {
+          "word": " nuclear",
+          "start": 0.26,
+          "end": 0.62,
+          "probability": 0.9998973608016968
+        },
+        {
+          "word": " realmente",
+          "start": 0.62,
+          "end": 0.98,
+          "probability": 0.9998109936714172
+        },
+        {
+          "word": " fuera",
+          "start": 0.98,
+          "end": 1.36,
+          "probability": 0.9999756813049316
+        },
+        {
+          "word": " como",
+          "start": 1.36,
+          "end": 1.56,
+          "probability": 0.9998111128807068
+        },
+        {
+          "word": " en",
+          "start": 1.56,
+          "end": 1.68,
+          "probability": 0.9998646974563599
+        },
+        {
+          "word": " las",
+          "start": 1.68,
+          "end": 1.74,
+          "probability": 0.99996018409729
+        },
+        {
+          "word": " películas,",
+          "start": 1.74,
+          "end": 2.2,
+          "probability": 0.9999659061431885
+        },
+        {
+          "word": " la",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.9997851252555847
+        },
+        {
+          "word": " ciudad",
+          "start": 2.46,
+          "end": 2.68,
+          "probability": 0.999790370464325
+        },
+        {
+          "word": " entera",
+          "start": 2.68,
+          "end": 3.02,
+          "probability": 0.9998414218425751
+        },
+        {
+          "word": " estaría",
+          "start": 3.02,
+          "end": 3.34,
+          "probability": 0.9999247789382935
+        },
+        {
+          "word": " evacuando",
+          "start": 3.34,
+          "end": 3.64,
+          "probability": 0.9999542633692423
+        },
+        {
+          "word": " ahora",
+          "start": 3.64,
+          "end": 3.84,
+          "probability": 0.9994099140167236
+        },
+        {
+          "word": " mismo.",
+          "start": 3.84,
+          "end": 4.08,
+          "probability": 0.9999581575393677
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.22,
+      "end": 7.96,
+      "text": " Pero no había sirenas. No había luces rojas. La sala de control estaba en silencio.",
+      "tokens": [
+        50582,
+        9377,
+        572,
+        16395,
+        262,
+        18833,
+        296,
+        13,
+        883,
+        16395,
+        10438,
+        887,
+        744,
+        19221,
+        13,
+        2369,
+        37596,
+        368,
+        1969,
+        17544,
+        465,
+        3425,
+        268,
+        8529,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Pero",
+          "start": 4.22,
+          "end": 4.4,
+          "probability": 0.9988692402839661
+        },
+        {
+          "word": " no",
+          "start": 4.4,
+          "end": 4.58,
+          "probability": 0.999853253364563
+        },
+        {
+          "word": " había",
+          "start": 4.58,
+          "end": 4.76,
+          "probability": 0.9999504089355469
+        },
+        {
+          "word": " sirenas.",
+          "start": 4.76,
+          "end": 5.2,
+          "probability": 0.9979444344838461
+        },
+        {
+          "word": " No",
+          "start": 5.2,
+          "end": 5.4,
+          "probability": 0.9998961687088013
+        },
+        {
+          "word": " había",
+          "start": 5.4,
+          "end": 5.56,
+          "probability": 0.9999324083328247
+        },
+        {
+          "word": " luces",
+          "start": 5.56,
+          "end": 5.94,
+          "probability": 0.9999250173568726
+        },
+        {
+          "word": " rojas.",
+          "start": 5.94,
+          "end": 6.26,
+          "probability": 0.9999139904975891
+        },
+        {
+          "word": " La",
+          "start": 6.34,
+          "end": 6.52,
+          "probability": 0.9997102618217468
+        },
+        {
+          "word": " sala",
+          "start": 6.52,
+          "end": 6.66,
+          "probability": 0.9998278617858887
+        },
+        {
+          "word": " de",
+          "start": 6.66,
+          "end": 6.78,
+          "probability": 0.999950647354126
+        },
+        {
+          "word": " control",
+          "start": 6.78,
+          "end": 7.0,
+          "probability": 0.9999656677246094
+        },
+        {
+          "word": " estaba",
+          "start": 7.0,
+          "end": 7.38,
+          "probability": 0.9996992349624634
+        },
+        {
+          "word": " en",
+          "start": 7.38,
+          "end": 7.56,
+          "probability": 0.9999039173126221
+        },
+        {
+          "word": " silencio.",
+          "start": 7.56,
+          "end": 7.96,
+          "probability": 0.9999603430430094
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.06,
+      "end": 8.78,
+      "text": " Eso es lo normal.",
+      "tokens": [
+        50773,
+        27795,
+        785,
+        450,
+        2710,
+        13,
+        50810
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Eso",
+          "start": 8.06,
+          "end": 8.28,
+          "probability": 0.6909886598587036
+        },
+        {
+          "word": " es",
+          "start": 8.28,
+          "end": 8.44,
+          "probability": 0.9999638795852661
+        },
+        {
+          "word": " lo",
+          "start": 8.44,
+          "end": 8.56,
+          "probability": 0.9998873472213745
+        },
+        {
+          "word": " normal.",
+          "start": 8.56,
+          "end": 8.78,
+          "probability": 0.9999459981918335
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.98,
+      "end": 11.58,
+      "text": " Preguntó Lina mientras observaba el panel del reactor con inquietud.",
+      "tokens": [
+        50819,
+        430,
+        3375,
+        2760,
+        812,
+        441,
+        1426,
+        26010,
+        9951,
+        5509,
+        806,
+        4831,
+        1103,
+        20628,
+        416,
+        13570,
+        1684,
+        532,
+        13,
+        50948
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Preguntó",
+          "start": 8.98,
+          "end": 9.36,
+          "probability": 0.9977422207593918
+        },
+        {
+          "word": " Lina",
+          "start": 9.36,
+          "end": 9.54,
+          "probability": 0.9915450513362885
+        },
+        {
+          "word": " mientras",
+          "start": 9.54,
+          "end": 9.84,
+          "probability": 0.9579518437385559
+        },
+        {
+          "word": " observaba",
+          "start": 9.84,
+          "end": 10.36,
+          "probability": 0.9999713897705078
+        },
+        {
+          "word": " el",
+          "start": 10.36,
+          "end": 10.46,
+          "probability": 0.9999363422393799
+        },
+        {
+          "word": " panel",
+          "start": 10.46,
+          "end": 10.56,
+          "probability": 0.9998438358306885
+        },
+        {
+          "word": " del",
+          "start": 10.56,
+          "end": 10.76,
+          "probability": 0.9998793601989746
+        },
+        {
+          "word": " reactor",
+          "start": 10.76,
+          "end": 10.98,
+          "probability": 0.9998387098312378
+        },
+        {
+          "word": " con",
+          "start": 10.98,
+          "end": 11.22,
+          "probability": 0.9997382760047913
+        },
+        {
+          "word": " inquietud.",
+          "start": 11.22,
+          "end": 11.58,
+          "probability": 0.9999212423960367
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.68,
+      "end": 14.68,
+      "text": " Su abuelo Mateo, ingeniero nuclear desde hacía 30 años, sonrió levemente.",
+      "tokens": [
+        50956,
+        2746,
+        410,
+        3483,
+        78,
+        27594,
+        78,
+        11,
+        21600,
+        12030,
+        8179,
+        10188,
+        324,
+        31298,
+        2217,
+        11424,
+        11,
+        1872,
+        44802,
+        33076,
+        4082,
+        13,
+        51104
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Su",
+          "start": 11.68,
+          "end": 11.88,
+          "probability": 0.9994474053382874
+        },
+        {
+          "word": " abuelo",
+          "start": 11.88,
+          "end": 12.1,
+          "probability": 0.9999181032180786
+        },
+        {
+          "word": " Mateo,",
+          "start": 12.1,
+          "end": 12.3,
+          "probability": 0.9980548918247223
+        },
+        {
+          "word": " ingeniero",
+          "start": 12.4,
+          "end": 12.76,
+          "probability": 0.9998735189437866
+        },
+        {
+          "word": " nuclear",
+          "start": 12.76,
+          "end": 12.94,
+          "probability": 0.9999514818191528
+        },
+        {
+          "word": " desde",
+          "start": 12.94,
+          "end": 13.2,
+          "probability": 0.999808132648468
+        },
+        {
+          "word": " hacía",
+          "start": 13.2,
+          "end": 13.44,
+          "probability": 0.9995997250080109
+        },
+        {
+          "word": " 30",
+          "start": 13.44,
+          "end": 13.6,
+          "probability": 0.9843888282775879
+        },
+        {
+          "word": " años,",
+          "start": 13.6,
+          "end": 13.9,
+          "probability": 0.9999797344207764
+        },
+        {
+          "word": " sonrió",
+          "start": 14.0,
+          "end": 14.3,
+          "probability": 0.9997657239437103
+        },
+        {
+          "word": " levemente.",
+          "start": 14.3,
+          "end": 14.68,
+          "probability": 0.9997952878475189
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.9,
+      "end": 15.28,
+      "text": " Muy normal.",
+      "tokens": [
+        51113,
+        39586,
+        2710,
+        13,
+        51136
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Muy",
+          "start": 14.9,
+          "end": 15.08,
+          "probability": 0.9956545829772949
+        },
+        {
+          "word": " normal.",
+          "start": 15.08,
+          "end": 15.28,
+          "probability": 0.9948911666870117
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.44,
+      "end": 16.92,
+      "text": " Mateo señaló la ventana de seguridad.",
+      "tokens": [
+        51145,
+        27594,
+        78,
+        13830,
+        304,
+        812,
+        635,
+        6931,
+        2095,
+        368,
+        35415,
+        13,
+        51220
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Mateo",
+          "start": 15.44,
+          "end": 15.84,
+          "probability": 0.9985567033290863
+        },
+        {
+          "word": " señaló",
+          "start": 15.84,
+          "end": 16.2,
+          "probability": 0.9998841285705566
+        },
+        {
+          "word": " la",
+          "start": 16.2,
+          "end": 16.32,
+          "probability": 0.999854326248169
+        },
+        {
+          "word": " ventana",
+          "start": 16.32,
+          "end": 16.64,
+          "probability": 0.9999691843986511
+        },
+        {
+          "word": " de",
+          "start": 16.64,
+          "end": 16.72,
+          "probability": 0.9999594688415527
+        },
+        {
+          "word": " seguridad.",
+          "start": 16.72,
+          "end": 16.92,
+          "probability": 0.9999188184738159
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 17.2,
+      "end": 18.84,
+      "text": " Debajo, una piscina profunda de agua clara.",
+      "tokens": [
+        51233,
+        1346,
+        9338,
+        78,
+        11,
+        2002,
+        280,
+        5606,
+        1426,
+        1740,
+        11946,
+        368,
+        19330,
+        596,
+        2419,
+        13,
+        51311
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Debajo,",
+          "start": 17.2,
+          "end": 17.6,
+          "probability": 0.9997924168904623
+        },
+        {
+          "word": " una",
+          "start": 17.6,
+          "end": 17.7,
+          "probability": 0.9998834133148193
+        },
+        {
+          "word": " piscina",
+          "start": 17.7,
+          "end": 18.06,
+          "probability": 0.9999510447184244
+        },
+        {
+          "word": " profunda",
+          "start": 18.06,
+          "end": 18.38,
+          "probability": 0.9999009966850281
+        },
+        {
+          "word": " de",
+          "start": 18.38,
+          "end": 18.48,
+          "probability": 0.9999611377716064
+        },
+        {
+          "word": " agua",
+          "start": 18.48,
+          "end": 18.58,
+          "probability": 0.9998658895492554
+        },
+        {
+          "word": " clara.",
+          "start": 18.58,
+          "end": 18.84,
+          "probability": 0.9999030530452728
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 18.96,
+      "end": 21.58,
+      "text": " En el fondo, estructuras metálicas brillaban con un resplandor azul.",
+      "tokens": [
+        51320,
+        2193,
+        806,
+        38101,
+        11,
+        43935,
+        12907,
+        1131,
+        842,
+        1050,
+        296,
+        8695,
+        18165,
+        416,
+        517,
+        725,
+        564,
+        474,
+        284,
+        39580,
+        13,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " En",
+          "start": 18.96,
+          "end": 19.12,
+          "probability": 0.9997521042823792
+        },
+        {
+          "word": " el",
+          "start": 19.12,
+          "end": 19.2,
+          "probability": 0.9999850988388062
+        },
+        {
+          "word": " fondo,",
+          "start": 19.2,
+          "end": 19.48,
+          "probability": 0.9999734163284302
+        },
+        {
+          "word": " estructuras",
+          "start": 19.56,
+          "end": 19.96,
+          "probability": 0.9999564290046692
+        },
+        {
+          "word": " metálicas",
+          "start": 19.96,
+          "end": 20.36,
+          "probability": 0.9998717904090881
+        },
+        {
+          "word": " brillaban",
+          "start": 20.36,
+          "end": 20.8,
+          "probability": 0.9996799230575562
+        },
+        {
+          "word": " con",
+          "start": 20.8,
+          "end": 20.96,
+          "probability": 0.9999508857727051
+        },
+        {
+          "word": " un",
+          "start": 20.96,
+          "end": 21.08,
+          "probability": 0.99992835521698
+        },
+        {
+          "word": " resplandor",
+          "start": 21.08,
+          "end": 21.42,
+          "probability": 0.9997016042470932
+        },
+        {
+          "word": " azul.",
+          "start": 21.42,
+          "end": 21.58,
+          "probability": 0.9998617172241211
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 21.82,
+      "end": 22.5,
+      "text": " Ese es el reactor.",
+      "tokens": [
+        51461,
+        462,
+        405,
+        785,
+        806,
+        20628,
+        13,
+        51496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Ese",
+          "start": 21.82,
+          "end": 22.06,
+          "probability": 0.9992077350616455
+        },
+        {
+          "word": " es",
+          "start": 22.06,
+          "end": 22.18,
+          "probability": 0.9999938011169434
+        },
+        {
+          "word": " el",
+          "start": 22.18,
+          "end": 22.3,
+          "probability": 0.9999855756759644
+        },
+        {
+          "word": " reactor.",
+          "start": 22.3,
+          "end": 22.5,
+          "probability": 0.9999536275863647
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 22.74,
+      "end": 23.42,
+      "text": " Ese es el reactor.",
+      "tokens": [
+        51506,
+        462,
+        405,
+        785,
+        806,
+        20628,
+        13,
+        51544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Ese",
+          "start": 22.74,
+          "end": 22.98,
+          "probability": 0.9721158146858215
+        },
+        {
+          "word": " es",
+          "start": 22.98,
+          "end": 23.1,
+          "probability": 0.9999650716781616
+        },
+        {
+          "word": " el",
+          "start": 23.1,
+          "end": 23.24,
+          "probability": 0.999991774559021
+        },
+        {
+          "word": " reactor.",
+          "start": 23.24,
+          "end": 23.42,
+          "probability": 0.9999912977218628
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 23.72,
+      "end": 24.68,
+      "text": " No parece peligroso.",
+      "tokens": [
+        51544,
+        883,
+        14120,
+        43839,
+        2635,
+        78,
+        13,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " No",
+          "start": 23.72,
+          "end": 23.88,
+          "probability": 0.9992560744285583
+        },
+        {
+          "word": " parece",
+          "start": 23.88,
+          "end": 24.08,
+          "probability": 0.9999085664749146
+        },
+        {
+          "word": " peligroso.",
+          "start": 24.08,
+          "end": 24.68,
+          "probability": 0.9999812046686808
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 24.76,
+      "end": 27.32,
+      "text": " La mayoría de las cosas realmente peligrosas no se ven dramáticas.",
+      "tokens": [
+        51607,
+        2369,
+        35342,
+        368,
+        2439,
+        12218,
+        14446,
+        43839,
+        2635,
+        296,
+        572,
+        369,
+        6138,
+        7538,
+        44997,
+        13,
+        51736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " La",
+          "start": 24.76,
+          "end": 24.9,
+          "probability": 0.9990598559379578
+        },
+        {
+          "word": " mayoría",
+          "start": 24.9,
+          "end": 25.04,
+          "probability": 0.9999700784683228
+        },
+        {
+          "word": " de",
+          "start": 25.04,
+          "end": 25.24,
+          "probability": 0.9999936819076538
+        },
+        {
+          "word": " las",
+          "start": 25.24,
+          "end": 25.3,
+          "probability": 0.9999245405197144
+        },
+        {
+          "word": " cosas",
+          "start": 25.3,
+          "end": 25.56,
+          "probability": 0.999974250793457
+        },
+        {
+          "word": " realmente",
+          "start": 25.56,
+          "end": 25.9,
+          "probability": 0.9810404181480408
+        },
+        {
+          "word": " peligrosas",
+          "start": 25.9,
+          "end": 26.56,
+          "probability": 0.9999756018320719
+        },
+        {
+          "word": " no",
+          "start": 26.56,
+          "end": 26.7,
+          "probability": 0.9998946189880371
+        },
+        {
+          "word": " se",
+          "start": 26.7,
+          "end": 26.82,
+          "probability": 0.9999593496322632
+        },
+        {
+          "word": " ven",
+          "start": 26.82,
+          "end": 26.94,
+          "probability": 0.9999165534973145
+        },
+        {
+          "word": " dramáticas.",
+          "start": 26.94,
+          "end": 27.32,
+          "probability": 0.9991529285907745
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 27.48,
+      "end": 29.42,
+      "text": " Mateo caminó hacia la ventana que daba a la ciudad.",
+      "tokens": [
+        51745,
+        27594,
+        78,
+        1945,
+        259,
+        812,
+        21365,
+        635,
+        6931,
+        2095,
+        631,
+        274,
+        5509,
+        257,
+        635,
+        24329,
+        13,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1022859053178267,
+      "compression_ratio": 1.7438423645320198,
+      "no_speech_prob": 0.0009538480080664158,
+      "words": [
+        {
+          "word": " Mateo",
+          "start": 27.48,
+          "end": 27.8,
+          "probability": 0.9995118975639343
+        },
+        {
+          "word": " caminó",
+          "start": 27.8,
+          "end": 28.1,
+          "probability": 0.9999435742696127
+        },
+        {
+          "word": " hacia",
+          "start": 28.1,
+          "end": 28.3,
+          "probability": 0.9999693632125854
+        },
+        {
+          "word": " la",
+          "start": 28.3,
+          "end": 28.46,
+          "probability": 0.9999830722808838
+        },
+        {
+          "word": " ventana",
+          "start": 28.46,
+          "end": 28.76,
+          "probability": 0.9999693036079407
+        },
+        {
+          "word": " que",
+          "start": 28.76,
+          "end": 28.88,
+          "probability": 0.997040331363678
+        },
+        {
+          "word": " daba",
+          "start": 28.88,
+          "end": 29.12,
+          "probability": 0.9998333156108856
+        },
+        {
+          "word": " a",
+          "start": 29.12,
+          "end": 29.16,
+          "probability": 0.8885189890861511
+        },
+        {
+          "word": " la",
+          "start": 29.16,
+          "end": 29.18,
+          "probability": 0.9999837875366211
+        },
+        {
+          "word": " ciudad.",
+          "start": 29.18,
+          "end": 29.42,
+          "probability": 0.999909520149231
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2942,
+      "start": 29.42,
+      "end": 32.02,
+      "text": " El sol se estaba poniendo y las luces comenzaban a encenderse.",
+      "tokens": [
+        50365,
+        2699,
+        1404,
+        369,
+        17544,
+        9224,
+        7304,
+        288,
+        2439,
+        10438,
+        887,
+        29564,
+        18165,
+        257,
+        2058,
+        3216,
+        405,
+        13,
+        50499
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " El",
+          "start": 29.42,
+          "end": 29.7,
+          "probability": 0.9569103121757507
+        },
+        {
+          "word": " sol",
+          "start": 29.7,
+          "end": 29.88,
+          "probability": 0.9931437969207764
+        },
+        {
+          "word": " se",
+          "start": 29.88,
+          "end": 30.02,
+          "probability": 0.9994542002677917
+        },
+        {
+          "word": " estaba",
+          "start": 30.02,
+          "end": 30.2,
+          "probability": 0.9994592070579529
+        },
+        {
+          "word": " poniendo",
+          "start": 30.2,
+          "end": 30.56,
+          "probability": 0.9998974502086639
+        },
+        {
+          "word": " y",
+          "start": 30.56,
+          "end": 30.68,
+          "probability": 0.998180627822876
+        },
+        {
+          "word": " las",
+          "start": 30.68,
+          "end": 30.72,
+          "probability": 0.9997596144676208
+        },
+        {
+          "word": " luces",
+          "start": 30.72,
+          "end": 30.98,
+          "probability": 0.99995356798172
+        },
+        {
+          "word": " comenzaban",
+          "start": 30.98,
+          "end": 31.46,
+          "probability": 0.9993472695350647
+        },
+        {
+          "word": " a",
+          "start": 31.46,
+          "end": 31.6,
+          "probability": 0.9998164772987366
+        },
+        {
+          "word": " encenderse.",
+          "start": 31.6,
+          "end": 32.02,
+          "probability": 0.9996781547864279
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2942,
+      "start": 32.1,
+      "end": 32.84,
+      "text": " Mira esa ciudad.",
+      "tokens": [
+        50507,
+        28394,
+        11342,
+        24329,
+        13,
+        50542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Mira",
+          "start": 32.1,
+          "end": 32.34,
+          "probability": 0.9289388060569763
+        },
+        {
+          "word": " esa",
+          "start": 32.34,
+          "end": 32.54,
+          "probability": 0.9722370505332947
+        },
+        {
+          "word": " ciudad.",
+          "start": 32.54,
+          "end": 32.84,
+          "probability": 0.9998723268508911
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2942,
+      "start": 33.24,
+      "end": 35.94,
+      "text": " Hospitales, trenes, fábricas, servidores que sostienen internet.",
+      "tokens": [
+        50559,
+        15645,
+        279,
+        11,
+        23136,
+        279,
+        11,
+        15299,
+        65,
+        1341,
+        296,
+        11,
+        1658,
+        38835,
+        631,
+        41585,
+        22461,
+        4705,
+        13,
+        50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Hospitales,",
+          "start": 33.24,
+          "end": 33.68,
+          "probability": 0.994547039270401
+        },
+        {
+          "word": " trenes,",
+          "start": 33.7,
+          "end": 34.14,
+          "probability": 0.9998748600482941
+        },
+        {
+          "word": " fábricas,",
+          "start": 34.14,
+          "end": 34.72,
+          "probability": 0.9999122619628906
+        },
+        {
+          "word": " servidores",
+          "start": 34.72,
+          "end": 35.16,
+          "probability": 0.9998810589313507
+        },
+        {
+          "word": " que",
+          "start": 35.16,
+          "end": 35.36,
+          "probability": 0.999825656414032
+        },
+        {
+          "word": " sostienen",
+          "start": 35.36,
+          "end": 35.74,
+          "probability": 0.9999439120292664
+        },
+        {
+          "word": " internet.",
+          "start": 35.74,
+          "end": 35.94,
+          "probability": 0.6561042666435242
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2942,
+      "start": 36.24,
+      "end": 37.02,
+      "text": " Todo necesita energía.",
+      "tokens": [
+        50712,
+        26466,
+        45485,
+        34315,
+        13,
+        50753
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Todo",
+          "start": 36.24,
+          "end": 36.42,
+          "probability": 0.9985066056251526
+        },
+        {
+          "word": " necesita",
+          "start": 36.42,
+          "end": 36.7,
+          "probability": 0.999920129776001
+        },
+        {
+          "word": " energía.",
+          "start": 36.7,
+          "end": 37.02,
+          "probability": 0.99992835521698
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2942,
+      "start": 37.46,
+      "end": 37.9,
+      "text": " Muchísima.",
+      "tokens": [
+        50769,
+        12313,
+        5113,
+        4775,
+        13,
+        50791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Muchísima.",
+          "start": 37.46,
+          "end": 37.9,
+          "probability": 0.992089033126831
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2942,
+      "start": 38.0,
+      "end": 40.36,
+      "text": " Durante más de un siglo, la obtuvimos quemando combustible.",
+      "tokens": [
+        50800,
+        13710,
+        2879,
+        3573,
+        368,
+        517,
+        48578,
+        11,
+        635,
+        7464,
+        9350,
+        8372,
+        13026,
+        1806,
+        21161,
+        964,
+        13,
+        50913
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Durante",
+          "start": 38.0,
+          "end": 38.34,
+          "probability": 0.9998687207698822
+        },
+        {
+          "word": " más",
+          "start": 38.34,
+          "end": 38.44,
+          "probability": 0.999794065952301
+        },
+        {
+          "word": " de",
+          "start": 38.44,
+          "end": 38.56,
+          "probability": 0.9999619722366333
+        },
+        {
+          "word": " un",
+          "start": 38.56,
+          "end": 38.64,
+          "probability": 0.9999793767929077
+        },
+        {
+          "word": " siglo,",
+          "start": 38.64,
+          "end": 38.92,
+          "probability": 0.9997325539588928
+        },
+        {
+          "word": " la",
+          "start": 39.0,
+          "end": 39.16,
+          "probability": 0.999370276927948
+        },
+        {
+          "word": " obtuvimos",
+          "start": 39.16,
+          "end": 39.52,
+          "probability": 0.9999568462371826
+        },
+        {
+          "word": " quemando",
+          "start": 39.52,
+          "end": 39.82,
+          "probability": 0.9999386668205261
+        },
+        {
+          "word": " combustible.",
+          "start": 39.82,
+          "end": 40.36,
+          "probability": 0.9999784827232361
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2942,
+      "start": 40.44,
+      "end": 41.82,
+      "text": " Carbón, petróleo, gas.",
+      "tokens": [
+        50924,
+        2741,
+        65,
+        1801,
+        11,
+        3817,
+        11721,
+        41041,
+        11,
+        4211,
+        13,
+        50990
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Carbón,",
+          "start": 40.44,
+          "end": 40.88,
+          "probability": 0.9920570651690165
+        },
+        {
+          "word": " petróleo,",
+          "start": 40.9,
+          "end": 41.4,
+          "probability": 0.9998484055201212
+        },
+        {
+          "word": " gas.",
+          "start": 41.52,
+          "end": 41.82,
+          "probability": 0.9995740056037903
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2942,
+      "start": 41.96,
+      "end": 43.72,
+      "text": " Mateo tomó una tableta y escribió dos números.",
+      "tokens": [
+        50997,
+        27594,
+        78,
+        2916,
+        812,
+        2002,
+        14136,
+        64,
+        288,
+        30598,
+        5614,
+        812,
+        4491,
+        36545,
+        13,
+        51085
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Mateo",
+          "start": 41.96,
+          "end": 42.24,
+          "probability": 0.9886626899242401
+        },
+        {
+          "word": " tomó",
+          "start": 42.24,
+          "end": 42.46,
+          "probability": 0.9999510049819946
+        },
+        {
+          "word": " una",
+          "start": 42.46,
+          "end": 42.56,
+          "probability": 0.9998892545700073
+        },
+        {
+          "word": " tableta",
+          "start": 42.56,
+          "end": 42.98,
+          "probability": 0.9988847076892853
+        },
+        {
+          "word": " y",
+          "start": 42.98,
+          "end": 43.04,
+          "probability": 0.9999070167541504
+        },
+        {
+          "word": " escribió",
+          "start": 43.04,
+          "end": 43.34,
+          "probability": 0.999923825263977
+        },
+        {
+          "word": " dos",
+          "start": 43.34,
+          "end": 43.48,
+          "probability": 0.9994284510612488
+        },
+        {
+          "word": " números.",
+          "start": 43.48,
+          "end": 43.72,
+          "probability": 0.9999723434448242
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2942,
+      "start": 43.96,
+      "end": 46.12,
+      "text": " Un kilogramo de carbón produce unos 8 kilovatios hora.",
+      "tokens": [
+        51095,
+        1156,
+        21741,
+        78,
+        368,
+        12143,
+        1801,
+        5258,
+        17780,
+        1649,
+        5128,
+        5179,
+        267,
+        2717,
+        15098,
+        13,
+        51205
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Un",
+          "start": 43.96,
+          "end": 44.06,
+          "probability": 0.9933759570121765
+        },
+        {
+          "word": " kilogramo",
+          "start": 44.06,
+          "end": 44.4,
+          "probability": 0.9769935607910156
+        },
+        {
+          "word": " de",
+          "start": 44.4,
+          "end": 44.44,
+          "probability": 0.9999659061431885
+        },
+        {
+          "word": " carbón",
+          "start": 44.44,
+          "end": 44.74,
+          "probability": 0.9996795952320099
+        },
+        {
+          "word": " produce",
+          "start": 44.74,
+          "end": 44.98,
+          "probability": 0.9997394680976868
+        },
+        {
+          "word": " unos",
+          "start": 44.98,
+          "end": 45.3,
+          "probability": 0.9998315572738647
+        },
+        {
+          "word": " 8",
+          "start": 45.3,
+          "end": 45.54,
+          "probability": 0.8916264772415161
+        },
+        {
+          "word": " kilovatios",
+          "start": 45.54,
+          "end": 45.96,
+          "probability": 0.9867509603500366
+        },
+        {
+          "word": " hora.",
+          "start": 45.96,
+          "end": 46.12,
+          "probability": 0.9884995818138123
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2942,
+      "start": 46.24,
+      "end": 48.58,
+      "text": " Un kilogramo de uranio produce cerca de 24 millones.",
+      "tokens": [
+        51213,
+        1156,
+        21741,
+        78,
+        368,
+        4038,
+        282,
+        1004,
+        5258,
+        26770,
+        368,
+        4022,
+        22416,
+        13,
+        51330
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Un",
+          "start": 46.24,
+          "end": 46.44,
+          "probability": 0.9998929500579834
+        },
+        {
+          "word": " kilogramo",
+          "start": 46.44,
+          "end": 46.84,
+          "probability": 0.9995246231555939
+        },
+        {
+          "word": " de",
+          "start": 46.84,
+          "end": 46.84,
+          "probability": 0.9999927282333374
+        },
+        {
+          "word": " uranio",
+          "start": 46.84,
+          "end": 47.14,
+          "probability": 0.9991720716158549
+        },
+        {
+          "word": " produce",
+          "start": 47.14,
+          "end": 47.44,
+          "probability": 0.9997941851615906
+        },
+        {
+          "word": " cerca",
+          "start": 47.44,
+          "end": 47.78,
+          "probability": 0.999841570854187
+        },
+        {
+          "word": " de",
+          "start": 47.78,
+          "end": 47.96,
+          "probability": 0.9999911785125732
+        },
+        {
+          "word": " 24",
+          "start": 47.96,
+          "end": 48.2,
+          "probability": 0.9999032020568848
+        },
+        {
+          "word": " millones.",
+          "start": 48.2,
+          "end": 48.58,
+          "probability": 0.9997878670692444
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2942,
+      "start": 48.86,
+      "end": 49.76,
+      "text": " Lina frunció el seño.",
+      "tokens": [
+        51341,
+        441,
+        1426,
+        431,
+        11228,
+        812,
+        806,
+        369,
+        7716,
+        13,
+        51386
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Lina",
+          "start": 48.86,
+          "end": 49.06,
+          "probability": 0.9858218729496002
+        },
+        {
+          "word": " frunció",
+          "start": 49.06,
+          "end": 49.44,
+          "probability": 0.995110034942627
+        },
+        {
+          "word": " el",
+          "start": 49.44,
+          "end": 49.54,
+          "probability": 0.9999123811721802
+        },
+        {
+          "word": " seño.",
+          "start": 49.54,
+          "end": 49.76,
+          "probability": 0.7959030270576477
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 2942,
+      "start": 49.86,
+      "end": 51.04,
+      "text": " Eso no puede ser correcto.",
+      "tokens": [
+        51394,
+        27795,
+        572,
+        8919,
+        816,
+        3006,
+        78,
+        13,
+        51450
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Eso",
+          "start": 49.86,
+          "end": 50.14,
+          "probability": 0.9981887936592102
+        },
+        {
+          "word": " no",
+          "start": 50.14,
+          "end": 50.28,
+          "probability": 0.999984622001648
+        },
+        {
+          "word": " puede",
+          "start": 50.28,
+          "end": 50.44,
+          "probability": 0.9999603033065796
+        },
+        {
+          "word": " ser",
+          "start": 50.44,
+          "end": 50.64,
+          "probability": 0.9999910593032837
+        },
+        {
+          "word": " correcto.",
+          "start": 50.64,
+          "end": 51.04,
+          "probability": 0.9999474287033081
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 2942,
+      "start": 51.12,
+      "end": 51.66,
+      "text": " Pero lo es.",
+      "tokens": [
+        51455,
+        9377,
+        450,
+        785,
+        13,
+        51479
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Pero",
+          "start": 51.12,
+          "end": 51.3,
+          "probability": 0.9997261166572571
+        },
+        {
+          "word": " lo",
+          "start": 51.3,
+          "end": 51.42,
+          "probability": 0.9998452663421631
+        },
+        {
+          "word": " es.",
+          "start": 51.42,
+          "end": 51.66,
+          "probability": 0.9999885559082031
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 2942,
+      "start": 51.74,
+      "end": 53.52,
+      "text": " La energía nuclear viene del núcleo del átomo.",
+      "tokens": [
+        51486,
+        2369,
+        34315,
+        8179,
+        19561,
+        1103,
+        11908,
+        2160,
+        78,
+        1103,
+        7352,
+        83,
+        13395,
+        13,
+        51574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " La",
+          "start": 51.74,
+          "end": 51.84,
+          "probability": 0.9995310306549072
+        },
+        {
+          "word": " energía",
+          "start": 51.84,
+          "end": 52.02,
+          "probability": 0.9999672174453735
+        },
+        {
+          "word": " nuclear",
+          "start": 52.02,
+          "end": 52.32,
+          "probability": 0.999906063079834
+        },
+        {
+          "word": " viene",
+          "start": 52.32,
+          "end": 52.7,
+          "probability": 0.9997627139091492
+        },
+        {
+          "word": " del",
+          "start": 52.7,
+          "end": 52.92,
+          "probability": 0.9999510049819946
+        },
+        {
+          "word": " núcleo",
+          "start": 52.92,
+          "end": 53.22,
+          "probability": 0.999977191289266
+        },
+        {
+          "word": " del",
+          "start": 53.22,
+          "end": 53.3,
+          "probability": 0.999810516834259
+        },
+        {
+          "word": " átomo.",
+          "start": 53.3,
+          "end": 53.52,
+          "probability": 0.9999026457468668
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 2942,
+      "start": 53.62,
+      "end": 57.64,
+      "text": " Cuando dividimos átomos pesados como el uranio, una pequeña fracción de masa se transforma en energía.",
+      "tokens": [
+        51584,
+        21907,
+        4996,
+        8372,
+        7352,
+        83,
+        40934,
+        9262,
+        4181,
+        2617,
+        806,
+        4038,
+        282,
+        1004,
+        11,
+        2002,
+        47177,
+        431,
+        49354,
+        368,
+        29216,
+        369,
+        4088,
+        64,
+        465,
+        34315,
+        13,
+        51781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Cuando",
+          "start": 53.62,
+          "end": 53.86,
+          "probability": 0.9998025298118591
+        },
+        {
+          "word": " dividimos",
+          "start": 53.86,
+          "end": 54.24,
+          "probability": 0.9999710321426392
+        },
+        {
+          "word": " átomos",
+          "start": 54.24,
+          "end": 54.5,
+          "probability": 0.9998740752538046
+        },
+        {
+          "word": " pesados",
+          "start": 54.5,
+          "end": 54.9,
+          "probability": 0.9999087452888489
+        },
+        {
+          "word": " como",
+          "start": 54.9,
+          "end": 55.04,
+          "probability": 0.9975357055664062
+        },
+        {
+          "word": " el",
+          "start": 55.04,
+          "end": 55.16,
+          "probability": 0.9999635219573975
+        },
+        {
+          "word": " uranio,",
+          "start": 55.16,
+          "end": 55.46,
+          "probability": 0.9999064803123474
+        },
+        {
+          "word": " una",
+          "start": 55.5,
+          "end": 55.74,
+          "probability": 0.9998031258583069
+        },
+        {
+          "word": " pequeña",
+          "start": 55.74,
+          "end": 55.98,
+          "probability": 0.9999096393585205
+        },
+        {
+          "word": " fracción",
+          "start": 55.98,
+          "end": 56.36,
+          "probability": 0.9996475279331207
+        },
+        {
+          "word": " de",
+          "start": 56.36,
+          "end": 56.5,
+          "probability": 0.9999927282333374
+        },
+        {
+          "word": " masa",
+          "start": 56.5,
+          "end": 56.66,
+          "probability": 0.9996199607849121
+        },
+        {
+          "word": " se",
+          "start": 56.66,
+          "end": 56.92,
+          "probability": 0.999768078327179
+        },
+        {
+          "word": " transforma",
+          "start": 56.92,
+          "end": 57.4,
+          "probability": 0.999893456697464
+        },
+        {
+          "word": " en",
+          "start": 57.4,
+          "end": 57.42,
+          "probability": 0.9999473094940186
+        },
+        {
+          "word": " energía.",
+          "start": 57.42,
+          "end": 57.64,
+          "probability": 0.9997161030769348
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 2942,
+      "start": 57.78,
+      "end": 59.28,
+      "text": " Energía igual a masa por la velocidad.",
+      "tokens": [
+        51785,
+        48195,
+        2686,
+        10953,
+        257,
+        29216,
+        1515,
+        635,
+        50143,
+        13,
+        51863
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09836433551929614,
+      "compression_ratio": 1.6372315035799523,
+      "no_speech_prob": 0.00030954249086789787,
+      "words": [
+        {
+          "word": " Energía",
+          "start": 57.78,
+          "end": 58.18,
+          "probability": 0.9545204937458038
+        },
+        {
+          "word": " igual",
+          "start": 58.18,
+          "end": 58.38,
+          "probability": 0.9995507597923279
+        },
+        {
+          "word": " a",
+          "start": 58.38,
+          "end": 58.58,
+          "probability": 0.9916041493415833
+        },
+        {
+          "word": " masa",
+          "start": 58.58,
+          "end": 58.76,
+          "probability": 0.9965729713439941
+        },
+        {
+          "word": " por",
+          "start": 58.76,
+          "end": 58.92,
+          "probability": 0.9992430210113525
+        },
+        {
+          "word": " la",
+          "start": 58.92,
+          "end": 59.02,
+          "probability": 0.9998681545257568
+        },
+        {
+          "word": " velocidad.",
+          "start": 59.02,
+          "end": 59.28,
+          "probability": 0.9991697072982788
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5942,
+      "start": 59.42,
+      "end": 60.18,
+      "text": " De la luz al cuadrado.",
+      "tokens": [
+        50368,
+        1346,
+        635,
+        20671,
+        419,
+        34434,
+        14974,
+        13,
+        50405
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " De",
+          "start": 59.42,
+          "end": 59.5,
+          "probability": 0.005651525687426329
+        },
+        {
+          "word": " la",
+          "start": 59.5,
+          "end": 59.5,
+          "probability": 0.8906652927398682
+        },
+        {
+          "word": " luz",
+          "start": 59.5,
+          "end": 59.66,
+          "probability": 0.9492339491844177
+        },
+        {
+          "word": " al",
+          "start": 59.66,
+          "end": 59.8,
+          "probability": 0.9948428273200989
+        },
+        {
+          "word": " cuadrado.",
+          "start": 59.8,
+          "end": 60.18,
+          "probability": 0.9997780621051788
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 5942,
+      "start": 60.22,
+      "end": 61.92,
+      "text": " Entonces, ¿por qué no explota como una bomba?",
+      "tokens": [
+        50413,
+        15097,
+        11,
+        3841,
+        2816,
+        8057,
+        572,
+        1490,
+        5377,
+        2617,
+        2002,
+        7851,
+        64,
+        30,
+        50493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Entonces,",
+          "start": 60.22,
+          "end": 60.58,
+          "probability": 0.9154521226882935
+        },
+        {
+          "word": " ¿por",
+          "start": 60.7,
+          "end": 60.9,
+          "probability": 0.9927869439125061
+        },
+        {
+          "word": " qué",
+          "start": 60.9,
+          "end": 60.98,
+          "probability": 0.9984588623046875
+        },
+        {
+          "word": " no",
+          "start": 60.98,
+          "end": 61.12,
+          "probability": 0.9987792372703552
+        },
+        {
+          "word": " explota",
+          "start": 61.12,
+          "end": 61.42,
+          "probability": 0.9994408190250397
+        },
+        {
+          "word": " como",
+          "start": 61.42,
+          "end": 61.54,
+          "probability": 0.9867432117462158
+        },
+        {
+          "word": " una",
+          "start": 61.54,
+          "end": 61.66,
+          "probability": 0.997965931892395
+        },
+        {
+          "word": " bomba?",
+          "start": 61.66,
+          "end": 61.92,
+          "probability": 0.999405711889267
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 5942,
+      "start": 62.0,
+      "end": 63.76,
+      "text": " Porque un reactor está diseñado para impedirlo.",
+      "tokens": [
+        50498,
+        11287,
+        517,
+        20628,
+        3192,
+        3814,
+        2791,
+        1573,
+        1690,
+        22584,
+        347,
+        752,
+        13,
+        50587
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Porque",
+          "start": 62.0,
+          "end": 62.22,
+          "probability": 0.9986814856529236
+        },
+        {
+          "word": " un",
+          "start": 62.22,
+          "end": 62.34,
+          "probability": 0.9995130300521851
+        },
+        {
+          "word": " reactor",
+          "start": 62.34,
+          "end": 62.52,
+          "probability": 0.9982680082321167
+        },
+        {
+          "word": " está",
+          "start": 62.52,
+          "end": 62.82,
+          "probability": 0.9919354915618896
+        },
+        {
+          "word": " diseñado",
+          "start": 62.82,
+          "end": 63.22,
+          "probability": 0.9997180501619974
+        },
+        {
+          "word": " para",
+          "start": 63.22,
+          "end": 63.36,
+          "probability": 0.9881117343902588
+        },
+        {
+          "word": " impedirlo.",
+          "start": 63.36,
+          "end": 63.76,
+          "probability": 0.9993164738019308
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 5942,
+      "start": 63.9,
+      "end": 67.26,
+      "text": " En una bomba, el combustible tiene cerca del 90% de uranio-235.",
+      "tokens": [
+        50594,
+        2193,
+        2002,
+        7851,
+        64,
+        11,
+        806,
+        21161,
+        964,
+        7066,
+        26770,
+        1103,
+        4289,
+        4,
+        368,
+        4038,
+        282,
+        1004,
+        12,
+        17,
+        8794,
+        13,
+        50763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " En",
+          "start": 63.9,
+          "end": 64.02,
+          "probability": 0.9988316893577576
+        },
+        {
+          "word": " una",
+          "start": 64.02,
+          "end": 64.12,
+          "probability": 0.9997979998588562
+        },
+        {
+          "word": " bomba,",
+          "start": 64.12,
+          "end": 64.36,
+          "probability": 0.9998470544815063
+        },
+        {
+          "word": " el",
+          "start": 64.36,
+          "end": 64.42,
+          "probability": 0.9982971549034119
+        },
+        {
+          "word": " combustible",
+          "start": 64.42,
+          "end": 64.82,
+          "probability": 0.9999663829803467
+        },
+        {
+          "word": " tiene",
+          "start": 64.82,
+          "end": 65.14,
+          "probability": 0.9818994998931885
+        },
+        {
+          "word": " cerca",
+          "start": 65.14,
+          "end": 65.4,
+          "probability": 0.9986756443977356
+        },
+        {
+          "word": " del",
+          "start": 65.4,
+          "end": 65.58,
+          "probability": 0.9990352392196655
+        },
+        {
+          "word": " 90",
+          "start": 65.58,
+          "end": 65.78,
+          "probability": 0.9962825179100037
+        },
+        {
+          "word": "%",
+          "start": 65.78,
+          "end": 66.1,
+          "probability": 0.9756202101707458
+        },
+        {
+          "word": " de",
+          "start": 66.1,
+          "end": 66.4,
+          "probability": 0.9927799105644226
+        },
+        {
+          "word": " uranio",
+          "start": 66.4,
+          "end": 66.62,
+          "probability": 0.9831361373265585
+        },
+        {
+          "word": "-235.",
+          "start": 66.62,
+          "end": 67.26,
+          "probability": 0.9141254425048828
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 5942,
+      "start": 67.7,
+      "end": 69.22,
+      "text": " La reacción ocurre en microsegundos.",
+      "tokens": [
+        50787,
+        2369,
+        319,
+        49354,
+        26430,
+        265,
+        465,
+        3123,
+        37841,
+        70,
+        36518,
+        13,
+        50858
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " La",
+          "start": 67.7,
+          "end": 67.94,
+          "probability": 0.9995484948158264
+        },
+        {
+          "word": " reacción",
+          "start": 67.94,
+          "end": 68.22,
+          "probability": 0.9999495148658752
+        },
+        {
+          "word": " ocurre",
+          "start": 68.22,
+          "end": 68.68,
+          "probability": 0.9998554289340973
+        },
+        {
+          "word": " en",
+          "start": 68.68,
+          "end": 68.7,
+          "probability": 0.9996882677078247
+        },
+        {
+          "word": " microsegundos.",
+          "start": 68.7,
+          "end": 69.22,
+          "probability": 0.999237135052681
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 5942,
+      "start": 69.28,
+      "end": 71.28,
+      "text": " En un reactor solo hay entre 3 y 5%.",
+      "tokens": [
+        50866,
+        2193,
+        517,
+        20628,
+        6944,
+        4842,
+        3962,
+        805,
+        288,
+        1025,
+        6856,
+        50968
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " En",
+          "start": 69.28,
+          "end": 69.48,
+          "probability": 0.999713122844696
+        },
+        {
+          "word": " un",
+          "start": 69.48,
+          "end": 69.54,
+          "probability": 0.9999521970748901
+        },
+        {
+          "word": " reactor",
+          "start": 69.54,
+          "end": 69.74,
+          "probability": 0.9996774196624756
+        },
+        {
+          "word": " solo",
+          "start": 69.74,
+          "end": 69.98,
+          "probability": 0.9981681108474731
+        },
+        {
+          "word": " hay",
+          "start": 69.98,
+          "end": 70.28,
+          "probability": 0.624506950378418
+        },
+        {
+          "word": " entre",
+          "start": 70.28,
+          "end": 70.44,
+          "probability": 0.9996840953826904
+        },
+        {
+          "word": " 3",
+          "start": 70.44,
+          "end": 70.66,
+          "probability": 0.9969272017478943
+        },
+        {
+          "word": " y",
+          "start": 70.66,
+          "end": 70.78,
+          "probability": 0.9018992185592651
+        },
+        {
+          "word": " 5%.",
+          "start": 70.78,
+          "end": 71.28,
+          "probability": 0.9781338274478912
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 5942,
+      "start": 71.28,
+      "end": 72.8,
+      "text": " Y la reacción ocurre lentamente.",
+      "tokens": [
+        50968,
+        398,
+        635,
+        319,
+        49354,
+        26430,
+        265,
+        23556,
+        3439,
+        13,
+        51041
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Y",
+          "start": 71.28,
+          "end": 71.68,
+          "probability": 0.9986975193023682
+        },
+        {
+          "word": " la",
+          "start": 71.68,
+          "end": 71.74,
+          "probability": 0.9999325275421143
+        },
+        {
+          "word": " reacción",
+          "start": 71.74,
+          "end": 72.04,
+          "probability": 0.9999879598617554
+        },
+        {
+          "word": " ocurre",
+          "start": 72.04,
+          "end": 72.4,
+          "probability": 0.9999195337295532
+        },
+        {
+          "word": " lentamente.",
+          "start": 72.4,
+          "end": 72.8,
+          "probability": 0.9999746084213257
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 5942,
+      "start": 72.98,
+      "end": 74.5,
+      "text": " Cada fisión libera varios neutrones.",
+      "tokens": [
+        51052,
+        38603,
+        283,
+        36515,
+        6774,
+        64,
+        33665,
+        7989,
+        25562,
+        13,
+        51123
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Cada",
+          "start": 72.98,
+          "end": 73.18,
+          "probability": 0.9996820688247681
+        },
+        {
+          "word": " fisión",
+          "start": 73.18,
+          "end": 73.46,
+          "probability": 0.9961415827274323
+        },
+        {
+          "word": " libera",
+          "start": 73.46,
+          "end": 73.94,
+          "probability": 0.9999402165412903
+        },
+        {
+          "word": " varios",
+          "start": 73.94,
+          "end": 74.12,
+          "probability": 0.9991927742958069
+        },
+        {
+          "word": " neutrones.",
+          "start": 74.12,
+          "end": 74.5,
+          "probability": 0.9993249773979187
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 5942,
+      "start": 74.64,
+      "end": 77.22,
+      "text": " Pero el reactor está diseñado para que solo uno continúe la reacción.",
+      "tokens": [
+        51134,
+        9377,
+        806,
+        20628,
+        3192,
+        3814,
+        2791,
+        1573,
+        1690,
+        631,
+        6944,
+        8526,
+        1421,
+        2481,
+        68,
+        635,
+        319,
+        49354,
+        13,
+        51259
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Pero",
+          "start": 74.64,
+          "end": 74.82,
+          "probability": 0.9997497200965881
+        },
+        {
+          "word": " el",
+          "start": 74.82,
+          "end": 74.94,
+          "probability": 0.9998663663864136
+        },
+        {
+          "word": " reactor",
+          "start": 74.94,
+          "end": 75.14,
+          "probability": 0.9997124075889587
+        },
+        {
+          "word": " está",
+          "start": 75.14,
+          "end": 75.4,
+          "probability": 0.9997678399085999
+        },
+        {
+          "word": " diseñado",
+          "start": 75.4,
+          "end": 75.82,
+          "probability": 0.9999848206837972
+        },
+        {
+          "word": " para",
+          "start": 75.82,
+          "end": 75.98,
+          "probability": 0.9989858269691467
+        },
+        {
+          "word": " que",
+          "start": 75.98,
+          "end": 76.12,
+          "probability": 0.9998868703842163
+        },
+        {
+          "word": " solo",
+          "start": 76.12,
+          "end": 76.28,
+          "probability": 0.9931825995445251
+        },
+        {
+          "word": " uno",
+          "start": 76.28,
+          "end": 76.48,
+          "probability": 0.9992300271987915
+        },
+        {
+          "word": " continúe",
+          "start": 76.48,
+          "end": 76.86,
+          "probability": 0.9978419144948324
+        },
+        {
+          "word": " la",
+          "start": 76.86,
+          "end": 76.96,
+          "probability": 0.9998192191123962
+        },
+        {
+          "word": " reacción.",
+          "start": 76.96,
+          "end": 77.22,
+          "probability": 0.9999865293502808
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 5942,
+      "start": 77.36,
+      "end": 78.32,
+      "text": " Así permanece estable.",
+      "tokens": [
+        51271,
+        17419,
+        8105,
+        68,
+        384,
+        37444,
+        13,
+        51318
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Así",
+          "start": 77.36,
+          "end": 77.62,
+          "probability": 0.9995585083961487
+        },
+        {
+          "word": " permanece",
+          "start": 77.62,
+          "end": 78.08,
+          "probability": 0.9994955857594808
+        },
+        {
+          "word": " estable.",
+          "start": 78.08,
+          "end": 78.32,
+          "probability": 0.9998024106025696
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 5942,
+      "start": 78.58,
+      "end": 80.32,
+      "text": " Como mantener el equilibrio en una bicicleta.",
+      "tokens": [
+        51328,
+        11913,
+        42759,
+        806,
+        14204,
+        6584,
+        465,
+        2002,
+        34472,
+        299,
+        2631,
+        64,
+        13,
+        51413
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Como",
+          "start": 78.58,
+          "end": 78.74,
+          "probability": 0.4377234876155853
+        },
+        {
+          "word": " mantener",
+          "start": 78.74,
+          "end": 79.02,
+          "probability": 0.9999014139175415
+        },
+        {
+          "word": " el",
+          "start": 79.02,
+          "end": 79.26,
+          "probability": 0.9998629093170166
+        },
+        {
+          "word": " equilibrio",
+          "start": 79.26,
+          "end": 79.6,
+          "probability": 0.9999620318412781
+        },
+        {
+          "word": " en",
+          "start": 79.6,
+          "end": 79.78,
+          "probability": 0.9997630715370178
+        },
+        {
+          "word": " una",
+          "start": 79.78,
+          "end": 79.88,
+          "probability": 0.9998094439506531
+        },
+        {
+          "word": " bicicleta.",
+          "start": 79.88,
+          "end": 80.32,
+          "probability": 0.9999605417251587
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 5942,
+      "start": 80.64,
+      "end": 81.04,
+      "text": " Exactamente.",
+      "tokens": [
+        51431,
+        7199,
+        3439,
+        13,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Exactamente.",
+          "start": 80.64,
+          "end": 81.04,
+          "probability": 0.9841903746128082
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 5942,
+      "start": 81.18,
+      "end": 82.56,
+      "text": " Caminaron hasta la piscina del reactor.",
+      "tokens": [
+        51460,
+        6886,
+        259,
+        6372,
+        10764,
+        635,
+        280,
+        5606,
+        1426,
+        1103,
+        20628,
+        13,
+        51529
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Caminaron",
+          "start": 81.18,
+          "end": 81.52,
+          "probability": 0.9972432653109232
+        },
+        {
+          "word": " hasta",
+          "start": 81.52,
+          "end": 81.78,
+          "probability": 0.9997828602790833
+        },
+        {
+          "word": " la",
+          "start": 81.78,
+          "end": 81.9,
+          "probability": 0.9999300241470337
+        },
+        {
+          "word": " piscina",
+          "start": 81.9,
+          "end": 82.24,
+          "probability": 0.9999800125757853
+        },
+        {
+          "word": " del",
+          "start": 82.24,
+          "end": 82.34,
+          "probability": 0.999829888343811
+        },
+        {
+          "word": " reactor.",
+          "start": 82.34,
+          "end": 82.56,
+          "probability": 0.9998039603233337
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 5942,
+      "start": 82.82,
+      "end": 84.56,
+      "text": " El agua brillaba con una luz azul intensa.",
+      "tokens": [
+        51539,
+        2699,
+        19330,
+        8695,
+        5509,
+        416,
+        2002,
+        20671,
+        39580,
+        14056,
+        64,
+        13,
+        51625
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " El",
+          "start": 82.82,
+          "end": 82.94,
+          "probability": 0.9993320107460022
+        },
+        {
+          "word": " agua",
+          "start": 82.94,
+          "end": 83.08,
+          "probability": 0.9999070167541504
+        },
+        {
+          "word": " brillaba",
+          "start": 83.08,
+          "end": 83.4,
+          "probability": 0.9999079406261444
+        },
+        {
+          "word": " con",
+          "start": 83.4,
+          "end": 83.62,
+          "probability": 0.9997912049293518
+        },
+        {
+          "word": " una",
+          "start": 83.62,
+          "end": 83.74,
+          "probability": 0.9998741149902344
+        },
+        {
+          "word": " luz",
+          "start": 83.74,
+          "end": 83.9,
+          "probability": 0.9999878406524658
+        },
+        {
+          "word": " azul",
+          "start": 83.9,
+          "end": 84.12,
+          "probability": 0.9998000264167786
+        },
+        {
+          "word": " intensa.",
+          "start": 84.12,
+          "end": 84.56,
+          "probability": 0.9997338354587555
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 5942,
+      "start": 84.64,
+      "end": 85.48,
+      "text": " ¿Qué es ese brillo?",
+      "tokens": [
+        51631,
+        3841,
+        15137,
+        785,
+        10167,
+        8695,
+        78,
+        30,
+        51671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " ¿Qué",
+          "start": 84.64,
+          "end": 84.82,
+          "probability": 0.993169903755188
+        },
+        {
+          "word": " es",
+          "start": 84.82,
+          "end": 84.88,
+          "probability": 0.9124287366867065
+        },
+        {
+          "word": " ese",
+          "start": 84.88,
+          "end": 85.1,
+          "probability": 0.9992324113845825
+        },
+        {
+          "word": " brillo?",
+          "start": 85.1,
+          "end": 85.48,
+          "probability": 0.99986931681633
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 5942,
+      "start": 85.66,
+      "end": 86.54,
+      "text": " Radiación de Cherenkov.",
+      "tokens": [
+        51680,
+        37806,
+        3482,
+        368,
+        14825,
+        268,
+        33516,
+        13,
+        51727
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Radiación",
+          "start": 85.66,
+          "end": 86.06,
+          "probability": 0.9920403063297272
+        },
+        {
+          "word": " de",
+          "start": 86.06,
+          "end": 86.18,
+          "probability": 0.9999420642852783
+        },
+        {
+          "word": " Cherenkov.",
+          "start": 86.18,
+          "end": 86.54,
+          "probability": 0.9750439127286276
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 5942,
+      "start": 86.8,
+      "end": 89.4,
+      "text": " Partículas moviéndose en el agua más rápido que la luz en ese medio.",
+      "tokens": [
+        51739,
+        4100,
+        15304,
+        296,
+        2402,
+        72,
+        34577,
+        541,
+        465,
+        806,
+        19330,
+        3573,
+        24893,
+        631,
+        635,
+        20671,
+        465,
+        10167,
+        22123,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11145338861111602,
+      "compression_ratio": 1.6650602409638555,
+      "no_speech_prob": 0.001157447462901473,
+      "words": [
+        {
+          "word": " Partículas",
+          "start": 86.8,
+          "end": 87.2,
+          "probability": 0.998977800210317
+        },
+        {
+          "word": " moviéndose",
+          "start": 87.2,
+          "end": 87.6,
+          "probability": 0.9994324892759323
+        },
+        {
+          "word": " en",
+          "start": 87.6,
+          "end": 87.78,
+          "probability": 0.9998966455459595
+        },
+        {
+          "word": " el",
+          "start": 87.78,
+          "end": 87.86,
+          "probability": 0.9999189376831055
+        },
+        {
+          "word": " agua",
+          "start": 87.86,
+          "end": 88.02,
+          "probability": 0.9992037415504456
+        },
+        {
+          "word": " más",
+          "start": 88.02,
+          "end": 88.22,
+          "probability": 0.9978905320167542
+        },
+        {
+          "word": " rápido",
+          "start": 88.22,
+          "end": 88.54,
+          "probability": 0.9993571639060974
+        },
+        {
+          "word": " que",
+          "start": 88.54,
+          "end": 88.7,
+          "probability": 0.9996496438980103
+        },
+        {
+          "word": " la",
+          "start": 88.7,
+          "end": 88.76,
+          "probability": 0.9998749494552612
+        },
+        {
+          "word": " luz",
+          "start": 88.76,
+          "end": 88.96,
+          "probability": 0.9998549222946167
+        },
+        {
+          "word": " en",
+          "start": 88.96,
+          "end": 89.08,
+          "probability": 0.9808679223060608
+        },
+        {
+          "word": " ese",
+          "start": 89.08,
+          "end": 89.22,
+          "probability": 0.9966078996658325
+        },
+        {
+          "word": " medio.",
+          "start": 89.22,
+          "end": 89.4,
+          "probability": 0.7144793272018433
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 8942,
+      "start": 89.42,
+      "end": 91.12,
+      "text": " No más rápido que la luz en el vacío.",
+      "tokens": [
+        50365,
+        883,
+        3573,
+        24893,
+        631,
+        635,
+        20671,
+        465,
+        806,
+        2842,
+        20492,
+        13,
+        50452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " No",
+          "start": 89.42,
+          "end": 89.68,
+          "probability": 0.41359853744506836
+        },
+        {
+          "word": " más",
+          "start": 89.68,
+          "end": 89.84,
+          "probability": 0.9949578642845154
+        },
+        {
+          "word": " rápido",
+          "start": 89.84,
+          "end": 90.18,
+          "probability": 0.999219536781311
+        },
+        {
+          "word": " que",
+          "start": 90.18,
+          "end": 90.34,
+          "probability": 0.9993054866790771
+        },
+        {
+          "word": " la",
+          "start": 90.34,
+          "end": 90.4,
+          "probability": 0.9994012117385864
+        },
+        {
+          "word": " luz",
+          "start": 90.4,
+          "end": 90.58,
+          "probability": 0.9998021721839905
+        },
+        {
+          "word": " en",
+          "start": 90.58,
+          "end": 90.72,
+          "probability": 0.9992377758026123
+        },
+        {
+          "word": " el",
+          "start": 90.72,
+          "end": 90.8,
+          "probability": 0.9996445178985596
+        },
+        {
+          "word": " vacío.",
+          "start": 90.8,
+          "end": 91.12,
+          "probability": 0.9995066821575165
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 8942,
+      "start": 91.26,
+      "end": 92.0,
+      "text": " Salieron al exterior.",
+      "tokens": [
+        50462,
+        5996,
+        14440,
+        419,
+        20677,
+        13,
+        50501
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Salieron",
+          "start": 91.26,
+          "end": 91.56,
+          "probability": 0.9811632037162781
+        },
+        {
+          "word": " al",
+          "start": 91.56,
+          "end": 91.74,
+          "probability": 0.9995823502540588
+        },
+        {
+          "word": " exterior.",
+          "start": 91.74,
+          "end": 92.0,
+          "probability": 0.9995185136795044
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 8942,
+      "start": 92.26,
+      "end": 94.0,
+      "text": " La ciudad estaba completamente iluminada.",
+      "tokens": [
+        50513,
+        2369,
+        24329,
+        17544,
+        28381,
+        1930,
+        7112,
+        1538,
+        13,
+        50598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " La",
+          "start": 92.26,
+          "end": 92.38,
+          "probability": 0.9994614720344543
+        },
+        {
+          "word": " ciudad",
+          "start": 92.38,
+          "end": 92.6,
+          "probability": 0.9990410208702087
+        },
+        {
+          "word": " estaba",
+          "start": 92.6,
+          "end": 92.92,
+          "probability": 0.9995610117912292
+        },
+        {
+          "word": " completamente",
+          "start": 92.92,
+          "end": 93.32,
+          "probability": 0.9998915195465088
+        },
+        {
+          "word": " iluminada.",
+          "start": 93.32,
+          "end": 94.0,
+          "probability": 0.9999534289042155
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 8942,
+      "start": 94.14,
+      "end": 95.64,
+      "text": " La energía eólica y solar son buenas.",
+      "tokens": [
+        50605,
+        2369,
+        34315,
+        308,
+        812,
+        44266,
+        288,
+        7936,
+        1872,
+        43852,
+        13,
+        50681
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " La",
+          "start": 94.14,
+          "end": 94.26,
+          "probability": 0.9972866773605347
+        },
+        {
+          "word": " energía",
+          "start": 94.26,
+          "end": 94.42,
+          "probability": 0.9998345375061035
+        },
+        {
+          "word": " eólica",
+          "start": 94.42,
+          "end": 94.86,
+          "probability": 0.9999274810155233
+        },
+        {
+          "word": " y",
+          "start": 94.86,
+          "end": 95.02,
+          "probability": 0.9998148083686829
+        },
+        {
+          "word": " solar",
+          "start": 95.02,
+          "end": 95.2,
+          "probability": 0.999896764755249
+        },
+        {
+          "word": " son",
+          "start": 95.2,
+          "end": 95.4,
+          "probability": 0.9996534585952759
+        },
+        {
+          "word": " buenas.",
+          "start": 95.4,
+          "end": 95.64,
+          "probability": 0.9996588230133057
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 8942,
+      "start": 95.76,
+      "end": 96.84,
+      "text": " Pero dependen del clima.",
+      "tokens": [
+        50690,
+        9377,
+        5672,
+        268,
+        1103,
+        596,
+        4775,
+        13,
+        50739
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Pero",
+          "start": 95.76,
+          "end": 95.98,
+          "probability": 0.9981982111930847
+        },
+        {
+          "word": " dependen",
+          "start": 95.98,
+          "end": 96.44,
+          "probability": 0.9989732205867767
+        },
+        {
+          "word": " del",
+          "start": 96.44,
+          "end": 96.56,
+          "probability": 0.9998315572738647
+        },
+        {
+          "word": " clima.",
+          "start": 96.56,
+          "end": 96.84,
+          "probability": 0.9996423423290253
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 8942,
+      "start": 96.92,
+      "end": 98.54,
+      "text": " Un reactor produce energía día y noche.",
+      "tokens": [
+        50748,
+        1156,
+        20628,
+        5258,
+        34315,
+        12271,
+        288,
+        29735,
+        13,
+        50828
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Un",
+          "start": 96.92,
+          "end": 97.12,
+          "probability": 0.9994412064552307
+        },
+        {
+          "word": " reactor",
+          "start": 97.12,
+          "end": 97.28,
+          "probability": 0.9960567951202393
+        },
+        {
+          "word": " produce",
+          "start": 97.28,
+          "end": 97.62,
+          "probability": 0.9995864033699036
+        },
+        {
+          "word": " energía",
+          "start": 97.62,
+          "end": 97.88,
+          "probability": 0.9999469518661499
+        },
+        {
+          "word": " día",
+          "start": 97.88,
+          "end": 98.24,
+          "probability": 0.9996174573898315
+        },
+        {
+          "word": " y",
+          "start": 98.24,
+          "end": 98.36,
+          "probability": 0.9999473094940186
+        },
+        {
+          "word": " noche.",
+          "start": 98.36,
+          "end": 98.54,
+          "probability": 0.9999058246612549
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 8942,
+      "start": 98.7,
+      "end": 99.2,
+      "text": " Sin humo.",
+      "tokens": [
+        50838,
+        11187,
+        1484,
+        78,
+        13,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Sin",
+          "start": 98.7,
+          "end": 98.94,
+          "probability": 0.9977967739105225
+        },
+        {
+          "word": " humo.",
+          "start": 98.94,
+          "end": 99.2,
+          "probability": 0.9982424676418304
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 8942,
+      "start": 99.2,
+      "end": 100.18,
+      "text": " Sin dióxido de carbono.",
+      "tokens": [
+        50866,
+        11187,
+        1026,
+        812,
+        87,
+        2925,
+        368,
+        48491,
+        13,
+        50910
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Sin",
+          "start": 99.2,
+          "end": 99.46,
+          "probability": 0.9990741014480591
+        },
+        {
+          "word": " dióxido",
+          "start": 99.46,
+          "end": 99.84,
+          "probability": 0.9999398291110992
+        },
+        {
+          "word": " de",
+          "start": 99.84,
+          "end": 99.98,
+          "probability": 0.9999539852142334
+        },
+        {
+          "word": " carbono.",
+          "start": 99.98,
+          "end": 100.18,
+          "probability": 0.9994599223136902
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 8942,
+      "start": 100.42,
+      "end": 102.32,
+      "text": " Mateo sostuvo un pequeño cilindro metálico.",
+      "tokens": [
+        50920,
+        27594,
+        78,
+        41585,
+        43744,
+        517,
+        38181,
+        269,
+        388,
+        471,
+        340,
+        1131,
+        842,
+        1050,
+        78,
+        13,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Mateo",
+          "start": 100.42,
+          "end": 100.68,
+          "probability": 0.9636066854000092
+        },
+        {
+          "word": " sostuvo",
+          "start": 100.68,
+          "end": 101.02,
+          "probability": 0.999861091375351
+        },
+        {
+          "word": " un",
+          "start": 101.02,
+          "end": 101.2,
+          "probability": 0.9997186064720154
+        },
+        {
+          "word": " pequeño",
+          "start": 101.2,
+          "end": 101.4,
+          "probability": 0.9999372959136963
+        },
+        {
+          "word": " cilindro",
+          "start": 101.4,
+          "end": 101.88,
+          "probability": 0.9998820573091507
+        },
+        {
+          "word": " metálico.",
+          "start": 101.88,
+          "end": 102.32,
+          "probability": 0.9997536242008209
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 8942,
+      "start": 102.4,
+      "end": 105.16,
+      "text": " Este pellet de uranio produce la misma energía que una tonelada de carbón.",
+      "tokens": [
+        51019,
+        16105,
+        33836,
+        302,
+        368,
+        4038,
+        282,
+        1004,
+        5258,
+        635,
+        24946,
+        34315,
+        631,
+        2002,
+        2952,
+        338,
+        1538,
+        368,
+        12143,
+        1801,
+        13,
+        51158
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Este",
+          "start": 102.4,
+          "end": 102.56,
+          "probability": 0.9519322514533997
+        },
+        {
+          "word": " pellet",
+          "start": 102.56,
+          "end": 102.8,
+          "probability": 0.9017056226730347
+        },
+        {
+          "word": " de",
+          "start": 102.8,
+          "end": 102.88,
+          "probability": 0.9992063641548157
+        },
+        {
+          "word": " uranio",
+          "start": 102.88,
+          "end": 103.16,
+          "probability": 0.9988724589347839
+        },
+        {
+          "word": " produce",
+          "start": 103.16,
+          "end": 103.44,
+          "probability": 0.9983898401260376
+        },
+        {
+          "word": " la",
+          "start": 103.44,
+          "end": 103.64,
+          "probability": 0.9997507929801941
+        },
+        {
+          "word": " misma",
+          "start": 103.64,
+          "end": 103.8,
+          "probability": 0.9999589920043945
+        },
+        {
+          "word": " energía",
+          "start": 103.8,
+          "end": 104.12,
+          "probability": 0.9999366998672485
+        },
+        {
+          "word": " que",
+          "start": 104.12,
+          "end": 104.38,
+          "probability": 0.9990288019180298
+        },
+        {
+          "word": " una",
+          "start": 104.38,
+          "end": 104.48,
+          "probability": 0.9996716976165771
+        },
+        {
+          "word": " tonelada",
+          "start": 104.48,
+          "end": 104.82,
+          "probability": 0.9999574820200602
+        },
+        {
+          "word": " de",
+          "start": 104.82,
+          "end": 104.9,
+          "probability": 0.9999723434448242
+        },
+        {
+          "word": " carbón.",
+          "start": 104.9,
+          "end": 105.16,
+          "probability": 0.9997938573360443
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 8942,
+      "start": 105.3,
+      "end": 106.94,
+      "text": " Algo tan pequeño puede alimentar una ciudad.",
+      "tokens": [
+        51165,
+        967,
+        1571,
+        7603,
+        38181,
+        8919,
+        17043,
+        289,
+        2002,
+        24329,
+        13,
+        51246
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Algo",
+          "start": 105.3,
+          "end": 105.52,
+          "probability": 0.9931634068489075
+        },
+        {
+          "word": " tan",
+          "start": 105.52,
+          "end": 105.64,
+          "probability": 0.9999594688415527
+        },
+        {
+          "word": " pequeño",
+          "start": 105.64,
+          "end": 106.0,
+          "probability": 0.9999066591262817
+        },
+        {
+          "word": " puede",
+          "start": 106.0,
+          "end": 106.26,
+          "probability": 0.9995317459106445
+        },
+        {
+          "word": " alimentar",
+          "start": 106.26,
+          "end": 106.66,
+          "probability": 0.9999839663505554
+        },
+        {
+          "word": " una",
+          "start": 106.66,
+          "end": 106.74,
+          "probability": 0.9996023774147034
+        },
+        {
+          "word": " ciudad.",
+          "start": 106.74,
+          "end": 106.94,
+          "probability": 0.9998530149459839
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 8942,
+      "start": 107.28,
+      "end": 107.64,
+      "text": " Varias.",
+      "tokens": [
+        51260,
+        32511,
+        296,
+        13,
+        51278
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Varias.",
+          "start": 107.28,
+          "end": 107.64,
+          "probability": 0.8371685147285461
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 8942,
+      "start": 107.72,
+      "end": 109.2,
+      "text": " Entonces, la energía nuclear es segura.",
+      "tokens": [
+        51284,
+        15097,
+        11,
+        635,
+        34315,
+        8179,
+        785,
+        3896,
+        2991,
+        13,
+        51356
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Entonces,",
+          "start": 107.72,
+          "end": 108.08,
+          "probability": 0.9988226294517517
+        },
+        {
+          "word": " la",
+          "start": 108.12,
+          "end": 108.3,
+          "probability": 0.9976186156272888
+        },
+        {
+          "word": " energía",
+          "start": 108.3,
+          "end": 108.46,
+          "probability": 0.9998576641082764
+        },
+        {
+          "word": " nuclear",
+          "start": 108.46,
+          "end": 108.78,
+          "probability": 0.9999213218688965
+        },
+        {
+          "word": " es",
+          "start": 108.78,
+          "end": 108.94,
+          "probability": 0.9999058246612549
+        },
+        {
+          "word": " segura.",
+          "start": 108.94,
+          "end": 109.2,
+          "probability": 0.9999395608901978
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 8942,
+      "start": 109.32,
+      "end": 110.92,
+      "text": " Todo puede ser peligroso si se hace mal.",
+      "tokens": [
+        51366,
+        26466,
+        8919,
+        816,
+        43839,
+        2635,
+        78,
+        1511,
+        369,
+        10032,
+        2806,
+        13,
+        51446
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Todo",
+          "start": 109.32,
+          "end": 109.48,
+          "probability": 0.9990260601043701
+        },
+        {
+          "word": " puede",
+          "start": 109.48,
+          "end": 109.66,
+          "probability": 0.9999531507492065
+        },
+        {
+          "word": " ser",
+          "start": 109.66,
+          "end": 109.86,
+          "probability": 0.9999593496322632
+        },
+        {
+          "word": " peligroso",
+          "start": 109.86,
+          "end": 110.38,
+          "probability": 0.9999698797861735
+        },
+        {
+          "word": " si",
+          "start": 110.38,
+          "end": 110.5,
+          "probability": 0.9993128776550293
+        },
+        {
+          "word": " se",
+          "start": 110.5,
+          "end": 110.6,
+          "probability": 0.999955415725708
+        },
+        {
+          "word": " hace",
+          "start": 110.6,
+          "end": 110.74,
+          "probability": 0.9999330043792725
+        },
+        {
+          "word": " mal.",
+          "start": 110.74,
+          "end": 110.92,
+          "probability": 0.9999788999557495
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 8942,
+      "start": 111.08,
+      "end": 113.8,
+      "text": " Pero cuando respetamos la física, la tecnología funciona como debe.",
+      "tokens": [
+        51453,
+        9377,
+        7767,
+        1597,
+        302,
+        2151,
+        635,
+        46436,
+        11,
+        635,
+        48055,
+        26210,
+        2617,
+        27422,
+        13,
+        51590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Pero",
+          "start": 111.08,
+          "end": 111.24,
+          "probability": 0.9998582601547241
+        },
+        {
+          "word": " cuando",
+          "start": 111.24,
+          "end": 111.42,
+          "probability": 0.9988784193992615
+        },
+        {
+          "word": " respetamos",
+          "start": 111.42,
+          "end": 111.88,
+          "probability": 0.9999732971191406
+        },
+        {
+          "word": " la",
+          "start": 111.88,
+          "end": 112.02,
+          "probability": 0.9999669790267944
+        },
+        {
+          "word": " física,",
+          "start": 112.02,
+          "end": 112.26,
+          "probability": 0.9998905658721924
+        },
+        {
+          "word": " la",
+          "start": 112.44,
+          "end": 112.6,
+          "probability": 0.9996055960655212
+        },
+        {
+          "word": " tecnología",
+          "start": 112.6,
+          "end": 112.84,
+          "probability": 0.9999351501464844
+        },
+        {
+          "word": " funciona",
+          "start": 112.84,
+          "end": 113.3,
+          "probability": 0.9998237490653992
+        },
+        {
+          "word": " como",
+          "start": 113.3,
+          "end": 113.62,
+          "probability": 0.9997852444648743
+        },
+        {
+          "word": " debe.",
+          "start": 113.62,
+          "end": 113.8,
+          "probability": 0.9999359846115112
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 8942,
+      "start": 113.98,
+      "end": 116.76,
+      "text": " La energía nuclear es una de las fuentes más densas y limpias que tenemos.",
+      "tokens": [
+        51599,
+        2369,
+        34315,
+        8179,
+        785,
+        2002,
+        368,
+        2439,
+        8536,
+        9240,
+        3573,
+        24505,
+        296,
+        288,
+        33174,
+        4609,
+        631,
+        9914,
+        13,
+        51736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " La",
+          "start": 113.98,
+          "end": 114.12,
+          "probability": 0.9998242259025574
+        },
+        {
+          "word": " energía",
+          "start": 114.12,
+          "end": 114.28,
+          "probability": 0.9998729228973389
+        },
+        {
+          "word": " nuclear",
+          "start": 114.28,
+          "end": 114.62,
+          "probability": 0.9999605417251587
+        },
+        {
+          "word": " es",
+          "start": 114.62,
+          "end": 114.9,
+          "probability": 0.9998237490653992
+        },
+        {
+          "word": " una",
+          "start": 114.9,
+          "end": 115.04,
+          "probability": 0.9998050332069397
+        },
+        {
+          "word": " de",
+          "start": 115.04,
+          "end": 115.14,
+          "probability": 0.9999619722366333
+        },
+        {
+          "word": " las",
+          "start": 115.14,
+          "end": 115.22,
+          "probability": 0.9999399185180664
+        },
+        {
+          "word": " fuentes",
+          "start": 115.22,
+          "end": 115.4,
+          "probability": 0.9998550117015839
+        },
+        {
+          "word": " más",
+          "start": 115.4,
+          "end": 115.62,
+          "probability": 0.9999231100082397
+        },
+        {
+          "word": " densas",
+          "start": 115.62,
+          "end": 116.02,
+          "probability": 0.9994717538356781
+        },
+        {
+          "word": " y",
+          "start": 116.02,
+          "end": 116.14,
+          "probability": 0.9999165534973145
+        },
+        {
+          "word": " limpias",
+          "start": 116.14,
+          "end": 116.42,
+          "probability": 0.9998994171619415
+        },
+        {
+          "word": " que",
+          "start": 116.42,
+          "end": 116.56,
+          "probability": 0.9999430179595947
+        },
+        {
+          "word": " tenemos.",
+          "start": 116.56,
+          "end": 116.76,
+          "probability": 0.9999356269836426
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 8942,
+      "start": 116.92,
+      "end": 119.14,
+      "text": " Y si queremos electricidad, hospitales y agua potable,",
+      "tokens": [
+        51736,
+        398,
+        1511,
+        26813,
+        5210,
+        4580,
+        11,
+        4530,
+        279,
+        288,
+        19330,
+        1847,
+        712,
+        11,
+        51853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " Y",
+          "start": 116.92,
+          "end": 117.08,
+          "probability": 0.9923519492149353
+        },
+        {
+          "word": " si",
+          "start": 117.08,
+          "end": 117.16,
+          "probability": 0.9996060729026794
+        },
+        {
+          "word": " queremos",
+          "start": 117.16,
+          "end": 117.34,
+          "probability": 0.999426007270813
+        },
+        {
+          "word": " electricidad,",
+          "start": 117.34,
+          "end": 117.94,
+          "probability": 0.9973042607307434
+        },
+        {
+          "word": " hospitales",
+          "start": 118.04,
+          "end": 118.58,
+          "probability": 0.998119056224823
+        },
+        {
+          "word": " y",
+          "start": 118.58,
+          "end": 118.64,
+          "probability": 0.9973623156547546
+        },
+        {
+          "word": " agua",
+          "start": 118.64,
+          "end": 118.76,
+          "probability": 0.9992339611053467
+        },
+        {
+          "word": " potable,",
+          "start": 118.76,
+          "end": 119.14,
+          "probability": 0.9997456669807434
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 8942,
+      "start": 119.16,
+      "end": 119.4,
+      "text": " para mí,",
+      "tokens": [
+        51856,
+        1690,
+        14692,
+        11,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10990235515844042,
+      "compression_ratio": 1.6950354609929077,
+      "no_speech_prob": 0.0012347158044576645,
+      "words": [
+        {
+          "word": " para",
+          "start": 119.16,
+          "end": 119.26,
+          "probability": 0.9554117918014526
+        },
+        {
+          "word": " mí,",
+          "start": 119.26,
+          "end": 119.4,
+          "probability": 0.9273472428321838
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 11942,
+      "start": 119.42,
+      "end": 120.94,
+      "text": " vamos a necesitarla.",
+      "tokens": [
+        50366,
+        5295,
+        257,
+        11909,
+        3981,
+        875,
+        13,
+        50445
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " vamos",
+          "start": 119.42,
+          "end": 119.94,
+          "probability": 0.04289574921131134
+        },
+        {
+          "word": " a",
+          "start": 119.94,
+          "end": 120.38,
+          "probability": 0.9934912323951721
+        },
+        {
+          "word": " necesitarla.",
+          "start": 120.38,
+          "end": 120.94,
+          "probability": 0.9895341197649637
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 11942,
+      "start": 120.98,
+      "end": 123.38,
+      "text": " Detrás de ellos, el reactor seguía funcionando en silencio.",
+      "tokens": [
+        50450,
+        4237,
+        17168,
+        368,
+        16353,
+        11,
+        806,
+        20628,
+        8878,
+        2686,
+        14186,
+        1806,
+        465,
+        3425,
+        268,
+        8529,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " Detrás",
+          "start": 120.98,
+          "end": 121.36,
+          "probability": 0.9340576529502869
+        },
+        {
+          "word": " de",
+          "start": 121.36,
+          "end": 121.44,
+          "probability": 0.9982413053512573
+        },
+        {
+          "word": " ellos,",
+          "start": 121.44,
+          "end": 121.6,
+          "probability": 0.9948924779891968
+        },
+        {
+          "word": " el",
+          "start": 121.7,
+          "end": 121.88,
+          "probability": 0.996525228023529
+        },
+        {
+          "word": " reactor",
+          "start": 121.88,
+          "end": 122.08,
+          "probability": 0.9852138161659241
+        },
+        {
+          "word": " seguía",
+          "start": 122.08,
+          "end": 122.44,
+          "probability": 0.9901043176651001
+        },
+        {
+          "word": " funcionando",
+          "start": 122.44,
+          "end": 122.88,
+          "probability": 0.996662974357605
+        },
+        {
+          "word": " en",
+          "start": 122.88,
+          "end": 122.98,
+          "probability": 0.9906586408615112
+        },
+        {
+          "word": " silencio.",
+          "start": 122.98,
+          "end": 123.38,
+          "probability": 0.9991716543833414
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 11942,
+      "start": 123.4,
+      "end": 124.06,
+      "text": " Sin sirenas.",
+      "tokens": [
+        50574,
+        11187,
+        262,
+        18833,
+        296,
+        13,
+        50599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " Sin",
+          "start": 123.4,
+          "end": 123.62,
+          "probability": 0.9674917459487915
+        },
+        {
+          "word": " sirenas.",
+          "start": 123.62,
+          "end": 124.06,
+          "probability": 0.9936735033988953
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 11942,
+      "start": 124.06,
+      "end": 124.8,
+      "text": " Sin explosiones.",
+      "tokens": [
+        50607,
+        11187,
+        9215,
+        5411,
+        13,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " Sin",
+          "start": 124.06,
+          "end": 124.26,
+          "probability": 0.9769845008850098
+        },
+        {
+          "word": " explosiones.",
+          "start": 124.26,
+          "end": 124.8,
+          "probability": 0.9934893846511841
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 11942,
+      "start": 124.88,
+      "end": 126.52,
+      "text": " Solo átomos dividiéndose lentamente.",
+      "tokens": [
+        50648,
+        26452,
+        7352,
+        83,
+        40934,
+        4996,
+        72,
+        34577,
+        541,
+        23556,
+        3439,
+        13,
+        50723
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " Solo",
+          "start": 124.88,
+          "end": 125.1,
+          "probability": 0.4504656493663788
+        },
+        {
+          "word": " átomos",
+          "start": 125.1,
+          "end": 125.48,
+          "probability": 0.998396118481954
+        },
+        {
+          "word": " dividiéndose",
+          "start": 125.48,
+          "end": 126.0,
+          "probability": 0.9818286597728729
+        },
+        {
+          "word": " lentamente.",
+          "start": 126.0,
+          "end": 126.52,
+          "probability": 0.9995437264442444
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 11942,
+      "start": 126.6,
+      "end": 127.48,
+      "text": " Y alimentando el mundo.",
+      "tokens": [
+        50731,
+        398,
+        17043,
+        1806,
+        806,
+        7968,
+        13,
+        50772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1382285258809074,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.003387332893908024,
+      "words": [
+        {
+          "word": " Y",
+          "start": 126.6,
+          "end": 126.74,
+          "probability": 0.9450201988220215
+        },
+        {
+          "word": " alimentando",
+          "start": 126.74,
+          "end": 127.22,
+          "probability": 0.994171142578125
+        },
+        {
+          "word": " el",
+          "start": 127.22,
+          "end": 127.32,
+          "probability": 0.9660111665725708
+        },
+        {
+          "word": " mundo.",
+          "start": 127.32,
+          "end": 127.48,
+          "probability": 0.9962440729141235
+        }
+      ]
+    }
+  ],
+  "language": "es"
+}

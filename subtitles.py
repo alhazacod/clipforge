@@ -1,195 +1,124 @@
 import subprocess
 import whisper
+import json
 import os
-import torch
 import re
 
-# ==== CONFIG ====
-video_path = "video.mp4"
-audio_path = "output.wav"
-temp_video = "temp_synced.mp4"
-subs_path = "subs.srt"
-ass_path = "subs.ass"
-output_path = "final_with_subs.mp4"
-# =================
+# ── Config ────────────────────────────────────────────────────────────────────
+VIDEO_INPUT      = "temp_synced.mp4"
+AUDIO_INPUT      = "output.wav"
+TRANSCRIPT_CACHE = "transcript.json"
+ASS_OUTPUT       = "subs.ass"
+VIDEO_OUTPUT     = "final_with_subs.mp4"
 
-device = "cpu"
-print(f"📝 Transcribing on {device.upper()}...")
+CHUNK_MAX_WORDS    = 4
+CHUNK_MAX_DURATION = 1.5   # seconds
 
-# Load Whisper model
-model = whisper.load_model("large-v3", device=device)
+# ASS coordinate space is always 1920x1080 regardless of actual video resolution.
+# Adjust SUB_Y to move subtitles vertically: 540 = center, 960 = near bottom.
+SUB_X = 960
+SUB_Y = 600
+# ─────────────────────────────────────────────────────────────────────────────
 
-# Transcribe with word-level timestamps
-result = model.transcribe(audio_path, fp16=(device != "cpu"), word_timestamps=True)
-
-def format_timestamp(seconds):
-    h = int(seconds // 3600)
-    m = int((seconds % 3600) // 60)
-    s = int(seconds % 60)
-    ms = int((seconds % 1) * 1000)
-    return f"{h:02}:{m:02}:{s:02},{ms:03}"
-
-def create_tiktok_chunks(words, max_words=4, max_duration=1.5):
-    """Create TikTok-style chunks with 3-5 words and natural phrasing"""
-    chunks = []
-    current_chunk = []
-    current_start = None
-    current_end = None
-    
-    for word_info in words:
-        word = word_info['word'].strip()
-        start = word_info['start']
-        end = word_info['end']
-        
-        # Skip empty words
-        if not word:
-            continue
-            
-        # Clean the word (remove punctuation issues)
-        word = re.sub(r'^[^\w]+', '', word)
-        word = re.sub(r'[^\w]+$', '', word)
-        
-        if not word:
-            continue
-            
-        if current_start is None:
-            current_start = start
-            
-        # Check if we should break the chunk
-        should_break = (
-            len(current_chunk) >= max_words or
-            (current_chunk and (end - current_start) > max_duration) or
-            word in ['.', '!', '?', ',', ';', ':'] or
-            (current_chunk and word[0].isupper() and len(current_chunk) >= 2)
-        )
-        
-        if should_break and current_chunk:
-            # Finalize current chunk
-            chunks.append({
-                'text': ' '.join(current_chunk),
-                'start': current_start,
-                'end': current_end
-            })
-            # Start new chunk
-            current_chunk = [word]
-            current_start = start
-            current_end = end
-        else:
-            current_chunk.append(word)
-            current_end = end
-    
-    # Add the last chunk if exists
-    if current_chunk:
-        chunks.append({
-            'text': ' '.join(current_chunk),
-            'start': current_start,
-            'end': current_end
-        })
-    
-    return chunks
-
-print("✍️ Generating TikTok-style ASS subtitles...")
-
-with open(ass_path, "w", encoding="utf-8") as f:
-    # ASS header with TikTok-style formatting
-    f.write("""[Script Info]
+ASS_HEADER = """\
+[Script Info]
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
-Timer: 100.0000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Black,100,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,5,0,0,60,1
-Style: Outline,Arial Black,100,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,5,0,0,60,1
+Style: Default,Arial Black,90,&H000000FF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-""")
+"""
+# PrimaryColour = white, SecondaryColour = red (BGR) — \k highlights in red
 
-    for seg in result["segments"]:
-        if not seg.get('words'):
+
+def ass_time(sec):
+    h, rem = divmod(max(0, sec), 3600)
+    m, s   = divmod(rem, 60)
+    return f"{int(h)}:{int(m):02}:{int(s):02}.{int((s % 1) * 100):02}"
+
+
+def clean_word(raw):
+    return re.sub(r"(^[^\w]+|[^\w]+$)", "", raw.strip())
+
+
+def build_chunks(words):
+    """Group Whisper word-level entries into short display chunks."""
+    chunks, current = [], []
+
+    for w in words:
+        word = clean_word(w["word"])
+        if not word:
             continue
-            
-        words = seg['words']
-        chunks = create_tiktok_chunks(words)
-        
-        for chunk in chunks:
-            chunk_start = chunk['start']
-            chunk_end = chunk['end']
-            chunk_text = chunk['text'].strip()
-            
-            # Skip empty chunks
-            if not chunk_text:
-                continue
-                
-            # Add slight padding for better readability
-            duration = chunk_end - chunk_start
-            chunk_start = max(0, chunk_start - 0.05)  # Reduced from 0.1 to 0.05
-            chunk_end = chunk_end + 0.05  # Reduced from 0.1 to 0.05
-            
-            def ass_time(sec):
-                h = int(sec // 3600)
-                m = int((sec % 3600) // 60)
-                s = int(sec % 60)
-                cs = int((sec % 1) * 100)
-                return f"{h}:{m:02}:{s:02}.{cs:02}"
-            
-            # TikTok-style text formatting - break into 2 lines max
-            words_in_chunk = chunk_text.split()
-            if len(words_in_chunk) <= 2:
-                # Single line for short chunks
-                display_text = chunk_text
-            else:
-                # Split into 2 lines for longer chunks
-                split_point = len(words_in_chunk) // 2
-                line1 = ' '.join(words_in_chunk[:split_point])
-                line2 = ' '.join(words_in_chunk[split_point:])
-                display_text = f"{line1}\\N{line2}"
-            
-            # Faster TikTok-style animation
-            total_duration = chunk_end - chunk_start
-            fade_in = 20  # Reduced from 100 to 20
-            fade_out = 20  # Reduced from 100 to 20
-            
-            # Much faster animation timing
-            grow_ms = 20  # Reduced from 30 to 20
-            shrink_duration = 20  # Reduced from 30 to 20
-            shrink_start_ms = int((chunk_end - chunk_start) * 1000) - shrink_duration
-            end_ms = int((chunk_end - chunk_start) * 1000)
-            
-            # Main subtitle with faster pop effect
-            anim_text = (
-                "{\\fs20\\t(0," + str(grow_ms) + ",\\fs48)"
-                "\\t(" + str(shrink_start_ms) + "," + str(end_ms) + ",\\fs20)"
-                "\\fad(" + str(fade_in) + "," + str(fade_out) + ")}" + display_text
-            )
-            
-            # Write main subtitle
-            f.write(
-                f"Dialogue: 0,{ass_time(chunk_start)},{ass_time(chunk_end)},Default,,0,0,40,,{anim_text}\n"
-            )
-            
-            # Optional: Add outline version for better readability
-            outline_anim = (
-                "{\\fs20\\t(0," + str(grow_ms) + ",\\fs48)"
-                "\\t(" + str(shrink_start_ms) + "," + str(end_ms) + ",\\fs20)"
-                "\\fad(" + str(fade_in) + "," + str(fade_out) + ")}" + display_text
-            )
-            f.write(
-                f"Dialogue: 0,{ass_time(chunk_start)},{ass_time(chunk_end)},Outline,,0,0,40,,{outline_anim}\n"
-            )
 
-print("🔥 Burning TikTok-style subtitles into video...")
+        too_long = len(current) >= CHUNK_MAX_WORDS
+        too_slow = current and (w["start"] - current[0]["start"]) > CHUNK_MAX_DURATION
+        new_sent = current and word[0].isupper() and len(current) >= 2
+
+        if current and (too_long or too_slow or new_sent):
+            chunks.append(current)
+            current = []
+
+        current.append({"word": word, "start": w["start"], "end": w["end"]})
+
+    if current:
+        chunks.append(current)
+
+    return chunks
+
+
+def chunk_to_ass_line(chunk, next_start=None):
+    """
+    One ASS dialogue line for the full chunk using \\k karaoke tags.
+    \\an2\\pos() absolutely pins the bottom-center anchor so the baseline
+    never moves regardless of chunk length or line wrapping.
+    next_start clamps the end so adjacent chunks never overlap.
+    """
+    end_s = chunk[-1]["end"] + 0.05
+    if next_start is not None:
+        end_s = min(end_s, next_start - 0.05)
+    parts = [f"{{\\k{int((w['end'] - w['start']) * 100)}}}{w['word']}" for w in chunk]
+    text  = "{" + f"\\an2\\pos({SUB_X},{SUB_Y})" + "}" + " ".join(parts)
+    return f"Dialogue: 0,{ass_time(chunk[0]['start'] - 0.05)},{ass_time(end_s)},Default,,0,0,0,,{text}\n"
+
+
+def write_ass(result, path):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(ASS_HEADER)
+        for seg in result["segments"]:
+            if not seg.get("words"):
+                continue
+            chunks = build_chunks(seg["words"])
+            for i, chunk in enumerate(chunks):
+                next_start = chunks[i + 1][0]["start"] if i + 1 < len(chunks) else None
+                f.write(chunk_to_ass_line(chunk, next_start))
+
+
+# ── Main ──────────────────────────────────────────────────────────────────────
+if os.path.exists(TRANSCRIPT_CACHE):
+    print(f"Loading transcript from {TRANSCRIPT_CACHE}...")
+    with open(TRANSCRIPT_CACHE, "r", encoding="utf-8") as f:
+        result = json.load(f)
+else:
+    print("Transcribing...")
+    model  = whisper.load_model("large-v3", device="cpu")
+    result = model.transcribe(AUDIO_INPUT, fp16=False, word_timestamps=True)
+    with open(TRANSCRIPT_CACHE, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+    print(f"Transcript saved to {TRANSCRIPT_CACHE}")
+
+write_ass(result, ASS_OUTPUT)
+
+print("Burning subtitles...")
 subprocess.run([
-    "ffmpeg", "-y",
-    "-i", temp_video,
-    "-vf", f"ass={ass_path},format=yuv420p",
-    "-c:v", "libx264",
-    "-crf", "18",
-    "-preset", "fast",
-    "-c:a", "copy",
-    output_path
+    "ffmpeg", "-y", "-i", VIDEO_INPUT,
+    "-vf", f"ass={ASS_OUTPUT},format=yuv420p",
+    "-c:v", "libx264", "-crf", "18", "-preset", "fast",
+    "-c:a", "copy", VIDEO_OUTPUT,
 ], check=True)
 
-print(f"✅ Done! TikTok-style video saved to {output_path}")
+print(f"Done → {VIDEO_OUTPUT}")

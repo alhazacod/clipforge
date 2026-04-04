@@ -1,8 +1,10 @@
 import subprocess
 
 # -- Config --------------------------------------------------------------------
-INPUT  = "video.mp4"
-OUTPUT = "video_916.mp4"
+from config import VIDEO_16X9, VIDEO_9X16
+
+INPUT  = VIDEO_16X9
+OUTPUT = VIDEO_9X16
 # ------------------------------------------------------------------------------
 # Crops to 9:16 by cutting the left and right sides, keeping center.
 # crop=w:h:x:y — w/h = output size, x/y = top-left corner of the crop region

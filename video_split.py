@@ -3,10 +3,12 @@ import wave
 import os
 
 # -- Config --------------------------------------------------------------------
-AUDIO_FILE     = "output.wav"
-FRAGMENT_FILE  = "source_video/splitting_fragment.mp4"
-SOURCE_VIDEO   = "source_video/original_video_formatted.mp4"
-OUTPUT_VIDEO   = "video.mp4"
+from config import AUDIO_FILE, FRAGMENT_FILE, SOURCE_VIDEO, VIDEO_16X9
+
+AUDIO_FILE    = AUDIO_FILE
+FRAGMENT_FILE = FRAGMENT_FILE
+SOURCE_VIDEO  = SOURCE_VIDEO
+OUTPUT_VIDEO  = VIDEO_16X9
 # ------------------------------------------------------------------------------
 
 # Get audio duration in seconds

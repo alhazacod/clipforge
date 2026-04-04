@@ -6,11 +6,11 @@ import requests
 import subprocess
 
 # -- Config --------------------------------------------------------------------
-KOKORO_IMAGE  = "ghcr.io/remsky/kokoro-fastapi-cpu:latest" # Kokoro is the tts model
-KOKORO_URL  = "http://localhost:8880/v1/audio/speech"
-INPUT_FILE  = "script.txt"
-OUTPUT_FILE = "output.wav"
-TEMP_DIR    = "temp_segments"
+from config import KOKORO_IMAGE, KOKORO_URL, SCRIPT_FILE, AUDIO_FILE, AUDIO_TEMP_DIR, LOUDNESS_LUFS
+
+INPUT_FILE  = SCRIPT_FILE
+OUTPUT_FILE = AUDIO_FILE
+TEMP_DIR    = AUDIO_TEMP_DIR
 # ------------------------------------------------------------------------------
 # Script format for IMPUT_FILE:
 #   <voice name="em_santa">More text.</voice>   # Spanish Male
@@ -18,10 +18,6 @@ TEMP_DIR    = "temp_segments"
 #   <voice name="ef_dora">More text.</voice>    # Spanish Female
 # ------------------------------------------------------------------------------
 
-# Mastering target — podcast/radio standard
-# -16 LUFS = podcast (Spotify, Apple Podcasts)
-# -14 LUFS = YouTube / TikTok / social
-LOUDNESS_LUFS = -14
 # ------------------------------------------------------------------------------
 # Podcast/radio filter chain (applied in order):
 #   highpass      — cuts rumble and low-end noise below 80Hz

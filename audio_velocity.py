@@ -1,13 +1,18 @@
 import subprocess
+import os
 from config import AUDIO_FILE, AUDIO_SPEED
 
 INPUT = AUDIO_FILE
 SPEED = AUDIO_SPEED
 
-subprocess.run([
-    "ffmpeg","-i",INPUT,
-    "-filter:a",f"atempo={SPEED}",
-    "-vn",f"{INPUT}"
-])
+TEMP = "tmp_"+INPUT
 
-print(f"Video accelerated by x{SPEED:1.1f} and saved as {INPUT}")
+subprocess.run([
+    "ffmpeg", "-y", "-i", INPUT,
+    "-filter:a", f"atempo={SPEED}",
+    "-vn", TEMP
+], check=True)
+
+os.replace(TEMP, INPUT)  # overwrite original safely
+
+print(f"Audio accelerated by x{SPEED:1.1f} and saved as {INPUT}")

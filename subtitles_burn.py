@@ -1,12 +1,13 @@
 import subprocess
+import os
 
 # -- Config --------------------------------------------------------------------
 from config import ASS_FILE, VIDEO_16X9, VIDEO_9X16, FINAL_16X9, FINAL_9X16
 
 ASS_INPUT = ASS_FILE
 VIDEOS = [
-    (VIDEO_16X9, FINAL_16X9),
-    (VIDEO_9X16, FINAL_9X16),
+    (os.path.splitext(VIDEO_16X9)[0] + "_temp_synced.mp4", FINAL_16X9),
+    (os.path.splitext(VIDEO_9X16)[0] + "_temp_synced.mp4", FINAL_9X16),
 ]
 # ------------------------------------------------------------------------------
 

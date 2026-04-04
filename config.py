@@ -23,7 +23,7 @@ AUDIO_TEMP_DIR    = "temp_segments"
 # Mastering target — podcast/radio standard
 # -16 LUFS = podcast (Spotify, Apple Podcasts)
 # -14 LUFS = YouTube / TikTok / social
-LOUDNESS_LUFS     = -14
+LOUDNESS_LUFS     = -16
 AUDIO_SPEED       = 1.5   # used by audio_velocity.py
 
 # Subtitles

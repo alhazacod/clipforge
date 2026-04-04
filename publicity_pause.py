@@ -1,17 +1,26 @@
 import subprocess
-import os
 import argparse
+import os
 
 # -- Config --------------------------------------------------------------------
-PAUSE_VIDEO = "publicitary_pause.mp4"
 TEMP_DIR    = "temp_segments"
 # ------------------------------------------------------------------------------
 
+# USAGE ------------------------------------------------------------------------
+#
+#       python publicity_pause.py --video_path video.mp4 --pause_path pause.mp4
+#
+# --video_path is the path of the video we want to add the publicity pause.
+# --pause_path is the path of the publicity pause video we are adding to the 
+# video.
+# ------------------------------------------------------------------------------
 parser = argparse.ArgumentParser()
 parser.add_argument("--video_path", required=True)
+parser.add_argument("--pause_path", required=True)
 args = parser.parse_args()
 
 INPUT_VIDEO  = args.video_path
+PAUSE_VIDEO  = args.pause_path
 OUTPUT_VIDEO = os.path.splitext(INPUT_VIDEO)[0] + "_with_pause.mp4"
 
 os.makedirs(TEMP_DIR, exist_ok=True)

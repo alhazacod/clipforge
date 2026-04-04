@@ -22,6 +22,9 @@ subprocess.run([
     "-vf", f"scale={RESOLUTION}:force_original_aspect_ratio=decrease,"
            f"pad={RESOLUTION}:(ow-iw)/2:(oh-ih)/2,setsar=1",
     "-c:v", VIDEO_CODEC, "-crf", CRF, "-preset", PRESET, "-pix_fmt", "yuv420p",
+    "-g", "30",           # keyframe every 30 frames (~1s at 30fps)
+    "-keyint_min", "30",  # minimum distance between keyframes
+    "-sc_threshold", "0", # disable scene-change keyframes, keep interval strict
     "-c:a", AUDIO_CODEC, "-b:a", AUDIO_BITRATE,
     OUTPUT,
 ], check=True)

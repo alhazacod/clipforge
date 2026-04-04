@@ -1,10 +1,18 @@
 import os
 
 files = [
-         'temp_synced.mp4',
+         'output.wav',
+         'video.mp4',
+         'video_temp_synced.mp4',
+         'video_916.mp4',
+         'video_916_temp_synced.mp4',
          'final_with_subs.mp4',
+         'final_with_subs_with_pause.mp4',
+         'final_with_subs_916.mp4',
+         'final_with_subs_916_with_pause.mp4',
          'transcript.json',
-         'script.txt',
+         'subs.ass',
+         #'script.txt',
          ]
 
 

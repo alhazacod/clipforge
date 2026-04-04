@@ -1,10 +1,17 @@
 import subprocess
+import argparse
 import os
 
 # -- Config --------------------------------------------------------------------
-VIDEO_PATH = "video.mp4"
-AUDIO_PATH = "output.wav"
-TEMP_VIDEO = "temp_synced.mp4"
+from config import AUDIO_FILE
+AUDIO_PATH = AUDIO_FILE
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--video_path", required=True)
+args = parser.parse_args()
+
+VIDEO_PATH  = args.video_path
+TEMP_VIDEO = os.path.splitext(VIDEO_PATH)[0] + "_temp_synced.mp4"
 # ------------------------------------------------------------------------------
 
 # 1️⃣ Get audio duration

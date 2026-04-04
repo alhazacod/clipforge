@@ -1,5 +1,4 @@
 import whisper
-import subprocess
 import json
 import re
 
@@ -73,7 +72,7 @@ def ass_time(sec):
 
 def chunk_to_ass_lines(chunk, next_chunk_start=None):
     """
-    One dialogue line per word in the chunk, all sharing the same \pos()
+    One dialogue line per word in the chunk, all sharing the same \\pos()
     so the block never moves. The active word is red, all others white.
     """
     lines = []

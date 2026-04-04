@@ -1,67 +1,197 @@
-<voice name="es_m_franco">Si un reactor nuclear realmente fuera como en las películas… la ciudad entera estaría evacuando ahora mismo. Pero no había sirenas. No había luces rojas. La sala de control estaba en silencio.</voice>
+<voice name="em_santa">Si crees que ya ganaron… es porque aún no has visto lo que viene después de la victoria.</voice>
 
-<voice name="es_f_diana">¿Eso es lo normal?</voice>
+<voice name="em_santa">Había pasado mucho tiempo desde la última vez que Jondar no podía leer a alguien. Expresiones, tono, postura… todo suele delatar lo que ocurre en la mente. Pero aquella cosa… ni siquiera parecía tener mente que leer.</voice>
 
-<voice name="es_m_franco">Preguntó Lina mientras observaba el panel del reactor con inquietud. Su abuelo Mateo, ingeniero nuclear desde hacía treinta años, sonrió levemente.</voice>
+<voice name="em_santa">No había tiempo para pensar en eso.</voice>
 
-<voice name="es_m_aldo">Muy normal.</voice>
+<voice name="em_santa">El dosel del bosque temblaba cada vez con más violencia, y la cúpula de nubes sobre la arena se volvía inestable, como si el cielo mismo estuviera a punto de romperse.</voice>
 
-<voice name="es_m_franco">Mateo señaló la ventana de seguridad. Debajo, una piscina profunda de agua clara. En el fondo, estructuras metálicas brillaban con un resplandor azul.</voice>
+<voice name="em_santa">Jondar miró alrededor. Su grupo hizo lo mismo. También la joven aventurera, Freddie.</voice>
 
-<voice name="es_f_diana">¿Ese es el reactor?</voice>
+<voice name="em_santa">Entonces lo vio.</voice>
 
-<voice name="es_m_aldo">Ese es el reactor.</voice>
+<voice name="em_santa">Otra zona de luz arcoíris en el suelo.</voice>
 
-<voice name="es_f_diana">No parece peligroso.</voice>
+<voice name="em_santa">¡Más luz! ¡Muévanse!</voice>
 
-<voice name="es_m_aldo">La mayoría de las cosas realmente peligrosas no se ven dramáticas.</voice>
+<voice name="em_santa">Corrieron. Más zonas brillaron. Y entonces… el mundo se partió.</voice>
 
-<voice name="es_m_franco">Mateo caminó hacia la ventana que daba a la ciudad. El sol se estaba poniendo y las luces comenzaban a encenderse.</voice>
+<voice name="em_santa">Un relámpago cegador.</voice>
 
-<voice name="es_m_aldo">Mira esa ciudad. Hospitales. Trenes. Fábricas. Servidores que sostienen internet. Todo necesita energía.</voice>
+<voice name="em_santa">Un trueno ensordecedor.</voice>
 
-<voice name="es_f_diana">Muchísima.</voice>
+<voice name="em_santa">Las ramas bajo sus pies se sacudieron como si fueran a romperse.</voice>
 
-<voice name="es_m_aldo">Durante más de un siglo, la obtuvimos quemando combustible. Carbón. Petróleo. Gas.</voice>
+<voice name="em_santa">Jondar gritó, aferrándose con todas sus fuerzas, preguntándose si la mazmorra había decidido dejar de jugar limpio.</voice>
 
-<voice name="es_m_franco">Mateo tomó una tableta y escribió dos números.</voice>
+<voice name="em_santa">Pero no caía.</voice>
 
-<voice name="es_m_aldo">Un kilogramo de carbón produce unos ocho kilovatios-hora. Un kilogramo de uranio produce cerca de veinticuatro millones.</voice>
+<voice name="em_santa">El mundo seguía moviéndose… pero él no caía.</voice>
 
-<voice name="es_m_franco">Lina frunció el ceño.</voice>
+<voice name="em_santa">Alzó la mirada.</voice>
 
-<voice name="es_f_diana">Eso no puede ser correcto.</voice>
+<voice name="em_santa">Islas de ramas flotaban en el aire.</voice>
 
-<voice name="es_m_aldo">Pero lo es. La energía nuclear viene del núcleo del átomo. Cuando dividimos átomos pesados como el uranio, una pequeña fracción de masa se transforma en energía. Energía igual a masa por la velocidad de la luz al cuadrado.</voice>
+<voice name="em_santa">Y frente a ellas… una monstruosa entidad de nubes: el Devorador de Tormentas.</voice>
 
-<voice name="es_f_diana">Entonces… ¿por qué no explota como una bomba?</voice>
+<voice name="em_santa">En su centro flotaba el Conductor, envuelto en el poder de la naturaleza, como el corazón latiente de la tormenta.</voice>
 
-<voice name="es_m_aldo">Porque un reactor está diseñado para impedirlo. En una bomba el combustible tiene cerca del noventa por ciento de uranio doscientos treinta y cinco. La reacción ocurre en microsegundos. En un reactor solo hay entre tres y cinco por ciento. Y la reacción ocurre lentamente. Cada fisión libera varios neutrones. Pero el reactor está diseñado para que solo uno continúe la reacción. Así permanece estable.</voice>
+<voice name="em_santa">¿¡Cómo se supone que vamos a enfrentarnos a eso!?</voice>
 
-<voice name="es_f_diana">Como mantener el equilibrio en una bicicleta.</voice>
+<voice name="em_santa">La respuesta llegó en forma de lluvia… cayendo de lado.</voice>
 
-<voice name="es_m_aldo">Exactamente.</voice>
+<voice name="em_santa">Jondar sintió el ataque antes de verlo.</voice>
 
-<voice name="es_m_franco">Caminaron hasta la piscina del reactor. El agua brillaba con una luz azul intensa.</voice>
+<voice name="em_santa">¡Prepárense!</voice>
 
-<voice name="es_f_diana">¿Qué es ese brillo?</voice>
+<voice name="ef_dora">¡Refugio del Escudo!</voice>
 
-<voice name="es_m_aldo">Radiación de Cherenkov. Partículas moviéndose en el agua más rápido que la luz en ese medio. No más rápido que la luz en el vacío.</voice>
+<voice name="em_santa">Escudos de energía aparecieron frente al grupo justo a tiempo.</voice>
 
-<voice name="es_m_franco">Salieron al exterior. La ciudad estaba completamente iluminada.</voice>
+<voice name="em_santa">Rayos descendieron desde el ángulo imposible de la lluvia, estrellándose contra la defensa mágica.</voice>
 
-<voice name="es_m_aldo">La energía eólica y solar son buenas. Pero dependen del clima. Un reactor produce energía día y noche. Sin humo. Sin dióxido de carbono.</voice>
+<voice name="em_santa">Cuando terminó, Freddie seguía en pie… apenas.</voice>
 
-<voice name="es_m_franco">Mateo sostuvo un pequeño cilindro metálico.</voice>
+<voice name="em_santa">¡Bien hecho! ¿Puedes hacer otro?</voice>
 
-<voice name="es_m_aldo">Este pellet de uranio produce la misma energía que una tonelada de carbón.</voice>
+<voice name="ef_dora">Depende… de cuántas veces… ataque…</voice>
 
-<voice name="es_f_diana">¿Algo tan pequeño puede alimentar una ciudad?</voice>
+<voice name="em_santa">Jondar observó las islas flotantes. No todas eran atacadas al mismo tiempo.</voice>
 
-<voice name="es_m_aldo">Varias.</voice>
+<voice name="em_santa">Cuatro tipos de ataques. Granizo, relámpagos, viento… fuerza cinética.</voice>
 
-<voice name="es_f_diana">Entonces… ¿la energía nuclear es segura?</voice>
+<voice name="em_santa">Y una oportunidad.</voice>
 
-<voice name="es_m_aldo">Todo puede ser peligroso si se hace mal. Pero cuando respetamos la física… la tecnología funciona como debe. La energía nuclear es una de las fuentes más densas y limpias que tenemos. Y si queremos electricidad, hospitales y agua potable para miles de millones… vamos a necesitarla.</voice>
+<voice name="em_santa">Atacar cuando las islas se acercaran lo suficiente.</voice>
 
-<voice name="es_m_franco">Detrás de ellos, el reactor seguía funcionando en silencio. Sin sirenas. Sin explosiones. Solo átomos dividiéndose lentamente… y alimentando el mundo.</voice>
+<voice name="em_santa">¿Cómo está haciendo que la lluvia caiga así?</voice>
+
+<voice name="ef_dora">Gravedad. Es una de las afinidades de Thedeim. Puede cambiar la dirección de “abajo”.</voice>
+
+<voice name="em_santa">Jondar soltó una risa corta.</voice>
+
+<voice name="em_santa">Claro… por qué no.</voice>
+
+<voice name="em_santa">La siguiente lluvia lateral llegó.</voice>
+
+<voice name="em_santa">Freddie organizó al grupo con precisión sorprendente.</voice>
+
+<voice name="em_santa">El granizo golpeó… y fue detenido.</voice>
+
+<voice name="em_santa">Impresionante defensa.</voice>
+
+<voice name="ef_dora">Tengo ayuda.</voice>
+
+<voice name="em_santa">Le mostró un anillo.</voice>
+
+<voice name="ef_dora">Almacena maná… y puede aumentarlo temporalmente.</voice>
+
+<voice name="em_santa">Jondar apartó la mirada del objeto con esfuerzo.</voice>
+
+<voice name="em_santa">Hablaremos con tu amigo después.</voice>
+
+<voice name="em_santa">Ahora… sobrevivan.</voice>
+
+<voice name="em_santa">Los ataques continuaron.</voice>
+
+<voice name="em_santa">El grupo resistió.</voice>
+
+<voice name="em_santa">Y finalmente… su isla se acercó lo suficiente.</voice>
+
+<voice name="em_santa">Era su turno.</voice>
+
+<voice name="em_santa">¡Ahora! ¡Contraatacamos!</voice>
+
+<voice name="em_santa">El viento se formó en una espiral letal.</voice>
+
+<voice name="ef_dora">¡Desviación!</voice>
+
+<voice name="em_santa">¡Redirección!</voice>
+
+<voice name="em_santa">Las hojas, el acero, el aire… todo convergió en un solo ataque.</voice>
+
+<voice name="em_santa">¡Corte ciego!</voice>
+
+<voice name="em_santa">El impacto sacudió la tormenta.</voice>
+
+<voice name="em_santa">El Conductor fue atravesado… pero no cayó al instante.</voice>
+
+<voice name="em_santa">Aun así… fue suficiente.</voice>
+
+<voice name="em_santa">El Devorador de Tormentas colapsó.</voice>
+
+<voice name="em_santa">Las nubes se disiparon.</voice>
+
+<voice name="em_santa">La luz del sol regresó.</voice>
+
+<voice name="em_santa">Las islas descendieron.</voice>
+
+<voice name="em_santa">Victoria.</voice>
+
+<voice name="em_santa">O eso creyeron.</voice>
+
+<voice name="em_santa">Entonces llegó… la presión.</voice>
+
+<voice name="em_santa">Una malicia pura, aplastante.</voice>
+
+<voice name="em_santa">Jondar protegió las mentes cercanas por instinto.</voice>
+
+<voice name="em_santa">Pero muchos cayeron de rodillas.</voice>
+
+<voice name="em_santa">Una risa… surgió desde las sombras.</voice>
+
+<voice name="em_santa">El suelo se deformó.</voice>
+
+<voice name="em_santa">Ojos.</voice>
+
+<voice name="em_santa">Bocas.</voice>
+
+<voice name="em_santa">Una masa imposible emergió en el centro de la arena.</voice>
+
+<voice name="em_santa">Se burlaba de ellos.</voice>
+
+<voice name="em_santa">¡Heraldos!</voice>
+
+<voice name="em_santa">No era parte de la mazmorra.</voice>
+
+<voice name="em_santa">Era algo peor.</voice>
+
+<voice name="em_santa">La presión mental aumentó.</voice>
+
+<voice name="em_santa">La risa se volvió un chillido.</voice>
+
+<voice name="em_santa">Mueran.</voice>
+
+<voice name="em_santa">El ataque mental descendió sobre todos.</voice>
+
+<voice name="em_santa">Y entonces… fue cortado.</voice>
+
+<voice name="em_santa">Una guadaña cubierta de hierba atravesó la intención misma.</voice>
+
+<voice name="em_santa">El chillido se volvió rabia.</voice>
+
+<voice name="em_santa">Grim estaba allí.</voice>
+
+<voice name="em_santa">Entre la criatura… y ellos.</voice>
+
+<voice name="em_santa">La entidad respondió con un nombre que no debería existir.</voice>
+
+<voice name="em_santa">Y Grim respondió con los suyos.</voice>
+
+<voice name="em_santa">Flor de Vida.</voice>
+
+<voice name="em_santa">Toque de Muerte.</voice>
+
+<voice name="em_santa">El Puente Entre Ambos.</voice>
+
+<voice name="em_santa">Jondar sintió un terror distinto.</voice>
+
+<voice name="em_santa">Más profundo.</voice>
+
+<voice name="em_santa">Más antiguo.</voice>
+
+<voice name="em_santa">Porque entendió algo en ese instante.</voice>
+
+<voice name="em_santa">Aunque estuvieran del mismo lado…</voice>
+
+<voice name="em_santa">no había ningún lugar al que huir.</voice>

@@ -3,6 +3,8 @@ import os
 files = [
          'temp_synced.mp4',
          'final_with_subs.mp4',
+         'transcript.json',
+         'script.txt',
          ]
 
 

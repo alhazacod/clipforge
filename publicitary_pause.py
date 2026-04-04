@@ -1,15 +1,15 @@
 import subprocess
 import os
 
-main_video = "final_with_subs.mp4"
-pause_video = "publicitary_pause.mp4"
-output_video = "final_with_pause.mp4"
+INPUT_VIDEO = "final_with_subs.mp4"
+PAUSE_VIDEO = "publicitary_pause.mp4"
+OUTPUT_VIDEO = "final_with_pause.mp4"
 
 # Get duration of main video
 duration = float(subprocess.check_output([
     "ffprobe", "-v", "error",
     "-show_entries", "format=duration",
-    "-of", "csv=p=0", main_video
+    "-of", "csv=p=0", INPUT_VIDEO
 ]).decode().strip())
 
 half_duration = duration / 2
@@ -20,7 +20,7 @@ second_half = "second_half.mp4"
 # Cut first half (re-encode to reset timestamps)
 subprocess.run([
     "ffmpeg", "-y",
-    "-i", main_video,
+    "-i", INPUT_VIDEO,
     "-t", str(half_duration),
     "-c:v", "libx264", "-preset", "fast", "-crf", "18",
     "-c:a", "aac", "-b:a", "192k",
@@ -30,7 +30,7 @@ subprocess.run([
 # Cut second half (re-encode)
 subprocess.run([
     "ffmpeg", "-y",
-    "-i", main_video,
+    "-i", INPUT_VIDEO,
     "-ss", str(half_duration),
     "-c:v", "libx264", "-preset", "fast", "-crf", "18",
     "-c:a", "aac", "-b:a", "192k",
@@ -41,7 +41,7 @@ subprocess.run([
 concat_list = "videos_to_concat.txt"
 with open(concat_list, "w") as f:
     f.write(f"file '{os.path.abspath(first_half)}'\n")
-    f.write(f"file '{os.path.abspath(pause_video)}'\n")
+    f.write(f"file '{os.path.abspath(PAUSE_VIDEO)}'\n")
     f.write(f"file '{os.path.abspath(second_half)}'\n")
 
 # Concat with re-encode to fix sync
@@ -52,7 +52,7 @@ subprocess.run([
     "-i", concat_list,
     "-c:v", "libx264", "-preset", "fast", "-crf", "18",
     "-c:a", "aac", "-b:a", "192k",
-    output_video
+    OUTPUT_VIDEO
 ], check=True)
 
-print(f"✅ Final video saved as {output_video}")
+print(f"Publicitary pause added and saved as {OUTPUT_VIDEO}")

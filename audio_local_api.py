@@ -1,70 +1,121 @@
 import os
 import re
+import time
+import shutil
 import requests
 import subprocess
 
-# --- CONFIG ---
-KOKORO_URL = "http://localhost:8880/v1/audio/speech"
-INPUT_FILE = "script.txt"
+# -- Config --------------------------------------------------------------------
+KOKORO_IMAGE  = "ghcr.io/remsky/kokoro-fastapi-cpu:latest" # Kokoro is the tts model
+KOKORO_URL  = "http://localhost:8880/v1/audio/speech"
+INPUT_FILE  = "script.txt"
 OUTPUT_FILE = "output.wav"
-TEMP_DIR = "temp_segments"
-# ---------------
+TEMP_DIR    = "temp_segments"
+# ------------------------------------------------------------------------------
+# Script format for IMPUT_FILE:
+#   <voice name="em_santa">More text.</voice>   # Spanish Male
+#   <voice name="em_alex">More text.</voice>    # Spanish Male
+#   <voice name="ef_dora">More text.</voice>    # Spanish Female
+# ------------------------------------------------------------------------------
 
-# Create temp dir if not exists
-os.makedirs(TEMP_DIR, exist_ok=True)
+# Mastering target — podcast/radio standard
+# -16 LUFS = podcast (Spotify, Apple Podcasts)
+# -14 LUFS = YouTube / TikTok / social
+LOUDNESS_LUFS = -14
+# ------------------------------------------------------------------------------
+# Podcast/radio filter chain (applied in order):
+#   highpass      — cuts rumble and low-end noise below 80Hz
+#   equalizer     — -3dB notch at 300Hz to reduce muddiness
+#   equalizer     — +2dB presence boost at 3kHz for voice clarity
+#   acompressor   — gentle 3:1 compression, evens out volume differences
+#                   between speakers and sentences
+#   loudnorm      — normalizes to target LUFS so it plays at consistent
+#                   volume on all platforms (EBU R128 standard)
+#   alimiter      — brickwall limiter at -1dBTP, prevents any clipping
+# ------------------------------------------------------------------------------
+FILTER_CHAIN = ",".join([
+    "highpass=f=80",
+    "equalizer=f=300:t=q:w=1:g=-3",
+    "equalizer=f=3000:t=q:w=1:g=2",
+    "acompressor=threshold=-18dB:ratio=3:attack=5:release=50:makeup=2dB",
+    f"loudnorm=I={LOUDNESS_LUFS}:TP=-1.5:LRA=7",
+    "alimiter=limit=0.891:level=disabled",
+])
+# ------------------------------------------------------------------------------
 
-# 1. Read the input text
-with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-    content = f.read()
+def start_kokoro():
+    print("Starting Kokoro...")
+    result = subprocess.run(
+        ["docker", "run", "-d", "--rm", "-p", "8880:8880", KOKORO_IMAGE],
+        capture_output=True, text=True, check=True
+    )
+    container_id = result.stdout.strip()
+ 
+    # Wait until the API is ready
+    for _ in range(150):
+        try:
+            if requests.get("http://localhost:8880/health", timeout=2).ok:
+                print("Kokoro ready.")
+                return container_id
+        except requests.exceptions.ConnectionError:
+            pass
+        time.sleep(2)
+ 
+    raise RuntimeError("Kokoro did not become ready in time.")
 
-# 2. Extract <voice name="..."> blocks
-voice_blocks = re.findall(r'<voice\s+name="([^"]+)">\s*(.*?)\s*</voice>', content, re.DOTALL)
+def stop_kokoro(container_id):
+    print("Stopping Kokoro...")
+    subprocess.run(["docker", "stop", container_id], check=True, capture_output=True)
 
-if not voice_blocks:
-    raise ValueError('No <voice name="..."> tags found in the input text.')
+# -- Main ----------------------------------------------------------------------
 
-wav_files = []
+container_id = start_kokoro()
+ 
+try:
+    with open(INPUT_FILE, encoding="utf-8") as f:
+        content = f.read()
 
-# 3. Generate audio for each block
-for i, (voice_name, text) in enumerate(voice_blocks, start=1):
-    text = text.strip()
-    output_path = f"{TEMP_DIR}/segment_{i:03d}.wav"
-    wav_files.append(output_path)
+    blocks = re.findall(r'<voice\s+name="([^"]+)"\s*>\s*(.*?)\s*</voice>', content, re.DOTALL)
+    if not blocks:
+        raise ValueError('No <voice name="..."> tags found in input file.')
 
-    print(f"[{i}/{len(voice_blocks)}] Generating voice '{voice_name}'...")
+    os.makedirs(TEMP_DIR, exist_ok=True)
+    wav_files = []
 
-    payload = {
-        "input": text,
-        "voice": voice_name,
-        "response_format": "wav",
-        "velocity": 1.0
-    }
+    for i, (voice_name, text) in enumerate(blocks, 1):
+        path = f"{TEMP_DIR}/segment_{i:03d}.wav"
+        print(f"[{i}/{len(blocks)}] {voice_name}")
 
-    response = requests.post(KOKORO_URL, json=payload, stream=True)
-    if response.status_code != 200:
-        print(f" Error {response.status_code}: {response.text}")
-        continue
+        r = requests.post(KOKORO_URL, json={
+            "input": text.strip(),
+            "voice": voice_name,
+            "response_format": "wav",
+            "speed": 1.0,
+        }, stream=True)
+        r.raise_for_status()
 
-    with open(output_path, "wb") as f:
-        for chunk in response.iter_content(chunk_size=4096):
-            if chunk:
-                f.write(chunk)
+        with open(path, "wb") as f:
+            for chunk in r.iter_content(chunk_size=4096):
+                if chunk:
+                    f.write(chunk)
 
-# 4. Create concat list for ffmpeg
-concat_file = f"{TEMP_DIR}/concat.txt"
-with open(concat_file, "w", encoding="utf-8") as f:
-    for wav in wav_files:
-        # ffmpeg requires absolute paths or relative paths with safe=0
-        f.write(f"file '{os.path.abspath(wav)}'\n")
+        wav_files.append(path)
 
-# 5. Merge with ffmpeg
-print(f"\n Combining {len(wav_files)} segments into {OUTPUT_FILE}...")
-subprocess.run([
-    "ffmpeg", "-y",
-    "-f", "concat", "-safe", "0",
-    "-i", concat_file,
-    "-c", "copy",
-    OUTPUT_FILE
-], check=True)
+    concat_file = f"{TEMP_DIR}/concat.txt"
+    with open(concat_file, "w", encoding="utf-8") as f:
+        f.writelines(f"file '{os.path.abspath(p)}'\n" for p in wav_files)
 
-print(f" Done! Saved combined audio as '{OUTPUT_FILE}'")
+# Merge all segments then apply mastering chain in one pass
+    subprocess.run([
+        "ffmpeg", "-y",
+        "-f", "concat", "-safe", "0", "-i", concat_file,
+        "-af", FILTER_CHAIN,
+        OUTPUT_FILE,
+    ], check=True)
+
+    shutil.rmtree(TEMP_DIR)
+    print(f"Audio succefully generated and saved as {OUTPUT_FILE}")
+
+finally:
+    stop_kokoro(container_id)
+

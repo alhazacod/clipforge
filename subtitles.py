@@ -113,7 +113,7 @@ def write_ass(result, path):
 
 
 def transcribe(audio_input, transcript_path):
-    model  = whisper.load_model("large-v3", device="cpu")
+    model  = whisper.load_model("large-v3-turbo", device="cpu")
     result = model.transcribe(audio_input, fp16=False, word_timestamps=True)
     with open(transcript_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
@@ -145,4 +145,4 @@ subprocess.run([
     "-c:a", "copy", VIDEO_OUTPUT,
 ], check=True)
 
-print(f"Done → {VIDEO_OUTPUT}")
+print(f"Subtitles burned into the video and saved as {VIDEO_OUTPUT}")

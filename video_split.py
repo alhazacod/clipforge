@@ -22,15 +22,20 @@ input_video = FRAGMENT_FILE if os.path.exists(FRAGMENT_FILE) else SOURCE_VIDEO
 subprocess.run([
     "ffmpeg", "-y", "-i", input_video,
     "-t", str(audio_duration),
-    "-c", "copy", OUTPUT_VIDEO,
+    "-c:v", "libx264", "-preset", "fast", "-crf", "18",
+    "-c:a", "aac", "-b:a", "192k",
+    OUTPUT_VIDEO,
 ], check=True)
 
 # Second part: the rest of the video
 temp_fragment = FRAGMENT_FILE + ".tmp.mp4"
 subprocess.run([
-    "ffmpeg", "-y", "-i", input_video,
+    "ffmpeg", "-y",
     "-ss", str(audio_duration),
-    "-c", "copy", temp_fragment,
+    "-i", input_video,
+    "-c", "copy",
+    "-avoid_negative_ts", "1",
+    temp_fragment,
 ], check=True)
 os.replace(temp_fragment, FRAGMENT_FILE)
 

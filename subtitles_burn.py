@@ -1,22 +1,24 @@
 import subprocess
-import os
+import argparse
 
 # -- Config --------------------------------------------------------------------
-from config import ASS_FILE, VIDEO_16X9, VIDEO_9X16, FINAL_16X9, FINAL_9X16
+from config import ASS_FILE
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--video_path", required=True)
+parser.add_argument("--output", required=True)
+args = parser.parse_args()
+
+VIDEO_INPUT = args.video_path
+VIDEO_OUTPUT = args.output
 ASS_INPUT = ASS_FILE
-VIDEOS = [
-    (os.path.splitext(VIDEO_16X9)[0] + "_temp_synced.mp4", FINAL_16X9),
-    (os.path.splitext(VIDEO_9X16)[0] + "_temp_synced.mp4", FINAL_9X16),
-]
 # ------------------------------------------------------------------------------
 
-for input_video, output_video in VIDEOS:
-    print(f"Burning subtitles into {input_video}...")
-    subprocess.run([
-        "ffmpeg", "-y", "-i", input_video,
-        "-vf", f"ass={ASS_INPUT},format=yuv420p",
-        "-c:v", "libx264", "-crf", "18", "-preset", "fast",
-        "-c:a", "copy", output_video,
-    ], check=True)
-    print(f"Subtitles in {ASS_INPUT} burned in the video and saved as {output_video}")
+print(f"Burning subtitles into {VIDEO_INPUT}...")
+subprocess.run([
+    "ffmpeg", "-y", "-i", VIDEO_INPUT,
+    "-vf", f"ass={ASS_INPUT},format=yuv420p",
+    "-c:v", "libx264", "-crf", "18", "-preset", "fast",
+    "-c:a", "copy", VIDEO_OUTPUT,
+], check=True)
+print(f"Subtitles in {ASS_INPUT} burned in the video and saved as {VIDEO_OUTPUT}")

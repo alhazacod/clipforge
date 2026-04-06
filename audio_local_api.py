@@ -101,14 +101,16 @@ try:
     with open(concat_file, "w", encoding="utf-8") as f:
         f.writelines(f"file '{os.path.abspath(p)}'\n" for p in wav_files)
 
-# Merge all segments then apply mastering chain in one pass
+    # Merge all segments then apply mastering chain in one pass
     subprocess.run([
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0", "-i", concat_file,
         "-af", FILTER_CHAIN,
+        "-ar", "24000",        # keep original sample rate
+        "-ac", "1",            # mono
+        "-c:a", "pcm_s16le",   # clean WAV encoding
         OUTPUT_FILE,
     ], check=True)
-
     shutil.rmtree(TEMP_DIR)
     print(f"Audio succefully generated and saved as {OUTPUT_FILE}")
 

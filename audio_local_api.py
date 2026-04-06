@@ -13,9 +13,9 @@ OUTPUT_FILE = AUDIO_FILE
 TEMP_DIR    = AUDIO_TEMP_DIR
 # ------------------------------------------------------------------------------
 # Script format for IMPUT_FILE:
-#   <voice name="em_santa">More text.</voice>   # Spanish Male
-#   <voice name="em_alex">More text.</voice>    # Spanish Male
-#   <voice name="ef_dora">More text.</voice>    # Spanish Female
+#   <voice name="em_santa">More text.</voice>   # Spanish Male Old
+#   <voice name="em_alex">More text.</voice>    # Spanish Male Young
+#   <voice name="ef_dora">More text.</voice>    # Spanish Female Young
 # ------------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------------

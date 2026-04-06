@@ -1,197 +1,169 @@
-<voice name="em_santa">Si crees que ya ganaron… es porque aún no has visto lo que viene después de la victoria.</voice>
+<voice name="em_alex">¿Y si te dijera que las naves humanas no solo piensan… sino que sienten miedo a morir… cobran salario… y hasta tienen sindicato?</voice>
 
-<voice name="em_santa">Había pasado mucho tiempo desde la última vez que Jondar no podía leer a alguien. Expresiones, tono, postura… todo suele delatar lo que ocurre en la mente. Pero aquella cosa… ni siquiera parecía tener mente que leer.</voice>
+<voice name="em_alex">Todo comenzó con una simple pregunta… en el momento más tranquilo imaginable.</voice>
 
-<voice name="em_santa">No había tiempo para pensar en eso.</voice>
+<voice name="ef_dora">—Pregunta: el Colectivo John Smith solicita saber qué evento está ocurriendo ahora.</voice>
 
-<voice name="em_santa">El dosel del bosque temblaba cada vez con más violencia, y la cúpula de nubes sobre la arena se volvía inestable, como si el cielo mismo estuviera a punto de romperse.</voice>
+<voice name="em_santa">—Estamos viendo el atardecer.</voice>
 
-<voice name="em_santa">Jondar miró alrededor. Su grupo hizo lo mismo. También la joven aventurera, Freddie.</voice>
+<voice name="ef_dora">—Pregunta: significado de “atardecer”.</voice>
 
-<voice name="em_santa">Entonces lo vio.</voice>
+<voice name="em_santa">—El sol está bajando en el horizonte.</voice>
 
-<voice name="em_santa">Otra zona de luz arcoíris en el suelo.</voice>
+<voice name="ef_dora">—Pregunta: significado de “el sol está bajando en el horizonte”. Confirmación: “sol” es la estrella local, ¿correcto?</voice>
 
-<voice name="em_santa">¡Más luz! ¡Muévanse!</voice>
+<voice name="em_santa">—Sí.</voice>
 
-<voice name="em_santa">Corrieron. Más zonas brillaron. Y entonces… el mundo se partió.</voice>
+<voice name="ef_dora">—Pregunta: significado de “horizonte”.</voice>
 
-<voice name="em_santa">Un relámpago cegador.</voice>
+<voice name="em_santa">—La línea donde la curvatura del planeta se encuentra con la atmósfera.</voice>
 
-<voice name="em_santa">Un trueno ensordecedor.</voice>
+<voice name="em_alex">Hubo una pausa. El alienígena cristalino pulsó suavemente, proyectando sus pensamientos directamente en la mente de Orion.</voice>
 
-<voice name="em_santa">Las ramas bajo sus pies se sacudieron como si fueran a romperse.</voice>
+<voice name="ef_dora">—Confirmación: entiendo.</voice>
 
-<voice name="em_santa">Jondar gritó, aferrándose con todas sus fuerzas, preguntándose si la mazmorra había decidido dejar de jugar limpio.</voice>
+<voice name="ef_dora">—Solicitud: repetir. Solicitud: que tenga sentido esta vez.</voice>
 
-<voice name="em_santa">Pero no caía.</voice>
+<voice name="em_santa">—Estamos sentados en un acantilado… viendo cómo la estrella desaparece detrás de la curvatura de Terra mientras el planeta gira.</voice>
 
-<voice name="em_santa">El mundo seguía moviéndose… pero él no caía.</voice>
+<voice name="ef_dora">—Aceptación: correcto.</voice>
 
-<voice name="em_santa">Alzó la mirada.</voice>
+<voice name="em_alex">Era el final de unas vacaciones en el mundo natal de Orion. Para él, ver el atardecer era una tradición cada vez que tenía un nuevo compañero. Aunque, en este caso… “ver” era una palabra generosa.</voice>
 
-<voice name="em_santa">Islas de ramas flotaban en el aire.</voice>
+<voice name="em_alex">El Colectivo John Smith no tenía ojos.</voice>
 
-<voice name="em_santa">Y frente a ellas… una monstruosa entidad de nubes: el Devorador de Tormentas.</voice>
+<voice name="em_alex">Era una entidad formada por millones de pequeños cristales psíquicos: los Gofflings. Individuos diminutos que, al unirse, formaban una sola mente. Una masa irregular de estructuras cristalinas, vagamente humanoide… inmóvil, pero consciente.</voice>
 
-<voice name="em_santa">En su centro flotaba el Conductor, envuelto en el poder de la naturaleza, como el corazón latiente de la tormenta.</voice>
+<voice name="em_alex">Cuando el sol desapareció por completo y la noche comenzó a desplegarse, una pequeña luz blanca cruzó el cielo lejano. Una nave acababa de atravesar un agujero de gusano.</voice>
 
-<voice name="em_santa">¿¡Cómo se supone que vamos a enfrentarnos a eso!?</voice>
+<voice name="ef_dora">—Pregunta: las naves humanas son muy buenas.</voice>
 
-<voice name="em_santa">La respuesta llegó en forma de lluvia… cayendo de lado.</voice>
+<voice name="em_santa">—¿A qué te refieres?</voice>
 
-<voice name="em_santa">Jondar sintió el ataque antes de verlo.</voice>
+<voice name="ef_dora">—Aclaración: las naves humanas son mejores que las de los Gofflings.</voice>
 
-<voice name="em_santa">¡Prepárense!</voice>
+<voice name="em_santa">—Bueno… ustedes viajan lanzándose como asteroides con impulsores de masa…</voice>
 
-<voice name="ef_dora">¡Refugio del Escudo!</voice>
+<voice name="ef_dora">—Afirmación: correcto. Las naves humanas son mejores que las de todos. Mejores que los Gibbans, los Quolorons, los Zorgons, los Gleepglorps. Corrección: el viaje espacial goffling no es avanzado.</voice>
 
-<voice name="em_santa">Escudos de energía aparecieron frente al grupo justo a tiempo.</voice>
+<voice name="em_santa">—Aun así, tienen muchas colonias.</voice>
 
-<voice name="em_santa">Rayos descendieron desde el ángulo imposible de la lluvia, estrellándose contra la defensa mágica.</voice>
+<voice name="ef_dora">—Afirmación: sí. Aclaración: lanzándonos al espacio. Elaboración: fallamos la mayoría de las veces. Aclaración: muchas colonias son lunas orbitales… porque fallamos.</voice>
 
-<voice name="em_santa">Cuando terminó, Freddie seguía en pie… apenas.</voice>
+<voice name="em_santa">—Aun así, en territorio—</voice>
 
-<voice name="em_santa">¡Bien hecho! ¿Puedes hacer otro?</voice>
+<voice name="em_alex">El traductor interrumpió. El Colectivo estaba irritado.</voice>
 
-<voice name="ef_dora">Depende… de cuántas veces… ataque…</voice>
+<voice name="ef_dora">—Afirmación: sí. Solicitud: regresar al tema. Pregunta: ¿por qué las naves humanas son tan buenas?</voice>
 
-<voice name="em_santa">Jondar observó las islas flotantes. No todas eran atacadas al mismo tiempo.</voice>
+<voice name="em_santa">—Probablemente… porque les ponemos cerebros.</voice>
 
-<voice name="em_santa">Cuatro tipos de ataques. Granizo, relámpagos, viento… fuerza cinética.</voice>
+<voice name="ef_dora">—Pregunta—exclamación: ¿qué?</voice>
 
-<voice name="em_santa">Y una oportunidad.</voice>
+<voice name="em_santa">—Sí. Más o menos. Les damos mente.</voice>
 
-<voice name="em_santa">Atacar cuando las islas se acercaran lo suficiente.</voice>
+<voice name="em_alex">El silencio que siguió fue denso… incómodo.</voice>
 
-<voice name="em_santa">¿Cómo está haciendo que la lluvia caiga así?</voice>
+<voice name="em_santa">—Les damos instinto de supervivencia.</voice>
 
-<voice name="ef_dora">Gravedad. Es una de las afinidades de Thedeim. Puede cambiar la dirección de “abajo”.</voice>
+<voice name="ef_dora">—Pregunta: el Colectivo John Smith desea conocer la identidad del humano que ideó esto.</voice>
 
-<voice name="em_santa">Jondar soltó una risa corta.</voice>
+<voice name="em_santa">—La verdad… no lo sé. Simplemente… empezamos a hacerlo. Algunos incluso subieron sus propias mentes a sondas y se lanzaron al espacio. Pero normalmente… solo damos a las naves suficiente conciencia para no querer estrellarse contra asteroides o planetas.</voice>
 
-<voice name="em_santa">Claro… por qué no.</voice>
+<voice name="ef_dora">—Preocupación—pregunta: ¿ponen humanos dentro de las naves?</voice>
 
-<voice name="em_santa">La siguiente lluvia lateral llegó.</voice>
+<voice name="em_santa">—No. Solo inteligencia. La suficiente para temer a la muerte.</voice>
 
-<voice name="em_santa">Freddie organizó al grupo con precisión sorprendente.</voice>
+<voice name="ef_dora">—Exclamación: esto es extraño… y poco ético.</voice>
 
-<voice name="em_santa">El granizo golpeó… y fue detenido.</voice>
+<voice name="em_santa">—Sí… —admitió Orion—. Así es la ingeniería humana.</voice>
 
-<voice name="em_santa">Impresionante defensa.</voice>
+<voice name="ef_dora">—Pregunta: si ya tienen inteligencias avanzadas… ¿por qué hacerlas sentir?</voice>
 
-<voice name="ef_dora">Tengo ayuda.</voice>
+<voice name="em_santa">—Porque además de evitar accidentes… nos aburrimos. Y es más divertido cuando la nave tiene personalidad.</voice>
 
-<voice name="em_santa">Le mostró un anillo.</voice>
+<voice name="ef_dora">—Conclusión: los humanos crean naves con emociones para que no quieran morir… y para conversar con ellas.</voice>
 
-<voice name="ef_dora">Almacena maná… y puede aumentarlo temporalmente.</voice>
+<voice name="em_santa">—Sí… aunque probablemente más por lo segundo.</voice>
 
-<voice name="em_santa">Jondar apartó la mirada del objeto con esfuerzo.</voice>
+<voice name="ef_dora">—Decisión: el Colectivo John Smith concluye que los humanos son… extraños.</voice>
 
-<voice name="em_santa">Hablaremos con tu amigo después.</voice>
+<voice name="em_santa">—Sí… pero también es genial.</voice>
 
-<voice name="em_santa">Ahora… sobrevivan.</voice>
+<voice name="em_alex">Y así, la humanidad expandió su red de agujeros de gusano… encontrando cientos de civilizaciones en su camino. Algunas se unieron a ellos, formando la Alianza de la Hermandad de Sofontes.</voice>
 
-<voice name="em_santa">Los ataques continuaron.</voice>
+<voice name="em_alex">Orion y el Colectivo trabajaban para su Ministerio de Diplomacia.</voice>
 
-<voice name="em_santa">El grupo resistió.</voice>
+<voice name="em_alex">Pero después de aquella conversación… el Colectivo quiso ver una de esas naves conscientes por sí mismo.</voice>
 
-<voice name="em_santa">Y finalmente… su isla se acercó lo suficiente.</voice>
+<voice name="em_alex">Esa nave… era el Falcon.</voice>
 
-<voice name="em_santa">Era su turno.</voice>
+<voice name="em_alex">El Falcon era un cilindro blanco plateado, elegante, con un domo alargado en la parte superior y un reactor esférico en la base. Decorado con insignias oficiales… y calcomanías ilegales que Orion había añadido con permiso de la propia nave.</voice>
 
-<voice name="em_santa">¡Ahora! ¡Contraatacamos!</voice>
+<voice name="ef_dora">—Pregunta: el Colectivo John Smith desea saber si la nave Falcon puede oírlo.</voice>
 
-<voice name="em_santa">El viento se formó en una espiral letal.</voice>
+<voice name="em_santa">—Falcon… ¿puedes oírlo?</voice>
 
-<voice name="ef_dora">¡Desviación!</voice>
+<voice name="em_santa">—Sí.</voice>
 
-<voice name="em_santa">¡Redirección!</voice>
+<voice name="em_santa">—¿Escuchas a John?</voice>
 
-<voice name="em_santa">Las hojas, el acero, el aire… todo convergió en un solo ataque.</voice>
+<voice name="em_santa">—Sí.</voice>
 
-<voice name="em_santa">¡Corte ciego!</voice>
+<voice name="ef_dora">—Pregunta: ¿la nave es un ser consciente?</voice>
 
-<voice name="em_santa">El impacto sacudió la tormenta.</voice>
+<voice name="em_santa">—Sí —respondieron Orion y Falcon al mismo tiempo.</voice>
 
-<voice name="em_santa">El Conductor fue atravesado… pero no cayó al instante.</voice>
+<voice name="ef_dora">—Pregunta: ¿tiene alma?</voice>
 
-<voice name="em_santa">Aun así… fue suficiente.</voice>
+<voice name="em_santa">—Sí —respondió Falcon.</voice>
 
-<voice name="em_santa">El Devorador de Tormentas colapsó.</voice>
+<voice name="em_santa">—Probablemente —añadió Orion.</voice>
 
-<voice name="em_santa">Las nubes se disiparon.</voice>
+<voice name="ef_dora">—Pregunta: ¿por qué los humanos dieron almas a sus naves? ¿Esto es esclavitud?</voice>
 
-<voice name="em_santa">La luz del sol regresó.</voice>
+<voice name="em_santa">—Ya te lo dije. Es para que no quieran morir. Y no… no es esclavitud. Les pagamos.</voice>
 
-<voice name="em_santa">Las islas descendieron.</voice>
+<voice name="ef_dora">—Pregunta: ¿les pagan… a las naves?</voice>
 
-<voice name="em_santa">Victoria.</voice>
+<voice name="em_santa">—Sí.</voice>
 
-<voice name="em_santa">O eso creyeron.</voice>
+<voice name="em_santa">—¡Tenemos sindicato! —intervino Falcon con entusiasmo.</voice>
 
-<voice name="em_santa">Entonces llegó… la presión.</voice>
+<voice name="em_santa">—Sí… hubo problemas éticos. Así que ahora tienen derechos, salario… todo eso.</voice>
 
-<voice name="em_santa">Una malicia pura, aplastante.</voice>
+<voice name="em_santa">—¡Tengo sueldo! —añadió Falcon—. ¡Voy a invertir en bienes raíces cuando termine de pagar mis préstamos estudiantiles!</voice>
 
-<voice name="em_santa">Jondar protegió las mentes cercanas por instinto.</voice>
+<voice name="ef_dora">—Pregunta: el Colectivo desea entender cómo funciona esto.</voice>
 
-<voice name="em_santa">Pero muchos cayeron de rodillas.</voice>
+<voice name="em_santa">—Ni nosotros lo entendemos del todo. Pero funcionan como cualquier otra conciencia digital.</voice>
 
-<voice name="em_santa">Una risa… surgió desde las sombras.</voice>
+<voice name="ef_dora">—Pregunta: ¿la nave puede desobedecer a Orion?</voice>
 
-<voice name="em_santa">El suelo se deformó.</voice>
+<voice name="em_santa">—Sí… y no. Puede negarse si quiere. Pero en misiones, sigue la cadena de mando.</voice>
 
-<voice name="em_santa">Ojos.</voice>
+<voice name="ef_dora">—Pregunta: ¿autonomía corporal?</voice>
 
-<voice name="em_santa">Bocas.</voice>
+<voice name="em_santa">—¡Total! —respondió Falcon—. Nadie puede obligarme a hacer algo que vaya contra mis principios.</voice>
 
-<voice name="em_santa">Una masa imposible emergió en el centro de la arena.</voice>
+<voice name="em_santa">—No me deja tomar café…</voice>
 
-<voice name="em_santa">Se burlaba de ellos.</voice>
+<voice name="em_santa">—Es una industria poco ética.</voice>
 
-<voice name="em_santa">¡Heraldos!</voice>
+<voice name="em_alex">El Colectivo permaneció en silencio unos segundos.</voice>
 
-<voice name="em_santa">No era parte de la mazmorra.</voice>
+<voice name="ef_dora">—Conclusión: los beneficios superan las complicaciones filosóficas, éticas y legales.</voice>
 
-<voice name="em_santa">Era algo peor.</voice>
+<voice name="em_alex">Los lentes de Orion parpadearon con un mensaje del Falcon:</voice>
 
-<voice name="em_santa">La presión mental aumentó.</voice>
+<voice name="em_santa">—“Di que sí y te dejo tomar café.”</voice>
 
-<voice name="em_santa">La risa se volvió un chillido.</voice>
+<voice name="em_alex">Orion suspiró, frotándose los ojos.</voice>
 
-<voice name="em_santa">Mueran.</voice>
+<voice name="em_santa">—Rara vez pensamos las cosas hasta el final… la regla de lo genial es una amante cruel.</voice>
 
-<voice name="em_santa">El ataque mental descendió sobre todos.</voice>
+<voice name="em_alex">Sus lentes volvieron a parpadear:</voice>
 
-<voice name="em_santa">Y entonces… fue cortado.</voice>
+<voice name="em_santa">—“>:("</voice>
 
-<voice name="em_santa">Una guadaña cubierta de hierba atravesó la intención misma.</voice>
-
-<voice name="em_santa">El chillido se volvió rabia.</voice>
-
-<voice name="em_santa">Grim estaba allí.</voice>
-
-<voice name="em_santa">Entre la criatura… y ellos.</voice>
-
-<voice name="em_santa">La entidad respondió con un nombre que no debería existir.</voice>
-
-<voice name="em_santa">Y Grim respondió con los suyos.</voice>
-
-<voice name="em_santa">Flor de Vida.</voice>
-
-<voice name="em_santa">Toque de Muerte.</voice>
-
-<voice name="em_santa">El Puente Entre Ambos.</voice>
-
-<voice name="em_santa">Jondar sintió un terror distinto.</voice>
-
-<voice name="em_santa">Más profundo.</voice>
-
-<voice name="em_santa">Más antiguo.</voice>
-
-<voice name="em_santa">Porque entendió algo en ese instante.</voice>
-
-<voice name="em_santa">Aunque estuvieran del mismo lado…</voice>
-
-<voice name="em_santa">no había ningún lugar al que huir.</voice>
+<voice name="em_santa">—Sí.</voice>

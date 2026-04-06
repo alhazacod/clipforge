@@ -24,12 +24,21 @@ AUDIO_TEMP_DIR    = "temp_segments"
 # -16 LUFS = podcast (Spotify, Apple Podcasts)
 # -14 LUFS = YouTube / TikTok / social
 LOUDNESS_LUFS     = -16
-AUDIO_SPEED       = 1.5   # used by audio_velocity.py
+AUDIO_SPEED       = 1.3   # used by audio_velocity.py
 
 # Subtitles
 CHUNK_MAX_WORDS   = 4
 CHUNK_MAX_DURATION= 1.5   # seconds
 SUB_X             = 960 # ASS coordinate space is always 1920x1080 regardless of actual video resolution.
 SUB_Y             = 540
-HIGHLIGHT_COLOR   = r"\1c&H0000FF&"   # BGR — red
+HIGHLIGHT_COLOR   = r"\1c&HFF0000&"   # BGR
 WRITING_COLOR     = r"\1c&HFFFFFF&"   # BGR — white
+
+# Subtitles uses BGR hex color codes (Blue, Green, Red).
+#         HBBGGRR
+# Red     H0000FF
+# Blue    HFF0000
+# Green   H00FF00
+# Yellow  HFFFF00
+# Pink    H7700FF
+# White   HFFFFFF

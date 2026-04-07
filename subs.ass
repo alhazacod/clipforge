@@ -1,0 +1,752 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,90,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Antes{\1c&HFFFFFF&} de que todo
+Dialogue: 0,0:00:00.15,0:00:00.27,Default,,0,0,0,,{\an5\pos(960,540)}Antes {\1c&H00FF00&}de{\1c&HFFFFFF&} que todo
+Dialogue: 0,0:00:00.27,0:00:00.39,Default,,0,0,0,,{\an5\pos(960,540)}Antes de {\1c&H00FF00&}que{\1c&HFFFFFF&} todo
+Dialogue: 0,0:00:00.39,0:00:00.54,Default,,0,0,0,,{\an5\pos(960,540)}Antes de que {\1c&H00FF00&}todo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:00.54,0:00:01.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}comenzara{\1c&HFFFFFF&} la galaxia ya
+Dialogue: 0,0:00:01.18,0:00:01.42,Default,,0,0,0,,{\an5\pos(960,540)}comenzara {\1c&H00FF00&}la{\1c&HFFFFFF&} galaxia ya
+Dialogue: 0,0:00:01.42,0:00:01.79,Default,,0,0,0,,{\an5\pos(960,540)}comenzara la {\1c&H00FF00&}galaxia{\1c&HFFFFFF&} ya
+Dialogue: 0,0:00:01.79,0:00:01.93,Default,,0,0,0,,{\an5\pos(960,540)}comenzara la galaxia {\1c&H00FF00&}ya{\1c&HFFFFFF&}
+Dialogue: 0,0:00:01.93,0:00:02.11,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}había{\1c&HFFFFFF&} tomado una decisión
+Dialogue: 0,0:00:02.11,0:00:02.45,Default,,0,0,0,,{\an5\pos(960,540)}había {\1c&H00FF00&}tomado{\1c&HFFFFFF&} una decisión
+Dialogue: 0,0:00:02.45,0:00:02.61,Default,,0,0,0,,{\an5\pos(960,540)}había tomado {\1c&H00FF00&}una{\1c&HFFFFFF&} decisión
+Dialogue: 0,0:00:02.61,0:00:03.03,Default,,0,0,0,,{\an5\pos(960,540)}había tomado una {\1c&H00FF00&}decisión{\1c&HFFFFFF&}
+Dialogue: 0,0:00:03.03,0:00:03.23,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}sobre{\1c&HFFFFFF&} la humanidad
+Dialogue: 0,0:00:03.23,0:00:03.35,Default,,0,0,0,,{\an5\pos(960,540)}sobre {\1c&H00FF00&}la{\1c&HFFFFFF&} humanidad
+Dialogue: 0,0:00:03.35,0:00:03.79,Default,,0,0,0,,{\an5\pos(960,540)}sobre la {\1c&H00FF00&}humanidad{\1c&HFFFFFF&}
+Dialogue: 0,0:00:03.83,0:00:03.99,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}No{\1c&HFFFFFF&} por nuestras armas
+Dialogue: 0,0:00:03.99,0:00:04.15,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H00FF00&}por{\1c&HFFFFFF&} nuestras armas
+Dialogue: 0,0:00:04.15,0:00:04.43,Default,,0,0,0,,{\an5\pos(960,540)}No por {\1c&H00FF00&}nuestras{\1c&HFFFFFF&} armas
+Dialogue: 0,0:00:04.43,0:00:04.91,Default,,0,0,0,,{\an5\pos(960,540)}No por nuestras {\1c&H00FF00&}armas{\1c&HFFFFFF&}
+Dialogue: 0,0:00:04.91,0:00:05.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}no{\1c&HFFFFFF&} por nuestra tecnología
+Dialogue: 0,0:00:05.04,0:00:05.20,Default,,0,0,0,,{\an5\pos(960,540)}no {\1c&H00FF00&}por{\1c&HFFFFFF&} nuestra tecnología
+Dialogue: 0,0:00:05.20,0:00:05.46,Default,,0,0,0,,{\an5\pos(960,540)}no por {\1c&H00FF00&}nuestra{\1c&HFFFFFF&} tecnología
+Dialogue: 0,0:00:05.46,0:00:06.19,Default,,0,0,0,,{\an5\pos(960,540)}no por nuestra {\1c&H00FF00&}tecnología{\1c&HFFFFFF&}
+Dialogue: 0,0:00:06.19,0:00:06.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}sino{\1c&HFFFFFF&} por un simple
+Dialogue: 0,0:00:06.37,0:00:06.50,Default,,0,0,0,,{\an5\pos(960,540)}sino {\1c&H00FF00&}por{\1c&HFFFFFF&} un simple
+Dialogue: 0,0:00:06.50,0:00:06.62,Default,,0,0,0,,{\an5\pos(960,540)}sino por {\1c&H00FF00&}un{\1c&HFFFFFF&} simple
+Dialogue: 0,0:00:06.62,0:00:06.83,Default,,0,0,0,,{\an5\pos(960,540)}sino por un {\1c&H00FF00&}simple{\1c&HFFFFFF&}
+Dialogue: 0,0:00:06.83,0:00:07.23,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}mensaje{\1c&HFFFFFF&} enviado hace más
+Dialogue: 0,0:00:07.23,0:00:07.62,Default,,0,0,0,,{\an5\pos(960,540)}mensaje {\1c&H00FF00&}enviado{\1c&HFFFFFF&} hace más
+Dialogue: 0,0:00:07.62,0:00:07.83,Default,,0,0,0,,{\an5\pos(960,540)}mensaje enviado {\1c&H00FF00&}hace{\1c&HFFFFFF&} más
+Dialogue: 0,0:00:07.83,0:00:07.98,Default,,0,0,0,,{\an5\pos(960,540)}mensaje enviado hace {\1c&H00FF00&}más{\1c&HFFFFFF&}
+Dialogue: 0,0:00:07.98,0:00:08.08,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} un siglo
+Dialogue: 0,0:00:08.08,0:00:08.18,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}un{\1c&HFFFFFF&} siglo
+Dialogue: 0,0:00:08.18,0:00:08.57,Default,,0,0,0,,{\an5\pos(960,540)}de un {\1c&H00FF00&}siglo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:08.68,0:00:08.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Un{\1c&HFFFFFF&} mensaje que nos
+Dialogue: 0,0:00:08.92,0:00:09.30,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H00FF00&}mensaje{\1c&HFFFFFF&} que nos
+Dialogue: 0,0:00:09.30,0:00:09.42,Default,,0,0,0,,{\an5\pos(960,540)}Un mensaje {\1c&H00FF00&}que{\1c&HFFFFFF&} nos
+Dialogue: 0,0:00:09.42,0:00:09.54,Default,,0,0,0,,{\an5\pos(960,540)}Un mensaje que {\1c&H00FF00&}nos{\1c&HFFFFFF&}
+Dialogue: 0,0:00:09.54,0:00:09.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}describía{\1c&HFFFFFF&} perfectamente débiles
+Dialogue: 0,0:00:09.92,0:00:10.86,Default,,0,0,0,,{\an5\pos(960,540)}describía {\1c&H00FF00&}perfectamente{\1c&HFFFFFF&} débiles
+Dialogue: 0,0:00:10.86,0:00:11.30,Default,,0,0,0,,{\an5\pos(960,540)}describía perfectamente {\1c&H00FF00&}débiles{\1c&HFFFFFF&}
+Dialogue: 0,0:00:11.30,0:00:11.64,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}expuestos{\1c&HFFFFFF&} y completamente inconscientes
+Dialogue: 0,0:00:11.64,0:00:11.84,Default,,0,0,0,,{\an5\pos(960,540)}expuestos {\1c&H00FF00&}y{\1c&HFFFFFF&} completamente inconscientes
+Dialogue: 0,0:00:11.84,0:00:12.22,Default,,0,0,0,,{\an5\pos(960,540)}expuestos y {\1c&H00FF00&}completamente{\1c&HFFFFFF&} inconscientes
+Dialogue: 0,0:00:12.22,0:00:12.86,Default,,0,0,0,,{\an5\pos(960,540)}expuestos y completamente {\1c&H00FF00&}inconscientes{\1c&HFFFFFF&}
+Dialogue: 0,0:00:12.86,0:00:12.98,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}del{\1c&HFFFFFF&} peligro y ahora
+Dialogue: 0,0:00:12.98,0:00:13.44,Default,,0,0,0,,{\an5\pos(960,540)}del {\1c&H00FF00&}peligro{\1c&HFFFFFF&} y ahora
+Dialogue: 0,0:00:13.44,0:00:13.72,Default,,0,0,0,,{\an5\pos(960,540)}del peligro {\1c&H00FF00&}y{\1c&HFFFFFF&} ahora
+Dialogue: 0,0:00:13.72,0:00:13.92,Default,,0,0,0,,{\an5\pos(960,540)}del peligro y {\1c&H00FF00&}ahora{\1c&HFFFFFF&}
+Dialogue: 0,0:00:13.92,0:00:14.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}vienen{\1c&HFFFFFF&} por nosotros
+Dialogue: 0,0:00:14.20,0:00:14.36,Default,,0,0,0,,{\an5\pos(960,540)}vienen {\1c&H00FF00&}por{\1c&HFFFFFF&} nosotros
+Dialogue: 0,0:00:14.36,0:00:14.83,Default,,0,0,0,,{\an5\pos(960,540)}vienen por {\1c&H00FF00&}nosotros{\1c&HFFFFFF&}
+Dialogue: 0,0:00:14.91,0:00:15.10,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}La{\1c&HFFFFFF&} puerta no se
+Dialogue: 0,0:00:15.10,0:00:15.30,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H00FF00&}puerta{\1c&HFFFFFF&} no se
+Dialogue: 0,0:00:15.30,0:00:15.48,Default,,0,0,0,,{\an5\pos(960,540)}La puerta {\1c&H00FF00&}no{\1c&HFFFFFF&} se
+Dialogue: 0,0:00:15.48,0:00:15.62,Default,,0,0,0,,{\an5\pos(960,540)}La puerta no {\1c&H00FF00&}se{\1c&HFFFFFF&}
+Dialogue: 0,0:00:15.62,0:00:15.91,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}abrió{\1c&HFFFFFF&} se disolvió como
+Dialogue: 0,0:00:15.91,0:00:16.00,Default,,0,0,0,,{\an5\pos(960,540)}abrió {\1c&H00FF00&}se{\1c&HFFFFFF&} disolvió como
+Dialogue: 0,0:00:16.00,0:00:16.58,Default,,0,0,0,,{\an5\pos(960,540)}abrió se {\1c&H00FF00&}disolvió{\1c&HFFFFFF&} como
+Dialogue: 0,0:00:16.58,0:00:16.80,Default,,0,0,0,,{\an5\pos(960,540)}abrió se disolvió {\1c&H00FF00&}como{\1c&HFFFFFF&}
+Dialogue: 0,0:00:16.80,0:00:16.94,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}si{\1c&HFFFFFF&} alguien hubiera presionado
+Dialogue: 0,0:00:16.94,0:00:17.18,Default,,0,0,0,,{\an5\pos(960,540)}si {\1c&H00FF00&}alguien{\1c&HFFFFFF&} hubiera presionado
+Dialogue: 0,0:00:17.18,0:00:17.44,Default,,0,0,0,,{\an5\pos(960,540)}si alguien {\1c&H00FF00&}hubiera{\1c&HFFFFFF&} presionado
+Dialogue: 0,0:00:17.44,0:00:17.91,Default,,0,0,0,,{\an5\pos(960,540)}si alguien hubiera {\1c&H00FF00&}presionado{\1c&HFFFFFF&}
+Dialogue: 0,0:00:17.91,0:00:18.39,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}eliminar{\1c&HFFFFFF&} sobre un fragmento
+Dialogue: 0,0:00:18.39,0:00:18.58,Default,,0,0,0,,{\an5\pos(960,540)}eliminar {\1c&H00FF00&}sobre{\1c&HFFFFFF&} un fragmento
+Dialogue: 0,0:00:18.58,0:00:18.68,Default,,0,0,0,,{\an5\pos(960,540)}eliminar sobre {\1c&H00FF00&}un{\1c&HFFFFFF&} fragmento
+Dialogue: 0,0:00:18.68,0:00:19.12,Default,,0,0,0,,{\an5\pos(960,540)}eliminar sobre un {\1c&H00FF00&}fragmento{\1c&HFFFFFF&}
+Dialogue: 0,0:00:19.12,0:00:19.21,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} la realidad y
+Dialogue: 0,0:00:19.21,0:00:19.26,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}la{\1c&HFFFFFF&} realidad y
+Dialogue: 0,0:00:19.26,0:00:19.78,Default,,0,0,0,,{\an5\pos(960,540)}de la {\1c&H00FF00&}realidad{\1c&HFFFFFF&} y
+Dialogue: 0,0:00:19.78,0:00:20.07,Default,,0,0,0,,{\an5\pos(960,540)}de la realidad {\1c&H00FF00&}y{\1c&HFFFFFF&}
+Dialogue: 0,0:00:20.07,0:00:20.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}entonces{\1c&HFFFFFF&} esa cosa atravesó
+Dialogue: 0,0:00:20.44,0:00:20.73,Default,,0,0,0,,{\an5\pos(960,540)}entonces {\1c&H00FF00&}esa{\1c&HFFFFFF&} cosa atravesó
+Dialogue: 0,0:00:20.73,0:00:20.94,Default,,0,0,0,,{\an5\pos(960,540)}entonces esa {\1c&H00FF00&}cosa{\1c&HFFFFFF&} atravesó
+Dialogue: 0,0:00:20.94,0:00:21.34,Default,,0,0,0,,{\an5\pos(960,540)}entonces esa cosa {\1c&H00FF00&}atravesó{\1c&HFFFFFF&}
+Dialogue: 0,0:00:21.34,0:00:21.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}el{\1c&HFFFFFF&} umbral
+Dialogue: 0,0:00:21.44,0:00:21.78,Default,,0,0,0,,{\an5\pos(960,540)}el {\1c&H00FF00&}umbral{\1c&HFFFFFF&}
+Dialogue: 0,0:00:21.89,0:00:22.30,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Caminar{\1c&HFFFFFF&} no exactamente
+Dialogue: 0,0:00:22.30,0:00:22.41,Default,,0,0,0,,{\an5\pos(960,540)}Caminar {\1c&H00FF00&}no{\1c&HFFFFFF&} exactamente
+Dialogue: 0,0:00:22.41,0:00:23.14,Default,,0,0,0,,{\an5\pos(960,540)}Caminar no {\1c&H00FF00&}exactamente{\1c&HFFFFFF&}
+Dialogue: 0,0:00:23.14,0:00:23.76,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Flotar{\1c&HFFFFFF&} deslizarse
+Dialogue: 0,0:00:23.76,0:00:24.47,Default,,0,0,0,,{\an5\pos(960,540)}Flotar {\1c&H00FF00&}deslizarse{\1c&HFFFFFF&}
+Dialogue: 0,0:00:24.37,0:00:24.78,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} no estaba seguro
+Dialogue: 0,0:00:24.78,0:00:24.96,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}no{\1c&HFFFFFF&} estaba seguro
+Dialogue: 0,0:00:24.96,0:00:25.21,Default,,0,0,0,,{\an5\pos(960,540)}Dave no {\1c&H00FF00&}estaba{\1c&HFFFFFF&} seguro
+Dialogue: 0,0:00:25.21,0:00:25.50,Default,,0,0,0,,{\an5\pos(960,540)}Dave no estaba {\1c&H00FF00&}seguro{\1c&HFFFFFF&}
+Dialogue: 0,0:00:25.50,0:00:25.62,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} qué verbo usar
+Dialogue: 0,0:00:25.62,0:00:25.71,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}qué{\1c&HFFFFFF&} verbo usar
+Dialogue: 0,0:00:25.71,0:00:25.92,Default,,0,0,0,,{\an5\pos(960,540)}de qué {\1c&H00FF00&}verbo{\1c&HFFFFFF&} usar
+Dialogue: 0,0:00:25.92,0:00:26.18,Default,,0,0,0,,{\an5\pos(960,540)}de qué verbo {\1c&H00FF00&}usar{\1c&HFFFFFF&}
+Dialogue: 0,0:00:26.18,0:00:26.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}para{\1c&HFFFFFF&} una criatura que
+Dialogue: 0,0:00:26.37,0:00:26.48,Default,,0,0,0,,{\an5\pos(960,540)}para {\1c&H00FF00&}una{\1c&HFFFFFF&} criatura que
+Dialogue: 0,0:00:26.48,0:00:26.87,Default,,0,0,0,,{\an5\pos(960,540)}para una {\1c&H00FF00&}criatura{\1c&HFFFFFF&} que
+Dialogue: 0,0:00:26.87,0:00:27.00,Default,,0,0,0,,{\an5\pos(960,540)}para una criatura {\1c&H00FF00&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:00:27.00,0:00:27.30,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}parecía{\1c&HFFFFFF&} una mezcla entre
+Dialogue: 0,0:00:27.30,0:00:27.46,Default,,0,0,0,,{\an5\pos(960,540)}parecía {\1c&H00FF00&}una{\1c&HFFFFFF&} mezcla entre
+Dialogue: 0,0:00:27.46,0:00:27.75,Default,,0,0,0,,{\an5\pos(960,540)}parecía una {\1c&H00FF00&}mezcla{\1c&HFFFFFF&} entre
+Dialogue: 0,0:00:27.75,0:00:27.94,Default,,0,0,0,,{\an5\pos(960,540)}parecía una mezcla {\1c&H00FF00&}entre{\1c&HFFFFFF&}
+Dialogue: 0,0:00:27.94,0:00:28.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}mantis{\1c&HFFFFFF&} religiosa y pavo
+Dialogue: 0,0:00:28.25,0:00:28.73,Default,,0,0,0,,{\an5\pos(960,540)}mantis {\1c&H00FF00&}religiosa{\1c&HFFFFFF&} y pavo
+Dialogue: 0,0:00:28.73,0:00:28.91,Default,,0,0,0,,{\an5\pos(960,540)}mantis religiosa {\1c&H00FF00&}y{\1c&HFFFFFF&} pavo
+Dialogue: 0,0:00:28.91,0:00:29.10,Default,,0,0,0,,{\an5\pos(960,540)}mantis religiosa y {\1c&H00FF00&}pavo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:29.10,0:00:29.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}real{\1c&HFFFFFF&} cubierta de un
+Dialogue: 0,0:00:29.37,0:00:29.87,Default,,0,0,0,,{\an5\pos(960,540)}real {\1c&H00FF00&}cubierta{\1c&HFFFFFF&} de un
+Dialogue: 0,0:00:29.87,0:00:29.96,Default,,0,0,0,,{\an5\pos(960,540)}real cubierta {\1c&H00FF00&}de{\1c&HFFFFFF&} un
+Dialogue: 0,0:00:29.96,0:00:30.05,Default,,0,0,0,,{\an5\pos(960,540)}real cubierta de {\1c&H00FF00&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:00:30.05,0:00:30.28,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}brillo{\1c&HFFFFFF&} bioluminiscente inquietante
+Dialogue: 0,0:00:30.28,0:00:30.91,Default,,0,0,0,,{\an5\pos(960,540)}brillo {\1c&H00FF00&}bioluminiscente{\1c&HFFFFFF&} inquietante
+Dialogue: 0,0:00:30.91,0:00:31.49,Default,,0,0,0,,{\an5\pos(960,540)}brillo bioluminiscente {\1c&H00FF00&}inquietante{\1c&HFFFFFF&}
+Dialogue: 0,0:00:31.55,0:00:31.71,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Era{\1c&HFFFFFF&} alta muy alta
+Dialogue: 0,0:00:31.71,0:00:32.10,Default,,0,0,0,,{\an5\pos(960,540)}Era {\1c&H00FF00&}alta{\1c&HFFFFFF&} muy alta
+Dialogue: 0,0:00:32.10,0:00:32.25,Default,,0,0,0,,{\an5\pos(960,540)}Era alta {\1c&H00FF00&}muy{\1c&HFFFFFF&} alta
+Dialogue: 0,0:00:32.25,0:00:32.75,Default,,0,0,0,,{\an5\pos(960,540)}Era alta muy {\1c&H00FF00&}alta{\1c&HFFFFFF&}
+Dialogue: 0,0:00:32.75,0:00:32.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}quizá{\1c&HFFFFFF&} más de dos
+Dialogue: 0,0:00:32.92,0:00:33.07,Default,,0,0,0,,{\an5\pos(960,540)}quizá {\1c&H00FF00&}más{\1c&HFFFFFF&} de dos
+Dialogue: 0,0:00:33.07,0:00:33.17,Default,,0,0,0,,{\an5\pos(960,540)}quizá más {\1c&H00FF00&}de{\1c&HFFFFFF&} dos
+Dialogue: 0,0:00:33.17,0:00:33.29,Default,,0,0,0,,{\an5\pos(960,540)}quizá más de {\1c&H00FF00&}dos{\1c&HFFFFFF&}
+Dialogue: 0,0:00:33.29,0:00:33.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}metros{\1c&HFFFFFF&} y tenía cuatro
+Dialogue: 0,0:00:33.81,0:00:34.01,Default,,0,0,0,,{\an5\pos(960,540)}metros {\1c&H00FF00&}y{\1c&HFFFFFF&} tenía cuatro
+Dialogue: 0,0:00:34.01,0:00:34.23,Default,,0,0,0,,{\an5\pos(960,540)}metros y {\1c&H00FF00&}tenía{\1c&HFFFFFF&} cuatro
+Dialogue: 0,0:00:34.23,0:00:34.47,Default,,0,0,0,,{\an5\pos(960,540)}metros y tenía {\1c&H00FF00&}cuatro{\1c&HFFFFFF&}
+Dialogue: 0,0:00:34.47,0:00:34.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}brazos{\1c&HFFFFFF&} cruzados sobre el
+Dialogue: 0,0:00:34.79,0:00:35.17,Default,,0,0,0,,{\an5\pos(960,540)}brazos {\1c&H00FF00&}cruzados{\1c&HFFFFFF&} sobre el
+Dialogue: 0,0:00:35.17,0:00:35.39,Default,,0,0,0,,{\an5\pos(960,540)}brazos cruzados {\1c&H00FF00&}sobre{\1c&HFFFFFF&} el
+Dialogue: 0,0:00:35.39,0:00:35.51,Default,,0,0,0,,{\an5\pos(960,540)}brazos cruzados sobre {\1c&H00FF00&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:00:35.51,0:00:35.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}pecho{\1c&HFFFFFF&} como si ya
+Dialogue: 0,0:00:35.81,0:00:36.01,Default,,0,0,0,,{\an5\pos(960,540)}pecho {\1c&H00FF00&}como{\1c&HFFFFFF&} si ya
+Dialogue: 0,0:00:36.01,0:00:36.15,Default,,0,0,0,,{\an5\pos(960,540)}pecho como {\1c&H00FF00&}si{\1c&HFFFFFF&} ya
+Dialogue: 0,0:00:36.15,0:00:36.27,Default,,0,0,0,,{\an5\pos(960,540)}pecho como si {\1c&H00FF00&}ya{\1c&HFFFFFF&}
+Dialogue: 0,0:00:36.27,0:00:36.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}estuviera{\1c&HFFFFFF&} cansada de estar
+Dialogue: 0,0:00:36.59,0:00:36.95,Default,,0,0,0,,{\an5\pos(960,540)}estuviera {\1c&H00FF00&}cansada{\1c&HFFFFFF&} de estar
+Dialogue: 0,0:00:36.95,0:00:37.05,Default,,0,0,0,,{\an5\pos(960,540)}estuviera cansada {\1c&H00FF00&}de{\1c&HFFFFFF&} estar
+Dialogue: 0,0:00:37.05,0:00:37.23,Default,,0,0,0,,{\an5\pos(960,540)}estuviera cansada de {\1c&H00FF00&}estar{\1c&HFFFFFF&}
+Dialogue: 0,0:00:37.23,0:00:37.50,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}ahí{\1c&HFFFFFF&}
+Dialogue: 0,0:00:37.59,0:00:37.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} estaba comiendo un
+Dialogue: 0,0:00:37.81,0:00:38.15,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}estaba{\1c&HFFFFFF&} comiendo un
+Dialogue: 0,0:00:38.15,0:00:38.57,Default,,0,0,0,,{\an5\pos(960,540)}Dave estaba {\1c&H00FF00&}comiendo{\1c&HFFFFFF&} un
+Dialogue: 0,0:00:38.57,0:00:38.71,Default,,0,0,0,,{\an5\pos(960,540)}Dave estaba comiendo {\1c&H00FF00&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:00:38.71,0:00:39.16,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}bajel{\1c&HFFFFFF&}
+Dialogue: 0,0:00:39.21,0:00:39.42,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Así{\1c&HFFFFFF&} que tú eres
+Dialogue: 0,0:00:39.42,0:00:39.59,Default,,0,0,0,,{\an5\pos(960,540)}Así {\1c&H00FF00&}que{\1c&HFFFFFF&} tú eres
+Dialogue: 0,0:00:39.59,0:00:39.73,Default,,0,0,0,,{\an5\pos(960,540)}Así que {\1c&H00FF00&}tú{\1c&HFFFFFF&} eres
+Dialogue: 0,0:00:39.73,0:00:39.99,Default,,0,0,0,,{\an5\pos(960,540)}Así que tú {\1c&H00FF00&}eres{\1c&HFFFFFF&}
+Dialogue: 0,0:00:39.99,0:00:40.21,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}el{\1c&HFFFFFF&} que han enviado
+Dialogue: 0,0:00:40.21,0:00:40.29,Default,,0,0,0,,{\an5\pos(960,540)}el {\1c&H00FF00&}que{\1c&HFFFFFF&} han enviado
+Dialogue: 0,0:00:40.29,0:00:40.39,Default,,0,0,0,,{\an5\pos(960,540)}el que {\1c&H00FF00&}han{\1c&HFFFFFF&} enviado
+Dialogue: 0,0:00:40.39,0:00:40.71,Default,,0,0,0,,{\an5\pos(960,540)}el que han {\1c&H00FF00&}enviado{\1c&HFFFFFF&}
+Dialogue: 0,0:00:40.71,0:00:40.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}para{\1c&HFFFFFF&} hablar en nombre
+Dialogue: 0,0:00:40.89,0:00:41.09,Default,,0,0,0,,{\an5\pos(960,540)}para {\1c&H00FF00&}hablar{\1c&HFFFFFF&} en nombre
+Dialogue: 0,0:00:41.09,0:00:41.25,Default,,0,0,0,,{\an5\pos(960,540)}para hablar {\1c&H00FF00&}en{\1c&HFFFFFF&} nombre
+Dialogue: 0,0:00:41.25,0:00:41.47,Default,,0,0,0,,{\an5\pos(960,540)}para hablar en {\1c&H00FF00&}nombre{\1c&HFFFFFF&}
+Dialogue: 0,0:00:41.47,0:00:41.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} tu especie
+Dialogue: 0,0:00:41.59,0:00:41.69,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}tu{\1c&HFFFFFF&} especie
+Dialogue: 0,0:00:41.69,0:00:42.12,Default,,0,0,0,,{\an5\pos(960,540)}de tu {\1c&H00FF00&}especie{\1c&HFFFFFF&}
+Dialogue: 0,0:00:42.19,0:00:42.33,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}La{\1c&HFFFFFF&} voz no salió
+Dialogue: 0,0:00:42.33,0:00:42.51,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H00FF00&}voz{\1c&HFFFFFF&} no salió
+Dialogue: 0,0:00:42.51,0:00:42.65,Default,,0,0,0,,{\an5\pos(960,540)}La voz {\1c&H00FF00&}no{\1c&HFFFFFF&} salió
+Dialogue: 0,0:00:42.65,0:00:42.91,Default,,0,0,0,,{\an5\pos(960,540)}La voz no {\1c&H00FF00&}salió{\1c&HFFFFFF&}
+Dialogue: 0,0:00:42.91,0:00:43.01,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} una boca simplemente
+Dialogue: 0,0:00:43.01,0:00:43.09,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}una{\1c&HFFFFFF&} boca simplemente
+Dialogue: 0,0:00:43.09,0:00:43.57,Default,,0,0,0,,{\an5\pos(960,540)}de una {\1c&H00FF00&}boca{\1c&HFFFFFF&} simplemente
+Dialogue: 0,0:00:43.57,0:00:44.05,Default,,0,0,0,,{\an5\pos(960,540)}de una boca {\1c&H00FF00&}simplemente{\1c&HFFFFFF&}
+Dialogue: 0,0:00:44.05,0:00:44.60,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}apareció{\1c&HFFFFFF&} dentro de su
+Dialogue: 0,0:00:44.60,0:00:44.85,Default,,0,0,0,,{\an5\pos(960,540)}apareció {\1c&H00FF00&}dentro{\1c&HFFFFFF&} de su
+Dialogue: 0,0:00:44.85,0:00:45.01,Default,,0,0,0,,{\an5\pos(960,540)}apareció dentro {\1c&H00FF00&}de{\1c&HFFFFFF&} su
+Dialogue: 0,0:00:45.01,0:00:45.10,Default,,0,0,0,,{\an5\pos(960,540)}apareció dentro de {\1c&H00FF00&}su{\1c&HFFFFFF&}
+Dialogue: 0,0:00:45.10,0:00:45.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}mente{\1c&HFFFFFF&}
+Dialogue: 0,0:00:45.63,0:00:46.05,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Tranquilo{\1c&HFFFFFF&} soy el que
+Dialogue: 0,0:00:46.05,0:00:46.17,Default,,0,0,0,,{\an5\pos(960,540)}Tranquilo {\1c&H00FF00&}soy{\1c&HFFFFFF&} el que
+Dialogue: 0,0:00:46.17,0:00:46.25,Default,,0,0,0,,{\an5\pos(960,540)}Tranquilo soy {\1c&H00FF00&}el{\1c&HFFFFFF&} que
+Dialogue: 0,0:00:46.25,0:00:46.31,Default,,0,0,0,,{\an5\pos(960,540)}Tranquilo soy el {\1c&H00FF00&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:00:46.31,0:00:46.55,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}perdió{\1c&HFFFFFF&} el sorteo respondió
+Dialogue: 0,0:00:46.55,0:00:46.65,Default,,0,0,0,,{\an5\pos(960,540)}perdió {\1c&H00FF00&}el{\1c&HFFFFFF&} sorteo respondió
+Dialogue: 0,0:00:46.65,0:00:47.15,Default,,0,0,0,,{\an5\pos(960,540)}perdió el {\1c&H00FF00&}sorteo{\1c&HFFFFFF&} respondió
+Dialogue: 0,0:00:47.15,0:00:47.49,Default,,0,0,0,,{\an5\pos(960,540)}perdió el sorteo {\1c&H00FF00&}respondió{\1c&HFFFFFF&}
+Dialogue: 0,0:00:47.49,0:00:47.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} tragando
+Dialogue: 0,0:00:47.75,0:00:48.42,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}tragando{\1c&HFFFFFF&}
+Dialogue: 0,0:00:48.42,0:00:48.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Bienvenido{\1c&HFFFFFF&} a la tierra
+Dialogue: 0,0:00:48.79,0:00:48.87,Default,,0,0,0,,{\an5\pos(960,540)}Bienvenido {\1c&H00FF00&}a{\1c&HFFFFFF&} la tierra
+Dialogue: 0,0:00:48.87,0:00:48.95,Default,,0,0,0,,{\an5\pos(960,540)}Bienvenido a {\1c&H00FF00&}la{\1c&HFFFFFF&} tierra
+Dialogue: 0,0:00:48.95,0:00:49.30,Default,,0,0,0,,{\an5\pos(960,540)}Bienvenido a la {\1c&H00FF00&}tierra{\1c&HFFFFFF&}
+Dialogue: 0,0:00:49.39,0:00:49.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Café{\1c&HFFFFFF&} té creo que
+Dialogue: 0,0:00:49.81,0:00:50.09,Default,,0,0,0,,{\an5\pos(960,540)}Café {\1c&H00FF00&}té{\1c&HFFFFFF&} creo que
+Dialogue: 0,0:00:50.09,0:00:50.25,Default,,0,0,0,,{\an5\pos(960,540)}Café té {\1c&H00FF00&}creo{\1c&HFFFFFF&} que
+Dialogue: 0,0:00:50.25,0:00:50.39,Default,,0,0,0,,{\an5\pos(960,540)}Café té creo {\1c&H00FF00&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:00:50.39,0:00:50.49,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}hay{\1c&HFFFFFF&} jugo de naranja
+Dialogue: 0,0:00:50.49,0:00:50.71,Default,,0,0,0,,{\an5\pos(960,540)}hay {\1c&H00FF00&}jugo{\1c&HFFFFFF&} de naranja
+Dialogue: 0,0:00:50.71,0:00:50.75,Default,,0,0,0,,{\an5\pos(960,540)}hay jugo {\1c&H00FF00&}de{\1c&HFFFFFF&} naranja
+Dialogue: 0,0:00:50.75,0:00:51.21,Default,,0,0,0,,{\an5\pos(960,540)}hay jugo de {\1c&H00FF00&}naranja{\1c&HFFFFFF&}
+Dialogue: 0,0:00:51.21,0:00:51.27,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}pero{\1c&HFFFFFF&} no lo recomiendo
+Dialogue: 0,0:00:51.27,0:00:51.41,Default,,0,0,0,,{\an5\pos(960,540)}pero {\1c&H00FF00&}no{\1c&HFFFFFF&} lo recomiendo
+Dialogue: 0,0:00:51.41,0:00:51.51,Default,,0,0,0,,{\an5\pos(960,540)}pero no {\1c&H00FF00&}lo{\1c&HFFFFFF&} recomiendo
+Dialogue: 0,0:00:51.51,0:00:52.03,Default,,0,0,0,,{\an5\pos(960,540)}pero no lo {\1c&H00FF00&}recomiendo{\1c&HFFFFFF&}
+Dialogue: 0,0:00:52.03,0:00:52.55,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}probablemente{\1c&HFFFFFF&} ya esté muerto
+Dialogue: 0,0:00:52.55,0:00:52.69,Default,,0,0,0,,{\an5\pos(960,540)}probablemente {\1c&H00FF00&}ya{\1c&HFFFFFF&} esté muerto
+Dialogue: 0,0:00:52.69,0:00:52.87,Default,,0,0,0,,{\an5\pos(960,540)}probablemente ya {\1c&H00FF00&}esté{\1c&HFFFFFF&} muerto
+Dialogue: 0,0:00:52.87,0:00:53.28,Default,,0,0,0,,{\an5\pos(960,540)}probablemente ya esté {\1c&H00FF00&}muerto{\1c&HFFFFFF&}
+Dialogue: 0,0:00:53.19,0:00:53.47,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}La{\1c&HFFFFFF&} criatura lo observó
+Dialogue: 0,0:00:53.47,0:00:53.85,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H00FF00&}criatura{\1c&HFFFFFF&} lo observó
+Dialogue: 0,0:00:53.85,0:00:53.99,Default,,0,0,0,,{\an5\pos(960,540)}La criatura {\1c&H00FF00&}lo{\1c&HFFFFFF&} observó
+Dialogue: 0,0:00:53.99,0:00:54.53,Default,,0,0,0,,{\an5\pos(960,540)}La criatura lo {\1c&H00FF00&}observó{\1c&HFFFFFF&}
+Dialogue: 0,0:00:54.53,0:00:54.63,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}o{\1c&HFFFFFF&} al menos eso
+Dialogue: 0,0:00:54.63,0:00:54.77,Default,,0,0,0,,{\an5\pos(960,540)}o {\1c&H00FF00&}al{\1c&HFFFFFF&} menos eso
+Dialogue: 0,0:00:54.77,0:00:54.95,Default,,0,0,0,,{\an5\pos(960,540)}o al {\1c&H00FF00&}menos{\1c&HFFFFFF&} eso
+Dialogue: 0,0:00:54.95,0:00:55.17,Default,,0,0,0,,{\an5\pos(960,540)}o al menos {\1c&H00FF00&}eso{\1c&HFFFFFF&}
+Dialogue: 0,0:00:55.17,0:00:55.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}parecía{\1c&HFFFFFF&} Dave ni siquiera
+Dialogue: 0,0:00:55.89,0:00:56.03,Default,,0,0,0,,{\an5\pos(960,540)}parecía {\1c&H00FF00&}Dave{\1c&HFFFFFF&} ni siquiera
+Dialogue: 0,0:00:56.03,0:00:56.17,Default,,0,0,0,,{\an5\pos(960,540)}parecía Dave {\1c&H00FF00&}ni{\1c&HFFFFFF&} siquiera
+Dialogue: 0,0:00:56.17,0:00:56.47,Default,,0,0,0,,{\an5\pos(960,540)}parecía Dave ni {\1c&H00FF00&}siquiera{\1c&HFFFFFF&}
+Dialogue: 0,0:00:56.47,0:00:56.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}estaba{\1c&HFFFFFF&} seguro de dónde
+Dialogue: 0,0:00:56.75,0:00:57.05,Default,,0,0,0,,{\an5\pos(960,540)}estaba {\1c&H00FF00&}seguro{\1c&HFFFFFF&} de dónde
+Dialogue: 0,0:00:57.05,0:00:57.19,Default,,0,0,0,,{\an5\pos(960,540)}estaba seguro {\1c&H00FF00&}de{\1c&HFFFFFF&} dónde
+Dialogue: 0,0:00:57.19,0:00:57.35,Default,,0,0,0,,{\an5\pos(960,540)}estaba seguro de {\1c&H00FF00&}dónde{\1c&HFFFFFF&}
+Dialogue: 0,0:00:57.35,0:00:57.67,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}estaban{\1c&HFFFFFF&} sus ojos
+Dialogue: 0,0:00:57.67,0:00:57.85,Default,,0,0,0,,{\an5\pos(960,540)}estaban {\1c&H00FF00&}sus{\1c&HFFFFFF&} ojos
+Dialogue: 0,0:00:57.85,0:00:58.20,Default,,0,0,0,,{\an5\pos(960,540)}estaban sus {\1c&H00FF00&}ojos{\1c&HFFFFFF&}
+Dialogue: 0,0:00:58.33,0:00:58.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Soy{\1c&HFFFFFF&} el embajador
+Dialogue: 0,0:00:58.51,0:00:58.60,Default,,0,0,0,,{\an5\pos(960,540)}Soy {\1c&H00FF00&}el{\1c&HFFFFFF&} embajador
+Dialogue: 0,0:00:58.60,0:00:59.01,Default,,0,0,0,,{\an5\pos(960,540)}Soy el {\1c&H00FF00&}embajador{\1c&HFFFFFF&}
+Dialogue: 0,0:00:59.01,0:00:59.47,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} el ansioso de
+Dialogue: 0,0:00:59.47,0:00:59.55,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}el{\1c&HFFFFFF&} ansioso de
+Dialogue: 0,0:00:59.55,0:01:00.07,Default,,0,0,0,,{\an5\pos(960,540)}Siltok el {\1c&H00FF00&}ansioso{\1c&HFFFFFF&} de
+Dialogue: 0,0:01:00.07,0:01:00.21,Default,,0,0,0,,{\an5\pos(960,540)}Siltok el ansioso {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:00.21,0:01:00.29,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}la{\1c&HFFFFFF&} concordancia unificada
+Dialogue: 0,0:01:00.29,0:01:00.79,Default,,0,0,0,,{\an5\pos(960,540)}la {\1c&H00FF00&}concordancia{\1c&HFFFFFF&} unificada
+Dialogue: 0,0:01:00.79,0:01:01.36,Default,,0,0,0,,{\an5\pos(960,540)}la concordancia {\1c&H00FF00&}unificada{\1c&HFFFFFF&}
+Dialogue: 0,0:01:01.41,0:01:01.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} solo
+Dialogue: 0,0:01:01.75,0:01:01.85,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}solo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:01.85,0:01:02.27,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} el ansioso vaya
+Dialogue: 0,0:01:02.27,0:01:02.39,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}el{\1c&HFFFFFF&} ansioso vaya
+Dialogue: 0,0:01:02.39,0:01:03.01,Default,,0,0,0,,{\an5\pos(960,540)}Dave el {\1c&H00FF00&}ansioso{\1c&HFFFFFF&} vaya
+Dialogue: 0,0:01:03.01,0:01:03.19,Default,,0,0,0,,{\an5\pos(960,540)}Dave el ansioso {\1c&H00FF00&}vaya{\1c&HFFFFFF&}
+Dialogue: 0,0:01:03.19,0:01:03.63,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}título{\1c&HFFFFFF&} primer contacto te
+Dialogue: 0,0:01:03.63,0:01:03.79,Default,,0,0,0,,{\an5\pos(960,540)}título {\1c&H00FF00&}primer{\1c&HFFFFFF&} contacto te
+Dialogue: 0,0:01:03.79,0:01:04.25,Default,,0,0,0,,{\an5\pos(960,540)}título primer {\1c&H00FF00&}contacto{\1c&HFFFFFF&} te
+Dialogue: 0,0:01:04.25,0:01:04.35,Default,,0,0,0,,{\an5\pos(960,540)}título primer contacto {\1c&H00FF00&}te{\1c&HFFFFFF&}
+Dialogue: 0,0:01:04.35,0:01:04.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}pone{\1c&HFFFFFF&} nervioso
+Dialogue: 0,0:01:04.51,0:01:05.04,Default,,0,0,0,,{\an5\pos(960,540)}pone {\1c&H00FF00&}nervioso{\1c&HFFFFFF&}
+Dialogue: 0,0:01:05.17,0:01:05.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} emitió una serie
+Dialogue: 0,0:01:05.51,0:01:05.81,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}emitió{\1c&HFFFFFF&} una serie
+Dialogue: 0,0:01:05.81,0:01:05.93,Default,,0,0,0,,{\an5\pos(960,540)}Siltok emitió {\1c&H00FF00&}una{\1c&HFFFFFF&} serie
+Dialogue: 0,0:01:05.93,0:01:06.15,Default,,0,0,0,,{\an5\pos(960,540)}Siltok emitió una {\1c&H00FF00&}serie{\1c&HFFFFFF&}
+Dialogue: 0,0:01:06.15,0:01:06.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} chasquidos mentales que
+Dialogue: 0,0:01:06.25,0:01:06.65,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}chasquidos{\1c&HFFFFFF&} mentales que
+Dialogue: 0,0:01:06.65,0:01:07.09,Default,,0,0,0,,{\an5\pos(960,540)}de chasquidos {\1c&H00FF00&}mentales{\1c&HFFFFFF&} que
+Dialogue: 0,0:01:07.09,0:01:07.39,Default,,0,0,0,,{\an5\pos(960,540)}de chasquidos mentales {\1c&H00FF00&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:01:07.39,0:01:07.93,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}transmitían{\1c&HFFFFFF&} puro agotamiento
+Dialogue: 0,0:01:07.93,0:01:08.18,Default,,0,0,0,,{\an5\pos(960,540)}transmitían {\1c&H00FF00&}puro{\1c&HFFFFFF&} agotamiento
+Dialogue: 0,0:01:08.18,0:01:08.78,Default,,0,0,0,,{\an5\pos(960,540)}transmitían puro {\1c&H00FF00&}agotamiento{\1c&HFFFFFF&}
+Dialogue: 0,0:01:08.89,0:01:09.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}No{\1c&HFFFFFF&} tienes idea
+Dialogue: 0,0:01:09.09,0:01:09.40,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H00FF00&}tienes{\1c&HFFFFFF&} idea
+Dialogue: 0,0:01:09.40,0:01:09.81,Default,,0,0,0,,{\an5\pos(960,540)}No tienes {\1c&H00FF00&}idea{\1c&HFFFFFF&}
+Dialogue: 0,0:01:09.89,0:01:10.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Se{\1c&HFFFFFF&} sentaron en la
+Dialogue: 0,0:01:10.04,0:01:10.39,Default,,0,0,0,,{\an5\pos(960,540)}Se {\1c&H00FF00&}sentaron{\1c&HFFFFFF&} en la
+Dialogue: 0,0:01:10.39,0:01:10.49,Default,,0,0,0,,{\an5\pos(960,540)}Se sentaron {\1c&H00FF00&}en{\1c&HFFFFFF&} la
+Dialogue: 0,0:01:10.49,0:01:10.57,Default,,0,0,0,,{\an5\pos(960,540)}Se sentaron en {\1c&H00FF00&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:01:10.57,0:01:10.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}sala{\1c&HFFFFFF&} de conferencias
+Dialogue: 0,0:01:10.75,0:01:10.85,Default,,0,0,0,,{\an5\pos(960,540)}sala {\1c&H00FF00&}de{\1c&HFFFFFF&} conferencias
+Dialogue: 0,0:01:10.85,0:01:11.65,Default,,0,0,0,,{\an5\pos(960,540)}sala de {\1c&H00FF00&}conferencias{\1c&HFFFFFF&}
+Dialogue: 0,0:01:11.65,0:01:11.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Bueno{\1c&HFFFFFF&} Dave se sentó
+Dialogue: 0,0:01:11.95,0:01:12.09,Default,,0,0,0,,{\an5\pos(960,540)}Bueno {\1c&H00FF00&}Dave{\1c&HFFFFFF&} se sentó
+Dialogue: 0,0:01:12.09,0:01:12.29,Default,,0,0,0,,{\an5\pos(960,540)}Bueno Dave {\1c&H00FF00&}se{\1c&HFFFFFF&} sentó
+Dialogue: 0,0:01:12.29,0:01:12.82,Default,,0,0,0,,{\an5\pos(960,540)}Bueno Dave se {\1c&H00FF00&}sentó{\1c&HFFFFFF&}
+Dialogue: 0,0:01:12.82,0:01:13.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} flotó en una
+Dialogue: 0,0:01:13.09,0:01:13.39,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}flotó{\1c&HFFFFFF&} en una
+Dialogue: 0,0:01:13.39,0:01:13.49,Default,,0,0,0,,{\an5\pos(960,540)}Siltok flotó {\1c&H00FF00&}en{\1c&HFFFFFF&} una
+Dialogue: 0,0:01:13.49,0:01:13.59,Default,,0,0,0,,{\an5\pos(960,540)}Siltok flotó en {\1c&H00FF00&}una{\1c&HFFFFFF&}
+Dialogue: 0,0:01:13.59,0:01:14.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}esquina{\1c&HFFFFFF&} suspendido en el
+Dialogue: 0,0:01:14.04,0:01:14.45,Default,,0,0,0,,{\an5\pos(960,540)}esquina {\1c&H00FF00&}suspendido{\1c&HFFFFFF&} en el
+Dialogue: 0,0:01:14.45,0:01:14.53,Default,,0,0,0,,{\an5\pos(960,540)}esquina suspendido {\1c&H00FF00&}en{\1c&HFFFFFF&} el
+Dialogue: 0,0:01:14.53,0:01:14.60,Default,,0,0,0,,{\an5\pos(960,540)}esquina suspendido en {\1c&H00FF00&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:01:14.60,0:01:14.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}aire{\1c&HFFFFFF&}
+Dialogue: 0,0:01:15.01,0:01:15.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Detrás{\1c&HFFFFFF&} de un vidrio
+Dialogue: 0,0:01:15.25,0:01:15.35,Default,,0,0,0,,{\an5\pos(960,540)}Detrás {\1c&H00FF00&}de{\1c&HFFFFFF&} un vidrio
+Dialogue: 0,0:01:15.35,0:01:15.40,Default,,0,0,0,,{\an5\pos(960,540)}Detrás de {\1c&H00FF00&}un{\1c&HFFFFFF&} vidrio
+Dialogue: 0,0:01:15.40,0:01:15.85,Default,,0,0,0,,{\an5\pos(960,540)}Detrás de un {\1c&H00FF00&}vidrio{\1c&HFFFFFF&}
+Dialogue: 0,0:01:15.85,0:01:16.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}humanos{\1c&HFFFFFF&} observaban en silencio
+Dialogue: 0,0:01:16.09,0:01:16.60,Default,,0,0,0,,{\an5\pos(960,540)}humanos {\1c&H00FF00&}observaban{\1c&HFFFFFF&} en silencio
+Dialogue: 0,0:01:16.60,0:01:16.71,Default,,0,0,0,,{\an5\pos(960,540)}humanos observaban {\1c&H00FF00&}en{\1c&HFFFFFF&} silencio
+Dialogue: 0,0:01:16.71,0:01:17.25,Default,,0,0,0,,{\an5\pos(960,540)}humanos observaban en {\1c&H00FF00&}silencio{\1c&HFFFFFF&}
+Dialogue: 0,0:01:17.32,0:01:17.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}El{\1c&HFFFFFF&} general
+Dialogue: 0,0:01:17.59,0:01:17.82,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H00FF00&}general{\1c&HFFFFFF&}
+Dialogue: 0,0:01:17.82,0:01:18.10,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Thompson{\1c&HFFFFFF&} ya iba por
+Dialogue: 0,0:01:18.10,0:01:18.35,Default,,0,0,0,,{\an5\pos(960,540)}Thompson {\1c&H00FF00&}ya{\1c&HFFFFFF&} iba por
+Dialogue: 0,0:01:18.35,0:01:18.49,Default,,0,0,0,,{\an5\pos(960,540)}Thompson ya {\1c&H00FF00&}iba{\1c&HFFFFFF&} por
+Dialogue: 0,0:01:18.49,0:01:18.63,Default,,0,0,0,,{\an5\pos(960,540)}Thompson ya iba {\1c&H00FF00&}por{\1c&HFFFFFF&}
+Dialogue: 0,0:01:18.63,0:01:18.76,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}su{\1c&HFFFFFF&} tercer café
+Dialogue: 0,0:01:18.76,0:01:19.01,Default,,0,0,0,,{\an5\pos(960,540)}su {\1c&H00FF00&}tercer{\1c&HFFFFFF&} café
+Dialogue: 0,0:01:19.01,0:01:19.65,Default,,0,0,0,,{\an5\pos(960,540)}su tercer {\1c&H00FF00&}café{\1c&HFFFFFF&}
+Dialogue: 0,0:01:19.65,0:01:19.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Alguien{\1c&HFFFFFF&} murmuraba no puede
+Dialogue: 0,0:01:19.89,0:01:20.43,Default,,0,0,0,,{\an5\pos(960,540)}Alguien {\1c&H00FF00&}murmuraba{\1c&HFFFFFF&} no puede
+Dialogue: 0,0:01:20.43,0:01:20.54,Default,,0,0,0,,{\an5\pos(960,540)}Alguien murmuraba {\1c&H00FF00&}no{\1c&HFFFFFF&} puede
+Dialogue: 0,0:01:20.54,0:01:20.75,Default,,0,0,0,,{\an5\pos(960,540)}Alguien murmuraba no {\1c&H00FF00&}puede{\1c&HFFFFFF&}
+Dialogue: 0,0:01:20.75,0:01:21.17,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}ser{\1c&HFFFFFF&} una y otra
+Dialogue: 0,0:01:21.17,0:01:21.26,Default,,0,0,0,,{\an5\pos(960,540)}ser {\1c&H00FF00&}una{\1c&HFFFFFF&} y otra
+Dialogue: 0,0:01:21.26,0:01:21.37,Default,,0,0,0,,{\an5\pos(960,540)}ser una {\1c&H00FF00&}y{\1c&HFFFFFF&} otra
+Dialogue: 0,0:01:21.37,0:01:21.51,Default,,0,0,0,,{\an5\pos(960,540)}ser una y {\1c&H00FF00&}otra{\1c&HFFFFFF&}
+Dialogue: 0,0:01:21.51,0:01:21.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}vez{\1c&HFFFFFF&}
+Dialogue: 0,0:01:21.71,0:01:22.23,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} desplegó un dispositivo
+Dialogue: 0,0:01:22.23,0:01:22.63,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}desplegó{\1c&HFFFFFF&} un dispositivo
+Dialogue: 0,0:01:22.63,0:01:22.73,Default,,0,0,0,,{\an5\pos(960,540)}Siltok desplegó {\1c&H00FF00&}un{\1c&HFFFFFF&} dispositivo
+Dialogue: 0,0:01:22.73,0:01:23.59,Default,,0,0,0,,{\an5\pos(960,540)}Siltok desplegó un {\1c&H00FF00&}dispositivo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:23.59,0:01:23.67,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Un{\1c&HFFFFFF&} mapa estelar apareció
+Dialogue: 0,0:01:23.67,0:01:23.85,Default,,0,0,0,,{\an5\pos(960,540)}Un {\1c&H00FF00&}mapa{\1c&HFFFFFF&} estelar apareció
+Dialogue: 0,0:01:23.85,0:01:24.18,Default,,0,0,0,,{\an5\pos(960,540)}Un mapa {\1c&H00FF00&}estelar{\1c&HFFFFFF&} apareció
+Dialogue: 0,0:01:24.18,0:01:24.54,Default,,0,0,0,,{\an5\pos(960,540)}Un mapa estelar {\1c&H00FF00&}apareció{\1c&HFFFFFF&}
+Dialogue: 0,0:01:24.54,0:01:24.71,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}entre{\1c&HFFFFFF&} ellos
+Dialogue: 0,0:01:24.71,0:01:25.09,Default,,0,0,0,,{\an5\pos(960,540)}entre {\1c&H00FF00&}ellos{\1c&HFFFFFF&}
+Dialogue: 0,0:01:25.26,0:01:25.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Interceptamos{\1c&HFFFFFF&} una señal hace
+Dialogue: 0,0:01:25.75,0:01:25.90,Default,,0,0,0,,{\an5\pos(960,540)}Interceptamos {\1c&H00FF00&}una{\1c&HFFFFFF&} señal hace
+Dialogue: 0,0:01:25.90,0:01:26.29,Default,,0,0,0,,{\an5\pos(960,540)}Interceptamos una {\1c&H00FF00&}señal{\1c&HFFFFFF&} hace
+Dialogue: 0,0:01:26.29,0:01:26.57,Default,,0,0,0,,{\an5\pos(960,540)}Interceptamos una señal {\1c&H00FF00&}hace{\1c&HFFFFFF&}
+Dialogue: 0,0:01:26.57,0:01:27.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}173{\1c&HFFFFFF&} de sus años
+Dialogue: 0,0:01:27.37,0:01:27.63,Default,,0,0,0,,{\an5\pos(960,540)}173 {\1c&H00FF00&}de{\1c&HFFFFFF&} sus años
+Dialogue: 0,0:01:27.63,0:01:27.76,Default,,0,0,0,,{\an5\pos(960,540)}173 de {\1c&H00FF00&}sus{\1c&HFFFFFF&} años
+Dialogue: 0,0:01:27.76,0:01:28.37,Default,,0,0,0,,{\an5\pos(960,540)}173 de sus {\1c&H00FF00&}años{\1c&HFFFFFF&}
+Dialogue: 0,0:01:28.37,0:01:28.79,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}proveniente{\1c&HFFFFFF&} de su sistema
+Dialogue: 0,0:01:28.79,0:01:28.90,Default,,0,0,0,,{\an5\pos(960,540)}proveniente {\1c&H00FF00&}de{\1c&HFFFFFF&} su sistema
+Dialogue: 0,0:01:28.90,0:01:29.03,Default,,0,0,0,,{\an5\pos(960,540)}proveniente de {\1c&H00FF00&}su{\1c&HFFFFFF&} sistema
+Dialogue: 0,0:01:29.03,0:01:29.32,Default,,0,0,0,,{\an5\pos(960,540)}proveniente de su {\1c&H00FF00&}sistema{\1c&HFFFFFF&}
+Dialogue: 0,0:01:29.32,0:01:29.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}solar{\1c&HFFFFFF&}
+Dialogue: 0,0:01:29.87,0:01:30.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ah{\1c&HFFFFFF&} lo de
+Dialogue: 0,0:01:30.09,0:01:30.15,Default,,0,0,0,,{\an5\pos(960,540)}Ah {\1c&H00FF00&}lo{\1c&HFFFFFF&} de
+Dialogue: 0,0:01:30.15,0:01:30.26,Default,,0,0,0,,{\an5\pos(960,540)}Ah lo {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:30.26,0:01:30.67,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Voyager{\1c&HFFFFFF&} no
+Dialogue: 0,0:01:30.67,0:01:30.96,Default,,0,0,0,,{\an5\pos(960,540)}Voyager {\1c&H00FF00&}no{\1c&HFFFFFF&}
+Dialogue: 0,0:01:31.07,0:01:31.49,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} se quedó completamente
+Dialogue: 0,0:01:31.49,0:01:31.67,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}se{\1c&HFFFFFF&} quedó completamente
+Dialogue: 0,0:01:31.67,0:01:31.90,Default,,0,0,0,,{\an5\pos(960,540)}Siltok se {\1c&H00FF00&}quedó{\1c&HFFFFFF&} completamente
+Dialogue: 0,0:01:31.90,0:01:32.46,Default,,0,0,0,,{\an5\pos(960,540)}Siltok se quedó {\1c&H00FF00&}completamente{\1c&HFFFFFF&}
+Dialogue: 0,0:01:32.46,0:01:33.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}inmóvil{\1c&HFFFFFF&}
+Dialogue: 0,0:01:33.15,0:01:33.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Lo{\1c&HFFFFFF&} sabían
+Dialogue: 0,0:01:33.31,0:01:33.90,Default,,0,0,0,,{\an5\pos(960,540)}Lo {\1c&H00FF00&}sabían{\1c&HFFFFFF&}
+Dialogue: 0,0:01:33.90,0:01:34.29,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Claro{\1c&HFFFFFF&} la enviamos nosotros
+Dialogue: 0,0:01:34.29,0:01:34.39,Default,,0,0,0,,{\an5\pos(960,540)}Claro {\1c&H00FF00&}la{\1c&HFFFFFF&} enviamos nosotros
+Dialogue: 0,0:01:34.39,0:01:34.71,Default,,0,0,0,,{\an5\pos(960,540)}Claro la {\1c&H00FF00&}enviamos{\1c&HFFFFFF&} nosotros
+Dialogue: 0,0:01:34.71,0:01:35.37,Default,,0,0,0,,{\an5\pos(960,540)}Claro la enviamos {\1c&H00FF00&}nosotros{\1c&HFFFFFF&}
+Dialogue: 0,0:01:35.37,0:01:35.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Música{\1c&HFFFFFF&} matemáticas ubicación un
+Dialogue: 0,0:01:35.81,0:01:36.32,Default,,0,0,0,,{\an5\pos(960,540)}Música {\1c&H00FF00&}matemáticas{\1c&HFFFFFF&} ubicación un
+Dialogue: 0,0:01:36.32,0:01:36.85,Default,,0,0,0,,{\an5\pos(960,540)}Música matemáticas {\1c&H00FF00&}ubicación{\1c&HFFFFFF&} un
+Dialogue: 0,0:01:36.85,0:01:36.93,Default,,0,0,0,,{\an5\pos(960,540)}Música matemáticas ubicación {\1c&H00FF00&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:01:36.93,0:01:37.21,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}paquete{\1c&HFFFFFF&} de bienvenida
+Dialogue: 0,0:01:37.21,0:01:37.31,Default,,0,0,0,,{\an5\pos(960,540)}paquete {\1c&H00FF00&}de{\1c&HFFFFFF&} bienvenida
+Dialogue: 0,0:01:37.31,0:01:37.82,Default,,0,0,0,,{\an5\pos(960,540)}paquete de {\1c&H00FF00&}bienvenida{\1c&HFFFFFF&}
+Dialogue: 0,0:01:38.07,0:01:38.43,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Estábamos{\1c&HFFFFFF&} en una etapa
+Dialogue: 0,0:01:38.43,0:01:38.59,Default,,0,0,0,,{\an5\pos(960,540)}Estábamos {\1c&H00FF00&}en{\1c&HFFFFFF&} una etapa
+Dialogue: 0,0:01:38.59,0:01:38.71,Default,,0,0,0,,{\an5\pos(960,540)}Estábamos en {\1c&H00FF00&}una{\1c&HFFFFFF&} etapa
+Dialogue: 0,0:01:38.71,0:01:38.93,Default,,0,0,0,,{\an5\pos(960,540)}Estábamos en una {\1c&H00FF00&}etapa{\1c&HFFFFFF&}
+Dialogue: 0,0:01:38.93,0:01:39.60,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}optimista{\1c&HFFFFFF&} Enviaron sus coordenadas
+Dialogue: 0,0:01:39.60,0:01:39.96,Default,,0,0,0,,{\an5\pos(960,540)}optimista {\1c&H00FF00&}Enviaron{\1c&HFFFFFF&} sus coordenadas
+Dialogue: 0,0:01:39.96,0:01:40.17,Default,,0,0,0,,{\an5\pos(960,540)}optimista Enviaron {\1c&H00FF00&}sus{\1c&HFFFFFF&} coordenadas
+Dialogue: 0,0:01:40.17,0:01:40.65,Default,,0,0,0,,{\an5\pos(960,540)}optimista Enviaron sus {\1c&H00FF00&}coordenadas{\1c&HFFFFFF&}
+Dialogue: 0,0:01:40.65,0:01:41.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}exactas{\1c&HFFFFFF&} a toda la
+Dialogue: 0,0:01:41.15,0:01:41.31,Default,,0,0,0,,{\an5\pos(960,540)}exactas {\1c&H00FF00&}a{\1c&HFFFFFF&} toda la
+Dialogue: 0,0:01:41.31,0:01:41.49,Default,,0,0,0,,{\an5\pos(960,540)}exactas a {\1c&H00FF00&}toda{\1c&HFFFFFF&} la
+Dialogue: 0,0:01:41.49,0:01:41.60,Default,,0,0,0,,{\an5\pos(960,540)}exactas a toda {\1c&H00FF00&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:01:41.60,0:01:42.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}galaxia{\1c&HFFFFFF&}
+Dialogue: 0,0:01:42.18,0:01:42.43,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dicho{\1c&HFFFFFF&} así suena mal
+Dialogue: 0,0:01:42.43,0:01:42.63,Default,,0,0,0,,{\an5\pos(960,540)}Dicho {\1c&H00FF00&}así{\1c&HFFFFFF&} suena mal
+Dialogue: 0,0:01:42.63,0:01:42.89,Default,,0,0,0,,{\an5\pos(960,540)}Dicho así {\1c&H00FF00&}suena{\1c&HFFFFFF&} mal
+Dialogue: 0,0:01:42.89,0:01:43.26,Default,,0,0,0,,{\an5\pos(960,540)}Dicho así suena {\1c&H00FF00&}mal{\1c&HFFFFFF&}
+Dialogue: 0,0:01:43.26,0:01:43.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}porque{\1c&HFFFFFF&} EAS es terrible
+Dialogue: 0,0:01:43.54,0:01:43.89,Default,,0,0,0,,{\an5\pos(960,540)}porque {\1c&H00FF00&}EAS{\1c&HFFFFFF&} es terrible
+Dialogue: 0,0:01:43.89,0:01:43.96,Default,,0,0,0,,{\an5\pos(960,540)}porque EAS {\1c&H00FF00&}es{\1c&HFFFFFF&} terrible
+Dialogue: 0,0:01:43.96,0:01:44.34,Default,,0,0,0,,{\an5\pos(960,540)}porque EAS es {\1c&H00FF00&}terrible{\1c&HFFFFFF&}
+Dialogue: 0,0:01:44.25,0:01:44.65,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}La{\1c&HFFFFFF&} voz de
+Dialogue: 0,0:01:44.65,0:01:44.82,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H00FF00&}voz{\1c&HFFFFFF&} de
+Dialogue: 0,0:01:44.82,0:01:44.96,Default,,0,0,0,,{\an5\pos(960,540)}La voz {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:44.96,0:01:45.29,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} se quebró dentro
+Dialogue: 0,0:01:45.29,0:01:45.46,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}se{\1c&HFFFFFF&} quebró dentro
+Dialogue: 0,0:01:45.46,0:01:45.82,Default,,0,0,0,,{\an5\pos(960,540)}Siltok se {\1c&H00FF00&}quebró{\1c&HFFFFFF&} dentro
+Dialogue: 0,0:01:45.82,0:01:46.10,Default,,0,0,0,,{\an5\pos(960,540)}Siltok se quebró {\1c&H00FF00&}dentro{\1c&HFFFFFF&}
+Dialogue: 0,0:01:46.10,0:01:46.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} la mente de
+Dialogue: 0,0:01:46.25,0:01:46.31,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}la{\1c&HFFFFFF&} mente de
+Dialogue: 0,0:01:46.31,0:01:46.51,Default,,0,0,0,,{\an5\pos(960,540)}de la {\1c&H00FF00&}mente{\1c&HFFFFFF&} de
+Dialogue: 0,0:01:46.51,0:01:46.65,Default,,0,0,0,,{\an5\pos(960,540)}de la mente {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:01:46.65,0:01:46.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&}
+Dialogue: 0,0:01:47.15,0:01:47.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Han{\1c&HFFFFFF&} marcado a su
+Dialogue: 0,0:01:47.15,0:01:47.49,Default,,0,0,0,,{\an5\pos(960,540)}Han {\1c&H00FF00&}marcado{\1c&HFFFFFF&} a su
+Dialogue: 0,0:01:47.49,0:01:47.57,Default,,0,0,0,,{\an5\pos(960,540)}Han marcado {\1c&H00FF00&}a{\1c&HFFFFFF&} su
+Dialogue: 0,0:01:47.57,0:01:47.67,Default,,0,0,0,,{\an5\pos(960,540)}Han marcado a {\1c&H00FF00&}su{\1c&HFFFFFF&}
+Dialogue: 0,0:01:47.67,0:01:47.99,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}especie{\1c&HFFFFFF&} como objetivo
+Dialogue: 0,0:01:47.99,0:01:48.21,Default,,0,0,0,,{\an5\pos(960,540)}especie {\1c&H00FF00&}como{\1c&HFFFFFF&} objetivo
+Dialogue: 0,0:01:48.21,0:01:48.89,Default,,0,0,0,,{\an5\pos(960,540)}especie como {\1c&H00FF00&}objetivo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:48.89,0:01:49.09,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Es{\1c&HFFFFFF&} una invitación abierta
+Dialogue: 0,0:01:49.09,0:01:49.23,Default,,0,0,0,,{\an5\pos(960,540)}Es {\1c&H00FF00&}una{\1c&HFFFFFF&} invitación abierta
+Dialogue: 0,0:01:49.23,0:01:49.68,Default,,0,0,0,,{\an5\pos(960,540)}Es una {\1c&H00FF00&}invitación{\1c&HFFFFFF&} abierta
+Dialogue: 0,0:01:49.68,0:01:50.07,Default,,0,0,0,,{\an5\pos(960,540)}Es una invitación {\1c&H00FF00&}abierta{\1c&HFFFFFF&}
+Dialogue: 0,0:01:50.07,0:01:50.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}a{\1c&HFFFFFF&} su propia extinción
+Dialogue: 0,0:01:50.15,0:01:50.25,Default,,0,0,0,,{\an5\pos(960,540)}a {\1c&H00FF00&}su{\1c&HFFFFFF&} propia extinción
+Dialogue: 0,0:01:50.25,0:01:50.49,Default,,0,0,0,,{\an5\pos(960,540)}a su {\1c&H00FF00&}propia{\1c&HFFFFFF&} extinción
+Dialogue: 0,0:01:50.49,0:01:51.06,Default,,0,0,0,,{\an5\pos(960,540)}a su propia {\1c&H00FF00&}extinción{\1c&HFFFFFF&}
+Dialogue: 0,0:01:51.17,0:01:51.57,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Estábamos{\1c&HFFFFFF&} solos
+Dialogue: 0,0:01:51.57,0:01:51.90,Default,,0,0,0,,{\an5\pos(960,540)}Estábamos {\1c&H00FF00&}solos{\1c&HFFFFFF&}
+Dialogue: 0,0:01:51.90,0:01:52.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ock{\1c&HFFFFFF&} La galaxia es
+Dialogue: 0,0:01:52.18,0:01:52.32,Default,,0,0,0,,{\an5\pos(960,540)}Ock {\1c&H00FF00&}La{\1c&HFFFFFF&} galaxia es
+Dialogue: 0,0:01:52.32,0:01:52.67,Default,,0,0,0,,{\an5\pos(960,540)}Ock La {\1c&H00FF00&}galaxia{\1c&HFFFFFF&} es
+Dialogue: 0,0:01:52.67,0:01:52.81,Default,,0,0,0,,{\an5\pos(960,540)}Ock La galaxia {\1c&H00FF00&}es{\1c&HFFFFFF&}
+Dialogue: 0,0:01:52.81,0:01:53.15,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}enorme{\1c&HFFFFFF&} uno se siente
+Dialogue: 0,0:01:53.15,0:01:53.26,Default,,0,0,0,,{\an5\pos(960,540)}enorme {\1c&H00FF00&}uno{\1c&HFFFFFF&} se siente
+Dialogue: 0,0:01:53.26,0:01:53.45,Default,,0,0,0,,{\an5\pos(960,540)}enorme uno {\1c&H00FF00&}se{\1c&HFFFFFF&} siente
+Dialogue: 0,0:01:53.45,0:01:53.67,Default,,0,0,0,,{\an5\pos(960,540)}enorme uno se {\1c&H00FF00&}siente{\1c&HFFFFFF&}
+Dialogue: 0,0:01:53.67,0:01:54.14,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}vacío{\1c&HFFFFFF&}
+Dialogue: 0,0:01:54.18,0:01:54.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Se{\1c&HFFFFFF&} sintieron solos y
+Dialogue: 0,0:01:54.37,0:01:54.73,Default,,0,0,0,,{\an5\pos(960,540)}Se {\1c&H00FF00&}sintieron{\1c&HFFFFFF&} solos y
+Dialogue: 0,0:01:54.73,0:01:55.15,Default,,0,0,0,,{\an5\pos(960,540)}Se sintieron {\1c&H00FF00&}solos{\1c&HFFFFFF&} y
+Dialogue: 0,0:01:55.15,0:01:55.31,Default,,0,0,0,,{\an5\pos(960,540)}Se sintieron solos {\1c&H00FF00&}y{\1c&HFFFFFF&}
+Dialogue: 0,0:01:55.31,0:01:55.73,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}anunciaron{\1c&HFFFFFF&} su ubicación
+Dialogue: 0,0:01:55.73,0:01:55.87,Default,,0,0,0,,{\an5\pos(960,540)}anunciaron {\1c&H00FF00&}su{\1c&HFFFFFF&} ubicación
+Dialogue: 0,0:01:55.87,0:01:56.40,Default,,0,0,0,,{\an5\pos(960,540)}anunciaron su {\1c&H00FF00&}ubicación{\1c&HFFFFFF&}
+Dialogue: 0,0:01:56.49,0:01:56.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}También{\1c&HFFFFFF&} enviamos un dibujo
+Dialogue: 0,0:01:56.75,0:01:57.10,Default,,0,0,0,,{\an5\pos(960,540)}También {\1c&H00FF00&}enviamos{\1c&HFFFFFF&} un dibujo
+Dialogue: 0,0:01:57.10,0:01:57.26,Default,,0,0,0,,{\an5\pos(960,540)}También enviamos {\1c&H00FF00&}un{\1c&HFFFFFF&} dibujo
+Dialogue: 0,0:01:57.26,0:01:57.63,Default,,0,0,0,,{\an5\pos(960,540)}También enviamos un {\1c&H00FF00&}dibujo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:57.63,0:01:57.71,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}de{\1c&HFFFFFF&} nosotros cuerpo completo
+Dialogue: 0,0:01:57.71,0:01:58.25,Default,,0,0,0,,{\an5\pos(960,540)}de {\1c&H00FF00&}nosotros{\1c&HFFFFFF&} cuerpo completo
+Dialogue: 0,0:01:58.25,0:01:58.45,Default,,0,0,0,,{\an5\pos(960,540)}de nosotros {\1c&H00FF00&}cuerpo{\1c&HFFFFFF&} completo
+Dialogue: 0,0:01:58.45,0:01:59.00,Default,,0,0,0,,{\an5\pos(960,540)}de nosotros cuerpo {\1c&H00FF00&}completo{\1c&HFFFFFF&}
+Dialogue: 0,0:01:59.13,0:01:59.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Enviaron{\1c&HFFFFFF&} su anatomía
+Dialogue: 0,0:01:59.53,0:01:59.73,Default,,0,0,0,,{\an5\pos(960,540)}Enviaron {\1c&H00FF00&}su{\1c&HFFFFFF&} anatomía
+Dialogue: 0,0:01:59.73,0:02:00.45,Default,,0,0,0,,{\an5\pos(960,540)}Enviaron su {\1c&H00FF00&}anatomía{\1c&HFFFFFF&}
+Dialogue: 0,0:02:00.45,0:02:00.85,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Queríamos{\1c&HFFFFFF&} dar una buena
+Dialogue: 0,0:02:00.85,0:02:01.04,Default,,0,0,0,,{\an5\pos(960,540)}Queríamos {\1c&H00FF00&}dar{\1c&HFFFFFF&} una buena
+Dialogue: 0,0:02:01.04,0:02:01.26,Default,,0,0,0,,{\an5\pos(960,540)}Queríamos dar {\1c&H00FF00&}una{\1c&HFFFFFF&} buena
+Dialogue: 0,0:02:01.26,0:02:01.51,Default,,0,0,0,,{\an5\pos(960,540)}Queríamos dar una {\1c&H00FF00&}buena{\1c&HFFFFFF&}
+Dialogue: 0,0:02:01.51,0:02:01.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}primera{\1c&HFFFFFF&} impresión
+Dialogue: 0,0:02:01.82,0:02:02.45,Default,,0,0,0,,{\an5\pos(960,540)}primera {\1c&H00FF00&}impresión{\1c&HFFFFFF&}
+Dialogue: 0,0:02:02.54,0:02:02.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Siltok{\1c&HFFFFFF&} lo analizó profundamente
+Dialogue: 0,0:02:02.95,0:02:03.09,Default,,0,0,0,,{\an5\pos(960,540)}Siltok {\1c&H00FF00&}lo{\1c&HFFFFFF&} analizó profundamente
+Dialogue: 0,0:02:03.09,0:02:03.45,Default,,0,0,0,,{\an5\pos(960,540)}Siltok lo {\1c&H00FF00&}analizó{\1c&HFFFFFF&} profundamente
+Dialogue: 0,0:02:03.45,0:02:04.23,Default,,0,0,0,,{\an5\pos(960,540)}Siltok lo analizó {\1c&H00FF00&}profundamente{\1c&HFFFFFF&}
+Dialogue: 0,0:02:04.29,0:02:04.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Son{\1c&HFFFFFF&} blandos sin exoesqueleto
+Dialogue: 0,0:02:04.51,0:02:05.01,Default,,0,0,0,,{\an5\pos(960,540)}Son {\1c&H00FF00&}blandos{\1c&HFFFFFF&} sin exoesqueleto
+Dialogue: 0,0:02:05.01,0:02:05.13,Default,,0,0,0,,{\an5\pos(960,540)}Son blandos {\1c&H00FF00&}sin{\1c&HFFFFFF&} exoesqueleto
+Dialogue: 0,0:02:05.13,0:02:05.79,Default,,0,0,0,,{\an5\pos(960,540)}Son blandos sin {\1c&H00FF00&}exoesqueleto{\1c&HFFFFFF&}
+Dialogue: 0,0:02:05.79,0:02:05.95,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}sin{\1c&HFFFFFF&} garras sin veneno
+Dialogue: 0,0:02:05.95,0:02:06.37,Default,,0,0,0,,{\an5\pos(960,540)}sin {\1c&H00FF00&}garras{\1c&HFFFFFF&} sin veneno
+Dialogue: 0,0:02:06.37,0:02:06.45,Default,,0,0,0,,{\an5\pos(960,540)}sin garras {\1c&H00FF00&}sin{\1c&HFFFFFF&} veneno
+Dialogue: 0,0:02:06.45,0:02:06.86,Default,,0,0,0,,{\an5\pos(960,540)}sin garras sin {\1c&H00FF00&}veneno{\1c&HFFFFFF&}
+Dialogue: 0,0:02:06.96,0:02:07.17,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Son{\1c&HFFFFFF&} agua con desesperación
+Dialogue: 0,0:02:07.17,0:02:07.37,Default,,0,0,0,,{\an5\pos(960,540)}Son {\1c&H00FF00&}agua{\1c&HFFFFFF&} con desesperación
+Dialogue: 0,0:02:07.37,0:02:07.53,Default,,0,0,0,,{\an5\pos(960,540)}Son agua {\1c&H00FF00&}con{\1c&HFFFFFF&} desesperación
+Dialogue: 0,0:02:07.53,0:02:08.14,Default,,0,0,0,,{\an5\pos(960,540)}Son agua con {\1c&H00FF00&}desesperación{\1c&HFFFFFF&}
+Dialogue: 0,0:02:08.14,0:02:08.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}envuelta{\1c&HFFFFFF&} en piel
+Dialogue: 0,0:02:08.53,0:02:08.62,Default,,0,0,0,,{\an5\pos(960,540)}envuelta {\1c&H00FF00&}en{\1c&HFFFFFF&} piel
+Dialogue: 0,0:02:08.62,0:02:08.95,Default,,0,0,0,,{\an5\pos(960,540)}envuelta en {\1c&H00FF00&}piel{\1c&HFFFFFF&}
+Dialogue: 0,0:02:09.12,0:02:09.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Buscábamos{\1c&HFFFFFF&} parecer amigables
+Dialogue: 0,0:02:09.53,0:02:09.84,Default,,0,0,0,,{\an5\pos(960,540)}Buscábamos {\1c&H00FF00&}parecer{\1c&HFFFFFF&} amigables
+Dialogue: 0,0:02:09.84,0:02:10.46,Default,,0,0,0,,{\an5\pos(960,540)}Buscábamos parecer {\1c&H00FF00&}amigables{\1c&HFFFFFF&}
+Dialogue: 0,0:02:10.53,0:02:10.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Lo{\1c&HFFFFFF&} lograron pero no
+Dialogue: 0,0:02:10.68,0:02:11.28,Default,,0,0,0,,{\an5\pos(960,540)}Lo {\1c&H00FF00&}lograron{\1c&HFFFFFF&} pero no
+Dialogue: 0,0:02:11.28,0:02:11.38,Default,,0,0,0,,{\an5\pos(960,540)}Lo lograron {\1c&H00FF00&}pero{\1c&HFFFFFF&} no
+Dialogue: 0,0:02:11.38,0:02:11.53,Default,,0,0,0,,{\an5\pos(960,540)}Lo lograron pero {\1c&H00FF00&}no{\1c&HFFFFFF&}
+Dialogue: 0,0:02:11.53,0:02:11.70,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}como{\1c&HFFFFFF&} esperaban
+Dialogue: 0,0:02:11.70,0:02:12.29,Default,,0,0,0,,{\an5\pos(960,540)}como {\1c&H00FF00&}esperaban{\1c&HFFFFFF&}
+Dialogue: 0,0:02:12.18,0:02:12.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}En{\1c&HFFFFFF&} ese momento el
+Dialogue: 0,0:02:12.46,0:02:12.62,Default,,0,0,0,,{\an5\pos(960,540)}En {\1c&H00FF00&}ese{\1c&HFFFFFF&} momento el
+Dialogue: 0,0:02:12.62,0:02:13.20,Default,,0,0,0,,{\an5\pos(960,540)}En ese {\1c&H00FF00&}momento{\1c&HFFFFFF&} el
+Dialogue: 0,0:02:13.20,0:02:13.25,Default,,0,0,0,,{\an5\pos(960,540)}En ese momento {\1c&H00FF00&}el{\1c&HFFFFFF&}
+Dialogue: 0,0:02:13.25,0:02:13.48,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}general{\1c&HFFFFFF&} Thompson entró
+Dialogue: 0,0:02:13.48,0:02:13.86,Default,,0,0,0,,{\an5\pos(960,540)}general {\1c&H00FF00&}Thompson{\1c&HFFFFFF&} entró
+Dialogue: 0,0:02:13.86,0:02:14.39,Default,,0,0,0,,{\an5\pos(960,540)}general Thompson {\1c&H00FF00&}entró{\1c&HFFFFFF&}
+Dialogue: 0,0:02:14.46,0:02:14.72,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}General{\1c&HFFFFFF&} Thompson
+Dialogue: 0,0:02:14.72,0:02:15.31,Default,,0,0,0,,{\an5\pos(960,540)}General {\1c&H00FF00&}Thompson{\1c&HFFFFFF&}
+Dialogue: 0,0:02:15.42,0:02:15.60,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Sin{\1c&HFFFFFF&} saludo solo una
+Dialogue: 0,0:02:15.60,0:02:16.12,Default,,0,0,0,,{\an5\pos(960,540)}Sin {\1c&H00FF00&}saludo{\1c&HFFFFFF&} solo una
+Dialogue: 0,0:02:16.12,0:02:16.28,Default,,0,0,0,,{\an5\pos(960,540)}Sin saludo {\1c&H00FF00&}solo{\1c&HFFFFFF&} una
+Dialogue: 0,0:02:16.28,0:02:16.42,Default,,0,0,0,,{\an5\pos(960,540)}Sin saludo solo {\1c&H00FF00&}una{\1c&HFFFFFF&}
+Dialogue: 0,0:02:16.42,0:02:16.68,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}mirada{\1c&HFFFFFF&} firme
+Dialogue: 0,0:02:16.68,0:02:17.15,Default,,0,0,0,,{\an5\pos(960,540)}mirada {\1c&H00FF00&}firme{\1c&HFFFFFF&}
+Dialogue: 0,0:02:17.38,0:02:17.93,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Situación{\1c&HFFFFFF&}
+Dialogue: 0,0:02:18.04,0:02:18.10,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}El{\1c&HFFFFFF&} mapa cambió decenas
+Dialogue: 0,0:02:18.10,0:02:18.28,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H00FF00&}mapa{\1c&HFFFFFF&} cambió decenas
+Dialogue: 0,0:02:18.28,0:02:18.78,Default,,0,0,0,,{\an5\pos(960,540)}El mapa {\1c&H00FF00&}cambió{\1c&HFFFFFF&} decenas
+Dialogue: 0,0:02:18.78,0:02:19.20,Default,,0,0,0,,{\an5\pos(960,540)}El mapa cambió {\1c&H00FF00&}decenas{\1c&HFFFFFF&}
+Dialogue: 0,0:02:19.20,0:02:19.38,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}cientos{\1c&HFFFFFF&} de puntos aparecieron
+Dialogue: 0,0:02:19.38,0:02:19.50,Default,,0,0,0,,{\an5\pos(960,540)}cientos {\1c&H00FF00&}de{\1c&HFFFFFF&} puntos aparecieron
+Dialogue: 0,0:02:19.50,0:02:19.72,Default,,0,0,0,,{\an5\pos(960,540)}cientos de {\1c&H00FF00&}puntos{\1c&HFFFFFF&} aparecieron
+Dialogue: 0,0:02:19.72,0:02:20.53,Default,,0,0,0,,{\an5\pos(960,540)}cientos de puntos {\1c&H00FF00&}aparecieron{\1c&HFFFFFF&}
+Dialogue: 0,0:02:20.53,0:02:20.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}todos{\1c&HFFFFFF&} convergiendo en la
+Dialogue: 0,0:02:20.82,0:02:21.32,Default,,0,0,0,,{\an5\pos(960,540)}todos {\1c&H00FF00&}convergiendo{\1c&HFFFFFF&} en la
+Dialogue: 0,0:02:21.32,0:02:21.42,Default,,0,0,0,,{\an5\pos(960,540)}todos convergiendo {\1c&H00FF00&}en{\1c&HFFFFFF&} la
+Dialogue: 0,0:02:21.42,0:02:21.50,Default,,0,0,0,,{\an5\pos(960,540)}todos convergiendo en {\1c&H00FF00&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:02:21.50,0:02:21.89,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Tierra{\1c&HFFFFFF&}
+Dialogue: 0,0:02:22.00,0:02:22.28,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Durante{\1c&HFFFFFF&} 170 y 3
+Dialogue: 0,0:02:22.28,0:02:22.75,Default,,0,0,0,,{\an5\pos(960,540)}Durante {\1c&H00FF00&}170{\1c&HFFFFFF&} y 3
+Dialogue: 0,0:02:22.75,0:02:23.14,Default,,0,0,0,,{\an5\pos(960,540)}Durante 170 {\1c&H00FF00&}y{\1c&HFFFFFF&} 3
+Dialogue: 0,0:02:23.14,0:02:23.28,Default,,0,0,0,,{\an5\pos(960,540)}Durante 170 y {\1c&H00FF00&}3{\1c&HFFFFFF&}
+Dialogue: 0,0:02:23.28,0:02:23.81,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}años{\1c&HFFFFFF&} hemos observado la
+Dialogue: 0,0:02:23.81,0:02:24.03,Default,,0,0,0,,{\an5\pos(960,540)}años {\1c&H00FF00&}hemos{\1c&HFFFFFF&} observado la
+Dialogue: 0,0:02:24.03,0:02:24.48,Default,,0,0,0,,{\an5\pos(960,540)}años hemos {\1c&H00FF00&}observado{\1c&HFFFFFF&} la
+Dialogue: 0,0:02:24.48,0:02:24.58,Default,,0,0,0,,{\an5\pos(960,540)}años hemos observado {\1c&H00FF00&}la{\1c&HFFFFFF&}
+Dialogue: 0,0:02:24.58,0:02:24.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}respuesta{\1c&HFFFFFF&} a su señal
+Dialogue: 0,0:02:24.92,0:02:25.06,Default,,0,0,0,,{\an5\pos(960,540)}respuesta {\1c&H00FF00&}a{\1c&HFFFFFF&} su señal
+Dialogue: 0,0:02:25.06,0:02:25.14,Default,,0,0,0,,{\an5\pos(960,540)}respuesta a {\1c&H00FF00&}su{\1c&HFFFFFF&} señal
+Dialogue: 0,0:02:25.14,0:02:25.57,Default,,0,0,0,,{\an5\pos(960,540)}respuesta a su {\1c&H00FF00&}señal{\1c&HFFFFFF&}
+Dialogue: 0,0:02:25.66,0:02:25.99,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}RIR{\1c&HFFFFFF&}
+Dialogue: 0,0:02:25.98,0:02:26.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Todas{\1c&HFFFFFF&} las especies dentro
+Dialogue: 0,0:02:26.20,0:02:26.36,Default,,0,0,0,,{\an5\pos(960,540)}Todas {\1c&H00FF00&}las{\1c&HFFFFFF&} especies dentro
+Dialogue: 0,0:02:26.36,0:02:26.76,Default,,0,0,0,,{\an5\pos(960,540)}Todas las {\1c&H00FF00&}especies{\1c&HFFFFFF&} dentro
+Dialogue: 0,0:02:26.76,0:02:27.03,Default,,0,0,0,,{\an5\pos(960,540)}Todas las especies {\1c&H00FF00&}dentro{\1c&HFFFFFF&}
+Dialogue: 0,0:02:27.03,0:02:27.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}del{\1c&HFFFFFF&} alcance la recibieron
+Dialogue: 0,0:02:27.20,0:02:27.60,Default,,0,0,0,,{\an5\pos(960,540)}del {\1c&H00FF00&}alcance{\1c&HFFFFFF&} la recibieron
+Dialogue: 0,0:02:27.60,0:02:27.84,Default,,0,0,0,,{\an5\pos(960,540)}del alcance {\1c&H00FF00&}la{\1c&HFFFFFF&} recibieron
+Dialogue: 0,0:02:27.84,0:02:28.45,Default,,0,0,0,,{\an5\pos(960,540)}del alcance la {\1c&H00FF00&}recibieron{\1c&HFFFFFF&}
+Dialogue: 0,0:02:28.56,0:02:28.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Silencio{\1c&HFFFFFF&} absoluto
+Dialogue: 0,0:02:28.96,0:02:29.61,Default,,0,0,0,,{\an5\pos(960,540)}Silencio {\1c&H00FF00&}absoluto{\1c&HFFFFFF&}
+Dialogue: 0,0:02:29.64,0:02:30.08,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Opinión{\1c&HFFFFFF&} sobre nosotros que
+Dialogue: 0,0:02:30.08,0:02:30.32,Default,,0,0,0,,{\an5\pos(960,540)}Opinión {\1c&H00FF00&}sobre{\1c&HFFFFFF&} nosotros que
+Dialogue: 0,0:02:30.32,0:02:30.92,Default,,0,0,0,,{\an5\pos(960,540)}Opinión sobre {\1c&H00FF00&}nosotros{\1c&HFFFFFF&} que
+Dialogue: 0,0:02:30.92,0:02:31.06,Default,,0,0,0,,{\an5\pos(960,540)}Opinión sobre nosotros {\1c&H00FF00&}que{\1c&HFFFFFF&}
+Dialogue: 0,0:02:31.06,0:02:31.22,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}son{\1c&HFFFFFF&} pequeños ruidosos indefensos
+Dialogue: 0,0:02:31.22,0:02:31.75,Default,,0,0,0,,{\an5\pos(960,540)}son {\1c&H00FF00&}pequeños{\1c&HFFFFFF&} ruidosos indefensos
+Dialogue: 0,0:02:31.75,0:02:32.26,Default,,0,0,0,,{\an5\pos(960,540)}son pequeños {\1c&H00FF00&}ruidosos{\1c&HFFFFFF&} indefensos
+Dialogue: 0,0:02:32.26,0:02:32.76,Default,,0,0,0,,{\an5\pos(960,540)}son pequeños ruidosos {\1c&H00FF00&}indefensos{\1c&HFFFFFF&}
+Dialogue: 0,0:02:32.76,0:02:32.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}y{\1c&HFFFFFF&} peligrosamente inconscientes de
+Dialogue: 0,0:02:32.96,0:02:33.58,Default,,0,0,0,,{\an5\pos(960,540)}y {\1c&H00FF00&}peligrosamente{\1c&HFFFFFF&} inconscientes de
+Dialogue: 0,0:02:33.58,0:02:34.14,Default,,0,0,0,,{\an5\pos(960,540)}y peligrosamente {\1c&H00FF00&}inconscientes{\1c&HFFFFFF&} de
+Dialogue: 0,0:02:34.14,0:02:34.25,Default,,0,0,0,,{\an5\pos(960,540)}y peligrosamente inconscientes {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:02:34.25,0:02:34.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}ello{\1c&HFFFFFF&}
+Dialogue: 0,0:02:34.64,0:02:35.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Justo{\1c&HFFFFFF&}
+Dialogue: 0,0:02:35.22,0:02:35.48,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}También{\1c&HFFFFFF&} analizaron su anatomía
+Dialogue: 0,0:02:35.48,0:02:36.08,Default,,0,0,0,,{\an5\pos(960,540)}También {\1c&H00FF00&}analizaron{\1c&HFFFFFF&} su anatomía
+Dialogue: 0,0:02:36.08,0:02:36.25,Default,,0,0,0,,{\an5\pos(960,540)}También analizaron {\1c&H00FF00&}su{\1c&HFFFFFF&} anatomía
+Dialogue: 0,0:02:36.25,0:02:36.83,Default,,0,0,0,,{\an5\pos(960,540)}También analizaron su {\1c&H00FF00&}anatomía{\1c&HFFFFFF&}
+Dialogue: 0,0:02:36.90,0:02:37.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}El{\1c&HFFFFFF&} silencio se volvió
+Dialogue: 0,0:02:37.04,0:02:37.50,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H00FF00&}silencio{\1c&HFFFFFF&} se volvió
+Dialogue: 0,0:02:37.50,0:02:37.68,Default,,0,0,0,,{\an5\pos(960,540)}El silencio {\1c&H00FF00&}se{\1c&HFFFFFF&} volvió
+Dialogue: 0,0:02:37.68,0:02:37.98,Default,,0,0,0,,{\an5\pos(960,540)}El silencio se {\1c&H00FF00&}volvió{\1c&HFFFFFF&}
+Dialogue: 0,0:02:37.98,0:02:38.51,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}pesado{\1c&HFFFFFF&}
+Dialogue: 0,0:02:38.58,0:02:38.86,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Bueno{\1c&HFFFFFF&} o malo tienen
+Dialogue: 0,0:02:38.86,0:02:39.04,Default,,0,0,0,,{\an5\pos(960,540)}Bueno {\1c&H00FF00&}o{\1c&HFFFFFF&} malo tienen
+Dialogue: 0,0:02:39.04,0:02:39.42,Default,,0,0,0,,{\an5\pos(960,540)}Bueno o {\1c&H00FF00&}malo{\1c&HFFFFFF&} tienen
+Dialogue: 0,0:02:39.42,0:02:39.68,Default,,0,0,0,,{\an5\pos(960,540)}Bueno o malo {\1c&H00FF00&}tienen{\1c&HFFFFFF&}
+Dialogue: 0,0:02:39.68,0:02:39.88,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}una{\1c&HFFFFFF&} palabra para ustedes
+Dialogue: 0,0:02:39.88,0:02:40.20,Default,,0,0,0,,{\an5\pos(960,540)}una {\1c&H00FF00&}palabra{\1c&HFFFFFF&} para ustedes
+Dialogue: 0,0:02:40.20,0:02:40.38,Default,,0,0,0,,{\an5\pos(960,540)}una palabra {\1c&H00FF00&}para{\1c&HFFFFFF&} ustedes
+Dialogue: 0,0:02:40.38,0:02:40.83,Default,,0,0,0,,{\an5\pos(960,540)}una palabra para {\1c&H00FF00&}ustedes{\1c&HFFFFFF&}
+Dialogue: 0,0:02:40.72,0:02:41.06,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}La{\1c&HFFFFFF&} traducción más cercana
+Dialogue: 0,0:02:41.06,0:02:41.54,Default,,0,0,0,,{\an5\pos(960,540)}La {\1c&H00FF00&}traducción{\1c&HFFFFFF&} más cercana
+Dialogue: 0,0:02:41.54,0:02:41.81,Default,,0,0,0,,{\an5\pos(960,540)}La traducción {\1c&H00FF00&}más{\1c&HFFFFFF&} cercana
+Dialogue: 0,0:02:41.81,0:02:42.18,Default,,0,0,0,,{\an5\pos(960,540)}La traducción más {\1c&H00FF00&}cercana{\1c&HFFFFFF&}
+Dialogue: 0,0:02:42.18,0:02:42.59,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}sería{\1c&HFFFFFF&}
+Dialogue: 0,0:02:42.68,0:02:42.88,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Los{\1c&HFFFFFF&} pequeños locos desnudos
+Dialogue: 0,0:02:42.88,0:02:43.32,Default,,0,0,0,,{\an5\pos(960,540)}Los {\1c&H00FF00&}pequeños{\1c&HFFFFFF&} locos desnudos
+Dialogue: 0,0:02:43.32,0:02:43.66,Default,,0,0,0,,{\an5\pos(960,540)}Los pequeños {\1c&H00FF00&}locos{\1c&HFFFFFF&} desnudos
+Dialogue: 0,0:02:43.66,0:02:44.23,Default,,0,0,0,,{\an5\pos(960,540)}Los pequeños locos {\1c&H00FF00&}desnudos{\1c&HFFFFFF&}
+Dialogue: 0,0:02:44.26,0:02:44.50,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} sonrió
+Dialogue: 0,0:02:44.50,0:02:45.05,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}sonrió{\1c&HFFFFFF&}
+Dialogue: 0,0:02:45.14,0:02:45.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Me{\1c&HFFFFFF&} lo tomo como
+Dialogue: 0,0:02:45.31,0:02:45.44,Default,,0,0,0,,{\an5\pos(960,540)}Me {\1c&H00FF00&}lo{\1c&HFFFFFF&} tomo como
+Dialogue: 0,0:02:45.44,0:02:45.76,Default,,0,0,0,,{\an5\pos(960,540)}Me lo {\1c&H00FF00&}tomo{\1c&HFFFFFF&} como
+Dialogue: 0,0:02:45.76,0:02:45.94,Default,,0,0,0,,{\an5\pos(960,540)}Me lo tomo {\1c&H00FF00&}como{\1c&HFFFFFF&}
+Dialogue: 0,0:02:45.94,0:02:46.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}cumplido{\1c&HFFFFFF&}
+Dialogue: 0,0:02:46.56,0:02:46.78,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}No{\1c&HFFFFFF&} lo es
+Dialogue: 0,0:02:46.78,0:02:46.90,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H00FF00&}lo{\1c&HFFFFFF&} es
+Dialogue: 0,0:02:46.90,0:02:47.23,Default,,0,0,0,,{\an5\pos(960,540)}No lo {\1c&H00FF00&}es{\1c&HFFFFFF&}
+Dialogue: 0,0:02:47.25,0:02:47.38,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}El{\1c&HFFFFFF&} mapa mostró rutas
+Dialogue: 0,0:02:47.38,0:02:47.56,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H00FF00&}mapa{\1c&HFFFFFF&} mostró rutas
+Dialogue: 0,0:02:47.56,0:02:47.94,Default,,0,0,0,,{\an5\pos(960,540)}El mapa {\1c&H00FF00&}mostró{\1c&HFFFFFF&} rutas
+Dialogue: 0,0:02:47.94,0:02:48.43,Default,,0,0,0,,{\an5\pos(960,540)}El mapa mostró {\1c&H00FF00&}rutas{\1c&HFFFFFF&}
+Dialogue: 0,0:02:48.46,0:02:48.62,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Tres{\1c&HFFFFFF&} amenazas principales
+Dialogue: 0,0:02:48.62,0:02:49.03,Default,,0,0,0,,{\an5\pos(960,540)}Tres {\1c&H00FF00&}amenazas{\1c&HFFFFFF&} principales
+Dialogue: 0,0:02:49.03,0:02:49.68,Default,,0,0,0,,{\an5\pos(960,540)}Tres amenazas {\1c&H00FF00&}principales{\1c&HFFFFFF&}
+Dialogue: 0,0:02:49.75,0:02:49.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Los{\1c&HFFFFFF&} Glornat cazadores ven
+Dialogue: 0,0:02:49.92,0:02:50.28,Default,,0,0,0,,{\an5\pos(960,540)}Los {\1c&H00FF00&}Glornat{\1c&HFFFFFF&} cazadores ven
+Dialogue: 0,0:02:50.28,0:02:50.76,Default,,0,0,0,,{\an5\pos(960,540)}Los Glornat {\1c&H00FF00&}cazadores{\1c&HFFFFFF&} ven
+Dialogue: 0,0:02:50.76,0:02:51.12,Default,,0,0,0,,{\an5\pos(960,540)}Los Glornat cazadores {\1c&H00FF00&}ven{\1c&HFFFFFF&}
+Dialogue: 0,0:02:51.12,0:02:51.36,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}nuevas{\1c&HFFFFFF&} especies como presas
+Dialogue: 0,0:02:51.36,0:02:51.82,Default,,0,0,0,,{\an5\pos(960,540)}nuevas {\1c&H00FF00&}especies{\1c&HFFFFFF&} como presas
+Dialogue: 0,0:02:51.82,0:02:52.00,Default,,0,0,0,,{\an5\pos(960,540)}nuevas especies {\1c&H00FF00&}como{\1c&HFFFFFF&} presas
+Dialogue: 0,0:02:52.00,0:02:52.49,Default,,0,0,0,,{\an5\pos(960,540)}nuevas especies como {\1c&H00FF00&}presas{\1c&HFFFFFF&}
+Dialogue: 0,0:02:52.56,0:02:52.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Genial{\1c&HFFFFFF&} cazadores de trofeos
+Dialogue: 0,0:02:52.92,0:02:53.40,Default,,0,0,0,,{\an5\pos(960,540)}Genial {\1c&H00FF00&}cazadores{\1c&HFFFFFF&} de trofeos
+Dialogue: 0,0:02:53.40,0:02:53.54,Default,,0,0,0,,{\an5\pos(960,540)}Genial cazadores {\1c&H00FF00&}de{\1c&HFFFFFF&} trofeos
+Dialogue: 0,0:02:53.54,0:02:54.09,Default,,0,0,0,,{\an5\pos(960,540)}Genial cazadores de {\1c&H00FF00&}trofeos{\1c&HFFFFFF&}
+Dialogue: 0,0:02:54.12,0:02:54.31,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Los{\1c&HFFFFFF&} Brintlax conquistadores creen
+Dialogue: 0,0:02:54.31,0:02:54.75,Default,,0,0,0,,{\an5\pos(960,540)}Los {\1c&H00FF00&}Brintlax{\1c&HFFFFFF&} conquistadores creen
+Dialogue: 0,0:02:54.75,0:02:55.44,Default,,0,0,0,,{\an5\pos(960,540)}Los Brintlax {\1c&H00FF00&}conquistadores{\1c&HFFFFFF&} creen
+Dialogue: 0,0:02:55.44,0:02:55.86,Default,,0,0,0,,{\an5\pos(960,540)}Los Brintlax conquistadores {\1c&H00FF00&}creen{\1c&HFFFFFF&}
+Dialogue: 0,0:02:55.86,0:02:55.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}que{\1c&HFFFFFF&} ya se han
+Dialogue: 0,0:02:55.96,0:02:56.10,Default,,0,0,0,,{\an5\pos(960,540)}que {\1c&H00FF00&}ya{\1c&HFFFFFF&} se han
+Dialogue: 0,0:02:56.10,0:02:56.25,Default,,0,0,0,,{\an5\pos(960,540)}que ya {\1c&H00FF00&}se{\1c&HFFFFFF&} han
+Dialogue: 0,0:02:56.25,0:02:56.32,Default,,0,0,0,,{\an5\pos(960,540)}que ya se {\1c&H00FF00&}han{\1c&HFFFFFF&}
+Dialogue: 0,0:02:56.32,0:02:56.83,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}rendido{\1c&HFFFFFF&}
+Dialogue: 0,0:02:56.88,0:02:57.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Error{\1c&HFFFFFF&} grave
+Dialogue: 0,0:02:57.25,0:02:57.65,Default,,0,0,0,,{\an5\pos(960,540)}Error {\1c&H00FF00&}grave{\1c&HFFFFFF&}
+Dialogue: 0,0:02:57.72,0:02:57.84,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Y{\1c&HFFFFFF&} los más peligrosos
+Dialogue: 0,0:02:57.84,0:02:57.98,Default,,0,0,0,,{\an5\pos(960,540)}Y {\1c&H00FF00&}los{\1c&HFFFFFF&} más peligrosos
+Dialogue: 0,0:02:57.98,0:02:58.14,Default,,0,0,0,,{\an5\pos(960,540)}Y los {\1c&H00FF00&}más{\1c&HFFFFFF&} peligrosos
+Dialogue: 0,0:02:58.14,0:02:58.84,Default,,0,0,0,,{\an5\pos(960,540)}Y los más {\1c&H00FF00&}peligrosos{\1c&HFFFFFF&}
+Dialogue: 0,0:02:58.84,0:02:58.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}los{\1c&HFFFFFF&} Sorromakers
+Dialogue: 0,0:02:58.96,0:02:59.57,Default,,0,0,0,,{\an5\pos(960,540)}los {\1c&H00FF00&}Sorromakers{\1c&HFFFFFF&}
+Dialogue: 0,0:02:59.68,0:02:59.82,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Qué{\1c&HFFFFFF&} hacen
+Dialogue: 0,0:02:59.82,0:03:00.21,Default,,0,0,0,,{\an5\pos(960,540)}Qué {\1c&H00FF00&}hacen{\1c&HFFFFFF&}
+Dialogue: 0,0:03:00.26,0:03:00.70,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Consumen{\1c&HFFFFFF&} mundos enteros
+Dialogue: 0,0:03:00.70,0:03:01.03,Default,,0,0,0,,{\an5\pos(960,540)}Consumen {\1c&H00FF00&}mundos{\1c&HFFFFFF&} enteros
+Dialogue: 0,0:03:01.03,0:03:01.53,Default,,0,0,0,,{\an5\pos(960,540)}Consumen mundos {\1c&H00FF00&}enteros{\1c&HFFFFFF&}
+Dialogue: 0,0:03:01.56,0:03:01.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Llegarán{\1c&HFFFFFF&} en ocho meses
+Dialogue: 0,0:03:01.90,0:03:02.03,Default,,0,0,0,,{\an5\pos(960,540)}Llegarán {\1c&H00FF00&}en{\1c&HFFFFFF&} ocho meses
+Dialogue: 0,0:03:02.03,0:03:02.25,Default,,0,0,0,,{\an5\pos(960,540)}Llegarán en {\1c&H00FF00&}ocho{\1c&HFFFFFF&} meses
+Dialogue: 0,0:03:02.25,0:03:02.59,Default,,0,0,0,,{\an5\pos(960,540)}Llegarán en ocho {\1c&H00FF00&}meses{\1c&HFFFFFF&}
+Dialogue: 0,0:03:02.68,0:03:02.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} miró el mapa
+Dialogue: 0,0:03:02.90,0:03:03.16,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}miró{\1c&HFFFFFF&} el mapa
+Dialogue: 0,0:03:03.16,0:03:03.26,Default,,0,0,0,,{\an5\pos(960,540)}Dave miró {\1c&H00FF00&}el{\1c&HFFFFFF&} mapa
+Dialogue: 0,0:03:03.26,0:03:03.60,Default,,0,0,0,,{\an5\pos(960,540)}Dave miró el {\1c&H00FF00&}mapa{\1c&HFFFFFF&}
+Dialogue: 0,0:03:03.60,0:03:03.86,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}luego{\1c&HFFFFFF&} al general
+Dialogue: 0,0:03:03.86,0:03:04.00,Default,,0,0,0,,{\an5\pos(960,540)}luego {\1c&H00FF00&}al{\1c&HFFFFFF&} general
+Dialogue: 0,0:03:04.00,0:03:04.35,Default,,0,0,0,,{\an5\pos(960,540)}luego al {\1c&H00FF00&}general{\1c&HFFFFFF&}
+Dialogue: 0,0:03:04.50,0:03:04.76,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Esto{\1c&HFFFFFF&} es mucho no
+Dialogue: 0,0:03:04.76,0:03:04.92,Default,,0,0,0,,{\an5\pos(960,540)}Esto {\1c&H00FF00&}es{\1c&HFFFFFF&} mucho no
+Dialogue: 0,0:03:04.92,0:03:05.40,Default,,0,0,0,,{\an5\pos(960,540)}Esto es {\1c&H00FF00&}mucho{\1c&HFFFFFF&} no
+Dialogue: 0,0:03:05.40,0:03:05.57,Default,,0,0,0,,{\an5\pos(960,540)}Esto es mucho {\1c&H00FF00&}no{\1c&HFFFFFF&}
+Dialogue: 0,0:03:05.64,0:03:05.94,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Thompson{\1c&HFFFFFF&} no dudó
+Dialogue: 0,0:03:05.94,0:03:06.26,Default,,0,0,0,,{\an5\pos(960,540)}Thompson {\1c&H00FF00&}no{\1c&HFFFFFF&} dudó
+Dialogue: 0,0:03:06.26,0:03:06.67,Default,,0,0,0,,{\an5\pos(960,540)}Thompson no {\1c&H00FF00&}dudó{\1c&HFFFFFF&}
+Dialogue: 0,0:03:06.76,0:03:07.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Cuántas{\1c&HFFFFFF&} naves
+Dialogue: 0,0:03:07.18,0:03:07.55,Default,,0,0,0,,{\an5\pos(960,540)}Cuántas {\1c&H00FF00&}naves{\1c&HFFFFFF&}
+Dialogue: 0,0:03:07.64,0:03:08.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Docenas{\1c&HFFFFFF&} cientos y los
+Dialogue: 0,0:03:08.18,0:03:08.36,Default,,0,0,0,,{\an5\pos(960,540)}Docenas {\1c&H00FF00&}cientos{\1c&HFFFFFF&} y los
+Dialogue: 0,0:03:08.36,0:03:08.54,Default,,0,0,0,,{\an5\pos(960,540)}Docenas cientos {\1c&H00FF00&}y{\1c&HFFFFFF&} los
+Dialogue: 0,0:03:08.54,0:03:08.68,Default,,0,0,0,,{\an5\pos(960,540)}Docenas cientos y {\1c&H00FF00&}los{\1c&HFFFFFF&}
+Dialogue: 0,0:03:08.68,0:03:08.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}últimos{\1c&HFFFFFF&} desconocido
+Dialogue: 0,0:03:08.96,0:03:09.71,Default,,0,0,0,,{\an5\pos(960,540)}últimos {\1c&H00FF00&}desconocido{\1c&HFFFFFF&}
+Dialogue: 0,0:03:09.60,0:03:10.04,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Thompson{\1c&HFFFFFF&} asintió
+Dialogue: 0,0:03:10.04,0:03:10.79,Default,,0,0,0,,{\an5\pos(960,540)}Thompson {\1c&H00FF00&}asintió{\1c&HFFFFFF&}
+Dialogue: 0,0:03:10.82,0:03:11.08,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Llama{\1c&HFFFFFF&} a todos aliados
+Dialogue: 0,0:03:11.08,0:03:11.20,Default,,0,0,0,,{\an5\pos(960,540)}Llama {\1c&H00FF00&}a{\1c&HFFFFFF&} todos aliados
+Dialogue: 0,0:03:11.20,0:03:11.64,Default,,0,0,0,,{\an5\pos(960,540)}Llama a {\1c&H00FF00&}todos{\1c&HFFFFFF&} aliados
+Dialogue: 0,0:03:11.64,0:03:11.96,Default,,0,0,0,,{\an5\pos(960,540)}Llama a todos {\1c&H00FF00&}aliados{\1c&HFFFFFF&}
+Dialogue: 0,0:03:11.96,0:03:12.40,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}enemigos{\1c&HFFFFFF&} a cualquiera con
+Dialogue: 0,0:03:12.40,0:03:12.54,Default,,0,0,0,,{\an5\pos(960,540)}enemigos {\1c&H00FF00&}a{\1c&HFFFFFF&} cualquiera con
+Dialogue: 0,0:03:12.54,0:03:12.92,Default,,0,0,0,,{\an5\pos(960,540)}enemigos a {\1c&H00FF00&}cualquiera{\1c&HFFFFFF&} con
+Dialogue: 0,0:03:12.92,0:03:13.08,Default,,0,0,0,,{\an5\pos(960,540)}enemigos a cualquiera {\1c&H00FF00&}con{\1c&HFFFFFF&}
+Dialogue: 0,0:03:13.08,0:03:13.28,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}armas{\1c&HFFFFFF&} grandes
+Dialogue: 0,0:03:13.28,0:03:13.73,Default,,0,0,0,,{\an5\pos(960,540)}armas {\1c&H00FF00&}grandes{\1c&HFFFFFF&}
+Dialogue: 0,0:03:13.81,0:03:14.12,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Vamos{\1c&HFFFFFF&} a pelear con
+Dialogue: 0,0:03:14.12,0:03:14.28,Default,,0,0,0,,{\an5\pos(960,540)}Vamos {\1c&H00FF00&}a{\1c&HFFFFFF&} pelear con
+Dialogue: 0,0:03:14.28,0:03:14.54,Default,,0,0,0,,{\an5\pos(960,540)}Vamos a {\1c&H00FF00&}pelear{\1c&HFFFFFF&} con
+Dialogue: 0,0:03:14.54,0:03:14.76,Default,,0,0,0,,{\an5\pos(960,540)}Vamos a pelear {\1c&H00FF00&}con{\1c&HFFFFFF&}
+Dialogue: 0,0:03:14.76,0:03:15.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}todos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:15.26,0:03:15.64,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Sí{\1c&HFFFFFF&} al mismo tiempo
+Dialogue: 0,0:03:15.64,0:03:15.82,Default,,0,0,0,,{\an5\pos(960,540)}Sí {\1c&H00FF00&}al{\1c&HFFFFFF&} mismo tiempo
+Dialogue: 0,0:03:15.82,0:03:16.14,Default,,0,0,0,,{\an5\pos(960,540)}Sí al {\1c&H00FF00&}mismo{\1c&HFFFFFF&} tiempo
+Dialogue: 0,0:03:16.14,0:03:16.59,Default,,0,0,0,,{\an5\pos(960,540)}Sí al mismo {\1c&H00FF00&}tiempo{\1c&HFFFFFF&}
+Dialogue: 0,0:03:16.66,0:03:16.88,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Uno{\1c&HFFFFFF&} por uno
+Dialogue: 0,0:03:16.88,0:03:17.04,Default,,0,0,0,,{\an5\pos(960,540)}Uno {\1c&H00FF00&}por{\1c&HFFFFFF&} uno
+Dialogue: 0,0:03:17.04,0:03:17.37,Default,,0,0,0,,{\an5\pos(960,540)}Uno por {\1c&H00FF00&}uno{\1c&HFFFFFF&}
+Dialogue: 0,0:03:17.50,0:03:17.84,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ziltok{\1c&HFFFFFF&} observó horrorizado
+Dialogue: 0,0:03:17.84,0:03:18.32,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok {\1c&H00FF00&}observó{\1c&HFFFFFF&} horrorizado
+Dialogue: 0,0:03:18.32,0:03:18.96,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok observó {\1c&H00FF00&}horrorizado{\1c&HFFFFFF&}
+Dialogue: 0,0:03:19.08,0:03:19.40,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Están{\1c&HFFFFFF&} completamente locos
+Dialogue: 0,0:03:19.40,0:03:19.94,Default,,0,0,0,,{\an5\pos(960,540)}Están {\1c&H00FF00&}completamente{\1c&HFFFFFF&} locos
+Dialogue: 0,0:03:19.94,0:03:20.61,Default,,0,0,0,,{\an5\pos(960,540)}Están completamente {\1c&H00FF00&}locos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:20.66,0:03:20.98,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}No{\1c&HFFFFFF&} solo somos tercos
+Dialogue: 0,0:03:20.98,0:03:21.14,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H00FF00&}solo{\1c&HFFFFFF&} somos tercos
+Dialogue: 0,0:03:21.14,0:03:21.42,Default,,0,0,0,,{\an5\pos(960,540)}No solo {\1c&H00FF00&}somos{\1c&HFFFFFF&} tercos
+Dialogue: 0,0:03:21.42,0:03:21.89,Default,,0,0,0,,{\an5\pos(960,540)}No solo somos {\1c&H00FF00&}tercos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:21.96,0:03:22.18,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Horas{\1c&HFFFFFF&} después caos organizado
+Dialogue: 0,0:03:22.18,0:03:22.58,Default,,0,0,0,,{\an5\pos(960,540)}Horas {\1c&H00FF00&}después{\1c&HFFFFFF&} caos organizado
+Dialogue: 0,0:03:22.58,0:03:22.78,Default,,0,0,0,,{\an5\pos(960,540)}Horas después {\1c&H00FF00&}caos{\1c&HFFFFFF&} organizado
+Dialogue: 0,0:03:22.78,0:03:23.41,Default,,0,0,0,,{\an5\pos(960,540)}Horas después caos {\1c&H00FF00&}organizado{\1c&HFFFFFF&}
+Dialogue: 0,0:03:23.53,0:03:23.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Planes{\1c&HFFFFFF&} estrategias decisiones
+Dialogue: 0,0:03:23.90,0:03:24.44,Default,,0,0,0,,{\an5\pos(960,540)}Planes {\1c&H00FF00&}estrategias{\1c&HFFFFFF&} decisiones
+Dialogue: 0,0:03:24.44,0:03:25.01,Default,,0,0,0,,{\an5\pos(960,540)}Planes estrategias {\1c&H00FF00&}decisiones{\1c&HFFFFFF&}
+Dialogue: 0,0:03:25.00,0:03:25.16,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}El{\1c&HFFFFFF&} general sonrió al
+Dialogue: 0,0:03:25.16,0:03:25.42,Default,,0,0,0,,{\an5\pos(960,540)}El {\1c&H00FF00&}general{\1c&HFFFFFF&} sonrió al
+Dialogue: 0,0:03:25.42,0:03:25.92,Default,,0,0,0,,{\an5\pos(960,540)}El general {\1c&H00FF00&}sonrió{\1c&HFFFFFF&} al
+Dialogue: 0,0:03:25.92,0:03:26.10,Default,,0,0,0,,{\an5\pos(960,540)}El general sonrió {\1c&H00FF00&}al{\1c&HFFFFFF&}
+Dialogue: 0,0:03:26.10,0:03:26.26,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}ver{\1c&HFFFFFF&} los datos de
+Dialogue: 0,0:03:26.26,0:03:26.44,Default,,0,0,0,,{\an5\pos(960,540)}ver {\1c&H00FF00&}los{\1c&HFFFFFF&} datos de
+Dialogue: 0,0:03:26.44,0:03:26.66,Default,,0,0,0,,{\an5\pos(960,540)}ver los {\1c&H00FF00&}datos{\1c&HFFFFFF&} de
+Dialogue: 0,0:03:26.66,0:03:26.81,Default,,0,0,0,,{\an5\pos(960,540)}ver los datos {\1c&H00FF00&}de{\1c&HFFFFFF&}
+Dialogue: 0,0:03:26.81,0:03:26.90,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}los{\1c&HFFFFFF&} cazadores
+Dialogue: 0,0:03:26.90,0:03:27.39,Default,,0,0,0,,{\an5\pos(960,540)}los {\1c&H00FF00&}cazadores{\1c&HFFFFFF&}
+Dialogue: 0,0:03:27.53,0:03:27.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Respetan{\1c&HFFFFFF&} la fuerza verdad
+Dialogue: 0,0:03:27.96,0:03:28.06,Default,,0,0,0,,{\an5\pos(960,540)}Respetan {\1c&H00FF00&}la{\1c&HFFFFFF&} fuerza verdad
+Dialogue: 0,0:03:28.06,0:03:28.58,Default,,0,0,0,,{\an5\pos(960,540)}Respetan la {\1c&H00FF00&}fuerza{\1c&HFFFFFF&} verdad
+Dialogue: 0,0:03:28.58,0:03:28.93,Default,,0,0,0,,{\an5\pos(960,540)}Respetan la fuerza {\1c&H00FF00&}verdad{\1c&HFFFFFF&}
+Dialogue: 0,0:03:29.04,0:03:29.48,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Sí{\1c&HFFFFFF&} entonces démosles un
+Dialogue: 0,0:03:29.48,0:03:29.84,Default,,0,0,0,,{\an5\pos(960,540)}Sí {\1c&H00FF00&}entonces{\1c&HFFFFFF&} démosles un
+Dialogue: 0,0:03:29.84,0:03:30.46,Default,,0,0,0,,{\an5\pos(960,540)}Sí entonces {\1c&H00FF00&}démosles{\1c&HFFFFFF&} un
+Dialogue: 0,0:03:30.46,0:03:30.62,Default,,0,0,0,,{\an5\pos(960,540)}Sí entonces démosles {\1c&H00FF00&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:03:30.62,0:03:30.96,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}rival{\1c&HFFFFFF&}
+Dialogue: 0,0:03:31.12,0:03:31.32,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} miró la foto
+Dialogue: 0,0:03:31.32,0:03:31.62,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}miró{\1c&HFFFFFF&} la foto
+Dialogue: 0,0:03:31.62,0:03:31.76,Default,,0,0,0,,{\an5\pos(960,540)}Dave miró {\1c&H00FF00&}la{\1c&HFFFFFF&} foto
+Dialogue: 0,0:03:31.76,0:03:32.13,Default,,0,0,0,,{\an5\pos(960,540)}Dave miró la {\1c&H00FF00&}foto{\1c&HFFFFFF&}
+Dialogue: 0,0:03:32.25,0:03:32.53,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ese{\1c&HFFFFFF&} tipo no peleaba
+Dialogue: 0,0:03:32.53,0:03:32.72,Default,,0,0,0,,{\an5\pos(960,540)}Ese {\1c&H00FF00&}tipo{\1c&HFFFFFF&} no peleaba
+Dialogue: 0,0:03:32.72,0:03:32.90,Default,,0,0,0,,{\an5\pos(960,540)}Ese tipo {\1c&H00FF00&}no{\1c&HFFFFFF&} peleaba
+Dialogue: 0,0:03:32.90,0:03:33.26,Default,,0,0,0,,{\an5\pos(960,540)}Ese tipo no {\1c&H00FF00&}peleaba{\1c&HFFFFFF&}
+Dialogue: 0,0:03:33.26,0:03:33.44,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}con{\1c&HFFFFFF&} caimanes
+Dialogue: 0,0:03:33.44,0:03:33.96,Default,,0,0,0,,{\an5\pos(960,540)}con {\1c&H00FF00&}caimanes{\1c&HFFFFFF&}
+Dialogue: 0,0:03:33.96,0:03:34.16,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Y{\1c&HFFFFFF&} golpeó a un
+Dialogue: 0,0:03:34.16,0:03:34.58,Default,,0,0,0,,{\an5\pos(960,540)}Y {\1c&H00FF00&}golpeó{\1c&HFFFFFF&} a un
+Dialogue: 0,0:03:34.58,0:03:34.72,Default,,0,0,0,,{\an5\pos(960,540)}Y golpeó {\1c&H00FF00&}a{\1c&HFFFFFF&} un
+Dialogue: 0,0:03:34.72,0:03:34.76,Default,,0,0,0,,{\an5\pos(960,540)}Y golpeó a {\1c&H00FF00&}un{\1c&HFFFFFF&}
+Dialogue: 0,0:03:34.76,0:03:35.10,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}tiburón{\1c&HFFFFFF&} dos veces
+Dialogue: 0,0:03:35.10,0:03:35.28,Default,,0,0,0,,{\an5\pos(960,540)}tiburón {\1c&H00FF00&}dos{\1c&HFFFFFF&} veces
+Dialogue: 0,0:03:35.28,0:03:35.71,Default,,0,0,0,,{\an5\pos(960,540)}tiburón dos {\1c&H00FF00&}veces{\1c&HFFFFFF&}
+Dialogue: 0,0:03:35.78,0:03:36.20,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ziltok{\1c&HFFFFFF&} finalmente entendió
+Dialogue: 0,0:03:36.20,0:03:36.68,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok {\1c&H00FF00&}finalmente{\1c&HFFFFFF&} entendió
+Dialogue: 0,0:03:36.68,0:03:37.31,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok finalmente {\1c&H00FF00&}entendió{\1c&HFFFFFF&}
+Dialogue: 0,0:03:37.20,0:03:37.54,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}No{\1c&HFFFFFF&} sobrevivieron por inteligencia
+Dialogue: 0,0:03:37.54,0:03:38.14,Default,,0,0,0,,{\an5\pos(960,540)}No {\1c&H00FF00&}sobrevivieron{\1c&HFFFFFF&} por inteligencia
+Dialogue: 0,0:03:38.14,0:03:38.32,Default,,0,0,0,,{\an5\pos(960,540)}No sobrevivieron {\1c&H00FF00&}por{\1c&HFFFFFF&} inteligencia
+Dialogue: 0,0:03:38.32,0:03:39.04,Default,,0,0,0,,{\an5\pos(960,540)}No sobrevivieron por {\1c&H00FF00&}inteligencia{\1c&HFFFFFF&}
+Dialogue: 0,0:03:39.04,0:03:39.25,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}ni{\1c&HFFFFFF&} por fuerza sino
+Dialogue: 0,0:03:39.25,0:03:39.42,Default,,0,0,0,,{\an5\pos(960,540)}ni {\1c&H00FF00&}por{\1c&HFFFFFF&} fuerza sino
+Dialogue: 0,0:03:39.42,0:03:39.98,Default,,0,0,0,,{\an5\pos(960,540)}ni por {\1c&H00FF00&}fuerza{\1c&HFFFFFF&} sino
+Dialogue: 0,0:03:39.98,0:03:40.20,Default,,0,0,0,,{\an5\pos(960,540)}ni por fuerza {\1c&H00FF00&}sino{\1c&HFFFFFF&}
+Dialogue: 0,0:03:40.20,0:03:40.46,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}porque{\1c&HFFFFFF&} no saben rendirse
+Dialogue: 0,0:03:40.46,0:03:40.64,Default,,0,0,0,,{\an5\pos(960,540)}porque {\1c&H00FF00&}no{\1c&HFFFFFF&} saben rendirse
+Dialogue: 0,0:03:40.64,0:03:40.94,Default,,0,0,0,,{\an5\pos(960,540)}porque no {\1c&H00FF00&}saben{\1c&HFFFFFF&} rendirse
+Dialogue: 0,0:03:40.94,0:03:41.55,Default,,0,0,0,,{\an5\pos(960,540)}porque no saben {\1c&H00FF00&}rendirse{\1c&HFFFFFF&}
+Dialogue: 0,0:03:41.82,0:03:42.37,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Exacto{\1c&HFFFFFF&}
+Dialogue: 0,0:03:42.38,0:03:42.75,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ziltok{\1c&HFFFFFF&} guardó silencio y
+Dialogue: 0,0:03:42.75,0:03:43.04,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok {\1c&H00FF00&}guardó{\1c&HFFFFFF&} silencio y
+Dialogue: 0,0:03:43.04,0:03:43.54,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok guardó {\1c&H00FF00&}silencio{\1c&HFFFFFF&} y
+Dialogue: 0,0:03:43.54,0:03:43.72,Default,,0,0,0,,{\an5\pos(960,540)}Ziltok guardó silencio {\1c&H00FF00&}y{\1c&HFFFFFF&}
+Dialogue: 0,0:03:43.72,0:03:43.94,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}luego{\1c&HFFFFFF&} habló
+Dialogue: 0,0:03:43.94,0:03:44.35,Default,,0,0,0,,{\an5\pos(960,540)}luego {\1c&H00FF00&}habló{\1c&HFFFFFF&}
+Dialogue: 0,0:03:44.38,0:03:44.62,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Ahora{\1c&HFFFFFF&} entiendo el nombre
+Dialogue: 0,0:03:44.62,0:03:45.03,Default,,0,0,0,,{\an5\pos(960,540)}Ahora {\1c&H00FF00&}entiendo{\1c&HFFFFFF&} el nombre
+Dialogue: 0,0:03:45.03,0:03:45.12,Default,,0,0,0,,{\an5\pos(960,540)}Ahora entiendo {\1c&H00FF00&}el{\1c&HFFFFFF&} nombre
+Dialogue: 0,0:03:45.12,0:03:45.49,Default,,0,0,0,,{\an5\pos(960,540)}Ahora entiendo el {\1c&H00FF00&}nombre{\1c&HFFFFFF&}
+Dialogue: 0,0:03:45.56,0:03:45.72,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Los{\1c&HFFFFFF&} pequeños locos desnudos
+Dialogue: 0,0:03:45.72,0:03:46.16,Default,,0,0,0,,{\an5\pos(960,540)}Los {\1c&H00FF00&}pequeños{\1c&HFFFFFF&} locos desnudos
+Dialogue: 0,0:03:46.16,0:03:46.54,Default,,0,0,0,,{\an5\pos(960,540)}Los pequeños {\1c&H00FF00&}locos{\1c&HFFFFFF&} desnudos
+Dialogue: 0,0:03:46.54,0:03:47.07,Default,,0,0,0,,{\an5\pos(960,540)}Los pequeños locos {\1c&H00FF00&}desnudos{\1c&HFFFFFF&}
+Dialogue: 0,0:03:47.16,0:03:47.36,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Dave{\1c&HFFFFFF&} rió
+Dialogue: 0,0:03:47.36,0:03:47.77,Default,,0,0,0,,{\an5\pos(960,540)}Dave {\1c&H00FF00&}rió{\1c&HFFFFFF&}
+Dialogue: 0,0:03:47.90,0:03:48.08,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}Vamos{\1c&HFFFFFF&} a poner eso
+Dialogue: 0,0:03:48.08,0:03:48.26,Default,,0,0,0,,{\an5\pos(960,540)}Vamos {\1c&H00FF00&}a{\1c&HFFFFFF&} poner eso
+Dialogue: 0,0:03:48.26,0:03:48.46,Default,,0,0,0,,{\an5\pos(960,540)}Vamos a {\1c&H00FF00&}poner{\1c&HFFFFFF&} eso
+Dialogue: 0,0:03:48.46,0:03:48.76,Default,,0,0,0,,{\an5\pos(960,540)}Vamos a poner {\1c&H00FF00&}eso{\1c&HFFFFFF&}
+Dialogue: 0,0:03:48.76,0:03:48.92,Default,,0,0,0,,{\an5\pos(960,540)}{\1c&H00FF00&}en{\1c&HFFFFFF&} una camiseta
+Dialogue: 0,0:03:48.92,0:03:49.06,Default,,0,0,0,,{\an5\pos(960,540)}en {\1c&H00FF00&}una{\1c&HFFFFFF&} camiseta
+Dialogue: 0,0:03:49.06,0:03:49.61,Default,,0,0,0,,{\an5\pos(960,540)}en una {\1c&H00FF00&}camiseta{\1c&HFFFFFF&}

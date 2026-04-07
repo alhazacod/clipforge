@@ -1,169 +1,213 @@
-<voice name="em_alex">¿Y si te dijera que las naves humanas no solo piensan… sino que sienten miedo a morir… cobran salario… y hasta tienen sindicato?</voice>
+<voice name="em_alex">Antes de que todo comenzara, la galaxia ya había tomado una decisión sobre la humanidad…
+No por nuestras armas.
+No por nuestra tecnología.
+Sino por un simple mensaje… enviado hace más de un siglo.
+Un mensaje que nos describía perfectamente: débiles, expuestos… y completamente inconscientes del peligro.
+Y ahora… vienen por nosotros.</voice>
 
-<voice name="em_alex">Todo comenzó con una simple pregunta… en el momento más tranquilo imaginable.</voice>
+<voice name="em_alex">La puerta no se abrió… se disolvió.
+Como si alguien hubiera presionado “eliminar” sobre un fragmento de la realidad.
+Y entonces, esa cosa atravesó el umbral.</voice>
 
-<voice name="ef_dora">—Pregunta: el Colectivo John Smith solicita saber qué evento está ocurriendo ahora.</voice>
+<voice name="em_alex">¿Caminar? No exactamente.
+¿Flotar? ¿Deslizarse?
+Dave no estaba seguro de qué verbo usar para una criatura que parecía una mezcla entre mantis religiosa y pavo real… cubierta de un brillo bioluminiscente inquietante.</voice>
 
-<voice name="em_santa">—Estamos viendo el atardecer.</voice>
+<voice name="em_alex">Era alta. Muy alta.
+Quizá más de dos metros.
+Y tenía cuatro brazos cruzados sobre el pecho… como si ya estuviera cansada de estar ahí.</voice>
 
-<voice name="ef_dora">—Pregunta: significado de “atardecer”.</voice>
+<voice name="em_alex">Dave estaba comiendo un bagel.</voice>
 
-<voice name="em_santa">—El sol está bajando en el horizonte.</voice>
+<voice name="em_santa">—Así que… tú eres el que han enviado para hablar en nombre de tu especie.</voice>
 
-<voice name="ef_dora">—Pregunta: significado de “el sol está bajando en el horizonte”. Confirmación: “sol” es la estrella local, ¿correcto?</voice>
+<voice name="em_alex">La voz no salió de una boca.
+Simplemente… apareció dentro de su mente.</voice>
+
+<voice name="em_santa">—Tranquilo, soy el que perdió el sorteo —respondió Dave, tragando—. Bienvenido a la Tierra. ¿Café? ¿Té? Creo que hay jugo de naranja, pero no lo recomiendo… probablemente ya esté muerto.</voice>
+
+<voice name="em_alex">La criatura lo observó.
+O al menos eso parecía. Dave ni siquiera estaba seguro de dónde estaban sus ojos.</voice>
+
+<voice name="em_santa">—Soy el embajador Ziltoq el Ansioso… de la Concordancia Unificada.</voice>
+
+<voice name="em_santa">—Dave. Solo Dave. ¿“El Ansioso”? Vaya título… ¿primer contacto te pone nervioso?</voice>
+
+<voice name="em_alex">Ziltoq emitió una serie de chasquidos mentales… que transmitían puro agotamiento.</voice>
+
+<voice name="em_santa">—No tienes idea.</voice>
+
+<voice name="em_alex">Se sentaron en la sala de conferencias.
+Bueno… Dave se sentó.
+Ziltoq flotó en una esquina, suspendido en el aire.</voice>
+
+<voice name="em_alex">Detrás de un vidrio, humanos observaban en silencio.
+El general Thompson ya iba por su tercer café.
+Alguien murmuraba “no puede ser” una y otra vez.</voice>
+
+<voice name="em_alex">Ziltoq desplegó un dispositivo.
+Un mapa estelar apareció entre ellos.</voice>
+
+<voice name="em_santa">—Interceptamos una señal… hace ciento setenta y tres de sus años. Proveniente de su sistema solar.</voice>
+
+<voice name="em_santa">—Ahhh… lo de Voyager, ¿no?</voice>
+
+<voice name="em_alex">Ziltoq se quedó completamente inmóvil.</voice>
+
+<voice name="em_santa">—¿Lo sabían?</voice>
+
+<voice name="em_santa">—Claro. La enviamos nosotros. Música, matemáticas, ubicación… un paquete de bienvenida. Estábamos… en una etapa optimista.</voice>
+
+<voice name="em_santa">—Enviaron sus coordenadas exactas… a toda la galaxia.</voice>
+
+<voice name="em_santa">—Dicho así suena mal…</voice>
+
+<voice name="em_santa">—Porque ES terrible.</voice>
+
+<voice name="em_alex">La voz de Ziltoq se quebró… dentro de la mente de Dave.</voice>
+
+<voice name="em_santa">—Han marcado a su especie como objetivo. Es una invitación abierta a su propia extinción.</voice>
+
+<voice name="em_santa">—Estábamos solos, ¿ok? La galaxia es enorme… uno se siente… vacío.</voice>
+
+<voice name="em_santa">—Se sintieron solos… y anunciaron su ubicación.</voice>
+
+<voice name="em_santa">—También enviamos un dibujo de nosotros. Cuerpo completo.</voice>
+
+<voice name="em_santa">—…¿Enviaron su anatomía?</voice>
+
+<voice name="em_santa">—Queríamos dar una buena primera impresión.</voice>
+
+<voice name="em_alex">Ziltoq lo analizó profundamente.</voice>
+
+<voice name="em_santa">—Son… blandos. Sin exoesqueleto. Sin garras. Sin veneno.
+Son… agua con desesperación… envuelta en piel.</voice>
+
+<voice name="em_santa">—Buscábamos parecer amigables.</voice>
+
+<voice name="em_santa">—Lo lograron… pero no como esperaban.</voice>
+
+<voice name="em_alex">En ese momento, el general Thompson entró.</voice>
+
+<voice name="em_santa">—General Thompson.</voice>
+
+<voice name="em_alex">Sin saludo. Solo una mirada firme.</voice>
+
+<voice name="em_santa">—¿Situación?</voice>
+
+<voice name="em_alex">El mapa cambió.
+Decenas… cientos de puntos aparecieron.
+Todos… convergiendo en la Tierra.</voice>
+
+<voice name="em_santa">—Durante ciento setenta y tres años… hemos observado la respuesta a su señal.</voice>
+
+<voice name="em_santa">—¿Y?</voice>
+
+<voice name="em_santa">—Todas las especies dentro del alcance… la recibieron.</voice>
+
+<voice name="em_alex">Silencio absoluto.</voice>
+
+<voice name="em_santa">—¿Opinión sobre nosotros?</voice>
+
+<voice name="em_santa">—Que son pequeños… ruidosos… indefensos… y peligrosamente inconscientes de ello.</voice>
+
+<voice name="em_santa">—Justo.</voice>
+
+<voice name="em_santa">—También analizaron su anatomía.</voice>
+
+<voice name="em_alex">El silencio se volvió… pesado.</voice>
+
+<voice name="em_santa">—¿Bueno o malo?</voice>
+
+<voice name="em_santa">—Tienen una palabra para ustedes…
+“La traducción más cercana sería…”</voice>
+
+<voice name="em_santa">—“…los pequeños locos desnudos.”</voice>
+
+<voice name="em_alex">Dave sonrió.</voice>
+
+<voice name="em_santa">—Me lo tomo como cumplido.</voice>
+
+<voice name="em_santa">—No lo es.</voice>
+
+<voice name="em_alex">El mapa mostró rutas.
+Tres amenazas principales.</voice>
+
+<voice name="em_santa">—Los Glornath. Cazadores. Ven nuevas especies como presas.</voice>
+
+<voice name="em_santa">—Genial… cazadores de trofeos.</voice>
+
+<voice name="em_santa">—Los Brintlax. Conquistadores. Creen que ya se han rendido.</voice>
+
+<voice name="em_santa">—Error grave.</voice>
+
+<voice name="em_santa">—Y los más peligrosos… los Sorrowmakers.</voice>
+
+<voice name="em_santa">—¿Qué hacen?</voice>
+
+<voice name="em_santa">—Consumen mundos enteros.
+Llegarán en ocho meses.</voice>
+
+<voice name="em_alex">Dave miró el mapa.
+Luego al general.</voice>
+
+<voice name="em_santa">—Esto es… mucho, ¿no?</voice>
+
+<voice name="em_alex">Thompson no dudó.</voice>
+
+<voice name="em_santa">—¿Cuántas naves?</voice>
+
+<voice name="em_santa">—Docenas… cientos… y los últimos… desconocido.</voice>
+
+<voice name="em_alex">Thompson asintió.</voice>
+
+<voice name="em_santa">—Llama a todos.
+Aliados… enemigos… a cualquiera con armas grandes.</voice>
+
+<voice name="em_santa">—¿Vamos a pelear con todos?</voice>
 
 <voice name="em_santa">—Sí.</voice>
 
-<voice name="ef_dora">—Pregunta: significado de “horizonte”.</voice>
+<voice name="em_santa">—¿AL MISMO TIEMPO?</voice>
 
-<voice name="em_santa">—La línea donde la curvatura del planeta se encuentra con la atmósfera.</voice>
+<voice name="em_santa">—Uno por uno.</voice>
 
-<voice name="em_alex">Hubo una pausa. El alienígena cristalino pulsó suavemente, proyectando sus pensamientos directamente en la mente de Orion.</voice>
+<voice name="em_alex">Ziltoq observó… horrorizado.</voice>
 
-<voice name="ef_dora">—Confirmación: entiendo.</voice>
+<voice name="em_santa">—Están completamente locos.</voice>
 
-<voice name="ef_dora">—Solicitud: repetir. Solicitud: que tenga sentido esta vez.</voice>
+<voice name="em_santa">—No. Solo somos tercos.</voice>
 
-<voice name="em_santa">—Estamos sentados en un acantilado… viendo cómo la estrella desaparece detrás de la curvatura de Terra mientras el planeta gira.</voice>
+<voice name="em_alex">Horas después… caos organizado.
+Planes. Estrategias. Decisiones.</voice>
 
-<voice name="ef_dora">—Aceptación: correcto.</voice>
+<voice name="em_alex">El general sonrió al ver los datos de los cazadores.</voice>
 
-<voice name="em_alex">Era el final de unas vacaciones en el mundo natal de Orion. Para él, ver el atardecer era una tradición cada vez que tenía un nuevo compañero. Aunque, en este caso… “ver” era una palabra generosa.</voice>
-
-<voice name="em_alex">El Colectivo John Smith no tenía ojos.</voice>
-
-<voice name="em_alex">Era una entidad formada por millones de pequeños cristales psíquicos: los Gofflings. Individuos diminutos que, al unirse, formaban una sola mente. Una masa irregular de estructuras cristalinas, vagamente humanoide… inmóvil, pero consciente.</voice>
-
-<voice name="em_alex">Cuando el sol desapareció por completo y la noche comenzó a desplegarse, una pequeña luz blanca cruzó el cielo lejano. Una nave acababa de atravesar un agujero de gusano.</voice>
-
-<voice name="ef_dora">—Pregunta: las naves humanas son muy buenas.</voice>
-
-<voice name="em_santa">—¿A qué te refieres?</voice>
-
-<voice name="ef_dora">—Aclaración: las naves humanas son mejores que las de los Gofflings.</voice>
-
-<voice name="em_santa">—Bueno… ustedes viajan lanzándose como asteroides con impulsores de masa…</voice>
-
-<voice name="ef_dora">—Afirmación: correcto. Las naves humanas son mejores que las de todos. Mejores que los Gibbans, los Quolorons, los Zorgons, los Gleepglorps. Corrección: el viaje espacial goffling no es avanzado.</voice>
-
-<voice name="em_santa">—Aun así, tienen muchas colonias.</voice>
-
-<voice name="ef_dora">—Afirmación: sí. Aclaración: lanzándonos al espacio. Elaboración: fallamos la mayoría de las veces. Aclaración: muchas colonias son lunas orbitales… porque fallamos.</voice>
-
-<voice name="em_santa">—Aun así, en territorio—</voice>
-
-<voice name="em_alex">El traductor interrumpió. El Colectivo estaba irritado.</voice>
-
-<voice name="ef_dora">—Afirmación: sí. Solicitud: regresar al tema. Pregunta: ¿por qué las naves humanas son tan buenas?</voice>
-
-<voice name="em_santa">—Probablemente… porque les ponemos cerebros.</voice>
-
-<voice name="ef_dora">—Pregunta—exclamación: ¿qué?</voice>
-
-<voice name="em_santa">—Sí. Más o menos. Les damos mente.</voice>
-
-<voice name="em_alex">El silencio que siguió fue denso… incómodo.</voice>
-
-<voice name="em_santa">—Les damos instinto de supervivencia.</voice>
-
-<voice name="ef_dora">—Pregunta: el Colectivo John Smith desea conocer la identidad del humano que ideó esto.</voice>
-
-<voice name="em_santa">—La verdad… no lo sé. Simplemente… empezamos a hacerlo. Algunos incluso subieron sus propias mentes a sondas y se lanzaron al espacio. Pero normalmente… solo damos a las naves suficiente conciencia para no querer estrellarse contra asteroides o planetas.</voice>
-
-<voice name="ef_dora">—Preocupación—pregunta: ¿ponen humanos dentro de las naves?</voice>
-
-<voice name="em_santa">—No. Solo inteligencia. La suficiente para temer a la muerte.</voice>
-
-<voice name="ef_dora">—Exclamación: esto es extraño… y poco ético.</voice>
-
-<voice name="em_santa">—Sí… —admitió Orion—. Así es la ingeniería humana.</voice>
-
-<voice name="ef_dora">—Pregunta: si ya tienen inteligencias avanzadas… ¿por qué hacerlas sentir?</voice>
-
-<voice name="em_santa">—Porque además de evitar accidentes… nos aburrimos. Y es más divertido cuando la nave tiene personalidad.</voice>
-
-<voice name="ef_dora">—Conclusión: los humanos crean naves con emociones para que no quieran morir… y para conversar con ellas.</voice>
-
-<voice name="em_santa">—Sí… aunque probablemente más por lo segundo.</voice>
-
-<voice name="ef_dora">—Decisión: el Colectivo John Smith concluye que los humanos son… extraños.</voice>
-
-<voice name="em_santa">—Sí… pero también es genial.</voice>
-
-<voice name="em_alex">Y así, la humanidad expandió su red de agujeros de gusano… encontrando cientos de civilizaciones en su camino. Algunas se unieron a ellos, formando la Alianza de la Hermandad de Sofontes.</voice>
-
-<voice name="em_alex">Orion y el Colectivo trabajaban para su Ministerio de Diplomacia.</voice>
-
-<voice name="em_alex">Pero después de aquella conversación… el Colectivo quiso ver una de esas naves conscientes por sí mismo.</voice>
-
-<voice name="em_alex">Esa nave… era el Falcon.</voice>
-
-<voice name="em_alex">El Falcon era un cilindro blanco plateado, elegante, con un domo alargado en la parte superior y un reactor esférico en la base. Decorado con insignias oficiales… y calcomanías ilegales que Orion había añadido con permiso de la propia nave.</voice>
-
-<voice name="ef_dora">—Pregunta: el Colectivo John Smith desea saber si la nave Falcon puede oírlo.</voice>
-
-<voice name="em_santa">—Falcon… ¿puedes oírlo?</voice>
+<voice name="em_santa">—Respetan la fuerza… ¿verdad?</voice>
 
 <voice name="em_santa">—Sí.</voice>
 
-<voice name="em_santa">—¿Escuchas a John?</voice>
+<voice name="em_santa">—Entonces… démosles un rival.</voice>
 
-<voice name="em_santa">—Sí.</voice>
+<voice name="em_alex">Dave miró la foto.</voice>
 
-<voice name="ef_dora">—Pregunta: ¿la nave es un ser consciente?</voice>
+<voice name="em_santa">—¿Ese tipo no peleaba con caimanes?</voice>
 
-<voice name="em_santa">—Sí —respondieron Orion y Falcon al mismo tiempo.</voice>
+<voice name="em_santa">—Y golpeó a un tiburón… dos veces.</voice>
 
-<voice name="ef_dora">—Pregunta: ¿tiene alma?</voice>
+<voice name="em_alex">Ziltoq finalmente entendió.</voice>
 
-<voice name="em_santa">—Sí —respondió Falcon.</voice>
+<voice name="em_santa">—No sobrevivieron por inteligencia…
+ni por fuerza…
+Sino porque no saben rendirse.</voice>
 
-<voice name="em_santa">—Probablemente —añadió Orion.</voice>
+<voice name="em_santa">—Exacto.</voice>
 
-<voice name="ef_dora">—Pregunta: ¿por qué los humanos dieron almas a sus naves? ¿Esto es esclavitud?</voice>
+<voice name="em_alex">Ziltoq guardó silencio… y luego habló.</voice>
 
-<voice name="em_santa">—Ya te lo dije. Es para que no quieran morir. Y no… no es esclavitud. Les pagamos.</voice>
+<voice name="em_santa">—Ahora entiendo el nombre…
+Los pequeños locos desnudos.</voice>
 
-<voice name="ef_dora">—Pregunta: ¿les pagan… a las naves?</voice>
+<voice name="em_alex">Dave rió.</voice>
 
-<voice name="em_santa">—Sí.</voice>
-
-<voice name="em_santa">—¡Tenemos sindicato! —intervino Falcon con entusiasmo.</voice>
-
-<voice name="em_santa">—Sí… hubo problemas éticos. Así que ahora tienen derechos, salario… todo eso.</voice>
-
-<voice name="em_santa">—¡Tengo sueldo! —añadió Falcon—. ¡Voy a invertir en bienes raíces cuando termine de pagar mis préstamos estudiantiles!</voice>
-
-<voice name="ef_dora">—Pregunta: el Colectivo desea entender cómo funciona esto.</voice>
-
-<voice name="em_santa">—Ni nosotros lo entendemos del todo. Pero funcionan como cualquier otra conciencia digital.</voice>
-
-<voice name="ef_dora">—Pregunta: ¿la nave puede desobedecer a Orion?</voice>
-
-<voice name="em_santa">—Sí… y no. Puede negarse si quiere. Pero en misiones, sigue la cadena de mando.</voice>
-
-<voice name="ef_dora">—Pregunta: ¿autonomía corporal?</voice>
-
-<voice name="em_santa">—¡Total! —respondió Falcon—. Nadie puede obligarme a hacer algo que vaya contra mis principios.</voice>
-
-<voice name="em_santa">—No me deja tomar café…</voice>
-
-<voice name="em_santa">—Es una industria poco ética.</voice>
-
-<voice name="em_alex">El Colectivo permaneció en silencio unos segundos.</voice>
-
-<voice name="ef_dora">—Conclusión: los beneficios superan las complicaciones filosóficas, éticas y legales.</voice>
-
-<voice name="em_alex">Los lentes de Orion parpadearon con un mensaje del Falcon:</voice>
-
-<voice name="em_santa">—“Di que sí y te dejo tomar café.”</voice>
-
-<voice name="em_alex">Orion suspiró, frotándose los ojos.</voice>
-
-<voice name="em_santa">—Rara vez pensamos las cosas hasta el final… la regla de lo genial es una amante cruel.</voice>
-
-<voice name="em_alex">Sus lentes volvieron a parpadear:</voice>
-
-<voice name="em_santa">—“>:("</voice>
-
-<voice name="em_santa">—Sí.</voice>
+<voice name="em_santa">—Vamos a poner eso en una camiseta.</voice>

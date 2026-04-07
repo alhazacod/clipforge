@@ -1,0 +1,7396 @@
+{
+  "text": " Antes de que todo comenzara, la galaxia ya había tomado una decisión sobre la humanidad. No por nuestras armas, no por nuestra tecnología, sino por un simple mensaje enviado hace más de un siglo. Un mensaje que nos describía perfectamente, débiles, expuestos y completamente inconscientes del peligro, y ahora vienen por nosotros. La puerta no se abrió, se disolvió, como si alguien hubiera presionado eliminar sobre un fragmento de la realidad, y entonces esa cosa atravesó el umbral. Caminar, no exactamente. Flotar, deslizarse. Dave no estaba seguro de qué verbo usar para una criatura que parecía una mezcla entre mantis religiosa y pavo real cubierta de un brillo bioluminiscente inquietante. Era alta, muy alta, quizá más de dos metros, y tenía cuatro brazos cruzados sobre el pecho como si ya estuviera cansada de estar ahí. Dave estaba comiendo un bajel. Así que tú eres el que han enviado para hablar en nombre de tu especie. La voz no salió de una boca, simplemente apareció dentro de su mente. Tranquilo, soy el que perdió el sorteo, respondió Dave tragando. Bienvenido a la tierra. Café, té, creo que hay jugo de naranja, pero no lo recomiendo, probablemente ya esté muerto. La criatura lo observó, o al menos eso parecía. Dave ni siquiera estaba seguro de dónde estaban sus ojos. Soy el embajador Siltok, el ansioso, de la concordancia unificada. Dave, solo Dave, el ansioso, vaya título, primer contacto te pone nervioso. Siltok emitió una serie de chasquidos mentales que transmitían puro agotamiento. No tienes idea. Se sentaron en la sala de conferencias. Bueno, Dave se sentó. Siltok flotó en una esquina, suspendido en el aire. Detrás de un vidrio, humanos observaban en silencio. El general Thompson ya iba por su tercer café. Alguien murmuraba, no puede ser, una y otra vez. Siltok desplegó un dispositivo. Un mapa estelar apareció entre ellos. Interceptamos una señal hace 173 de sus años, proveniente de su sistema solar. Ah, lo de Voyager no. Siltok se quedó completamente inmóvil. Lo sabían. Claro, la enviamos nosotros. Música, matemáticas, ubicación, un paquete de bienvenida. Estábamos en una etapa optimista. Enviaron sus coordenadas exactas a toda la galaxia. Dicho así suena mal, porque EAS es terrible. La voz de Siltok se quebró dentro de la mente de Dave. Han marcado a su especie como objetivo. Es una invitación abierta a su propia extinción. Estábamos solos, Ock. La galaxia es enorme, uno se siente vacío. Se sintieron solos y anunciaron su ubicación. También enviamos un dibujo de nosotros, cuerpo completo. Enviaron su anatomía. Queríamos dar una buena primera impresión. Siltok lo analizó profundamente. Son blandos, sin exoesqueleto, sin garras, sin veneno. Son agua con desesperación envuelta en piel. Buscábamos parecer amigables. Lo lograron, pero no como esperaban. En ese momento, el general Thompson entró. General Thompson. Sin saludo, solo una mirada firme. Situación. El mapa cambió, decenas, cientos de puntos aparecieron, todos convergiendo en la Tierra. Durante 170 y 3 años, hemos observado la respuesta a su señal. RIR. Todas las especies dentro del alcance la recibieron. Silencio absoluto. Opinión sobre nosotros, que son pequeños, ruidosos, indefensos y peligrosamente inconscientes de ello. Justo. También analizaron su anatomía. El silencio se volvió pesado. Bueno o malo, tienen una palabra para ustedes. La traducción más cercana sería. Los pequeños locos desnudos. Dave sonrió. Me lo tomo como cumplido. No lo es. El mapa mostró rutas. Tres amenazas principales. Los Glornat cazadores ven nuevas especies como presas. Genial cazadores de trofeos. Los Brintlax conquistadores creen que ya se han rendido. Error grave. Y los más peligrosos, los Sorromakers. ¿Qué hacen? Consumen mundos enteros. Llegarán en ocho meses. Dave miró el mapa, luego al general. Esto es mucho, no. Thompson no dudó. ¿Cuántas naves? Docenas, cientos y los últimos desconocido. Thompson asintió. Llama a todos, aliados enemigos a cualquiera con armas grandes. Vamos a pelear con todos. Sí, al mismo tiempo. Uno por uno. Ziltok observó horrorizado. Están completamente locos. No, solo somos tercos. Horas después, caos organizado. Planes, estrategias, decisiones. El general sonrió al ver los datos de los cazadores. Respetan la fuerza, ¿verdad? Sí, entonces démosles un rival. Dave miró la foto. Ese tipo no peleaba con caimanes. Y golpeó a un tiburón dos veces. Ziltok finalmente entendió. No sobrevivieron por inteligencia, ni por fuerza, sino porque no saben rendirse. Exacto. Ziltok guardó silencio y luego habló. Ahora entiendo el nombre. Los pequeños locos desnudos. Dave rió. Vamos a poner eso en una camiseta.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.74,
+      "text": " Antes de que todo comenzara, la galaxia ya había tomado una decisión sobre la humanidad.",
+      "tokens": [
+        50365,
+        39325,
+        368,
+        631,
+        5149,
+        29564,
+        2419,
+        11,
+        635,
+        26285,
+        654,
+        2478,
+        16395,
+        2916,
+        1573,
+        2002,
+        18206,
+        2560,
+        5473,
+        635,
+        1952,
+        4580,
+        13,
+        50553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07898838017262569,
+      "compression_ratio": 1.6432926829268293,
+      "no_speech_prob": 8.134508691637343e-12,
+      "words": [
+        {
+          "word": " Antes",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.9048984050750732
+        },
+        {
+          "word": " de",
+          "start": 0.2,
+          "end": 0.32,
+          "probability": 0.9999781847000122
+        },
+        {
+          "word": " que",
+          "start": 0.32,
+          "end": 0.44,
+          "probability": 0.9998934268951416
+        },
+        {
+          "word": " todo",
+          "start": 0.44,
+          "end": 0.6,
+          "probability": 0.99993896484375
+        },
+        {
+          "word": " comenzara,",
+          "start": 0.6,
+          "end": 1.12,
+          "probability": 0.9998163878917694
+        },
+        {
+          "word": " la",
+          "start": 1.24,
+          "end": 1.48,
+          "probability": 0.9996129870414734
+        },
+        {
+          "word": " galaxia",
+          "start": 1.48,
+          "end": 1.84,
+          "probability": 0.9996777772903442
+        },
+        {
+          "word": " ya",
+          "start": 1.84,
+          "end": 1.98,
+          "probability": 0.9999468326568604
+        },
+        {
+          "word": " había",
+          "start": 1.98,
+          "end": 2.16,
+          "probability": 0.9998900890350342
+        },
+        {
+          "word": " tomado",
+          "start": 2.16,
+          "end": 2.5,
+          "probability": 0.9999381899833679
+        },
+        {
+          "word": " una",
+          "start": 2.5,
+          "end": 2.66,
+          "probability": 0.9999433755874634
+        },
+        {
+          "word": " decisión",
+          "start": 2.66,
+          "end": 3.08,
+          "probability": 0.9999539256095886
+        },
+        {
+          "word": " sobre",
+          "start": 3.08,
+          "end": 3.28,
+          "probability": 0.9999233484268188
+        },
+        {
+          "word": " la",
+          "start": 3.28,
+          "end": 3.4,
+          "probability": 0.9999350309371948
+        },
+        {
+          "word": " humanidad.",
+          "start": 3.4,
+          "end": 3.74,
+          "probability": 0.9993049502372742
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.88,
+      "end": 8.52,
+      "text": " No por nuestras armas, no por nuestra tecnología, sino por un simple mensaje enviado hace más de un siglo.",
+      "tokens": [
+        50563,
+        883,
+        1515,
+        32809,
+        44611,
+        11,
+        572,
+        1515,
+        16825,
+        48055,
+        11,
+        18108,
+        1515,
+        517,
+        2199,
+        10923,
+        11153,
+        2267,
+        72,
+        1573,
+        10032,
+        3573,
+        368,
+        517,
+        48578,
+        13,
+        50791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07898838017262569,
+      "compression_ratio": 1.6432926829268293,
+      "no_speech_prob": 8.134508691637343e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 3.88,
+          "end": 4.04,
+          "probability": 0.9986376166343689
+        },
+        {
+          "word": " por",
+          "start": 4.04,
+          "end": 4.2,
+          "probability": 0.9999710321426392
+        },
+        {
+          "word": " nuestras",
+          "start": 4.2,
+          "end": 4.48,
+          "probability": 0.9996263980865479
+        },
+        {
+          "word": " armas,",
+          "start": 4.48,
+          "end": 4.76,
+          "probability": 0.9999608993530273
+        },
+        {
+          "word": " no",
+          "start": 4.96,
+          "end": 5.1,
+          "probability": 0.999904990196228
+        },
+        {
+          "word": " por",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.999984622001648
+        },
+        {
+          "word": " nuestra",
+          "start": 5.26,
+          "end": 5.52,
+          "probability": 0.9999018907546997
+        },
+        {
+          "word": " tecnología,",
+          "start": 5.52,
+          "end": 5.9,
+          "probability": 0.999937891960144
+        },
+        {
+          "word": " sino",
+          "start": 6.24,
+          "end": 6.42,
+          "probability": 0.9997443556785583
+        },
+        {
+          "word": " por",
+          "start": 6.42,
+          "end": 6.56,
+          "probability": 0.9999920129776001
+        },
+        {
+          "word": " un",
+          "start": 6.56,
+          "end": 6.68,
+          "probability": 0.9999716281890869
+        },
+        {
+          "word": " simple",
+          "start": 6.68,
+          "end": 6.88,
+          "probability": 0.9995026588439941
+        },
+        {
+          "word": " mensaje",
+          "start": 6.88,
+          "end": 7.28,
+          "probability": 0.9999648928642273
+        },
+        {
+          "word": " enviado",
+          "start": 7.28,
+          "end": 7.68,
+          "probability": 0.9998822808265686
+        },
+        {
+          "word": " hace",
+          "start": 7.68,
+          "end": 7.88,
+          "probability": 0.9999032020568848
+        },
+        {
+          "word": " más",
+          "start": 7.88,
+          "end": 8.04,
+          "probability": 0.9997785687446594
+        },
+        {
+          "word": " de",
+          "start": 8.04,
+          "end": 8.14,
+          "probability": 0.999984622001648
+        },
+        {
+          "word": " un",
+          "start": 8.14,
+          "end": 8.24,
+          "probability": 0.9999747276306152
+        },
+        {
+          "word": " siglo.",
+          "start": 8.24,
+          "end": 8.52,
+          "probability": 0.999798595905304
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.74,
+      "end": 14.78,
+      "text": " Un mensaje que nos describía perfectamente, débiles, expuestos y completamente inconscientes del peligro, y ahora vienen por nosotros.",
+      "tokens": [
+        50810,
+        1156,
+        10923,
+        11153,
+        631,
+        3269,
+        2189,
+        65,
+        2686,
+        2176,
+        3439,
+        11,
+        36529,
+        4680,
+        11,
+        1278,
+        42738,
+        288,
+        28381,
+        22039,
+        5412,
+        279,
+        1103,
+        43839,
+        340,
+        11,
+        288,
+        9923,
+        49298,
+        1515,
+        13863,
+        13,
+        51106
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07898838017262569,
+      "compression_ratio": 1.6432926829268293,
+      "no_speech_prob": 8.134508691637343e-12,
+      "words": [
+        {
+          "word": " Un",
+          "start": 8.74,
+          "end": 8.98,
+          "probability": 0.9998518228530884
+        },
+        {
+          "word": " mensaje",
+          "start": 8.98,
+          "end": 9.36,
+          "probability": 0.9999774098396301
+        },
+        {
+          "word": " que",
+          "start": 9.36,
+          "end": 9.48,
+          "probability": 0.9999735355377197
+        },
+        {
+          "word": " nos",
+          "start": 9.48,
+          "end": 9.6,
+          "probability": 0.9999383687973022
+        },
+        {
+          "word": " describía",
+          "start": 9.6,
+          "end": 9.98,
+          "probability": 0.9996133248011271
+        },
+        {
+          "word": " perfectamente,",
+          "start": 9.98,
+          "end": 10.7,
+          "probability": 0.9999031722545624
+        },
+        {
+          "word": " débiles,",
+          "start": 10.92,
+          "end": 11.22,
+          "probability": 0.9995975494384766
+        },
+        {
+          "word": " expuestos",
+          "start": 11.36,
+          "end": 11.7,
+          "probability": 0.9997318089008331
+        },
+        {
+          "word": " y",
+          "start": 11.7,
+          "end": 11.9,
+          "probability": 0.9961309432983398
+        },
+        {
+          "word": " completamente",
+          "start": 11.9,
+          "end": 12.28,
+          "probability": 0.9998169541358948
+        },
+        {
+          "word": " inconscientes",
+          "start": 12.28,
+          "end": 12.92,
+          "probability": 0.9997758666674296
+        },
+        {
+          "word": " del",
+          "start": 12.92,
+          "end": 13.04,
+          "probability": 0.999906063079834
+        },
+        {
+          "word": " peligro,",
+          "start": 13.04,
+          "end": 13.4,
+          "probability": 0.9999725818634033
+        },
+        {
+          "word": " y",
+          "start": 13.5,
+          "end": 13.78,
+          "probability": 0.9996078610420227
+        },
+        {
+          "word": " ahora",
+          "start": 13.78,
+          "end": 13.98,
+          "probability": 0.9999479055404663
+        },
+        {
+          "word": " vienen",
+          "start": 13.98,
+          "end": 14.26,
+          "probability": 0.9998618364334106
+        },
+        {
+          "word": " por",
+          "start": 14.26,
+          "end": 14.42,
+          "probability": 0.9999892711639404
+        },
+        {
+          "word": " nosotros.",
+          "start": 14.42,
+          "end": 14.78,
+          "probability": 0.9999351501464844
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.96,
+      "end": 21.74,
+      "text": " La puerta no se abrió, se disolvió, como si alguien hubiera presionado eliminar sobre un fragmento de la realidad, y entonces esa cosa atravesó el umbral.",
+      "tokens": [
+        51117,
+        2369,
+        48597,
+        572,
+        369,
+        410,
+        44802,
+        11,
+        369,
+        717,
+        401,
+        4917,
+        812,
+        11,
+        2617,
+        1511,
+        25814,
+        11838,
+        10609,
+        1183,
+        313,
+        1573,
+        7892,
+        289,
+        5473,
+        517,
+        26424,
+        78,
+        368,
+        635,
+        25635,
+        11,
+        288,
+        13003,
+        11342,
+        10163,
+        44192,
+        977,
+        812,
+        806,
+        1105,
+        32728,
+        13,
+        51452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07898838017262569,
+      "compression_ratio": 1.6432926829268293,
+      "no_speech_prob": 8.134508691637343e-12,
+      "words": [
+        {
+          "word": " La",
+          "start": 14.96,
+          "end": 15.16,
+          "probability": 0.9992902278900146
+        },
+        {
+          "word": " puerta",
+          "start": 15.16,
+          "end": 15.36,
+          "probability": 0.9995951056480408
+        },
+        {
+          "word": " no",
+          "start": 15.36,
+          "end": 15.54,
+          "probability": 0.999933123588562
+        },
+        {
+          "word": " se",
+          "start": 15.54,
+          "end": 15.68,
+          "probability": 0.9999827146530151
+        },
+        {
+          "word": " abrió,",
+          "start": 15.68,
+          "end": 15.88,
+          "probability": 0.9998613893985748
+        },
+        {
+          "word": " se",
+          "start": 15.96,
+          "end": 16.06,
+          "probability": 0.9997301697731018
+        },
+        {
+          "word": " disolvió,",
+          "start": 16.06,
+          "end": 16.5,
+          "probability": 0.9997890293598175
+        },
+        {
+          "word": " como",
+          "start": 16.64,
+          "end": 16.86,
+          "probability": 0.9998863935470581
+        },
+        {
+          "word": " si",
+          "start": 16.86,
+          "end": 17.0,
+          "probability": 0.9999814033508301
+        },
+        {
+          "word": " alguien",
+          "start": 17.0,
+          "end": 17.24,
+          "probability": 0.999941349029541
+        },
+        {
+          "word": " hubiera",
+          "start": 17.24,
+          "end": 17.5,
+          "probability": 0.9998925924301147
+        },
+        {
+          "word": " presionado",
+          "start": 17.5,
+          "end": 17.96,
+          "probability": 0.9999282757441202
+        },
+        {
+          "word": " eliminar",
+          "start": 17.96,
+          "end": 18.44,
+          "probability": 0.9935788512229919
+        },
+        {
+          "word": " sobre",
+          "start": 18.44,
+          "end": 18.64,
+          "probability": 0.9997028708457947
+        },
+        {
+          "word": " un",
+          "start": 18.64,
+          "end": 18.74,
+          "probability": 0.9999614953994751
+        },
+        {
+          "word": " fragmento",
+          "start": 18.74,
+          "end": 19.18,
+          "probability": 0.9999539852142334
+        },
+        {
+          "word": " de",
+          "start": 19.18,
+          "end": 19.26,
+          "probability": 0.9997597336769104
+        },
+        {
+          "word": " la",
+          "start": 19.26,
+          "end": 19.32,
+          "probability": 0.9998618364334106
+        },
+        {
+          "word": " realidad,",
+          "start": 19.32,
+          "end": 19.64,
+          "probability": 0.9996405839920044
+        },
+        {
+          "word": " y",
+          "start": 19.84,
+          "end": 20.12,
+          "probability": 0.9999022483825684
+        },
+        {
+          "word": " entonces",
+          "start": 20.12,
+          "end": 20.5,
+          "probability": 0.9999507665634155
+        },
+        {
+          "word": " esa",
+          "start": 20.5,
+          "end": 20.78,
+          "probability": 0.9960594177246094
+        },
+        {
+          "word": " cosa",
+          "start": 20.78,
+          "end": 21.0,
+          "probability": 0.9998862743377686
+        },
+        {
+          "word": " atravesó",
+          "start": 21.0,
+          "end": 21.4,
+          "probability": 0.9997939070065817
+        },
+        {
+          "word": " el",
+          "start": 21.4,
+          "end": 21.5,
+          "probability": 0.999626874923706
+        },
+        {
+          "word": " umbral.",
+          "start": 21.5,
+          "end": 21.74,
+          "probability": 0.9996235072612762
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.94,
+      "end": 24.42,
+      "text": " Caminar, no exactamente. Flotar, deslizarse.",
+      "tokens": [
+        51458,
+        6886,
+        6470,
+        11,
+        572,
+        48686,
+        13,
+        3235,
+        310,
+        289,
+        11,
+        730,
+        75,
+        9736,
+        405,
+        13,
+        51588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07898838017262569,
+      "compression_ratio": 1.6432926829268293,
+      "no_speech_prob": 8.134508691637343e-12,
+      "words": [
+        {
+          "word": " Caminar,",
+          "start": 21.94,
+          "end": 22.28,
+          "probability": 0.9722006022930145
+        },
+        {
+          "word": " no",
+          "start": 22.36,
+          "end": 22.46,
+          "probability": 0.9995154142379761
+        },
+        {
+          "word": " exactamente.",
+          "start": 22.46,
+          "end": 22.86,
+          "probability": 0.9998655319213867
+        },
+        {
+          "word": " Flotar,",
+          "start": 23.2,
+          "end": 23.6,
+          "probability": 0.9993327657381693
+        },
+        {
+          "word": " deslizarse.",
+          "start": 23.82,
+          "end": 24.42,
+          "probability": 0.9988631904125214
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2442,
+      "start": 24.42,
+      "end": 31.44,
+      "text": " Dave no estaba seguro de qué verbo usar para una criatura que parecía una mezcla entre mantis religiosa y pavo real cubierta de un brillo bioluminiscente inquietante.",
+      "tokens": [
+        50365,
+        11017,
+        572,
+        17544,
+        31424,
+        368,
+        8057,
+        1306,
+        1763,
+        14745,
+        1690,
+        2002,
+        12815,
+        19660,
+        631,
+        7448,
+        31298,
+        2002,
+        28966,
+        46265,
+        3962,
+        10845,
+        271,
+        4039,
+        37050,
+        288,
+        280,
+        25713,
+        957,
+        10057,
+        811,
+        1328,
+        368,
+        517,
+        8695,
+        78,
+        3228,
+        401,
+        7112,
+        5606,
+        1576,
+        13570,
+        1684,
+        2879,
+        13,
+        50717
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 24.42,
+          "end": 24.84,
+          "probability": 0.6432677507400513
+        },
+        {
+          "word": " no",
+          "start": 24.84,
+          "end": 25.02,
+          "probability": 0.992512583732605
+        },
+        {
+          "word": " estaba",
+          "start": 25.02,
+          "end": 25.26,
+          "probability": 0.9998602867126465
+        },
+        {
+          "word": " seguro",
+          "start": 25.26,
+          "end": 25.56,
+          "probability": 0.999721109867096
+        },
+        {
+          "word": " de",
+          "start": 25.56,
+          "end": 25.68,
+          "probability": 0.9996922016143799
+        },
+        {
+          "word": " qué",
+          "start": 25.68,
+          "end": 25.76,
+          "probability": 0.9941108822822571
+        },
+        {
+          "word": " verbo",
+          "start": 25.76,
+          "end": 25.98,
+          "probability": 0.9997622668743134
+        },
+        {
+          "word": " usar",
+          "start": 25.98,
+          "end": 26.24,
+          "probability": 0.9998020529747009
+        },
+        {
+          "word": " para",
+          "start": 26.24,
+          "end": 26.42,
+          "probability": 0.9988964796066284
+        },
+        {
+          "word": " una",
+          "start": 26.42,
+          "end": 26.54,
+          "probability": 0.9999504089355469
+        },
+        {
+          "word": " criatura",
+          "start": 26.54,
+          "end": 26.92,
+          "probability": 0.9998992085456848
+        },
+        {
+          "word": " que",
+          "start": 26.92,
+          "end": 27.06,
+          "probability": 0.998881995677948
+        },
+        {
+          "word": " parecía",
+          "start": 27.06,
+          "end": 27.36,
+          "probability": 0.9997613430023193
+        },
+        {
+          "word": " una",
+          "start": 27.36,
+          "end": 27.52,
+          "probability": 0.9997441172599792
+        },
+        {
+          "word": " mezcla",
+          "start": 27.52,
+          "end": 27.8,
+          "probability": 0.9998054206371307
+        },
+        {
+          "word": " entre",
+          "start": 27.8,
+          "end": 28.0,
+          "probability": 0.9994242191314697
+        },
+        {
+          "word": " mantis",
+          "start": 28.0,
+          "end": 28.3,
+          "probability": 0.9967342019081116
+        },
+        {
+          "word": " religiosa",
+          "start": 28.3,
+          "end": 28.78,
+          "probability": 0.9997983872890472
+        },
+        {
+          "word": " y",
+          "start": 28.78,
+          "end": 28.96,
+          "probability": 0.9998371601104736
+        },
+        {
+          "word": " pavo",
+          "start": 28.96,
+          "end": 29.16,
+          "probability": 0.9942533373832703
+        },
+        {
+          "word": " real",
+          "start": 29.16,
+          "end": 29.42,
+          "probability": 0.9996777772903442
+        },
+        {
+          "word": " cubierta",
+          "start": 29.42,
+          "end": 29.92,
+          "probability": 0.9472601016362509
+        },
+        {
+          "word": " de",
+          "start": 29.92,
+          "end": 30.02,
+          "probability": 0.9998577833175659
+        },
+        {
+          "word": " un",
+          "start": 30.02,
+          "end": 30.1,
+          "probability": 0.9998854398727417
+        },
+        {
+          "word": " brillo",
+          "start": 30.1,
+          "end": 30.34,
+          "probability": 0.9999695420265198
+        },
+        {
+          "word": " bioluminiscente",
+          "start": 30.34,
+          "end": 30.96,
+          "probability": 0.8873413681983948
+        },
+        {
+          "word": " inquietante.",
+          "start": 30.96,
+          "end": 31.44,
+          "probability": 0.9981005390485128
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2442,
+      "start": 31.6,
+      "end": 37.46,
+      "text": " Era alta, muy alta, quizá más de dos metros, y tenía cuatro brazos cruzados sobre el pecho como si ya estuviera cansada de estar ahí.",
+      "tokens": [
+        50728,
+        23071,
+        26495,
+        11,
+        5323,
+        26495,
+        11,
+        15450,
+        842,
+        3573,
+        368,
+        4491,
+        34761,
+        11,
+        288,
+        23718,
+        28795,
+        1548,
+        27681,
+        5140,
+        89,
+        4181,
+        5473,
+        806,
+        520,
+        5738,
+        2617,
+        1511,
+        2478,
+        49777,
+        10609,
+        21835,
+        1538,
+        368,
+        8755,
+        12571,
+        13,
+        51019
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Era",
+          "start": 31.6,
+          "end": 31.76,
+          "probability": 0.9984431862831116
+        },
+        {
+          "word": " alta,",
+          "start": 31.76,
+          "end": 32.0,
+          "probability": 0.9998179078102112
+        },
+        {
+          "word": " muy",
+          "start": 32.16,
+          "end": 32.3,
+          "probability": 0.9998058676719666
+        },
+        {
+          "word": " alta,",
+          "start": 32.3,
+          "end": 32.56,
+          "probability": 0.9999850988388062
+        },
+        {
+          "word": " quizá",
+          "start": 32.8,
+          "end": 32.98,
+          "probability": 0.9985971748828888
+        },
+        {
+          "word": " más",
+          "start": 32.98,
+          "end": 33.12,
+          "probability": 0.9999079704284668
+        },
+        {
+          "word": " de",
+          "start": 33.12,
+          "end": 33.22,
+          "probability": 0.999970555305481
+        },
+        {
+          "word": " dos",
+          "start": 33.22,
+          "end": 33.34,
+          "probability": 0.9281710982322693
+        },
+        {
+          "word": " metros,",
+          "start": 33.34,
+          "end": 33.66,
+          "probability": 0.9999526739120483
+        },
+        {
+          "word": " y",
+          "start": 33.86,
+          "end": 34.06,
+          "probability": 0.999790370464325
+        },
+        {
+          "word": " tenía",
+          "start": 34.06,
+          "end": 34.28,
+          "probability": 0.999953031539917
+        },
+        {
+          "word": " cuatro",
+          "start": 34.28,
+          "end": 34.52,
+          "probability": 0.9997850060462952
+        },
+        {
+          "word": " brazos",
+          "start": 34.52,
+          "end": 34.84,
+          "probability": 0.9996242821216583
+        },
+        {
+          "word": " cruzados",
+          "start": 34.84,
+          "end": 35.22,
+          "probability": 0.9999109307924906
+        },
+        {
+          "word": " sobre",
+          "start": 35.22,
+          "end": 35.44,
+          "probability": 0.9999232292175293
+        },
+        {
+          "word": " el",
+          "start": 35.44,
+          "end": 35.56,
+          "probability": 0.9999366998672485
+        },
+        {
+          "word": " pecho",
+          "start": 35.56,
+          "end": 35.86,
+          "probability": 0.9999203681945801
+        },
+        {
+          "word": " como",
+          "start": 35.86,
+          "end": 36.06,
+          "probability": 0.990693986415863
+        },
+        {
+          "word": " si",
+          "start": 36.06,
+          "end": 36.2,
+          "probability": 0.9999575614929199
+        },
+        {
+          "word": " ya",
+          "start": 36.2,
+          "end": 36.32,
+          "probability": 0.9997846484184265
+        },
+        {
+          "word": " estuviera",
+          "start": 36.32,
+          "end": 36.64,
+          "probability": 0.9999405145645142
+        },
+        {
+          "word": " cansada",
+          "start": 36.64,
+          "end": 37.0,
+          "probability": 0.999661922454834
+        },
+        {
+          "word": " de",
+          "start": 37.0,
+          "end": 37.1,
+          "probability": 0.9999678134918213
+        },
+        {
+          "word": " estar",
+          "start": 37.1,
+          "end": 37.28,
+          "probability": 0.9999386072158813
+        },
+        {
+          "word": " ahí.",
+          "start": 37.28,
+          "end": 37.46,
+          "probability": 0.9983083009719849
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2442,
+      "start": 37.64,
+      "end": 39.12,
+      "text": " Dave estaba comiendo un bajel.",
+      "tokens": [
+        51028,
+        11017,
+        17544,
+        395,
+        7304,
+        517,
+        23589,
+        338,
+        13,
+        51101
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 37.64,
+          "end": 37.86,
+          "probability": 0.9943390488624573
+        },
+        {
+          "word": " estaba",
+          "start": 37.86,
+          "end": 38.2,
+          "probability": 0.9994569420814514
+        },
+        {
+          "word": " comiendo",
+          "start": 38.2,
+          "end": 38.62,
+          "probability": 0.9999464750289917
+        },
+        {
+          "word": " un",
+          "start": 38.62,
+          "end": 38.76,
+          "probability": 0.9998842477798462
+        },
+        {
+          "word": " bajel.",
+          "start": 38.76,
+          "end": 39.12,
+          "probability": 0.965116947889328
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2442,
+      "start": 39.26,
+      "end": 42.08,
+      "text": " Así que tú eres el que han enviado para hablar en nombre de tu especie.",
+      "tokens": [
+        51109,
+        17419,
+        631,
+        15056,
+        30065,
+        806,
+        631,
+        7276,
+        2267,
+        72,
+        1573,
+        1690,
+        21014,
+        465,
+        13000,
+        368,
+        2604,
+        49368,
+        13,
+        51248
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Así",
+          "start": 39.26,
+          "end": 39.48,
+          "probability": 0.8340152502059937
+        },
+        {
+          "word": " que",
+          "start": 39.48,
+          "end": 39.64,
+          "probability": 0.9999978542327881
+        },
+        {
+          "word": " tú",
+          "start": 39.64,
+          "end": 39.78,
+          "probability": 0.9992080330848694
+        },
+        {
+          "word": " eres",
+          "start": 39.78,
+          "end": 40.04,
+          "probability": 0.9998393058776855
+        },
+        {
+          "word": " el",
+          "start": 40.04,
+          "end": 40.26,
+          "probability": 0.9998083710670471
+        },
+        {
+          "word": " que",
+          "start": 40.26,
+          "end": 40.34,
+          "probability": 0.9998396635055542
+        },
+        {
+          "word": " han",
+          "start": 40.34,
+          "end": 40.44,
+          "probability": 0.9997327923774719
+        },
+        {
+          "word": " enviado",
+          "start": 40.44,
+          "end": 40.76,
+          "probability": 0.9999541441599528
+        },
+        {
+          "word": " para",
+          "start": 40.76,
+          "end": 40.94,
+          "probability": 0.9998505115509033
+        },
+        {
+          "word": " hablar",
+          "start": 40.94,
+          "end": 41.14,
+          "probability": 0.9998192191123962
+        },
+        {
+          "word": " en",
+          "start": 41.14,
+          "end": 41.3,
+          "probability": 0.9994602799415588
+        },
+        {
+          "word": " nombre",
+          "start": 41.3,
+          "end": 41.52,
+          "probability": 0.9999116659164429
+        },
+        {
+          "word": " de",
+          "start": 41.52,
+          "end": 41.64,
+          "probability": 0.9998782873153687
+        },
+        {
+          "word": " tu",
+          "start": 41.64,
+          "end": 41.74,
+          "probability": 0.9996944665908813
+        },
+        {
+          "word": " especie.",
+          "start": 41.74,
+          "end": 42.08,
+          "probability": 0.999789297580719
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2442,
+      "start": 42.24,
+      "end": 45.42,
+      "text": " La voz no salió de una boca, simplemente apareció dentro de su mente.",
+      "tokens": [
+        51258,
+        2369,
+        30005,
+        572,
+        1845,
+        7138,
+        368,
+        2002,
+        34624,
+        11,
+        33190,
+        15004,
+        19609,
+        10856,
+        368,
+        459,
+        26577,
+        13,
+        51416
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " La",
+          "start": 42.24,
+          "end": 42.38,
+          "probability": 0.9989373087882996
+        },
+        {
+          "word": " voz",
+          "start": 42.38,
+          "end": 42.56,
+          "probability": 0.9995957016944885
+        },
+        {
+          "word": " no",
+          "start": 42.56,
+          "end": 42.7,
+          "probability": 0.9999185800552368
+        },
+        {
+          "word": " salió",
+          "start": 42.7,
+          "end": 42.96,
+          "probability": 0.9999438524246216
+        },
+        {
+          "word": " de",
+          "start": 42.96,
+          "end": 43.06,
+          "probability": 0.9999439716339111
+        },
+        {
+          "word": " una",
+          "start": 43.06,
+          "end": 43.14,
+          "probability": 0.9998223185539246
+        },
+        {
+          "word": " boca,",
+          "start": 43.14,
+          "end": 43.38,
+          "probability": 0.9999740123748779
+        },
+        {
+          "word": " simplemente",
+          "start": 43.62,
+          "end": 44.1,
+          "probability": 0.9998871088027954
+        },
+        {
+          "word": " apareció",
+          "start": 44.1,
+          "end": 44.66,
+          "probability": 0.9998696744441986
+        },
+        {
+          "word": " dentro",
+          "start": 44.66,
+          "end": 44.9,
+          "probability": 0.9999103546142578
+        },
+        {
+          "word": " de",
+          "start": 44.9,
+          "end": 45.06,
+          "probability": 0.999962568283081
+        },
+        {
+          "word": " su",
+          "start": 45.06,
+          "end": 45.16,
+          "probability": 0.9997151494026184
+        },
+        {
+          "word": " mente.",
+          "start": 45.16,
+          "end": 45.42,
+          "probability": 0.999897837638855
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2442,
+      "start": 45.68,
+      "end": 49.26,
+      "text": " Tranquilo, soy el que perdió el sorteo, respondió Dave tragando. Bienvenido a la tierra.",
+      "tokens": [
+        51428,
+        42971,
+        358,
+        10720,
+        11,
+        8812,
+        806,
+        631,
+        680,
+        4504,
+        812,
+        806,
+        25559,
+        78,
+        11,
+        4196,
+        7138,
+        11017,
+        38282,
+        1806,
+        13,
+        16956,
+        553,
+        2925,
+        257,
+        635,
+        33416,
+        13,
+        51608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Tranquilo,",
+          "start": 45.68,
+          "end": 46.04,
+          "probability": 0.9960800409317017
+        },
+        {
+          "word": " soy",
+          "start": 46.1,
+          "end": 46.22,
+          "probability": 0.998502254486084
+        },
+        {
+          "word": " el",
+          "start": 46.22,
+          "end": 46.3,
+          "probability": 0.9999127388000488
+        },
+        {
+          "word": " que",
+          "start": 46.3,
+          "end": 46.36,
+          "probability": 0.9999314546585083
+        },
+        {
+          "word": " perdió",
+          "start": 46.36,
+          "end": 46.6,
+          "probability": 0.9997139970461527
+        },
+        {
+          "word": " el",
+          "start": 46.6,
+          "end": 46.7,
+          "probability": 0.9999160766601562
+        },
+        {
+          "word": " sorteo,",
+          "start": 46.7,
+          "end": 47.12,
+          "probability": 0.9999536275863647
+        },
+        {
+          "word": " respondió",
+          "start": 47.2,
+          "end": 47.54,
+          "probability": 0.9996029436588287
+        },
+        {
+          "word": " Dave",
+          "start": 47.54,
+          "end": 47.8,
+          "probability": 0.997548520565033
+        },
+        {
+          "word": " tragando.",
+          "start": 47.8,
+          "end": 48.26,
+          "probability": 0.9614042937755585
+        },
+        {
+          "word": " Bienvenido",
+          "start": 48.48,
+          "end": 48.84,
+          "probability": 0.9985627134641012
+        },
+        {
+          "word": " a",
+          "start": 48.84,
+          "end": 48.92,
+          "probability": 0.9999481439590454
+        },
+        {
+          "word": " la",
+          "start": 48.92,
+          "end": 49.0,
+          "probability": 0.9995118379592896
+        },
+        {
+          "word": " tierra.",
+          "start": 49.0,
+          "end": 49.26,
+          "probability": 0.9332008957862854
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2442,
+      "start": 49.44,
+      "end": 53.24,
+      "text": " Café, té, creo que hay jugo de naranja, pero no lo recomiendo, probablemente ya esté muerto.",
+      "tokens": [
+        51621,
+        46701,
+        526,
+        11,
+        19809,
+        11,
+        14336,
+        631,
+        4842,
+        9568,
+        78,
+        368,
+        6714,
+        48675,
+        11,
+        4768,
+        572,
+        450,
+        23334,
+        7304,
+        11,
+        21759,
+        4082,
+        2478,
+        34584,
+        2992,
+        13098,
+        13,
+        51806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0602759672570105,
+      "compression_ratio": 1.6584158415841583,
+      "no_speech_prob": 5.7660148357341345e-12,
+      "words": [
+        {
+          "word": " Café,",
+          "start": 49.44,
+          "end": 49.72,
+          "probability": 0.8890708982944489
+        },
+        {
+          "word": " té,",
+          "start": 49.86,
+          "end": 49.98,
+          "probability": 0.9985142350196838
+        },
+        {
+          "word": " creo",
+          "start": 50.14,
+          "end": 50.3,
+          "probability": 0.9989584684371948
+        },
+        {
+          "word": " que",
+          "start": 50.3,
+          "end": 50.44,
+          "probability": 0.9999667406082153
+        },
+        {
+          "word": " hay",
+          "start": 50.44,
+          "end": 50.54,
+          "probability": 0.9998623132705688
+        },
+        {
+          "word": " jugo",
+          "start": 50.54,
+          "end": 50.76,
+          "probability": 0.9996283054351807
+        },
+        {
+          "word": " de",
+          "start": 50.76,
+          "end": 50.8,
+          "probability": 0.9999783039093018
+        },
+        {
+          "word": " naranja,",
+          "start": 50.8,
+          "end": 51.12,
+          "probability": 0.9998008608818054
+        },
+        {
+          "word": " pero",
+          "start": 51.26,
+          "end": 51.32,
+          "probability": 0.9997603297233582
+        },
+        {
+          "word": " no",
+          "start": 51.32,
+          "end": 51.46,
+          "probability": 0.9998897314071655
+        },
+        {
+          "word": " lo",
+          "start": 51.46,
+          "end": 51.56,
+          "probability": 0.9997865557670593
+        },
+        {
+          "word": " recomiendo,",
+          "start": 51.56,
+          "end": 51.98,
+          "probability": 0.9998501241207123
+        },
+        {
+          "word": " probablemente",
+          "start": 52.08,
+          "end": 52.6,
+          "probability": 0.9996618926525116
+        },
+        {
+          "word": " ya",
+          "start": 52.6,
+          "end": 52.74,
+          "probability": 0.9997926354408264
+        },
+        {
+          "word": " esté",
+          "start": 52.74,
+          "end": 52.92,
+          "probability": 0.9986284971237183
+        },
+        {
+          "word": " muerto.",
+          "start": 52.92,
+          "end": 53.24,
+          "probability": 0.9998351633548737
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5324,
+      "start": 53.24,
+      "end": 58.16,
+      "text": " La criatura lo observó, o al menos eso parecía. Dave ni siquiera estaba seguro de dónde estaban sus ojos.",
+      "tokens": [
+        50365,
+        2369,
+        12815,
+        19660,
+        450,
+        9951,
+        812,
+        11,
+        277,
+        419,
+        8902,
+        7287,
+        7448,
+        31298,
+        13,
+        11017,
+        3867,
+        1511,
+        35134,
+        17544,
+        31424,
+        368,
+        34264,
+        36713,
+        3291,
+        39519,
+        13,
+        50612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " La",
+          "start": 53.24,
+          "end": 53.52,
+          "probability": 0.960397481918335
+        },
+        {
+          "word": " criatura",
+          "start": 53.52,
+          "end": 53.9,
+          "probability": 0.999802440404892
+        },
+        {
+          "word": " lo",
+          "start": 53.9,
+          "end": 54.04,
+          "probability": 0.999687910079956
+        },
+        {
+          "word": " observó,",
+          "start": 54.04,
+          "end": 54.46,
+          "probability": 0.9999013543128967
+        },
+        {
+          "word": " o",
+          "start": 54.58,
+          "end": 54.68,
+          "probability": 0.9998444318771362
+        },
+        {
+          "word": " al",
+          "start": 54.68,
+          "end": 54.82,
+          "probability": 0.9999607801437378
+        },
+        {
+          "word": " menos",
+          "start": 54.82,
+          "end": 55.0,
+          "probability": 0.9999456405639648
+        },
+        {
+          "word": " eso",
+          "start": 55.0,
+          "end": 55.22,
+          "probability": 0.9997814297676086
+        },
+        {
+          "word": " parecía.",
+          "start": 55.22,
+          "end": 55.66,
+          "probability": 0.9997309744358063
+        },
+        {
+          "word": " Dave",
+          "start": 55.94,
+          "end": 56.08,
+          "probability": 0.46127575635910034
+        },
+        {
+          "word": " ni",
+          "start": 56.08,
+          "end": 56.22,
+          "probability": 0.9992578625679016
+        },
+        {
+          "word": " siquiera",
+          "start": 56.22,
+          "end": 56.52,
+          "probability": 0.999880313873291
+        },
+        {
+          "word": " estaba",
+          "start": 56.52,
+          "end": 56.8,
+          "probability": 0.9998641014099121
+        },
+        {
+          "word": " seguro",
+          "start": 56.8,
+          "end": 57.1,
+          "probability": 0.9995655417442322
+        },
+        {
+          "word": " de",
+          "start": 57.1,
+          "end": 57.24,
+          "probability": 0.9999842643737793
+        },
+        {
+          "word": " dónde",
+          "start": 57.24,
+          "end": 57.4,
+          "probability": 0.9896652102470398
+        },
+        {
+          "word": " estaban",
+          "start": 57.4,
+          "end": 57.72,
+          "probability": 0.9998974800109863
+        },
+        {
+          "word": " sus",
+          "start": 57.72,
+          "end": 57.9,
+          "probability": 0.9998559951782227
+        },
+        {
+          "word": " ojos.",
+          "start": 57.9,
+          "end": 58.16,
+          "probability": 0.9999498128890991
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5324,
+      "start": 58.38,
+      "end": 61.32,
+      "text": " Soy el embajador Siltok, el ansioso, de la concordancia unificada.",
+      "tokens": [
+        50624,
+        24758,
+        806,
+        4605,
+        1805,
+        5409,
+        318,
+        2352,
+        453,
+        11,
+        806,
+        1567,
+        23540,
+        11,
+        368,
+        635,
+        1588,
+        8968,
+        2755,
+        517,
+        1089,
+        1538,
+        13,
+        50770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " Soy",
+          "start": 58.38,
+          "end": 58.56,
+          "probability": 0.7945169806480408
+        },
+        {
+          "word": " el",
+          "start": 58.56,
+          "end": 58.66,
+          "probability": 0.99981290102005
+        },
+        {
+          "word": " embajador",
+          "start": 58.66,
+          "end": 59.06,
+          "probability": 0.9919607639312744
+        },
+        {
+          "word": " Siltok,",
+          "start": 59.06,
+          "end": 59.42,
+          "probability": 0.8918951352437338
+        },
+        {
+          "word": " el",
+          "start": 59.52,
+          "end": 59.6,
+          "probability": 0.9982390403747559
+        },
+        {
+          "word": " ansioso,",
+          "start": 59.6,
+          "end": 60.02,
+          "probability": 0.9925487041473389
+        },
+        {
+          "word": " de",
+          "start": 60.12,
+          "end": 60.26,
+          "probability": 0.9998513460159302
+        },
+        {
+          "word": " la",
+          "start": 60.26,
+          "end": 60.34,
+          "probability": 0.9894905686378479
+        },
+        {
+          "word": " concordancia",
+          "start": 60.34,
+          "end": 60.84,
+          "probability": 0.9549109141031901
+        },
+        {
+          "word": " unificada.",
+          "start": 60.84,
+          "end": 61.32,
+          "probability": 0.9998656511306763
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5324,
+      "start": 61.46,
+      "end": 65.0,
+      "text": " Dave, solo Dave, el ansioso, vaya título, primer contacto te pone nervioso.",
+      "tokens": [
+        50778,
+        11017,
+        11,
+        6944,
+        11017,
+        11,
+        806,
+        1567,
+        23540,
+        11,
+        47682,
+        43399,
+        11,
+        12595,
+        3385,
+        78,
+        535,
+        40192,
+        5724,
+        23540,
+        13,
+        50954
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " Dave,",
+          "start": 61.46,
+          "end": 61.66,
+          "probability": 0.9580639600753784
+        },
+        {
+          "word": " solo",
+          "start": 61.8,
+          "end": 61.9,
+          "probability": 0.9072207808494568
+        },
+        {
+          "word": " Dave,",
+          "start": 61.9,
+          "end": 62.16,
+          "probability": 0.9930192828178406
+        },
+        {
+          "word": " el",
+          "start": 62.32,
+          "end": 62.44,
+          "probability": 0.9980936646461487
+        },
+        {
+          "word": " ansioso,",
+          "start": 62.44,
+          "end": 62.88,
+          "probability": 0.9999600648880005
+        },
+        {
+          "word": " vaya",
+          "start": 63.06,
+          "end": 63.24,
+          "probability": 0.998735249042511
+        },
+        {
+          "word": " título,",
+          "start": 63.24,
+          "end": 63.52,
+          "probability": 0.9985048770904541
+        },
+        {
+          "word": " primer",
+          "start": 63.68,
+          "end": 63.84,
+          "probability": 0.9964004755020142
+        },
+        {
+          "word": " contacto",
+          "start": 63.84,
+          "end": 64.3,
+          "probability": 0.9999527931213379
+        },
+        {
+          "word": " te",
+          "start": 64.3,
+          "end": 64.4,
+          "probability": 0.931490957736969
+        },
+        {
+          "word": " pone",
+          "start": 64.4,
+          "end": 64.56,
+          "probability": 0.99944669008255
+        },
+        {
+          "word": " nervioso.",
+          "start": 64.56,
+          "end": 65.0,
+          "probability": 0.9999514818191528
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5324,
+      "start": 65.22,
+      "end": 68.74,
+      "text": " Siltok emitió una serie de chasquidos mentales que transmitían puro agotamiento.",
+      "tokens": [
+        50965,
+        318,
+        2352,
+        453,
+        32084,
+        7138,
+        2002,
+        23030,
+        368,
+        417,
+        296,
+        358,
+        7895,
+        3074,
+        4229,
+        631,
+        17831,
+        11084,
+        2362,
+        340,
+        623,
+        310,
+        16971,
+        13,
+        51141
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " Siltok",
+          "start": 65.22,
+          "end": 65.56,
+          "probability": 0.9988781412442526
+        },
+        {
+          "word": " emitió",
+          "start": 65.56,
+          "end": 65.86,
+          "probability": 0.9997956156730652
+        },
+        {
+          "word": " una",
+          "start": 65.86,
+          "end": 65.98,
+          "probability": 0.9999643564224243
+        },
+        {
+          "word": " serie",
+          "start": 65.98,
+          "end": 66.2,
+          "probability": 0.9999690055847168
+        },
+        {
+          "word": " de",
+          "start": 66.2,
+          "end": 66.3,
+          "probability": 0.9999963045120239
+        },
+        {
+          "word": " chasquidos",
+          "start": 66.3,
+          "end": 66.7,
+          "probability": 0.9995423406362534
+        },
+        {
+          "word": " mentales",
+          "start": 66.7,
+          "end": 67.14,
+          "probability": 0.9999079704284668
+        },
+        {
+          "word": " que",
+          "start": 67.14,
+          "end": 67.44,
+          "probability": 0.980114758014679
+        },
+        {
+          "word": " transmitían",
+          "start": 67.44,
+          "end": 67.98,
+          "probability": 0.9999391436576843
+        },
+        {
+          "word": " puro",
+          "start": 67.98,
+          "end": 68.24,
+          "probability": 0.9999107718467712
+        },
+        {
+          "word": " agotamiento.",
+          "start": 68.24,
+          "end": 68.74,
+          "probability": 0.9999674161275228
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5324,
+      "start": 68.94,
+      "end": 69.76,
+      "text": " No tienes idea.",
+      "tokens": [
+        51154,
+        883,
+        20716,
+        1558,
+        13,
+        51192
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " No",
+          "start": 68.94,
+          "end": 69.14,
+          "probability": 0.9816447496414185
+        },
+        {
+          "word": " tienes",
+          "start": 69.14,
+          "end": 69.46,
+          "probability": 0.9995923638343811
+        },
+        {
+          "word": " idea.",
+          "start": 69.46,
+          "end": 69.76,
+          "probability": 0.9999109506607056
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5324,
+      "start": 69.94,
+      "end": 74.86,
+      "text": " Se sentaron en la sala de conferencias. Bueno, Dave se sentó. Siltok flotó en una esquina, suspendido en el aire.",
+      "tokens": [
+        51203,
+        1100,
+        2279,
+        6372,
+        465,
+        635,
+        37596,
+        368,
+        13765,
+        37246,
+        13,
+        16046,
+        11,
+        11017,
+        369,
+        2279,
+        812,
+        13,
+        318,
+        2352,
+        453,
+        932,
+        310,
+        812,
+        465,
+        2002,
+        34611,
+        1426,
+        11,
+        42546,
+        2925,
+        465,
+        806,
+        42885,
+        13,
+        51446
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " Se",
+          "start": 69.94,
+          "end": 70.1,
+          "probability": 0.9994076490402222
+        },
+        {
+          "word": " sentaron",
+          "start": 70.1,
+          "end": 70.44,
+          "probability": 0.9999123811721802
+        },
+        {
+          "word": " en",
+          "start": 70.44,
+          "end": 70.54,
+          "probability": 0.9999698400497437
+        },
+        {
+          "word": " la",
+          "start": 70.54,
+          "end": 70.62,
+          "probability": 0.9999724626541138
+        },
+        {
+          "word": " sala",
+          "start": 70.62,
+          "end": 70.8,
+          "probability": 0.9999847412109375
+        },
+        {
+          "word": " de",
+          "start": 70.8,
+          "end": 70.9,
+          "probability": 0.9999942779541016
+        },
+        {
+          "word": " conferencias.",
+          "start": 70.9,
+          "end": 71.46,
+          "probability": 0.9998981952667236
+        },
+        {
+          "word": " Bueno,",
+          "start": 71.7,
+          "end": 71.92,
+          "probability": 0.9994858503341675
+        },
+        {
+          "word": " Dave",
+          "start": 72.0,
+          "end": 72.14,
+          "probability": 0.997046172618866
+        },
+        {
+          "word": " se",
+          "start": 72.14,
+          "end": 72.34,
+          "probability": 0.9995453953742981
+        },
+        {
+          "word": " sentó.",
+          "start": 72.34,
+          "end": 72.64,
+          "probability": 0.9999207854270935
+        },
+        {
+          "word": " Siltok",
+          "start": 72.88,
+          "end": 73.14,
+          "probability": 0.9998544255892435
+        },
+        {
+          "word": " flotó",
+          "start": 73.14,
+          "end": 73.44,
+          "probability": 0.9997976422309875
+        },
+        {
+          "word": " en",
+          "start": 73.44,
+          "end": 73.54,
+          "probability": 0.9999213218688965
+        },
+        {
+          "word": " una",
+          "start": 73.54,
+          "end": 73.64,
+          "probability": 0.9999476671218872
+        },
+        {
+          "word": " esquina,",
+          "start": 73.64,
+          "end": 73.94,
+          "probability": 0.9999587535858154
+        },
+        {
+          "word": " suspendido",
+          "start": 74.1,
+          "end": 74.5,
+          "probability": 0.9998790919780731
+        },
+        {
+          "word": " en",
+          "start": 74.5,
+          "end": 74.58,
+          "probability": 0.9999456405639648
+        },
+        {
+          "word": " el",
+          "start": 74.58,
+          "end": 74.66,
+          "probability": 0.9999464750289917
+        },
+        {
+          "word": " aire.",
+          "start": 74.66,
+          "end": 74.86,
+          "probability": 0.9999244213104248
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5324,
+      "start": 75.06,
+      "end": 77.2,
+      "text": " Detrás de un vidrio, humanos observaban en silencio.",
+      "tokens": [
+        51459,
+        4237,
+        17168,
+        368,
+        517,
+        7217,
+        6584,
+        11,
+        34555,
+        9951,
+        18165,
+        465,
+        3425,
+        268,
+        8529,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " Detrás",
+          "start": 75.06,
+          "end": 75.3,
+          "probability": 0.9986419379711151
+        },
+        {
+          "word": " de",
+          "start": 75.3,
+          "end": 75.4,
+          "probability": 0.9999746084213257
+        },
+        {
+          "word": " un",
+          "start": 75.4,
+          "end": 75.46,
+          "probability": 0.9999570846557617
+        },
+        {
+          "word": " vidrio,",
+          "start": 75.46,
+          "end": 75.74,
+          "probability": 0.9996787309646606
+        },
+        {
+          "word": " humanos",
+          "start": 75.9,
+          "end": 76.14,
+          "probability": 0.9984011054039001
+        },
+        {
+          "word": " observaban",
+          "start": 76.14,
+          "end": 76.66,
+          "probability": 0.9998520910739899
+        },
+        {
+          "word": " en",
+          "start": 76.66,
+          "end": 76.76,
+          "probability": 0.9996411800384521
+        },
+        {
+          "word": " silencio.",
+          "start": 76.76,
+          "end": 77.2,
+          "probability": 0.9998388687769572
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5324,
+      "start": 77.38,
+      "end": 81.76,
+      "text": " El general Thompson ya iba por su tercer café. Alguien murmuraba, no puede ser, una y otra vez.",
+      "tokens": [
+        51581,
+        2699,
+        2674,
+        23460,
+        2478,
+        33423,
+        1515,
+        459,
+        38103,
+        25118,
+        13,
+        967,
+        2794,
+        1053,
+        39729,
+        374,
+        5509,
+        11,
+        572,
+        8919,
+        816,
+        11,
+        2002,
+        288,
+        13623,
+        5715,
+        13,
+        51792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07222521051447442,
+      "compression_ratio": 1.6135770234986946,
+      "no_speech_prob": 1.0385389596911931e-11,
+      "words": [
+        {
+          "word": " El",
+          "start": 77.38,
+          "end": 77.64,
+          "probability": 0.9996320009231567
+        },
+        {
+          "word": " general",
+          "start": 77.64,
+          "end": 77.88,
+          "probability": 0.968573272228241
+        },
+        {
+          "word": " Thompson",
+          "start": 77.88,
+          "end": 78.16,
+          "probability": 0.9980674386024475
+        },
+        {
+          "word": " ya",
+          "start": 78.16,
+          "end": 78.4,
+          "probability": 0.9999053478240967
+        },
+        {
+          "word": " iba",
+          "start": 78.4,
+          "end": 78.54,
+          "probability": 0.999646782875061
+        },
+        {
+          "word": " por",
+          "start": 78.54,
+          "end": 78.68,
+          "probability": 0.9998769760131836
+        },
+        {
+          "word": " su",
+          "start": 78.68,
+          "end": 78.82,
+          "probability": 0.9999229907989502
+        },
+        {
+          "word": " tercer",
+          "start": 78.82,
+          "end": 79.06,
+          "probability": 0.999514102935791
+        },
+        {
+          "word": " café.",
+          "start": 79.06,
+          "end": 79.36,
+          "probability": 0.9996465444564819
+        },
+        {
+          "word": " Alguien",
+          "start": 79.7,
+          "end": 79.94,
+          "probability": 0.9994767904281616
+        },
+        {
+          "word": " murmuraba,",
+          "start": 79.94,
+          "end": 80.4,
+          "probability": 0.9998019337654114
+        },
+        {
+          "word": " no",
+          "start": 80.48,
+          "end": 80.6,
+          "probability": 0.9948588609695435
+        },
+        {
+          "word": " puede",
+          "start": 80.6,
+          "end": 80.8,
+          "probability": 0.987031877040863
+        },
+        {
+          "word": " ser,",
+          "start": 80.8,
+          "end": 81.06,
+          "probability": 0.9999390840530396
+        },
+        {
+          "word": " una",
+          "start": 81.22,
+          "end": 81.32,
+          "probability": 0.999742329120636
+        },
+        {
+          "word": " y",
+          "start": 81.32,
+          "end": 81.42,
+          "probability": 0.9998878240585327
+        },
+        {
+          "word": " otra",
+          "start": 81.42,
+          "end": 81.56,
+          "probability": 0.9999099969863892
+        },
+        {
+          "word": " vez.",
+          "start": 81.56,
+          "end": 81.76,
+          "probability": 0.9997448325157166
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8176,
+      "start": 81.76,
+      "end": 85.04,
+      "text": " Siltok desplegó un dispositivo. Un mapa estelar apareció entre ellos.",
+      "tokens": [
+        50365,
+        318,
+        2352,
+        453,
+        730,
+        781,
+        70,
+        812,
+        517,
+        34769,
+        6340,
+        13,
+        1156,
+        44025,
+        871,
+        338,
+        289,
+        15004,
+        19609,
+        3962,
+        16353,
+        13,
+        50530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Siltok",
+          "start": 81.76,
+          "end": 82.28,
+          "probability": 0.6868471403916677
+        },
+        {
+          "word": " desplegó",
+          "start": 82.28,
+          "end": 82.68,
+          "probability": 0.9975138008594513
+        },
+        {
+          "word": " un",
+          "start": 82.68,
+          "end": 82.78,
+          "probability": 0.9995973706245422
+        },
+        {
+          "word": " dispositivo.",
+          "start": 82.78,
+          "end": 83.36,
+          "probability": 0.9999462366104126
+        },
+        {
+          "word": " Un",
+          "start": 83.64,
+          "end": 83.72,
+          "probability": 0.9992091059684753
+        },
+        {
+          "word": " mapa",
+          "start": 83.72,
+          "end": 83.9,
+          "probability": 0.9999423027038574
+        },
+        {
+          "word": " estelar",
+          "start": 83.9,
+          "end": 84.24,
+          "probability": 0.9997413158416748
+        },
+        {
+          "word": " apareció",
+          "start": 84.24,
+          "end": 84.6,
+          "probability": 0.9998264610767365
+        },
+        {
+          "word": " entre",
+          "start": 84.6,
+          "end": 84.76,
+          "probability": 0.999735414981842
+        },
+        {
+          "word": " ellos.",
+          "start": 84.76,
+          "end": 85.04,
+          "probability": 0.999887228012085
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8176,
+      "start": 85.32,
+      "end": 89.7,
+      "text": " Interceptamos una señal hace 173 de sus años, proveniente de su sistema solar.",
+      "tokens": [
+        50545,
+        5751,
+        1336,
+        2151,
+        2002,
+        13830,
+        304,
+        10032,
+        3282,
+        18,
+        368,
+        3291,
+        11424,
+        11,
+        12785,
+        8413,
+        368,
+        459,
+        13245,
+        7936,
+        13,
+        50763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Interceptamos",
+          "start": 85.32,
+          "end": 85.8,
+          "probability": 0.978562573591868
+        },
+        {
+          "word": " una",
+          "start": 85.8,
+          "end": 85.96,
+          "probability": 0.9998190999031067
+        },
+        {
+          "word": " señal",
+          "start": 85.96,
+          "end": 86.34,
+          "probability": 0.999941885471344
+        },
+        {
+          "word": " hace",
+          "start": 86.34,
+          "end": 86.62,
+          "probability": 0.8857229948043823
+        },
+        {
+          "word": " 173",
+          "start": 86.62,
+          "end": 87.42,
+          "probability": 0.8889396786689758
+        },
+        {
+          "word": " de",
+          "start": 87.42,
+          "end": 87.68,
+          "probability": 0.9976385831832886
+        },
+        {
+          "word": " sus",
+          "start": 87.68,
+          "end": 87.82,
+          "probability": 0.9995208978652954
+        },
+        {
+          "word": " años,",
+          "start": 87.82,
+          "end": 88.12,
+          "probability": 0.9999213218688965
+        },
+        {
+          "word": " proveniente",
+          "start": 88.42,
+          "end": 88.84,
+          "probability": 0.9997434020042419
+        },
+        {
+          "word": " de",
+          "start": 88.84,
+          "end": 88.96,
+          "probability": 0.9999781847000122
+        },
+        {
+          "word": " su",
+          "start": 88.96,
+          "end": 89.08,
+          "probability": 0.9994046688079834
+        },
+        {
+          "word": " sistema",
+          "start": 89.08,
+          "end": 89.38,
+          "probability": 0.9846409559249878
+        },
+        {
+          "word": " solar.",
+          "start": 89.38,
+          "end": 89.7,
+          "probability": 0.9998792409896851
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8176,
+      "start": 89.92,
+      "end": 90.92,
+      "text": " Ah, lo de Voyager no.",
+      "tokens": [
+        50776,
+        2438,
+        11,
+        450,
+        368,
+        25563,
+        3557,
+        572,
+        13,
+        50825
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 89.92,
+          "end": 90.1,
+          "probability": 0.3881412744522095
+        },
+        {
+          "word": " lo",
+          "start": 90.14,
+          "end": 90.2,
+          "probability": 0.9973813891410828
+        },
+        {
+          "word": " de",
+          "start": 90.2,
+          "end": 90.32,
+          "probability": 0.999675989151001
+        },
+        {
+          "word": " Voyager",
+          "start": 90.32,
+          "end": 90.72,
+          "probability": 0.9667592644691467
+        },
+        {
+          "word": " no.",
+          "start": 90.72,
+          "end": 90.92,
+          "probability": 0.9416252374649048
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8176,
+      "start": 91.12,
+      "end": 93.04,
+      "text": " Siltok se quedó completamente inmóvil.",
+      "tokens": [
+        50836,
+        318,
+        2352,
+        453,
+        369,
+        13617,
+        812,
+        28381,
+        41052,
+        812,
+        20202,
+        13,
+        50930
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Siltok",
+          "start": 91.12,
+          "end": 91.54,
+          "probability": 0.9989328185717264
+        },
+        {
+          "word": " se",
+          "start": 91.54,
+          "end": 91.72,
+          "probability": 0.9998476505279541
+        },
+        {
+          "word": " quedó",
+          "start": 91.72,
+          "end": 91.96,
+          "probability": 0.999972403049469
+        },
+        {
+          "word": " completamente",
+          "start": 91.96,
+          "end": 92.52,
+          "probability": 0.9997827410697937
+        },
+        {
+          "word": " inmóvil.",
+          "start": 92.52,
+          "end": 93.04,
+          "probability": 0.9997620781262716
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8176,
+      "start": 93.2,
+      "end": 97.78,
+      "text": " Lo sabían. Claro, la enviamos nosotros. Música, matemáticas, ubicación, un paquete de bienvenida.",
+      "tokens": [
+        50941,
+        6130,
+        5560,
+        11084,
+        13,
+        33380,
+        11,
+        635,
+        2267,
+        72,
+        2151,
+        13863,
+        13,
+        376,
+        14372,
+        11,
+        3803,
+        443,
+        44997,
+        11,
+        26709,
+        299,
+        3482,
+        11,
+        517,
+        2502,
+        358,
+        3498,
+        368,
+        3610,
+        553,
+        2887,
+        13,
+        51167
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Lo",
+          "start": 93.2,
+          "end": 93.36,
+          "probability": 0.839942455291748
+        },
+        {
+          "word": " sabían.",
+          "start": 93.36,
+          "end": 93.8,
+          "probability": 0.99977046251297
+        },
+        {
+          "word": " Claro,",
+          "start": 93.96,
+          "end": 94.24,
+          "probability": 0.9940299987792969
+        },
+        {
+          "word": " la",
+          "start": 94.34,
+          "end": 94.44,
+          "probability": 0.9996199607849121
+        },
+        {
+          "word": " enviamos",
+          "start": 94.44,
+          "end": 94.76,
+          "probability": 0.9998518427213033
+        },
+        {
+          "word": " nosotros.",
+          "start": 94.76,
+          "end": 95.18,
+          "probability": 0.9997449517250061
+        },
+        {
+          "word": " Música,",
+          "start": 95.42,
+          "end": 95.76,
+          "probability": 0.9950634837150574
+        },
+        {
+          "word": " matemáticas,",
+          "start": 95.86,
+          "end": 96.3,
+          "probability": 0.9986075758934021
+        },
+        {
+          "word": " ubicación,",
+          "start": 96.38,
+          "end": 96.8,
+          "probability": 0.9998471140861511
+        },
+        {
+          "word": " un",
+          "start": 96.9,
+          "end": 96.98,
+          "probability": 0.9998123049736023
+        },
+        {
+          "word": " paquete",
+          "start": 96.98,
+          "end": 97.26,
+          "probability": 0.9999327262242635
+        },
+        {
+          "word": " de",
+          "start": 97.26,
+          "end": 97.36,
+          "probability": 0.9999902248382568
+        },
+        {
+          "word": " bienvenida.",
+          "start": 97.36,
+          "end": 97.78,
+          "probability": 0.9988538225491842
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8176,
+      "start": 98.12,
+      "end": 102.04,
+      "text": " Estábamos en una etapa optimista. Enviaron sus coordenadas exactas a toda la galaxia.",
+      "tokens": [
+        51182,
+        27304,
+        65,
+        2151,
+        465,
+        2002,
+        1030,
+        7961,
+        5028,
+        5236,
+        13,
+        2193,
+        4917,
+        6372,
+        3291,
+        14230,
+        268,
+        6872,
+        1900,
+        296,
+        257,
+        11687,
+        635,
+        26285,
+        654,
+        13,
+        51380
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Estábamos",
+          "start": 98.12,
+          "end": 98.48,
+          "probability": 0.9977649648984274
+        },
+        {
+          "word": " en",
+          "start": 98.48,
+          "end": 98.64,
+          "probability": 0.9999418258666992
+        },
+        {
+          "word": " una",
+          "start": 98.64,
+          "end": 98.76,
+          "probability": 0.9999382495880127
+        },
+        {
+          "word": " etapa",
+          "start": 98.76,
+          "end": 98.98,
+          "probability": 0.999809980392456
+        },
+        {
+          "word": " optimista.",
+          "start": 98.98,
+          "end": 99.5,
+          "probability": 0.9999316930770874
+        },
+        {
+          "word": " Enviaron",
+          "start": 99.66,
+          "end": 100.02,
+          "probability": 0.9996207356452942
+        },
+        {
+          "word": " sus",
+          "start": 100.02,
+          "end": 100.22,
+          "probability": 0.9999476671218872
+        },
+        {
+          "word": " coordenadas",
+          "start": 100.22,
+          "end": 100.7,
+          "probability": 0.9998396436373392
+        },
+        {
+          "word": " exactas",
+          "start": 100.7,
+          "end": 101.2,
+          "probability": 0.9999222755432129
+        },
+        {
+          "word": " a",
+          "start": 101.2,
+          "end": 101.36,
+          "probability": 0.9998774528503418
+        },
+        {
+          "word": " toda",
+          "start": 101.36,
+          "end": 101.54,
+          "probability": 0.9999233484268188
+        },
+        {
+          "word": " la",
+          "start": 101.54,
+          "end": 101.66,
+          "probability": 0.9999710321426392
+        },
+        {
+          "word": " galaxia.",
+          "start": 101.66,
+          "end": 102.04,
+          "probability": 0.9999245405197144
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8176,
+      "start": 102.24,
+      "end": 104.3,
+      "text": " Dicho así suena mal, porque EAS es terrible.",
+      "tokens": [
+        51393,
+        413,
+        33082,
+        8582,
+        459,
+        4118,
+        2806,
+        11,
+        4021,
+        462,
+        3160,
+        785,
+        6237,
+        13,
+        51495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1242280855570754,
+      "compression_ratio": 1.4754098360655739,
+      "no_speech_prob": 1.1111427750121194e-11,
+      "words": [
+        {
+          "word": " Dicho",
+          "start": 102.24,
+          "end": 102.48,
+          "probability": 0.9992976188659668
+        },
+        {
+          "word": " así",
+          "start": 102.48,
+          "end": 102.68,
+          "probability": 0.9998703002929688
+        },
+        {
+          "word": " suena",
+          "start": 102.68,
+          "end": 102.94,
+          "probability": 0.979147344827652
+        },
+        {
+          "word": " mal,",
+          "start": 102.94,
+          "end": 103.18,
+          "probability": 0.9999483823776245
+        },
+        {
+          "word": " porque",
+          "start": 103.32,
+          "end": 103.6,
+          "probability": 0.9969377517700195
+        },
+        {
+          "word": " EAS",
+          "start": 103.6,
+          "end": 103.94,
+          "probability": 0.395343080163002
+        },
+        {
+          "word": " es",
+          "start": 103.94,
+          "end": 104.02,
+          "probability": 0.1862572282552719
+        },
+        {
+          "word": " terrible.",
+          "start": 104.02,
+          "end": 104.3,
+          "probability": 0.9993624091148376
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 10430,
+      "start": 104.3,
+      "end": 106.86,
+      "text": " La voz de Siltok se quebró dentro de la mente de Dave.",
+      "tokens": [
+        50365,
+        2369,
+        30005,
+        368,
+        318,
+        2352,
+        453,
+        369,
+        631,
+        1443,
+        812,
+        10856,
+        368,
+        635,
+        26577,
+        368,
+        11017,
+        13,
+        50495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " La",
+          "start": 104.3,
+          "end": 104.7,
+          "probability": 0.9032492637634277
+        },
+        {
+          "word": " voz",
+          "start": 104.7,
+          "end": 104.88,
+          "probability": 0.9992849230766296
+        },
+        {
+          "word": " de",
+          "start": 104.88,
+          "end": 105.02,
+          "probability": 0.9995747208595276
+        },
+        {
+          "word": " Siltok",
+          "start": 105.02,
+          "end": 105.34,
+          "probability": 0.9271547794342041
+        },
+        {
+          "word": " se",
+          "start": 105.34,
+          "end": 105.52,
+          "probability": 0.998267650604248
+        },
+        {
+          "word": " quebró",
+          "start": 105.52,
+          "end": 105.88,
+          "probability": 0.9997381965319315
+        },
+        {
+          "word": " dentro",
+          "start": 105.88,
+          "end": 106.16,
+          "probability": 0.9991576671600342
+        },
+        {
+          "word": " de",
+          "start": 106.16,
+          "end": 106.3,
+          "probability": 0.9998072981834412
+        },
+        {
+          "word": " la",
+          "start": 106.3,
+          "end": 106.36,
+          "probability": 0.9995550513267517
+        },
+        {
+          "word": " mente",
+          "start": 106.36,
+          "end": 106.56,
+          "probability": 0.9998396635055542
+        },
+        {
+          "word": " de",
+          "start": 106.56,
+          "end": 106.7,
+          "probability": 0.9995424747467041
+        },
+        {
+          "word": " Dave.",
+          "start": 106.7,
+          "end": 106.86,
+          "probability": 0.6472284197807312
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 10430,
+      "start": 107.2,
+      "end": 111.02,
+      "text": " Han marcado a su especie como objetivo. Es una invitación abierta a su propia extinción.",
+      "tokens": [
+        50495,
+        7820,
+        1849,
+        27713,
+        257,
+        459,
+        49368,
+        2617,
+        29809,
+        13,
+        2313,
+        2002,
+        43714,
+        3482,
+        410,
+        811,
+        1328,
+        257,
+        459,
+        40464,
+        1279,
+        259,
+        5687,
+        13,
+        50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Han",
+          "start": 107.2,
+          "end": 107.2,
+          "probability": 0.4791201949119568
+        },
+        {
+          "word": " marcado",
+          "start": 107.2,
+          "end": 107.54,
+          "probability": 0.9994769990444183
+        },
+        {
+          "word": " a",
+          "start": 107.54,
+          "end": 107.62,
+          "probability": 0.9998869895935059
+        },
+        {
+          "word": " su",
+          "start": 107.62,
+          "end": 107.72,
+          "probability": 0.9999270439147949
+        },
+        {
+          "word": " especie",
+          "start": 107.72,
+          "end": 108.04,
+          "probability": 0.9999183416366577
+        },
+        {
+          "word": " como",
+          "start": 108.04,
+          "end": 108.26,
+          "probability": 0.9997091889381409
+        },
+        {
+          "word": " objetivo.",
+          "start": 108.26,
+          "end": 108.66,
+          "probability": 0.999708354473114
+        },
+        {
+          "word": " Es",
+          "start": 108.94,
+          "end": 109.14,
+          "probability": 0.9991948008537292
+        },
+        {
+          "word": " una",
+          "start": 109.14,
+          "end": 109.28,
+          "probability": 0.9999363422393799
+        },
+        {
+          "word": " invitación",
+          "start": 109.28,
+          "end": 109.74,
+          "probability": 0.9999163746833801
+        },
+        {
+          "word": " abierta",
+          "start": 109.74,
+          "end": 110.12,
+          "probability": 0.9999585151672363
+        },
+        {
+          "word": " a",
+          "start": 110.12,
+          "end": 110.2,
+          "probability": 0.9999685287475586
+        },
+        {
+          "word": " su",
+          "start": 110.2,
+          "end": 110.3,
+          "probability": 0.9999667406082153
+        },
+        {
+          "word": " propia",
+          "start": 110.3,
+          "end": 110.54,
+          "probability": 0.9999061822891235
+        },
+        {
+          "word": " extinción.",
+          "start": 110.54,
+          "end": 111.02,
+          "probability": 0.9996073047320048
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 10430,
+      "start": 111.22,
+      "end": 114.1,
+      "text": " Estábamos solos, Ock. La galaxia es enorme, uno se siente vacío.",
+      "tokens": [
+        50712,
+        27304,
+        65,
+        2151,
+        1404,
+        329,
+        11,
+        422,
+        547,
+        13,
+        2369,
+        26285,
+        654,
+        785,
+        33648,
+        11,
+        8526,
+        369,
+        262,
+        8413,
+        2842,
+        20492,
+        13,
+        50856
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Estábamos",
+          "start": 111.22,
+          "end": 111.62,
+          "probability": 0.9912100831667582
+        },
+        {
+          "word": " solos,",
+          "start": 111.62,
+          "end": 111.92,
+          "probability": 0.9998398423194885
+        },
+        {
+          "word": " Ock.",
+          "start": 111.96,
+          "end": 112.12,
+          "probability": 0.5652832388877869
+        },
+        {
+          "word": " La",
+          "start": 112.24,
+          "end": 112.38,
+          "probability": 0.9996932744979858
+        },
+        {
+          "word": " galaxia",
+          "start": 112.38,
+          "end": 112.72,
+          "probability": 0.9999240040779114
+        },
+        {
+          "word": " es",
+          "start": 112.72,
+          "end": 112.86,
+          "probability": 0.9994410872459412
+        },
+        {
+          "word": " enorme,",
+          "start": 112.86,
+          "end": 113.12,
+          "probability": 0.9999656677246094
+        },
+        {
+          "word": " uno",
+          "start": 113.2,
+          "end": 113.32,
+          "probability": 0.9985647797584534
+        },
+        {
+          "word": " se",
+          "start": 113.32,
+          "end": 113.5,
+          "probability": 0.9999418258666992
+        },
+        {
+          "word": " siente",
+          "start": 113.5,
+          "end": 113.72,
+          "probability": 0.9998076260089874
+        },
+        {
+          "word": " vacío.",
+          "start": 113.72,
+          "end": 114.1,
+          "probability": 0.9999377727508545
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 10430,
+      "start": 114.24,
+      "end": 116.36,
+      "text": " Se sintieron solos y anunciaron su ubicación.",
+      "tokens": [
+        50866,
+        1100,
+        41259,
+        14440,
+        1404,
+        329,
+        288,
+        39350,
+        6372,
+        459,
+        26709,
+        299,
+        3482,
+        13,
+        50969
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Se",
+          "start": 114.24,
+          "end": 114.42,
+          "probability": 0.9997342228889465
+        },
+        {
+          "word": " sintieron",
+          "start": 114.42,
+          "end": 114.78,
+          "probability": 0.9998799860477448
+        },
+        {
+          "word": " solos",
+          "start": 114.78,
+          "end": 115.2,
+          "probability": 0.9999648332595825
+        },
+        {
+          "word": " y",
+          "start": 115.2,
+          "end": 115.36,
+          "probability": 0.9964195489883423
+        },
+        {
+          "word": " anunciaron",
+          "start": 115.36,
+          "end": 115.78,
+          "probability": 0.9998078942298889
+        },
+        {
+          "word": " su",
+          "start": 115.78,
+          "end": 115.92,
+          "probability": 0.9966679215431213
+        },
+        {
+          "word": " ubicación.",
+          "start": 115.92,
+          "end": 116.36,
+          "probability": 0.999960462252299
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 10430,
+      "start": 116.54,
+      "end": 118.96,
+      "text": " También enviamos un dibujo de nosotros, cuerpo completo.",
+      "tokens": [
+        50980,
+        25682,
+        2267,
+        72,
+        2151,
+        517,
+        46621,
+        78,
+        368,
+        13863,
+        11,
+        20264,
+        40135,
+        13,
+        51099
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " También",
+          "start": 116.54,
+          "end": 116.8,
+          "probability": 0.9984443783760071
+        },
+        {
+          "word": " enviamos",
+          "start": 116.8,
+          "end": 117.16,
+          "probability": 0.9998756845792135
+        },
+        {
+          "word": " un",
+          "start": 117.16,
+          "end": 117.32,
+          "probability": 0.9998183846473694
+        },
+        {
+          "word": " dibujo",
+          "start": 117.32,
+          "end": 117.68,
+          "probability": 0.9999718070030212
+        },
+        {
+          "word": " de",
+          "start": 117.68,
+          "end": 117.76,
+          "probability": 0.9999399185180664
+        },
+        {
+          "word": " nosotros,",
+          "start": 117.76,
+          "end": 118.16,
+          "probability": 0.9993419051170349
+        },
+        {
+          "word": " cuerpo",
+          "start": 118.3,
+          "end": 118.5,
+          "probability": 0.9988825917243958
+        },
+        {
+          "word": " completo.",
+          "start": 118.5,
+          "end": 118.96,
+          "probability": 0.9999560117721558
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 10430,
+      "start": 119.18,
+      "end": 122.4,
+      "text": " Enviaron su anatomía. Queríamos dar una buena primera impresión.",
+      "tokens": [
+        51111,
+        2193,
+        4917,
+        6372,
+        459,
+        21618,
+        298,
+        2686,
+        13,
+        36149,
+        16275,
+        4072,
+        2002,
+        25710,
+        17382,
+        35672,
+        2560,
+        13,
+        51271
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Enviaron",
+          "start": 119.18,
+          "end": 119.58,
+          "probability": 0.9593483408292135
+        },
+        {
+          "word": " su",
+          "start": 119.58,
+          "end": 119.78,
+          "probability": 0.9999721050262451
+        },
+        {
+          "word": " anatomía.",
+          "start": 119.78,
+          "end": 120.28,
+          "probability": 0.9999487400054932
+        },
+        {
+          "word": " Queríamos",
+          "start": 120.5,
+          "end": 120.9,
+          "probability": 0.9991922676563263
+        },
+        {
+          "word": " dar",
+          "start": 120.9,
+          "end": 121.1,
+          "probability": 0.9999111890792847
+        },
+        {
+          "word": " una",
+          "start": 121.1,
+          "end": 121.32,
+          "probability": 0.9999586343765259
+        },
+        {
+          "word": " buena",
+          "start": 121.32,
+          "end": 121.56,
+          "probability": 0.9997881054878235
+        },
+        {
+          "word": " primera",
+          "start": 121.56,
+          "end": 121.88,
+          "probability": 0.9998935461044312
+        },
+        {
+          "word": " impresión.",
+          "start": 121.88,
+          "end": 122.4,
+          "probability": 0.9999070763587952
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 10430,
+      "start": 122.6,
+      "end": 124.18,
+      "text": " Siltok lo analizó profundamente.",
+      "tokens": [
+        51281,
+        318,
+        2352,
+        453,
+        450,
+        2624,
+        590,
+        812,
+        40958,
+        3439,
+        13,
+        51359
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Siltok",
+          "start": 122.6,
+          "end": 123.0,
+          "probability": 0.9996219277381897
+        },
+        {
+          "word": " lo",
+          "start": 123.0,
+          "end": 123.14,
+          "probability": 0.9998492002487183
+        },
+        {
+          "word": " analizó",
+          "start": 123.14,
+          "end": 123.5,
+          "probability": 0.9997609257698059
+        },
+        {
+          "word": " profundamente.",
+          "start": 123.5,
+          "end": 124.18,
+          "probability": 0.9999497532844543
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 10430,
+      "start": 124.34,
+      "end": 126.82,
+      "text": " Son blandos, sin exoesqueleto, sin garras, sin veneno.",
+      "tokens": [
+        51371,
+        5185,
+        29849,
+        329,
+        11,
+        3343,
+        454,
+        78,
+        279,
+        358,
+        15966,
+        78,
+        11,
+        3343,
+        290,
+        2284,
+        296,
+        11,
+        3343,
+        6138,
+        5808,
+        13,
+        51491
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Son",
+          "start": 124.34,
+          "end": 124.56,
+          "probability": 0.9980646967887878
+        },
+        {
+          "word": " blandos,",
+          "start": 124.56,
+          "end": 124.98,
+          "probability": 0.9992289543151855
+        },
+        {
+          "word": " sin",
+          "start": 125.06,
+          "end": 125.18,
+          "probability": 0.9998352527618408
+        },
+        {
+          "word": " exoesqueleto,",
+          "start": 125.18,
+          "end": 125.74,
+          "probability": 0.9936529397964478
+        },
+        {
+          "word": " sin",
+          "start": 125.84,
+          "end": 126.0,
+          "probability": 0.9999210834503174
+        },
+        {
+          "word": " garras,",
+          "start": 126.0,
+          "end": 126.36,
+          "probability": 0.9997797012329102
+        },
+        {
+          "word": " sin",
+          "start": 126.42,
+          "end": 126.5,
+          "probability": 0.9999139308929443
+        },
+        {
+          "word": " veneno.",
+          "start": 126.5,
+          "end": 126.82,
+          "probability": 0.9998442828655243
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 10430,
+      "start": 127.02,
+      "end": 128.9,
+      "text": " Son agua con desesperación envuelta en piel.",
+      "tokens": [
+        51504,
+        5185,
+        19330,
+        416,
+        730,
+        34698,
+        3482,
+        2267,
+        3483,
+        1328,
+        465,
+        46065,
+        13,
+        51595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Son",
+          "start": 127.02,
+          "end": 127.22,
+          "probability": 0.9994008541107178
+        },
+        {
+          "word": " agua",
+          "start": 127.22,
+          "end": 127.42,
+          "probability": 0.9995808005332947
+        },
+        {
+          "word": " con",
+          "start": 127.42,
+          "end": 127.58,
+          "probability": 0.9999744892120361
+        },
+        {
+          "word": " desesperación",
+          "start": 127.58,
+          "end": 128.2,
+          "probability": 0.9999393622080485
+        },
+        {
+          "word": " envuelta",
+          "start": 128.2,
+          "end": 128.58,
+          "probability": 0.9944121440251669
+        },
+        {
+          "word": " en",
+          "start": 128.58,
+          "end": 128.68,
+          "probability": 0.9999622106552124
+        },
+        {
+          "word": " piel.",
+          "start": 128.68,
+          "end": 128.9,
+          "probability": 0.9997501969337463
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 10430,
+      "start": 129.18,
+      "end": 130.42,
+      "text": " Buscábamos parecer amigables.",
+      "tokens": [
+        51608,
+        8006,
+        66,
+        27879,
+        2151,
+        44885,
+        669,
+        328,
+        2965,
+        13,
+        51671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Buscábamos",
+          "start": 129.18,
+          "end": 129.58,
+          "probability": 0.9993687123060226
+        },
+        {
+          "word": " parecer",
+          "start": 129.58,
+          "end": 129.9,
+          "probability": 0.9996228218078613
+        },
+        {
+          "word": " amigables.",
+          "start": 129.9,
+          "end": 130.42,
+          "probability": 0.9999350706736246
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 10430,
+      "start": 130.58,
+      "end": 132.24,
+      "text": " Lo lograron, pero no como esperaban.",
+      "tokens": [
+        51682,
+        6130,
+        31013,
+        6372,
+        11,
+        4768,
+        572,
+        2617,
+        10045,
+        18165,
+        13,
+        51762
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06873350492946764,
+      "compression_ratio": 1.6452513966480447,
+      "no_speech_prob": 1.2361356729884143e-11,
+      "words": [
+        {
+          "word": " Lo",
+          "start": 130.58,
+          "end": 130.74,
+          "probability": 0.9988250136375427
+        },
+        {
+          "word": " lograron,",
+          "start": 130.74,
+          "end": 131.18,
+          "probability": 0.9999555349349976
+        },
+        {
+          "word": " pero",
+          "start": 131.34,
+          "end": 131.44,
+          "probability": 0.9998879432678223
+        },
+        {
+          "word": " no",
+          "start": 131.44,
+          "end": 131.58,
+          "probability": 0.9999746084213257
+        },
+        {
+          "word": " como",
+          "start": 131.58,
+          "end": 131.76,
+          "probability": 0.9998852014541626
+        },
+        {
+          "word": " esperaban.",
+          "start": 131.76,
+          "end": 132.24,
+          "probability": 0.999878466129303
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 13224,
+      "start": 132.24,
+      "end": 134.34,
+      "text": " En ese momento, el general Thompson entró.",
+      "tokens": [
+        50365,
+        2193,
+        10167,
+        9333,
+        11,
+        806,
+        2674,
+        23460,
+        8041,
+        812,
+        13,
+        50472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " En",
+          "start": 132.24,
+          "end": 132.52,
+          "probability": 0.7223755717277527
+        },
+        {
+          "word": " ese",
+          "start": 132.52,
+          "end": 132.68,
+          "probability": 0.999295711517334
+        },
+        {
+          "word": " momento,",
+          "start": 132.68,
+          "end": 133.02,
+          "probability": 0.9999575614929199
+        },
+        {
+          "word": " el",
+          "start": 133.26,
+          "end": 133.3,
+          "probability": 0.9990050196647644
+        },
+        {
+          "word": " general",
+          "start": 133.3,
+          "end": 133.54,
+          "probability": 0.7721787691116333
+        },
+        {
+          "word": " Thompson",
+          "start": 133.54,
+          "end": 133.92,
+          "probability": 0.9965805411338806
+        },
+        {
+          "word": " entró.",
+          "start": 133.92,
+          "end": 134.34,
+          "probability": 0.9996723830699921
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 13224,
+      "start": 134.52,
+      "end": 135.26,
+      "text": " General Thompson.",
+      "tokens": [
+        50479,
+        6996,
+        23460,
+        13,
+        50520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " General",
+          "start": 134.52,
+          "end": 134.78,
+          "probability": 0.916854202747345
+        },
+        {
+          "word": " Thompson.",
+          "start": 134.78,
+          "end": 135.26,
+          "probability": 0.9998148083686829
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 13224,
+      "start": 135.48,
+      "end": 137.1,
+      "text": " Sin saludo, solo una mirada firme.",
+      "tokens": [
+        50529,
+        11187,
+        1845,
+        6207,
+        11,
+        6944,
+        2002,
+        3149,
+        1538,
+        12159,
+        1398,
+        13,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Sin",
+          "start": 135.48,
+          "end": 135.66,
+          "probability": 0.9869757294654846
+        },
+        {
+          "word": " saludo,",
+          "start": 135.66,
+          "end": 136.02,
+          "probability": 0.9988865852355957
+        },
+        {
+          "word": " solo",
+          "start": 136.18,
+          "end": 136.34,
+          "probability": 0.8589492440223694
+        },
+        {
+          "word": " una",
+          "start": 136.34,
+          "end": 136.48,
+          "probability": 0.9998831748962402
+        },
+        {
+          "word": " mirada",
+          "start": 136.48,
+          "end": 136.74,
+          "probability": 0.9999227523803711
+        },
+        {
+          "word": " firme.",
+          "start": 136.74,
+          "end": 137.1,
+          "probability": 0.9999635219573975
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 13224,
+      "start": 137.44,
+      "end": 137.88,
+      "text": " Situación.",
+      "tokens": [
+        50623,
+        318,
+        6380,
+        3482,
+        13,
+        50648
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Situación.",
+          "start": 137.44,
+          "end": 137.88,
+          "probability": 0.9948146740595499
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 13224,
+      "start": 138.1,
+      "end": 141.84,
+      "text": " El mapa cambió, decenas, cientos de puntos aparecieron, todos convergiendo en la Tierra.",
+      "tokens": [
+        50657,
+        2699,
+        44025,
+        19569,
+        812,
+        11,
+        979,
+        11581,
+        11,
+        269,
+        20370,
+        368,
+        34375,
+        15004,
+        537,
+        16308,
+        11,
+        6321,
+        9652,
+        70,
+        7304,
+        465,
+        635,
+        314,
+        17452,
+        13,
+        50845
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " El",
+          "start": 138.1,
+          "end": 138.16,
+          "probability": 0.9814046025276184
+        },
+        {
+          "word": " mapa",
+          "start": 138.16,
+          "end": 138.34,
+          "probability": 0.9999799728393555
+        },
+        {
+          "word": " cambió,",
+          "start": 138.34,
+          "end": 138.7,
+          "probability": 0.9998614490032196
+        },
+        {
+          "word": " decenas,",
+          "start": 138.84,
+          "end": 139.14,
+          "probability": 0.9997405707836151
+        },
+        {
+          "word": " cientos",
+          "start": 139.26,
+          "end": 139.44,
+          "probability": 0.9993230700492859
+        },
+        {
+          "word": " de",
+          "start": 139.44,
+          "end": 139.56,
+          "probability": 0.9996993541717529
+        },
+        {
+          "word": " puntos",
+          "start": 139.56,
+          "end": 139.78,
+          "probability": 0.9999345541000366
+        },
+        {
+          "word": " aparecieron,",
+          "start": 139.78,
+          "end": 140.4,
+          "probability": 0.999662975470225
+        },
+        {
+          "word": " todos",
+          "start": 140.58,
+          "end": 140.88,
+          "probability": 0.9998248219490051
+        },
+        {
+          "word": " convergiendo",
+          "start": 140.88,
+          "end": 141.38,
+          "probability": 0.9995546340942383
+        },
+        {
+          "word": " en",
+          "start": 141.38,
+          "end": 141.48,
+          "probability": 0.9999600648880005
+        },
+        {
+          "word": " la",
+          "start": 141.48,
+          "end": 141.56,
+          "probability": 0.9999227523803711
+        },
+        {
+          "word": " Tierra.",
+          "start": 141.56,
+          "end": 141.84,
+          "probability": 0.9513769447803497
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 13224,
+      "start": 142.06,
+      "end": 145.52,
+      "text": " Durante 170 y 3 años, hemos observado la respuesta a su señal.",
+      "tokens": [
+        50856,
+        13710,
+        2879,
+        27228,
+        288,
+        805,
+        11424,
+        11,
+        15396,
+        9951,
+        1573,
+        635,
+        40585,
+        257,
+        459,
+        13830,
+        304,
+        13,
+        51031
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Durante",
+          "start": 142.06,
+          "end": 142.34,
+          "probability": 0.9996398687362671
+        },
+        {
+          "word": " 170",
+          "start": 142.34,
+          "end": 142.8,
+          "probability": 0.5214295387268066
+        },
+        {
+          "word": " y",
+          "start": 142.8,
+          "end": 143.2,
+          "probability": 0.9983017444610596
+        },
+        {
+          "word": " 3",
+          "start": 143.2,
+          "end": 143.34,
+          "probability": 0.830334484577179
+        },
+        {
+          "word": " años,",
+          "start": 143.34,
+          "end": 143.7,
+          "probability": 0.9998998641967773
+        },
+        {
+          "word": " hemos",
+          "start": 143.86,
+          "end": 144.08,
+          "probability": 0.9998356103897095
+        },
+        {
+          "word": " observado",
+          "start": 144.08,
+          "end": 144.54,
+          "probability": 0.9999433755874634
+        },
+        {
+          "word": " la",
+          "start": 144.54,
+          "end": 144.64,
+          "probability": 0.9999294281005859
+        },
+        {
+          "word": " respuesta",
+          "start": 144.64,
+          "end": 144.98,
+          "probability": 0.9999426603317261
+        },
+        {
+          "word": " a",
+          "start": 144.98,
+          "end": 145.12,
+          "probability": 0.9998612403869629
+        },
+        {
+          "word": " su",
+          "start": 145.12,
+          "end": 145.2,
+          "probability": 0.9999409914016724
+        },
+        {
+          "word": " señal.",
+          "start": 145.2,
+          "end": 145.52,
+          "probability": 0.9999492168426514
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 13224,
+      "start": 145.72,
+      "end": 145.94,
+      "text": " RIR.",
+      "tokens": [
+        51040,
+        497,
+        7740,
+        13,
+        51051
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " RIR.",
+          "start": 145.72,
+          "end": 145.94,
+          "probability": 0.4317096620798111
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 13224,
+      "start": 146.04,
+      "end": 148.4,
+      "text": " Todas las especies dentro del alcance la recibieron.",
+      "tokens": [
+        51056,
+        2465,
+        296,
+        2439,
+        10049,
+        4629,
+        10856,
+        1103,
+        20005,
+        719,
+        635,
+        46387,
+        14440,
+        13,
+        51174
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Todas",
+          "start": 146.04,
+          "end": 146.26,
+          "probability": 0.997056245803833
+        },
+        {
+          "word": " las",
+          "start": 146.26,
+          "end": 146.42,
+          "probability": 0.9999055862426758
+        },
+        {
+          "word": " especies",
+          "start": 146.42,
+          "end": 146.82,
+          "probability": 0.999801367521286
+        },
+        {
+          "word": " dentro",
+          "start": 146.82,
+          "end": 147.08,
+          "probability": 0.9997381567955017
+        },
+        {
+          "word": " del",
+          "start": 147.08,
+          "end": 147.26,
+          "probability": 0.9998131394386292
+        },
+        {
+          "word": " alcance",
+          "start": 147.26,
+          "end": 147.66,
+          "probability": 0.9998720586299896
+        },
+        {
+          "word": " la",
+          "start": 147.66,
+          "end": 147.9,
+          "probability": 0.9099681973457336
+        },
+        {
+          "word": " recibieron.",
+          "start": 147.9,
+          "end": 148.4,
+          "probability": 0.9999608397483826
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 13224,
+      "start": 148.62,
+      "end": 149.56,
+      "text": " Silencio absoluto.",
+      "tokens": [
+        51185,
+        6943,
+        268,
+        8529,
+        18757,
+        78,
+        13,
+        51234
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Silencio",
+          "start": 148.62,
+          "end": 149.02,
+          "probability": 0.9962697823842367
+        },
+        {
+          "word": " absoluto.",
+          "start": 149.02,
+          "end": 149.56,
+          "probability": 0.99713134765625
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 13224,
+      "start": 149.7,
+      "end": 154.48,
+      "text": " Opinión sobre nosotros, que son pequeños, ruidosos, indefensos y peligrosamente inconscientes de ello.",
+      "tokens": [
+        51242,
+        12011,
+        259,
+        2560,
+        5473,
+        13863,
+        11,
+        631,
+        1872,
+        19132,
+        8242,
+        11,
+        5420,
+        7895,
+        329,
+        11,
+        1016,
+        5666,
+        694,
+        329,
+        288,
+        43839,
+        2635,
+        3439,
+        22039,
+        5412,
+        279,
+        368,
+        33549,
+        13,
+        51477
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Opinión",
+          "start": 149.7,
+          "end": 150.14,
+          "probability": 0.9981239438056946
+        },
+        {
+          "word": " sobre",
+          "start": 150.14,
+          "end": 150.38,
+          "probability": 0.9999547004699707
+        },
+        {
+          "word": " nosotros,",
+          "start": 150.38,
+          "end": 150.76,
+          "probability": 0.9998432397842407
+        },
+        {
+          "word": " que",
+          "start": 150.98,
+          "end": 151.12,
+          "probability": 0.9998592138290405
+        },
+        {
+          "word": " son",
+          "start": 151.12,
+          "end": 151.28,
+          "probability": 0.9998937845230103
+        },
+        {
+          "word": " pequeños,",
+          "start": 151.28,
+          "end": 151.7,
+          "probability": 0.9998466670513153
+        },
+        {
+          "word": " ruidosos,",
+          "start": 151.8,
+          "end": 152.22,
+          "probability": 0.999824047088623
+        },
+        {
+          "word": " indefensos",
+          "start": 152.32,
+          "end": 152.82,
+          "probability": 0.9997365921735764
+        },
+        {
+          "word": " y",
+          "start": 152.82,
+          "end": 153.02,
+          "probability": 0.9842734336853027
+        },
+        {
+          "word": " peligrosamente",
+          "start": 153.02,
+          "end": 153.64,
+          "probability": 0.9999639987945557
+        },
+        {
+          "word": " inconscientes",
+          "start": 153.64,
+          "end": 154.2,
+          "probability": 0.9998660683631897
+        },
+        {
+          "word": " de",
+          "start": 154.2,
+          "end": 154.3,
+          "probability": 0.9999210834503174
+        },
+        {
+          "word": " ello.",
+          "start": 154.3,
+          "end": 154.48,
+          "probability": 0.9998425245285034
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 13224,
+      "start": 154.7,
+      "end": 155.14,
+      "text": " Justo.",
+      "tokens": [
+        51489,
+        1449,
+        78,
+        13,
+        51510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Justo.",
+          "start": 154.7,
+          "end": 155.14,
+          "probability": 0.7602325677871704
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 13224,
+      "start": 155.28,
+      "end": 156.78,
+      "text": " También analizaron su anatomía.",
+      "tokens": [
+        51519,
+        25682,
+        2624,
+        590,
+        6372,
+        459,
+        21618,
+        298,
+        2686,
+        13,
+        51593
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " También",
+          "start": 155.28,
+          "end": 155.54,
+          "probability": 0.9976844787597656
+        },
+        {
+          "word": " analizaron",
+          "start": 155.54,
+          "end": 156.14,
+          "probability": 0.9978347222010294
+        },
+        {
+          "word": " su",
+          "start": 156.14,
+          "end": 156.3,
+          "probability": 0.9999295473098755
+        },
+        {
+          "word": " anatomía.",
+          "start": 156.3,
+          "end": 156.78,
+          "probability": 0.999942421913147
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 13224,
+      "start": 156.96,
+      "end": 158.46,
+      "text": " El silencio se volvió pesado.",
+      "tokens": [
+        51603,
+        2699,
+        3425,
+        268,
+        8529,
+        369,
+        1996,
+        4917,
+        812,
+        9262,
+        1573,
+        13,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " El",
+          "start": 156.96,
+          "end": 157.1,
+          "probability": 0.9990528225898743
+        },
+        {
+          "word": " silencio",
+          "start": 157.1,
+          "end": 157.56,
+          "probability": 0.9998853802680969
+        },
+        {
+          "word": " se",
+          "start": 157.56,
+          "end": 157.74,
+          "probability": 0.9998717308044434
+        },
+        {
+          "word": " volvió",
+          "start": 157.74,
+          "end": 158.04,
+          "probability": 0.9998954137166342
+        },
+        {
+          "word": " pesado.",
+          "start": 158.04,
+          "end": 158.46,
+          "probability": 0.9998483955860138
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 13224,
+      "start": 158.64,
+      "end": 160.78,
+      "text": " Bueno o malo, tienen una palabra para ustedes.",
+      "tokens": [
+        51689,
+        16046,
+        277,
+        2806,
+        78,
+        11,
+        12536,
+        2002,
+        31702,
+        1690,
+        17110,
+        13,
+        51793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14085310858649178,
+      "compression_ratio": 1.5710306406685237,
+      "no_speech_prob": 1.0480373513477304e-11,
+      "words": [
+        {
+          "word": " Bueno",
+          "start": 158.64,
+          "end": 158.92,
+          "probability": 0.967898964881897
+        },
+        {
+          "word": " o",
+          "start": 158.92,
+          "end": 159.1,
+          "probability": 0.998658299446106
+        },
+        {
+          "word": " malo,",
+          "start": 159.1,
+          "end": 159.38,
+          "probability": 0.7780859768390656
+        },
+        {
+          "word": " tienen",
+          "start": 159.48,
+          "end": 159.74,
+          "probability": 0.9965308308601379
+        },
+        {
+          "word": " una",
+          "start": 159.74,
+          "end": 159.94,
+          "probability": 0.9998514652252197
+        },
+        {
+          "word": " palabra",
+          "start": 159.94,
+          "end": 160.26,
+          "probability": 0.9999380111694336
+        },
+        {
+          "word": " para",
+          "start": 160.26,
+          "end": 160.44,
+          "probability": 0.9998785257339478
+        },
+        {
+          "word": " ustedes.",
+          "start": 160.44,
+          "end": 160.78,
+          "probability": 0.9996174573898315
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 16078,
+      "start": 160.78,
+      "end": 162.54,
+      "text": " La traducción más cercana sería.",
+      "tokens": [
+        50365,
+        2369,
+        2479,
+        1311,
+        5687,
+        3573,
+        36099,
+        2095,
+        23679,
+        13,
+        50456
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " La",
+          "start": 160.78,
+          "end": 161.12,
+          "probability": 0.883341908454895
+        },
+        {
+          "word": " traducción",
+          "start": 161.12,
+          "end": 161.6,
+          "probability": 0.9998842279116312
+        },
+        {
+          "word": " más",
+          "start": 161.6,
+          "end": 161.86,
+          "probability": 0.9993416666984558
+        },
+        {
+          "word": " cercana",
+          "start": 161.86,
+          "end": 162.24,
+          "probability": 0.9999538660049438
+        },
+        {
+          "word": " sería.",
+          "start": 162.24,
+          "end": 162.54,
+          "probability": 0.998971700668335
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 16078,
+      "start": 162.74,
+      "end": 164.18,
+      "text": " Los pequeños locos desnudos.",
+      "tokens": [
+        50468,
+        7632,
+        19132,
+        8242,
+        1628,
+        329,
+        730,
+        77,
+        35063,
+        13,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Los",
+          "start": 162.74,
+          "end": 162.94,
+          "probability": 0.9208661317825317
+        },
+        {
+          "word": " pequeños",
+          "start": 162.94,
+          "end": 163.38,
+          "probability": 0.9864823520183563
+        },
+        {
+          "word": " locos",
+          "start": 163.38,
+          "end": 163.72,
+          "probability": 0.9990649521350861
+        },
+        {
+          "word": " desnudos.",
+          "start": 163.72,
+          "end": 164.18,
+          "probability": 0.9998483061790466
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 16078,
+      "start": 164.32,
+      "end": 165.0,
+      "text": " Dave sonrió.",
+      "tokens": [
+        50547,
+        11017,
+        1872,
+        44802,
+        13,
+        50577
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 164.32,
+          "end": 164.56,
+          "probability": 0.47014182806015015
+        },
+        {
+          "word": " sonrió.",
+          "start": 164.56,
+          "end": 165.0,
+          "probability": 0.9986636936664581
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 16078,
+      "start": 165.2,
+      "end": 166.48,
+      "text": " Me lo tomo como cumplido.",
+      "tokens": [
+        50588,
+        1923,
+        450,
+        2916,
+        78,
+        2617,
+        37483,
+        2925,
+        13,
+        50651
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Me",
+          "start": 165.2,
+          "end": 165.36,
+          "probability": 0.976554274559021
+        },
+        {
+          "word": " lo",
+          "start": 165.36,
+          "end": 165.5,
+          "probability": 0.9973767995834351
+        },
+        {
+          "word": " tomo",
+          "start": 165.5,
+          "end": 165.82,
+          "probability": 0.9996455013751984
+        },
+        {
+          "word": " como",
+          "start": 165.82,
+          "end": 166.0,
+          "probability": 0.999826967716217
+        },
+        {
+          "word": " cumplido.",
+          "start": 166.0,
+          "end": 166.48,
+          "probability": 0.993483692407608
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 16078,
+      "start": 166.62,
+      "end": 167.18,
+      "text": " No lo es.",
+      "tokens": [
+        50663,
+        883,
+        450,
+        785,
+        13,
+        50686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " No",
+          "start": 166.62,
+          "end": 166.84,
+          "probability": 0.9942865967750549
+        },
+        {
+          "word": " lo",
+          "start": 166.84,
+          "end": 166.96,
+          "probability": 0.9999668598175049
+        },
+        {
+          "word": " es.",
+          "start": 166.96,
+          "end": 167.18,
+          "probability": 0.9998278617858887
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 16078,
+      "start": 167.3,
+      "end": 168.38,
+      "text": " El mapa mostró rutas.",
+      "tokens": [
+        50694,
+        2699,
+        44025,
+        881,
+        11721,
+        41324,
+        296,
+        13,
+        50746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " El",
+          "start": 167.3,
+          "end": 167.44,
+          "probability": 0.9957791566848755
+        },
+        {
+          "word": " mapa",
+          "start": 167.44,
+          "end": 167.62,
+          "probability": 0.999731719493866
+        },
+        {
+          "word": " mostró",
+          "start": 167.62,
+          "end": 168.0,
+          "probability": 0.9995776414871216
+        },
+        {
+          "word": " rutas.",
+          "start": 168.0,
+          "end": 168.38,
+          "probability": 0.9976738095283508
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 16078,
+      "start": 168.52,
+      "end": 169.64,
+      "text": " Tres amenazas principales.",
+      "tokens": [
+        50752,
+        314,
+        495,
+        18497,
+        921,
+        296,
+        6959,
+        4229,
+        13,
+        50810
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Tres",
+          "start": 168.52,
+          "end": 168.68,
+          "probability": 0.9970685243606567
+        },
+        {
+          "word": " amenazas",
+          "start": 168.68,
+          "end": 169.08,
+          "probability": 0.9998911619186401
+        },
+        {
+          "word": " principales.",
+          "start": 169.08,
+          "end": 169.64,
+          "probability": 0.9999480843544006
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 16078,
+      "start": 169.8,
+      "end": 172.44,
+      "text": " Los Glornat cazadores ven nuevas especies como presas.",
+      "tokens": [
+        50820,
+        7632,
+        5209,
+        1865,
+        267,
+        269,
+        921,
+        11856,
+        6138,
+        42817,
+        10049,
+        4629,
+        2617,
+        1183,
+        296,
+        13,
+        50950
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Los",
+          "start": 169.8,
+          "end": 169.98,
+          "probability": 0.9996366500854492
+        },
+        {
+          "word": " Glornat",
+          "start": 169.98,
+          "end": 170.34,
+          "probability": 0.706849733988444
+        },
+        {
+          "word": " cazadores",
+          "start": 170.34,
+          "end": 170.82,
+          "probability": 0.9320470094680786
+        },
+        {
+          "word": " ven",
+          "start": 170.82,
+          "end": 171.18,
+          "probability": 0.9907855987548828
+        },
+        {
+          "word": " nuevas",
+          "start": 171.18,
+          "end": 171.42,
+          "probability": 0.9998465776443481
+        },
+        {
+          "word": " especies",
+          "start": 171.42,
+          "end": 171.88,
+          "probability": 0.9998231828212738
+        },
+        {
+          "word": " como",
+          "start": 171.88,
+          "end": 172.06,
+          "probability": 0.999935507774353
+        },
+        {
+          "word": " presas.",
+          "start": 172.06,
+          "end": 172.44,
+          "probability": 0.9998323619365692
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 16078,
+      "start": 172.62,
+      "end": 174.04,
+      "text": " Genial cazadores de trofeos.",
+      "tokens": [
+        50960,
+        3632,
+        831,
+        269,
+        921,
+        11856,
+        368,
+        4495,
+        2106,
+        329,
+        13,
+        51029
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Genial",
+          "start": 172.62,
+          "end": 172.98,
+          "probability": 0.9991710484027863
+        },
+        {
+          "word": " cazadores",
+          "start": 172.98,
+          "end": 173.46,
+          "probability": 0.93316783507665
+        },
+        {
+          "word": " de",
+          "start": 173.46,
+          "end": 173.6,
+          "probability": 0.9999939203262329
+        },
+        {
+          "word": " trofeos.",
+          "start": 173.6,
+          "end": 174.04,
+          "probability": 0.9998781482378641
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 16078,
+      "start": 174.18,
+      "end": 176.78,
+      "text": " Los Brintlax conquistadores creen que ya se han rendido.",
+      "tokens": [
+        51038,
+        7632,
+        1603,
+        686,
+        25923,
+        15592,
+        468,
+        11856,
+        1197,
+        268,
+        631,
+        2478,
+        369,
+        7276,
+        6125,
+        2925,
+        13,
+        51166
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Los",
+          "start": 174.18,
+          "end": 174.36,
+          "probability": 0.9996336698532104
+        },
+        {
+          "word": " Brintlax",
+          "start": 174.36,
+          "end": 174.8,
+          "probability": 0.8681623140970866
+        },
+        {
+          "word": " conquistadores",
+          "start": 174.8,
+          "end": 175.5,
+          "probability": 0.998975952466329
+        },
+        {
+          "word": " creen",
+          "start": 175.5,
+          "end": 175.92,
+          "probability": 0.9980169832706451
+        },
+        {
+          "word": " que",
+          "start": 175.92,
+          "end": 176.02,
+          "probability": 0.999980092048645
+        },
+        {
+          "word": " ya",
+          "start": 176.02,
+          "end": 176.16,
+          "probability": 0.999953031539917
+        },
+        {
+          "word": " se",
+          "start": 176.16,
+          "end": 176.3,
+          "probability": 0.999930739402771
+        },
+        {
+          "word": " han",
+          "start": 176.3,
+          "end": 176.38,
+          "probability": 0.9999803304672241
+        },
+        {
+          "word": " rendido.",
+          "start": 176.38,
+          "end": 176.78,
+          "probability": 0.9999423623085022
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 16078,
+      "start": 176.94,
+      "end": 177.6,
+      "text": " Error grave.",
+      "tokens": [
+        51178,
+        3300,
+        2874,
+        12525,
+        13,
+        51207
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Error",
+          "start": 176.94,
+          "end": 177.3,
+          "probability": 0.9933740496635437
+        },
+        {
+          "word": " grave.",
+          "start": 177.3,
+          "end": 177.6,
+          "probability": 0.9997480511665344
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 16078,
+      "start": 177.78,
+      "end": 179.52,
+      "text": " Y los más peligrosos, los Sorromakers.",
+      "tokens": [
+        51218,
+        398,
+        1750,
+        3573,
+        43839,
+        2635,
+        329,
+        11,
+        1750,
+        21421,
+        4397,
+        19552,
+        13,
+        51302
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Y",
+          "start": 177.78,
+          "end": 177.9,
+          "probability": 0.9966673254966736
+        },
+        {
+          "word": " los",
+          "start": 177.9,
+          "end": 178.04,
+          "probability": 0.9999740123748779
+        },
+        {
+          "word": " más",
+          "start": 178.04,
+          "end": 178.2,
+          "probability": 0.9999384880065918
+        },
+        {
+          "word": " peligrosos,",
+          "start": 178.2,
+          "end": 178.82,
+          "probability": 0.9999815622965494
+        },
+        {
+          "word": " los",
+          "start": 178.9,
+          "end": 179.02,
+          "probability": 0.99937903881073
+        },
+        {
+          "word": " Sorromakers.",
+          "start": 179.02,
+          "end": 179.52,
+          "probability": 0.7544345458348592
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 16078,
+      "start": 179.74,
+      "end": 180.16,
+      "text": " ¿Qué hacen?",
+      "tokens": [
+        51316,
+        3841,
+        15137,
+        27434,
+        30,
+        51336
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " ¿Qué",
+          "start": 179.74,
+          "end": 179.88,
+          "probability": 0.9796977043151855
+        },
+        {
+          "word": " hacen?",
+          "start": 179.88,
+          "end": 180.16,
+          "probability": 0.9997254014015198
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 16078,
+      "start": 180.32,
+      "end": 181.48,
+      "text": " Consumen mundos enteros.",
+      "tokens": [
+        51346,
+        6923,
+        16988,
+        23175,
+        329,
+        3242,
+        329,
+        13,
+        51401
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Consumen",
+          "start": 180.32,
+          "end": 180.76,
+          "probability": 0.9816332459449768
+        },
+        {
+          "word": " mundos",
+          "start": 180.76,
+          "end": 181.08,
+          "probability": 0.9999062120914459
+        },
+        {
+          "word": " enteros.",
+          "start": 181.08,
+          "end": 181.48,
+          "probability": 0.9998835623264313
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 16078,
+      "start": 181.62,
+      "end": 182.54,
+      "text": " Llegarán en ocho meses.",
+      "tokens": [
+        51410,
+        441,
+        306,
+        2976,
+        7200,
+        465,
+        3795,
+        78,
+        23922,
+        13,
+        51455
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Llegarán",
+          "start": 181.62,
+          "end": 181.96,
+          "probability": 0.9984853863716125
+        },
+        {
+          "word": " en",
+          "start": 181.96,
+          "end": 182.08,
+          "probability": 0.9999799728393555
+        },
+        {
+          "word": " ocho",
+          "start": 182.08,
+          "end": 182.3,
+          "probability": 0.972622275352478
+        },
+        {
+          "word": " meses.",
+          "start": 182.3,
+          "end": 182.54,
+          "probability": 0.9999557733535767
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 16078,
+      "start": 182.74,
+      "end": 184.3,
+      "text": " Dave miró el mapa, luego al general.",
+      "tokens": [
+        51467,
+        11017,
+        3149,
+        812,
+        806,
+        44025,
+        11,
+        17222,
+        419,
+        2674,
+        13,
+        51543
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 182.74,
+          "end": 182.96,
+          "probability": 0.9966549873352051
+        },
+        {
+          "word": " miró",
+          "start": 182.96,
+          "end": 183.22,
+          "probability": 0.9997193813323975
+        },
+        {
+          "word": " el",
+          "start": 183.22,
+          "end": 183.32,
+          "probability": 0.9999032020568848
+        },
+        {
+          "word": " mapa,",
+          "start": 183.32,
+          "end": 183.56,
+          "probability": 0.9999911785125732
+        },
+        {
+          "word": " luego",
+          "start": 183.66,
+          "end": 183.92,
+          "probability": 0.9998145699501038
+        },
+        {
+          "word": " al",
+          "start": 183.92,
+          "end": 184.06,
+          "probability": 0.998593270778656
+        },
+        {
+          "word": " general.",
+          "start": 184.06,
+          "end": 184.3,
+          "probability": 0.994188666343689
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 16078,
+      "start": 184.56,
+      "end": 185.52,
+      "text": " Esto es mucho, no.",
+      "tokens": [
+        51556,
+        20880,
+        785,
+        9824,
+        11,
+        572,
+        13,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Esto",
+          "start": 184.56,
+          "end": 184.82,
+          "probability": 0.9927188158035278
+        },
+        {
+          "word": " es",
+          "start": 184.82,
+          "end": 184.98,
+          "probability": 0.9999867677688599
+        },
+        {
+          "word": " mucho,",
+          "start": 184.98,
+          "end": 185.3,
+          "probability": 0.9997826218605042
+        },
+        {
+          "word": " no.",
+          "start": 185.46,
+          "end": 185.52,
+          "probability": 0.40842103958129883
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 16078,
+      "start": 185.7,
+      "end": 186.62,
+      "text": " Thompson no dudó.",
+      "tokens": [
+        51614,
+        23460,
+        572,
+        38512,
+        812,
+        13,
+        51659
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Thompson",
+          "start": 185.7,
+          "end": 186.0,
+          "probability": 0.9962247610092163
+        },
+        {
+          "word": " no",
+          "start": 186.0,
+          "end": 186.32,
+          "probability": 0.9997475743293762
+        },
+        {
+          "word": " dudó.",
+          "start": 186.32,
+          "end": 186.62,
+          "probability": 0.9999004602432251
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 16078,
+      "start": 186.82,
+      "end": 187.5,
+      "text": " ¿Cuántas naves?",
+      "tokens": [
+        51669,
+        3841,
+        35222,
+        27525,
+        296,
+        297,
+        5423,
+        30,
+        51701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " ¿Cuántas",
+          "start": 186.82,
+          "end": 187.24,
+          "probability": 0.9934986531734467
+        },
+        {
+          "word": " naves?",
+          "start": 187.24,
+          "end": 187.5,
+          "probability": 0.9997077882289886
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 16078,
+      "start": 187.7,
+      "end": 189.66,
+      "text": " Docenas, cientos y los últimos desconocido.",
+      "tokens": [
+        51713,
+        16024,
+        11581,
+        11,
+        269,
+        20370,
+        288,
+        1750,
+        33013,
+        49801,
+        905,
+        2925,
+        13,
+        51809
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16540884971618652,
+      "compression_ratio": 1.5524861878453038,
+      "no_speech_prob": 1.2126595734518464e-11,
+      "words": [
+        {
+          "word": " Docenas,",
+          "start": 187.7,
+          "end": 188.06,
+          "probability": 0.9427361786365509
+        },
+        {
+          "word": " cientos",
+          "start": 188.24,
+          "end": 188.42,
+          "probability": 0.9966404438018799
+        },
+        {
+          "word": " y",
+          "start": 188.42,
+          "end": 188.6,
+          "probability": 0.9869110584259033
+        },
+        {
+          "word": " los",
+          "start": 188.6,
+          "end": 188.74,
+          "probability": 0.9995684027671814
+        },
+        {
+          "word": " últimos",
+          "start": 188.74,
+          "end": 189.02,
+          "probability": 0.9995957016944885
+        },
+        {
+          "word": " desconocido.",
+          "start": 189.02,
+          "end": 189.66,
+          "probability": 0.9662598371505737
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 18966,
+      "start": 189.66,
+      "end": 190.74,
+      "text": " Thompson asintió.",
+      "tokens": [
+        50365,
+        23460,
+        382,
+        686,
+        7138,
+        13,
+        50420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Thompson",
+          "start": 189.66,
+          "end": 190.1,
+          "probability": 0.9775652885437012
+        },
+        {
+          "word": " asintió.",
+          "start": 190.1,
+          "end": 190.74,
+          "probability": 0.9995937347412109
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "seek": 18966,
+      "start": 190.88,
+      "end": 193.68,
+      "text": " Llama a todos, aliados enemigos a cualquiera con armas grandes.",
+      "tokens": [
+        50428,
+        32717,
+        2404,
+        257,
+        6321,
+        11,
+        10198,
+        4181,
+        7255,
+        13348,
+        257,
+        10911,
+        35134,
+        416,
+        44611,
+        16640,
+        13,
+        50568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Llama",
+          "start": 190.88,
+          "end": 191.14,
+          "probability": 0.8131593763828278
+        },
+        {
+          "word": " a",
+          "start": 191.14,
+          "end": 191.26,
+          "probability": 0.9997161030769348
+        },
+        {
+          "word": " todos,",
+          "start": 191.26,
+          "end": 191.5,
+          "probability": 0.9997277855873108
+        },
+        {
+          "word": " aliados",
+          "start": 191.7,
+          "end": 192.02,
+          "probability": 0.9997629225254059
+        },
+        {
+          "word": " enemigos",
+          "start": 192.02,
+          "end": 192.46,
+          "probability": 0.9981470108032227
+        },
+        {
+          "word": " a",
+          "start": 192.46,
+          "end": 192.6,
+          "probability": 0.5818176865577698
+        },
+        {
+          "word": " cualquiera",
+          "start": 192.6,
+          "end": 192.98,
+          "probability": 0.9997850060462952
+        },
+        {
+          "word": " con",
+          "start": 192.98,
+          "end": 193.14,
+          "probability": 0.9987156391143799
+        },
+        {
+          "word": " armas",
+          "start": 193.14,
+          "end": 193.34,
+          "probability": 0.9999033212661743
+        },
+        {
+          "word": " grandes.",
+          "start": 193.34,
+          "end": 193.68,
+          "probability": 0.9998617172241211
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "seek": 18966,
+      "start": 193.86,
+      "end": 195.14,
+      "text": " Vamos a pelear con todos.",
+      "tokens": [
+        50581,
+        10894,
+        257,
+        520,
+        5797,
+        416,
+        6321,
+        13,
+        50641
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 193.86,
+          "end": 194.18,
+          "probability": 0.9901581406593323
+        },
+        {
+          "word": " a",
+          "start": 194.18,
+          "end": 194.34,
+          "probability": 0.999977707862854
+        },
+        {
+          "word": " pelear",
+          "start": 194.34,
+          "end": 194.6,
+          "probability": 0.999867707490921
+        },
+        {
+          "word": " con",
+          "start": 194.6,
+          "end": 194.82,
+          "probability": 0.9999066591262817
+        },
+        {
+          "word": " todos.",
+          "start": 194.82,
+          "end": 195.14,
+          "probability": 0.9999146461486816
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "seek": 18966,
+      "start": 195.32,
+      "end": 196.54,
+      "text": " Sí, al mismo tiempo.",
+      "tokens": [
+        50650,
+        12375,
+        11,
+        419,
+        12461,
+        11772,
+        13,
+        50711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Sí,",
+          "start": 195.32,
+          "end": 195.56,
+          "probability": 0.7454795837402344
+        },
+        {
+          "word": " al",
+          "start": 195.7,
+          "end": 195.88,
+          "probability": 0.9990523457527161
+        },
+        {
+          "word": " mismo",
+          "start": 195.88,
+          "end": 196.2,
+          "probability": 0.9999717473983765
+        },
+        {
+          "word": " tiempo.",
+          "start": 196.2,
+          "end": 196.54,
+          "probability": 0.9999427795410156
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "seek": 18966,
+      "start": 196.72,
+      "end": 197.32,
+      "text": " Uno por uno.",
+      "tokens": [
+        50722,
+        37468,
+        1515,
+        8526,
+        13,
+        50750
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Uno",
+          "start": 196.72,
+          "end": 196.94,
+          "probability": 0.972358763217926
+        },
+        {
+          "word": " por",
+          "start": 196.94,
+          "end": 197.1,
+          "probability": 0.9999605417251587
+        },
+        {
+          "word": " uno.",
+          "start": 197.1,
+          "end": 197.32,
+          "probability": 0.9998708963394165
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "seek": 18966,
+      "start": 197.56,
+      "end": 198.92,
+      "text": " Ziltok observó horrorizado.",
+      "tokens": [
+        50761,
+        1176,
+        2352,
+        453,
+        9951,
+        812,
+        11501,
+        27441,
+        13,
+        50828
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Ziltok",
+          "start": 197.56,
+          "end": 197.9,
+          "probability": 0.816607137521108
+        },
+        {
+          "word": " observó",
+          "start": 197.9,
+          "end": 198.38,
+          "probability": 0.9992029666900635
+        },
+        {
+          "word": " horrorizado.",
+          "start": 198.38,
+          "end": 198.92,
+          "probability": 0.9955399930477142
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "seek": 18966,
+      "start": 199.14,
+      "end": 200.56,
+      "text": " Están completamente locos.",
+      "tokens": [
+        50841,
+        4410,
+        7200,
+        28381,
+        1628,
+        329,
+        13,
+        50911
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Están",
+          "start": 199.14,
+          "end": 199.46,
+          "probability": 0.9957170188426971
+        },
+        {
+          "word": " completamente",
+          "start": 199.46,
+          "end": 200.0,
+          "probability": 0.9999392032623291
+        },
+        {
+          "word": " locos.",
+          "start": 200.0,
+          "end": 200.56,
+          "probability": 0.9998728334903717
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "seek": 18966,
+      "start": 200.72,
+      "end": 201.84,
+      "text": " No, solo somos tercos.",
+      "tokens": [
+        50922,
+        883,
+        11,
+        6944,
+        25244,
+        1796,
+        6877,
+        13,
+        50977
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " No,",
+          "start": 200.72,
+          "end": 200.9,
+          "probability": 0.9996169805526733
+        },
+        {
+          "word": " solo",
+          "start": 201.04,
+          "end": 201.2,
+          "probability": 0.9008513689041138
+        },
+        {
+          "word": " somos",
+          "start": 201.2,
+          "end": 201.48,
+          "probability": 0.9999068975448608
+        },
+        {
+          "word": " tercos.",
+          "start": 201.48,
+          "end": 201.84,
+          "probability": 0.9971614480018616
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "seek": 18966,
+      "start": 202.02,
+      "end": 203.36,
+      "text": " Horas después, caos organizado.",
+      "tokens": [
+        50986,
+        10691,
+        296,
+        15283,
+        11,
+        1335,
+        329,
+        4645,
+        1573,
+        13,
+        51051
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Horas",
+          "start": 202.02,
+          "end": 202.24,
+          "probability": 0.9945595860481262
+        },
+        {
+          "word": " después,",
+          "start": 202.24,
+          "end": 202.5,
+          "probability": 0.999901533126831
+        },
+        {
+          "word": " caos",
+          "start": 202.64,
+          "end": 202.84,
+          "probability": 0.9984375834465027
+        },
+        {
+          "word": " organizado.",
+          "start": 202.84,
+          "end": 203.36,
+          "probability": 0.999914288520813
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "seek": 18966,
+      "start": 203.58,
+      "end": 204.96,
+      "text": " Planes, estrategias, decisiones.",
+      "tokens": [
+        51060,
+        8112,
+        279,
+        11,
+        35680,
+        2968,
+        4609,
+        11,
+        3537,
+        279,
+        13,
+        51132
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Planes,",
+          "start": 203.58,
+          "end": 203.84,
+          "probability": 0.9952729642391205
+        },
+        {
+          "word": " estrategias,",
+          "start": 203.96,
+          "end": 204.4,
+          "probability": 0.9998913407325745
+        },
+        {
+          "word": " decisiones.",
+          "start": 204.5,
+          "end": 204.96,
+          "probability": 0.9998573362827301
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "seek": 18966,
+      "start": 205.06,
+      "end": 207.34,
+      "text": " El general sonrió al ver los datos de los cazadores.",
+      "tokens": [
+        51139,
+        2699,
+        2674,
+        1872,
+        44802,
+        419,
+        1306,
+        1750,
+        27721,
+        368,
+        1750,
+        269,
+        921,
+        11856,
+        13,
+        51250
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " El",
+          "start": 205.06,
+          "end": 205.22,
+          "probability": 0.9987323880195618
+        },
+        {
+          "word": " general",
+          "start": 205.22,
+          "end": 205.48,
+          "probability": 0.9978939890861511
+        },
+        {
+          "word": " sonrió",
+          "start": 205.48,
+          "end": 205.98,
+          "probability": 0.9992960691452026
+        },
+        {
+          "word": " al",
+          "start": 205.98,
+          "end": 206.16,
+          "probability": 0.9998327493667603
+        },
+        {
+          "word": " ver",
+          "start": 206.16,
+          "end": 206.32,
+          "probability": 0.9999520778656006
+        },
+        {
+          "word": " los",
+          "start": 206.32,
+          "end": 206.5,
+          "probability": 0.9998490810394287
+        },
+        {
+          "word": " datos",
+          "start": 206.5,
+          "end": 206.72,
+          "probability": 0.999790370464325
+        },
+        {
+          "word": " de",
+          "start": 206.72,
+          "end": 206.86,
+          "probability": 0.9999755620956421
+        },
+        {
+          "word": " los",
+          "start": 206.86,
+          "end": 206.96,
+          "probability": 0.9999467134475708
+        },
+        {
+          "word": " cazadores.",
+          "start": 206.96,
+          "end": 207.34,
+          "probability": 0.9996585051218668
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "seek": 18966,
+      "start": 207.58,
+      "end": 208.88,
+      "text": " Respetan la fuerza, ¿verdad?",
+      "tokens": [
+        51262,
+        5015,
+        7275,
+        282,
+        635,
+        39730,
+        11,
+        3841,
+        331,
+        20034,
+        30,
+        51327
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Respetan",
+          "start": 207.58,
+          "end": 208.02,
+          "probability": 0.9953241546948751
+        },
+        {
+          "word": " la",
+          "start": 208.02,
+          "end": 208.12,
+          "probability": 0.9999262094497681
+        },
+        {
+          "word": " fuerza,",
+          "start": 208.12,
+          "end": 208.48,
+          "probability": 0.9998067021369934
+        },
+        {
+          "word": " ¿verdad?",
+          "start": 208.64,
+          "end": 208.88,
+          "probability": 0.9616451263427734
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "seek": 18966,
+      "start": 209.1,
+      "end": 210.92,
+      "text": " Sí, entonces démosles un rival.",
+      "tokens": [
+        51339,
+        12375,
+        11,
+        13003,
+        2795,
+        3415,
+        904,
+        517,
+        16286,
+        13,
+        51429
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Sí,",
+          "start": 209.1,
+          "end": 209.34,
+          "probability": 0.9898439645767212
+        },
+        {
+          "word": " entonces",
+          "start": 209.54,
+          "end": 209.9,
+          "probability": 0.9989438652992249
+        },
+        {
+          "word": " démosles",
+          "start": 209.9,
+          "end": 210.52,
+          "probability": 0.9511274695396423
+        },
+        {
+          "word": " un",
+          "start": 210.52,
+          "end": 210.68,
+          "probability": 0.9992403984069824
+        },
+        {
+          "word": " rival.",
+          "start": 210.68,
+          "end": 210.92,
+          "probability": 0.9999102354049683
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "seek": 18966,
+      "start": 211.18,
+      "end": 212.08,
+      "text": " Dave miró la foto.",
+      "tokens": [
+        51441,
+        11017,
+        3149,
+        812,
+        635,
+        19176,
+        13,
+        51487
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 211.18,
+          "end": 211.38,
+          "probability": 0.871497392654419
+        },
+        {
+          "word": " miró",
+          "start": 211.38,
+          "end": 211.68,
+          "probability": 0.9995193183422089
+        },
+        {
+          "word": " la",
+          "start": 211.68,
+          "end": 211.82,
+          "probability": 0.9999370574951172
+        },
+        {
+          "word": " foto.",
+          "start": 211.82,
+          "end": 212.08,
+          "probability": 0.9999505281448364
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "seek": 18966,
+      "start": 212.3,
+      "end": 213.92,
+      "text": " Ese tipo no peleaba con caimanes.",
+      "tokens": [
+        51501,
+        462,
+        405,
+        9746,
+        572,
+        41615,
+        5509,
+        416,
+        1335,
+        332,
+        12779,
+        13,
+        51578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Ese",
+          "start": 212.3,
+          "end": 212.58,
+          "probability": 0.9991159439086914
+        },
+        {
+          "word": " tipo",
+          "start": 212.58,
+          "end": 212.78,
+          "probability": 0.9997777342796326
+        },
+        {
+          "word": " no",
+          "start": 212.78,
+          "end": 212.96,
+          "probability": 0.9999330043792725
+        },
+        {
+          "word": " peleaba",
+          "start": 212.96,
+          "end": 213.32,
+          "probability": 0.9999440908432007
+        },
+        {
+          "word": " con",
+          "start": 213.32,
+          "end": 213.5,
+          "probability": 0.9999452829360962
+        },
+        {
+          "word": " caimanes.",
+          "start": 213.5,
+          "end": 213.92,
+          "probability": 0.9660828312238058
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "seek": 18966,
+      "start": 214.02,
+      "end": 215.66,
+      "text": " Y golpeó a un tiburón dos veces.",
+      "tokens": [
+        51588,
+        398,
+        42032,
+        812,
+        257,
+        517,
+        256,
+        897,
+        374,
+        1801,
+        4491,
+        17054,
+        13,
+        51666
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Y",
+          "start": 214.02,
+          "end": 214.22,
+          "probability": 0.9979129433631897
+        },
+        {
+          "word": " golpeó",
+          "start": 214.22,
+          "end": 214.64,
+          "probability": 0.9999468922615051
+        },
+        {
+          "word": " a",
+          "start": 214.64,
+          "end": 214.78,
+          "probability": 0.9999094009399414
+        },
+        {
+          "word": " un",
+          "start": 214.78,
+          "end": 214.82,
+          "probability": 0.9999486207962036
+        },
+        {
+          "word": " tiburón",
+          "start": 214.82,
+          "end": 215.16,
+          "probability": 0.9999162554740906
+        },
+        {
+          "word": " dos",
+          "start": 215.16,
+          "end": 215.34,
+          "probability": 0.999693751335144
+        },
+        {
+          "word": " veces.",
+          "start": 215.34,
+          "end": 215.66,
+          "probability": 0.9982671737670898
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "seek": 18966,
+      "start": 215.84,
+      "end": 217.26,
+      "text": " Ziltok finalmente entendió.",
+      "tokens": [
+        51678,
+        1176,
+        2352,
+        453,
+        35577,
+        16612,
+        7138,
+        13,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15075319842562648,
+      "compression_ratio": 1.5578635014836795,
+      "no_speech_prob": 1.007256864721251e-11,
+      "words": [
+        {
+          "word": " Ziltok",
+          "start": 215.84,
+          "end": 216.26,
+          "probability": 0.9974943200747172
+        },
+        {
+          "word": " finalmente",
+          "start": 216.26,
+          "end": 216.74,
+          "probability": 0.9997335076332092
+        },
+        {
+          "word": " entendió.",
+          "start": 216.74,
+          "end": 217.26,
+          "probability": 0.9995304942131042
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "seek": 21726,
+      "start": 217.26,
+      "end": 221.5,
+      "text": " No sobrevivieron por inteligencia, ni por fuerza, sino porque no saben rendirse.",
+      "tokens": [
+        50365,
+        883,
+        5473,
+        27810,
+        14440,
+        1515,
+        24777,
+        3213,
+        2755,
+        11,
+        3867,
+        1515,
+        39730,
+        11,
+        18108,
+        4021,
+        572,
+        36670,
+        6125,
+        36097,
+        13,
+        50577
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " No",
+          "start": 217.26,
+          "end": 217.6,
+          "probability": 0.8428991436958313
+        },
+        {
+          "word": " sobrevivieron",
+          "start": 217.6,
+          "end": 218.2,
+          "probability": 0.9998492399851481
+        },
+        {
+          "word": " por",
+          "start": 218.2,
+          "end": 218.38,
+          "probability": 0.9995552897453308
+        },
+        {
+          "word": " inteligencia,",
+          "start": 218.38,
+          "end": 219.0,
+          "probability": 0.9999333222707113
+        },
+        {
+          "word": " ni",
+          "start": 219.1,
+          "end": 219.3,
+          "probability": 0.9998399019241333
+        },
+        {
+          "word": " por",
+          "start": 219.3,
+          "end": 219.48,
+          "probability": 0.9999855756759644
+        },
+        {
+          "word": " fuerza,",
+          "start": 219.48,
+          "end": 219.86,
+          "probability": 0.9998624324798584
+        },
+        {
+          "word": " sino",
+          "start": 220.04,
+          "end": 220.26,
+          "probability": 0.9998196959495544
+        },
+        {
+          "word": " porque",
+          "start": 220.26,
+          "end": 220.52,
+          "probability": 0.9999212026596069
+        },
+        {
+          "word": " no",
+          "start": 220.52,
+          "end": 220.7,
+          "probability": 0.9999105930328369
+        },
+        {
+          "word": " saben",
+          "start": 220.7,
+          "end": 221.0,
+          "probability": 0.9998884201049805
+        },
+        {
+          "word": " rendirse.",
+          "start": 221.0,
+          "end": 221.5,
+          "probability": 0.9999245405197144
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "seek": 21726,
+      "start": 221.88,
+      "end": 222.32,
+      "text": " Exacto.",
+      "tokens": [
+        50596,
+        7199,
+        78,
+        13,
+        50620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Exacto.",
+          "start": 221.88,
+          "end": 222.32,
+          "probability": 0.8150531947612762
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "seek": 21726,
+      "start": 222.44,
+      "end": 224.3,
+      "text": " Ziltok guardó silencio y luego habló.",
+      "tokens": [
+        50625,
+        1176,
+        2352,
+        453,
+        6290,
+        812,
+        3425,
+        268,
+        8529,
+        288,
+        17222,
+        26280,
+        812,
+        13,
+        50718
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Ziltok",
+          "start": 222.44,
+          "end": 222.8,
+          "probability": 0.5707821572820345
+        },
+        {
+          "word": " guardó",
+          "start": 222.8,
+          "end": 223.1,
+          "probability": 0.9994718730449677
+        },
+        {
+          "word": " silencio",
+          "start": 223.1,
+          "end": 223.6,
+          "probability": 0.999909520149231
+        },
+        {
+          "word": " y",
+          "start": 223.6,
+          "end": 223.78,
+          "probability": 0.9995535016059875
+        },
+        {
+          "word": " luego",
+          "start": 223.78,
+          "end": 224.0,
+          "probability": 0.9999701976776123
+        },
+        {
+          "word": " habló.",
+          "start": 224.0,
+          "end": 224.3,
+          "probability": 0.9999518394470215
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "seek": 21726,
+      "start": 224.44,
+      "end": 225.44,
+      "text": " Ahora entiendo el nombre.",
+      "tokens": [
+        50725,
+        18840,
+        948,
+        7304,
+        806,
+        13000,
+        13,
+        50775
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Ahora",
+          "start": 224.44,
+          "end": 224.68,
+          "probability": 0.9984301924705505
+        },
+        {
+          "word": " entiendo",
+          "start": 224.68,
+          "end": 225.08,
+          "probability": 0.9999513626098633
+        },
+        {
+          "word": " el",
+          "start": 225.08,
+          "end": 225.18,
+          "probability": 0.9999547004699707
+        },
+        {
+          "word": " nombre.",
+          "start": 225.18,
+          "end": 225.44,
+          "probability": 0.9999116659164429
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "seek": 21726,
+      "start": 225.62,
+      "end": 227.02,
+      "text": " Los pequeños locos desnudos.",
+      "tokens": [
+        50785,
+        7632,
+        19132,
+        8242,
+        1628,
+        329,
+        730,
+        77,
+        35063,
+        13,
+        50854
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Los",
+          "start": 225.62,
+          "end": 225.78,
+          "probability": 0.9985761642456055
+        },
+        {
+          "word": " pequeños",
+          "start": 225.78,
+          "end": 226.22,
+          "probability": 0.993968278169632
+        },
+        {
+          "word": " locos",
+          "start": 226.22,
+          "end": 226.6,
+          "probability": 0.9998149275779724
+        },
+        {
+          "word": " desnudos.",
+          "start": 226.6,
+          "end": 227.02,
+          "probability": 0.9999170700709025
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "seek": 21726,
+      "start": 227.22,
+      "end": 227.72,
+      "text": " Dave rió.",
+      "tokens": [
+        50865,
+        11017,
+        367,
+        7138,
+        13,
+        50888
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Dave",
+          "start": 227.22,
+          "end": 227.42,
+          "probability": 0.8049159049987793
+        },
+        {
+          "word": " rió.",
+          "start": 227.42,
+          "end": 227.72,
+          "probability": 0.9927539229393005
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "seek": 21726,
+      "start": 227.96,
+      "end": 229.56,
+      "text": " Vamos a poner eso en una camiseta.",
+      "tokens": [
+        50901,
+        10894,
+        257,
+        19149,
+        7287,
+        465,
+        2002,
+        1945,
+        271,
+        7664,
+        13,
+        50982
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1170469045639038,
+      "compression_ratio": 1.3068181818181819,
+      "no_speech_prob": 1.1303171940091339e-11,
+      "words": [
+        {
+          "word": " Vamos",
+          "start": 227.96,
+          "end": 228.14,
+          "probability": 0.9982031583786011
+        },
+        {
+          "word": " a",
+          "start": 228.14,
+          "end": 228.32,
+          "probability": 0.9999897480010986
+        },
+        {
+          "word": " poner",
+          "start": 228.32,
+          "end": 228.52,
+          "probability": 0.9999170303344727
+        },
+        {
+          "word": " eso",
+          "start": 228.52,
+          "end": 228.82,
+          "probability": 0.9998181462287903
+        },
+        {
+          "word": " en",
+          "start": 228.82,
+          "end": 228.98,
+          "probability": 0.9999536275863647
+        },
+        {
+          "word": " una",
+          "start": 228.98,
+          "end": 229.12,
+          "probability": 0.9999403953552246
+        },
+        {
+          "word": " camiseta.",
+          "start": 229.12,
+          "end": 229.56,
+          "probability": 0.9999279578526815
+        }
+      ]
+    }
+  ],
+  "language": "es"
+}

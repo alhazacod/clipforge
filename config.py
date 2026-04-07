@@ -31,7 +31,7 @@ CHUNK_MAX_WORDS   = 4
 CHUNK_MAX_DURATION= 1.5   # seconds
 SUB_X             = 960 # ASS coordinate space is always 1920x1080 regardless of actual video resolution.
 SUB_Y             = 540
-HIGHLIGHT_COLOR   = r"\1c&HFF0000&"   # BGR
+HIGHLIGHT_COLOR   = r"\1c&H00FF00&"   # BGR
 WRITING_COLOR     = r"\1c&HFFFFFF&"   # BGR — white
 
 # Subtitles uses BGR hex color codes (Blue, Green, Red).

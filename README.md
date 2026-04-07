@@ -8,6 +8,9 @@
 
 Automated pipeline to generate short-form video content with AI voiceover, karaoke-style subtitles, and optional publicity pauses. Outputs both 16:9 (YouTube) and 9:16 (TikTok/Reels/Shorts) formats from a single script file.
 
+[![Watch the demo](https://img.youtube.com/vi/jcPvl0a0C2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jcPvl0a0C2A)
+[![Watch the demo](https://img.youtube.com/vi/hJiFxlXDWLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hJiFxlXDWLE)
+
 ---
 
 ## Why ClipForge

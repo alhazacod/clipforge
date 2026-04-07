@@ -1,4 +1,3 @@
-
 # ClipForge
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -8,8 +7,10 @@
 
 Automated pipeline to generate short-form video content with AI voiceover, karaoke-style subtitles, and optional publicity pauses. Outputs both 16:9 (YouTube) and 9:16 (TikTok/Reels/Shorts) formats from a single script file.
 
-[![Watch the demo](https://img.youtube.com/vi/jcPvl0a0C2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jcPvl0a0C2A)
-[![Watch the demo](https://img.youtube.com/vi/hJiFxlXDWLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hJiFxlXDWLE)
+**Click the images to watch the full video on YouTube:**
+
+[![Watch the demo](https://img.youtube.com/vi/isJHBP_Ta_4/mqdefault.jpg)](https://www.youtube.com/watch?v=isJHBP_Ta_4)
+[![Watch the demo](https://img.youtube.com/vi/hJiFxlXDWLE/mqdefault.jpg)](https://www.youtube.com/watch?v=hJiFxlXDWLE)
 
 ---
 
@@ -29,12 +30,12 @@ ClipForge is built for speed, scalability, and automation. Instead of manually e
 ## How it works
 
 1. Input a script with voice tags.
-2. Generate AI audio with Kokoro TTS
-3. Split a background gameplay video to match audio length
-4. Crop to 9:16 and 16:9 then merge audio into both video formats
+2. Generate AI audio with Kokoro TTS.
+3. Split a background gameplay video to match audio length.
+4. Crop to 9:16 and 16:9 then merge audio into both video formats.
 5. Transcribe with Whisper.
-6. burn karaoke subtitles into both videos
-7. Optionally insert a publicity pause in the middle of both videos
+6. Burn karaoke subtitles into both videos.
+7. Optionally insert a publicity pause in the middle of both videos.
 
 ---
 
@@ -261,8 +262,8 @@ Use this prompt to take any story or script in English and get a ready-to-use `s
 
 Contributions are welcome! Please:
 
-> 1. Fork the repository
-> 2. Create a feature branch (git checkout -b feature/amazing-feature)
-> 3. Commit your changes (git commit -m 'Add amazing feature')
-> 4. Push to the branch (git push origin feature/amazing-feature)
-> 5. Open a Pull Request
+1. Fork the repository
+2. Create a feature branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
+5. Open a Pull Request

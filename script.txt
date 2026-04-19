@@ -1,125 +1,51 @@
-<voice name="em_alex">Dicen que los humanos crearon supersoldados… pero nadie te cuenta que algunos de ellos terminan dando clases en una escuela. Y lo que vas a ver hoy… no estaba en ningún libro.</voice>
+<voice name="em_alex">La galaxia no está vacía… pero si intentas defenderla como si fuera un territorio continuo, vas a perder antes de darte cuenta de qué salió mal, porque aquí no existen las líneas de batalla… solo objetivos aislados.</voice>
 
-<voice name="em_alex">La escuela estaba llena de energía y emoción. Algo diferente iba a ocurrir, y todos lo sabían. Alrededor de cien estudiantes se habían reunido en las gradas del área exterior. Era un día perfecto, cálido y luminoso, ideal para una actividad especial.</voice>
+<voice name="em_alex">Cuando decimos que la galaxia está vacía, no significa que no haya nada en ella. Significa que hay una cantidad absurda de espacio entre cada cosa que importa. Fuera del núcleo galáctico, en los brazos espirales, las distancias se vuelven tan enormes que la mayoría del volumen es… simplemente vacío.</voice>
 
-<voice name="em_alex">Había de todo: sátiros, chicas felinas, chicas zorro, algunos ángeles y demonios… aunque la mayoría eran distintas variedades de elfas. Todas vestían uniformes impecables en tonos azul y gris, a pesar del calor del verano. Eso, por sí solo, ya era sospechoso.</voice>
+<voice name="em_alex">Y ese detalle cambia completamente la forma en que se libra una guerra.</voice>
 
-<voice name="em_alex">Entonces apareció ella.</voice>
+<voice name="em_alex">En un entorno así, defender una frontera es imposible. No puedes mantener una línea defensiva durante tiempos de paz, ni sostener un frente continuo durante una guerra. Hay demasiado espacio entre unidades, demasiados huecos imposibles de cubrir.</voice>
 
-<voice name="em_alex">La profesora de economía, Emily Belle… pero no como la conocían.</voice>
+<voice name="em_alex">El enemigo no necesita romper tus defensas… solo necesita rodearlas, atravesando el vacío entre tus fuerzas, con probabilidades casi nulas de ser detectado o interceptado.</voice>
 
-<voice name="em_alex">Vestía un uniforme militar perfectamente ajustado. Cabello recogido, postura firme, presencia imponente. Por un momento, nadie la reconoció… hasta que sus ojos verdes y su cabello rojo revelaron la verdad.</voice>
+<voice name="em_alex">Por eso, en la práctica, solo existe una forma real de defensa.</voice>
 
-<voice name="em_alex">Avanzó al frente… y saludó con precisión militar.</voice>
+<voice name="em_alex">Sistema por sistema.</voice>
 
-<voice name="ef_dora">—Muy buenos días, señoritas. Espero que estén listas para aprender algo fuera de lo común.</voice>
+<voice name="em_alex">Cada mundo, cada estrella… se convierte en su propia fortaleza.</voice>
 
-<voice name="em_alex">Las estudiantes respondieron al unísono, aunque aún confundidas.</voice>
+<voice name="em_alex">Y cuando alguien decide atacar… todo depende de cuán rápido puedas responder.</voice>
 
-<voice name="ef_dora">—Estoy segura de que se preguntan por qué están en uniforme en pleno verano. La razón es simple… hoy tenemos invitados muy especiales.</voice>
+<voice name="em_alex">En algún punto cercano al sistema solar, una alerta se encendió.</voice>
 
-<voice name="em_alex">Un murmullo recorrió las gradas.</voice>
+<voice name="em_santa">—Contacto FTL detectado. Aproximadamente veinte naves entrando desde vector más cincuenta por doscientos quince. Tiempo estimado de llegada: seis minutos —informó el sistema de alerta de larga distancia.</voice>
 
-<voice name="ef_dora">—Y sí, antes de que lo pregunten… la próxima semana habrá un examen sorpresa.</voice>
+<voice name="em_santa">—Recibido. Asignen las unidades de reacción rápida del treinta al setenta para interceptar. El resto permanece en espera operativa —respondió el oficial al mando con calma calculada.</voice>
 
-<voice name="em_alex">El coro de quejas fue inmediato.</voice>
+<voice name="em_alex">Las fuerzas asignadas se prepararon casi de inmediato, mientras en las pantallas la señal enemiga se hacía cada vez más clara.</voice>
 
-<voice name="ef_dora">—Pero este examen no estará en ningún libro. Hoy… la excursión viene hacia ustedes.</voice>
+<voice name="em_santa">—Las trayectorias indican que se aproximan peligrosamente cerca de la Tierra. Deberían salir de FTL en cualquier momento… esperen… siguen avanzando… parece que van a pasar de largo.</voice>
 
-<voice name="em_alex">En ese momento, el cielo rugió.</voice>
+<voice name="em_alex">Y eso fue exactamente lo que hicieron.</voice>
 
-<voice name="em_alex">Un transporte descendió desde las nubes y aterrizó en el campo. Las turbinas vibraban en el aire mientras la rampa se abría lentamente.</voice>
+<voice name="em_alex">Las naves cruzaron más allá de la órbita terrestre… y entonces abandonaron el salto más rápido que la luz.</voice>
 
-<voice name="ef_dora">—Señoritas, de pie… y saluden al Comisario Derek Belle.</voice>
+<voice name="em_santa">—Interesante movimiento. Intentan obligarnos a reaccionar en la posición equivocada. Lo que no han considerado es que nuestra fuerza de reacción rápida… hace honor a su nombre. Procedan a interceptar de inmediato.</voice>
 
-<voice name="em_alex">Un gigante emergió desde las sombras. Más de dos metros de altura. Armadura táctica, escudo balístico en una mano y una espada corta en la otra. Su sola presencia imponía respeto absoluto.</voice>
+<voice name="em_alex">Casi en el mismo instante, la flota defensiva apareció junto a las naves invasoras, cerrando cualquier posible ruta de escape antes de que pudieran reorganizarse.</voice>
 
-<voice name="em_alex">Los profesores se cuadraron de inmediato… algunos incluso con lágrimas en los ojos.</voice>
+<voice name="em_santa">—Por la configuración de sus cascos y firmas energéticas, parecen ser Dalgaris. Esto parece un ataque de hostigamiento… pero eligieron el objetivo equivocado. Acaban de perder veinte naves. Tienen una opción clara: rendirse ahora o ser completamente destruidos.</voice>
 
-<voice name="em_santa">—Desde el flanco izquierdo, comandante de campo de los Marines Terranos… James Taggart. Legionarios, atentos.</voice>
+<voice name="em_alex">Las naves enemigas dudaron. Sus movimientos reflejaban confusión y desesperación mientras intentaban encontrar una salida que no existía.</voice>
 
-<voice name="em_alex">Otro soldado descendió de la nave. Aún más grande, envuelto en una armadura exoesquelética. Un rifle antitanque colgaba de su espalda como si fuera algo trivial.</voice>
+<voice name="em_alex">Tras una breve consulta interna, tomaron la única decisión viable.</voice>
 
-<voice name="em_alex">Luego vino una mujer rodeada de maquinaria, desplazándose sobre una plataforma mecánica con patas de araña.</voice>
+<voice name="em_alex">Se rindieron.</voice>
 
-<voice name="ef_dora">—Desde el Protectorado Joviano, la capitana Sarah Jane Anders, maestra mecanista.</voice>
+<voice name="em_alex">Porque en una galaxia donde no puedes defender una frontera… la verdadera estrategia no es proteger todo el espacio.</voice>
 
-<voice name="em_alex">Después… alguien flotó.</voice>
+<voice name="em_alex">Es proteger lo que realmente importa.</voice>
 
-<voice name="em_alex">Una joven de mirada brillante descendió suavemente, envuelta en una energía extraña.</voice>
+<voice name="em_alex">Un sistema a la vez.</voice>
 
-<voice name="ef_dora">—Mi hermana menor, Jessica Belle… especialista psiónica.</voice>
-
-<voice name="em_alex">Y finalmente, un hombre común… demasiado común.</voice>
-
-<voice name="em_alex">Chasqueó los dedos… y una nave de guerra apareció en el cielo.</voice>
-
-<voice name="ef_dora">—Y un viejo amigo… Caliban Sanders.</voice>
-
-<voice name="em_alex">La demostración apenas comenzaba.</voice>
-
-<voice name="em_alex">El comisario Derek dio un paso al frente.</voice>
-
-<voice name="ef_dora">—Esto es un Centurión. Unidad táctica de élite para control civil. Ahora, ¿quién puede decirme la diferencia con un Legionario?</voice>
-
-<voice name="em_alex">Una estudiante respondió con cautela.</voice>
-
-<voice name="ef_dora">—La diferencia está en la genética, el entrenamiento… y la fuerza.</voice>
-
-<voice name="em_alex">La profesora asintió.</voice>
-
-<voice name="ef_dora">—Exactamente. Los legionarios son diseñados para la guerra total.</voice>
-
-<voice name="em_alex">Lo que siguió fue una demostración brutal.</voice>
-
-<voice name="em_alex">El legionario atacó con toda su fuerza… y Derek lo detuvo.</voice>
-
-<voice name="em_alex">No solo resistió el impacto… lo derribó con precisión quirúrgica.</voice>
-
-<voice name="em_santa">—Esto sirve para neutralizar amenazas sin letalidad… aunque contra nosotros, el resultado sería muy distinto.</voice>
-
-<voice name="em_alex">Las estudiantes tragaron saliva.</voice>
-
-<voice name="em_alex">Luego, la mecanista tomó el control.</voice>
-
-<voice name="em_alex">Un enorme escorpión mecánico apareció, armado y aterrador.</voice>
-
-<voice name="ef_dora">—¿Cómo creen que lo controlo?</voice>
-
-<voice name="em_alex">La respuesta llegó tras murmullos.</voice>
-
-<voice name="ef_dora">—Con la mente.</voice>
-
-<voice name="em_alex">La máquina imitó cada uno de sus movimientos como si fuera una extensión de su cuerpo.</voice>
-
-<voice name="em_alex">Después, Jessica avanzó.</voice>
-
-<voice name="em_alex">Sus ojos brillaron… y un rayo púrpura atravesó el aire.</voice>
-
-<voice name="em_alex">El impacto sacudió el lugar, dejando una marca humeante.</voice>
-
-<voice name="em_santa">—Yo soy una psiónica. Manipulo la realidad con la mente.</voice>
-
-<voice name="em_alex">El silencio fue total.</voice>
-
-<voice name="em_santa">—Pero también puedo hacer esto.</voice>
-
-<voice name="em_alex">De repente, cada estudiante tenía un helado en las manos.</voice>
-
-<voice name="em_alex">La tensión se rompió en risas.</voice>
-
-<voice name="em_alex">Finalmente, Caliban habló.</voice>
-
-<voice name="em_santa">—Yo no piloto una nave… yo soy la nave.</voice>
-
-<voice name="em_alex">Explicó cómo su conciencia existía en múltiples cuerpos mientras su verdadera forma flotaba en el cielo.</voice>
-
-<voice name="em_alex">La lección terminó con una verdad simple.</voice>
-
-<voice name="ef_dora">—Hoy han visto poder, sacrificio y propósito. Todo esto… también será parte de su examen.</voice>
-
-<voice name="em_alex">Las estudiantes no solo aprobaron aquella prueba.</voice>
-
-<voice name="em_alex">La superaron con excelencia.</voice>
-
-<voice name="em_alex">Porque ese día no aprendieron de libros… aprendieron de leyendas vivientes.</voice>
+<voice name="em_alex">Y cuanto más valioso es ese sistema… más imposible se vuelve conquistarlo.</voice>

@@ -31,7 +31,7 @@ def get_stream_info(file_path, stream_type):
     cmd = [
         "ffprobe", "-v", "error",
         "-select_streams", stream_type,
-        "-show_entries", "stream=codec_name,sample_rate,channels,bit_rate",
+        "-show_entries", "stream=codec_name,sample_rate,channels,bit_rate,width,height,r_frame_rate",
         "-of", "default=noprint_wrappers=1", file_path
     ]
     out = subprocess.check_output(cmd).decode().strip()
@@ -115,4 +115,4 @@ subprocess.run([
 # 5. Cleanup
 # ------------------------------------------------------------------------------
 shutil.rmtree(TEMP_DIR)
-print(f"Publicity pause added → {OUTPUT_VIDEO}")
+print(f"Publicity pause added -> {OUTPUT_VIDEO}")

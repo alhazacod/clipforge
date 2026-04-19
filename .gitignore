@@ -6,4 +6,9 @@
 
 # Ignore Python virtual environment
 venv/
+__pycache__/
 
+# Ignore generated files
+source_video/video_history.csv
+subs.ass
+transcript.json

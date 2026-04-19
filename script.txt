@@ -1,213 +1,125 @@
-<voice name="em_alex">Antes de que todo comenzara, la galaxia ya había tomado una decisión sobre la humanidad…
-No por nuestras armas.
-No por nuestra tecnología.
-Sino por un simple mensaje… enviado hace más de un siglo.
-Un mensaje que nos describía perfectamente: débiles, expuestos… y completamente inconscientes del peligro.
-Y ahora… vienen por nosotros.</voice>
+<voice name="em_alex">Dicen que los humanos crearon supersoldados… pero nadie te cuenta que algunos de ellos terminan dando clases en una escuela. Y lo que vas a ver hoy… no estaba en ningún libro.</voice>
 
-<voice name="em_alex">La puerta no se abrió… se disolvió.
-Como si alguien hubiera presionado “eliminar” sobre un fragmento de la realidad.
-Y entonces, esa cosa atravesó el umbral.</voice>
+<voice name="em_alex">La escuela estaba llena de energía y emoción. Algo diferente iba a ocurrir, y todos lo sabían. Alrededor de cien estudiantes se habían reunido en las gradas del área exterior. Era un día perfecto, cálido y luminoso, ideal para una actividad especial.</voice>
 
-<voice name="em_alex">¿Caminar? No exactamente.
-¿Flotar? ¿Deslizarse?
-Dave no estaba seguro de qué verbo usar para una criatura que parecía una mezcla entre mantis religiosa y pavo real… cubierta de un brillo bioluminiscente inquietante.</voice>
+<voice name="em_alex">Había de todo: sátiros, chicas felinas, chicas zorro, algunos ángeles y demonios… aunque la mayoría eran distintas variedades de elfas. Todas vestían uniformes impecables en tonos azul y gris, a pesar del calor del verano. Eso, por sí solo, ya era sospechoso.</voice>
 
-<voice name="em_alex">Era alta. Muy alta.
-Quizá más de dos metros.
-Y tenía cuatro brazos cruzados sobre el pecho… como si ya estuviera cansada de estar ahí.</voice>
+<voice name="em_alex">Entonces apareció ella.</voice>
 
-<voice name="em_alex">Dave estaba comiendo un bagel.</voice>
+<voice name="em_alex">La profesora de economía, Emily Belle… pero no como la conocían.</voice>
 
-<voice name="em_santa">—Así que… tú eres el que han enviado para hablar en nombre de tu especie.</voice>
+<voice name="em_alex">Vestía un uniforme militar perfectamente ajustado. Cabello recogido, postura firme, presencia imponente. Por un momento, nadie la reconoció… hasta que sus ojos verdes y su cabello rojo revelaron la verdad.</voice>
 
-<voice name="em_alex">La voz no salió de una boca.
-Simplemente… apareció dentro de su mente.</voice>
+<voice name="em_alex">Avanzó al frente… y saludó con precisión militar.</voice>
 
-<voice name="em_santa">—Tranquilo, soy el que perdió el sorteo —respondió Dave, tragando—. Bienvenido a la Tierra. ¿Café? ¿Té? Creo que hay jugo de naranja, pero no lo recomiendo… probablemente ya esté muerto.</voice>
+<voice name="ef_dora">—Muy buenos días, señoritas. Espero que estén listas para aprender algo fuera de lo común.</voice>
 
-<voice name="em_alex">La criatura lo observó.
-O al menos eso parecía. Dave ni siquiera estaba seguro de dónde estaban sus ojos.</voice>
+<voice name="em_alex">Las estudiantes respondieron al unísono, aunque aún confundidas.</voice>
 
-<voice name="em_santa">—Soy el embajador Ziltoq el Ansioso… de la Concordancia Unificada.</voice>
+<voice name="ef_dora">—Estoy segura de que se preguntan por qué están en uniforme en pleno verano. La razón es simple… hoy tenemos invitados muy especiales.</voice>
 
-<voice name="em_santa">—Dave. Solo Dave. ¿“El Ansioso”? Vaya título… ¿primer contacto te pone nervioso?</voice>
+<voice name="em_alex">Un murmullo recorrió las gradas.</voice>
 
-<voice name="em_alex">Ziltoq emitió una serie de chasquidos mentales… que transmitían puro agotamiento.</voice>
+<voice name="ef_dora">—Y sí, antes de que lo pregunten… la próxima semana habrá un examen sorpresa.</voice>
 
-<voice name="em_santa">—No tienes idea.</voice>
+<voice name="em_alex">El coro de quejas fue inmediato.</voice>
 
-<voice name="em_alex">Se sentaron en la sala de conferencias.
-Bueno… Dave se sentó.
-Ziltoq flotó en una esquina, suspendido en el aire.</voice>
+<voice name="ef_dora">—Pero este examen no estará en ningún libro. Hoy… la excursión viene hacia ustedes.</voice>
 
-<voice name="em_alex">Detrás de un vidrio, humanos observaban en silencio.
-El general Thompson ya iba por su tercer café.
-Alguien murmuraba “no puede ser” una y otra vez.</voice>
+<voice name="em_alex">En ese momento, el cielo rugió.</voice>
 
-<voice name="em_alex">Ziltoq desplegó un dispositivo.
-Un mapa estelar apareció entre ellos.</voice>
+<voice name="em_alex">Un transporte descendió desde las nubes y aterrizó en el campo. Las turbinas vibraban en el aire mientras la rampa se abría lentamente.</voice>
 
-<voice name="em_santa">—Interceptamos una señal… hace ciento setenta y tres de sus años. Proveniente de su sistema solar.</voice>
+<voice name="ef_dora">—Señoritas, de pie… y saluden al Comisario Derek Belle.</voice>
 
-<voice name="em_santa">—Ahhh… lo de Voyager, ¿no?</voice>
+<voice name="em_alex">Un gigante emergió desde las sombras. Más de dos metros de altura. Armadura táctica, escudo balístico en una mano y una espada corta en la otra. Su sola presencia imponía respeto absoluto.</voice>
 
-<voice name="em_alex">Ziltoq se quedó completamente inmóvil.</voice>
+<voice name="em_alex">Los profesores se cuadraron de inmediato… algunos incluso con lágrimas en los ojos.</voice>
 
-<voice name="em_santa">—¿Lo sabían?</voice>
+<voice name="em_santa">—Desde el flanco izquierdo, comandante de campo de los Marines Terranos… James Taggart. Legionarios, atentos.</voice>
 
-<voice name="em_santa">—Claro. La enviamos nosotros. Música, matemáticas, ubicación… un paquete de bienvenida. Estábamos… en una etapa optimista.</voice>
+<voice name="em_alex">Otro soldado descendió de la nave. Aún más grande, envuelto en una armadura exoesquelética. Un rifle antitanque colgaba de su espalda como si fuera algo trivial.</voice>
 
-<voice name="em_santa">—Enviaron sus coordenadas exactas… a toda la galaxia.</voice>
+<voice name="em_alex">Luego vino una mujer rodeada de maquinaria, desplazándose sobre una plataforma mecánica con patas de araña.</voice>
 
-<voice name="em_santa">—Dicho así suena mal…</voice>
+<voice name="ef_dora">—Desde el Protectorado Joviano, la capitana Sarah Jane Anders, maestra mecanista.</voice>
 
-<voice name="em_santa">—Porque ES terrible.</voice>
+<voice name="em_alex">Después… alguien flotó.</voice>
 
-<voice name="em_alex">La voz de Ziltoq se quebró… dentro de la mente de Dave.</voice>
+<voice name="em_alex">Una joven de mirada brillante descendió suavemente, envuelta en una energía extraña.</voice>
 
-<voice name="em_santa">—Han marcado a su especie como objetivo. Es una invitación abierta a su propia extinción.</voice>
+<voice name="ef_dora">—Mi hermana menor, Jessica Belle… especialista psiónica.</voice>
 
-<voice name="em_santa">—Estábamos solos, ¿ok? La galaxia es enorme… uno se siente… vacío.</voice>
+<voice name="em_alex">Y finalmente, un hombre común… demasiado común.</voice>
 
-<voice name="em_santa">—Se sintieron solos… y anunciaron su ubicación.</voice>
+<voice name="em_alex">Chasqueó los dedos… y una nave de guerra apareció en el cielo.</voice>
 
-<voice name="em_santa">—También enviamos un dibujo de nosotros. Cuerpo completo.</voice>
+<voice name="ef_dora">—Y un viejo amigo… Caliban Sanders.</voice>
 
-<voice name="em_santa">—…¿Enviaron su anatomía?</voice>
+<voice name="em_alex">La demostración apenas comenzaba.</voice>
 
-<voice name="em_santa">—Queríamos dar una buena primera impresión.</voice>
+<voice name="em_alex">El comisario Derek dio un paso al frente.</voice>
 
-<voice name="em_alex">Ziltoq lo analizó profundamente.</voice>
+<voice name="ef_dora">—Esto es un Centurión. Unidad táctica de élite para control civil. Ahora, ¿quién puede decirme la diferencia con un Legionario?</voice>
 
-<voice name="em_santa">—Son… blandos. Sin exoesqueleto. Sin garras. Sin veneno.
-Son… agua con desesperación… envuelta en piel.</voice>
+<voice name="em_alex">Una estudiante respondió con cautela.</voice>
 
-<voice name="em_santa">—Buscábamos parecer amigables.</voice>
+<voice name="ef_dora">—La diferencia está en la genética, el entrenamiento… y la fuerza.</voice>
 
-<voice name="em_santa">—Lo lograron… pero no como esperaban.</voice>
+<voice name="em_alex">La profesora asintió.</voice>
 
-<voice name="em_alex">En ese momento, el general Thompson entró.</voice>
+<voice name="ef_dora">—Exactamente. Los legionarios son diseñados para la guerra total.</voice>
 
-<voice name="em_santa">—General Thompson.</voice>
+<voice name="em_alex">Lo que siguió fue una demostración brutal.</voice>
 
-<voice name="em_alex">Sin saludo. Solo una mirada firme.</voice>
+<voice name="em_alex">El legionario atacó con toda su fuerza… y Derek lo detuvo.</voice>
 
-<voice name="em_santa">—¿Situación?</voice>
+<voice name="em_alex">No solo resistió el impacto… lo derribó con precisión quirúrgica.</voice>
 
-<voice name="em_alex">El mapa cambió.
-Decenas… cientos de puntos aparecieron.
-Todos… convergiendo en la Tierra.</voice>
+<voice name="em_santa">—Esto sirve para neutralizar amenazas sin letalidad… aunque contra nosotros, el resultado sería muy distinto.</voice>
 
-<voice name="em_santa">—Durante ciento setenta y tres años… hemos observado la respuesta a su señal.</voice>
+<voice name="em_alex">Las estudiantes tragaron saliva.</voice>
 
-<voice name="em_santa">—¿Y?</voice>
+<voice name="em_alex">Luego, la mecanista tomó el control.</voice>
 
-<voice name="em_santa">—Todas las especies dentro del alcance… la recibieron.</voice>
+<voice name="em_alex">Un enorme escorpión mecánico apareció, armado y aterrador.</voice>
 
-<voice name="em_alex">Silencio absoluto.</voice>
+<voice name="ef_dora">—¿Cómo creen que lo controlo?</voice>
 
-<voice name="em_santa">—¿Opinión sobre nosotros?</voice>
+<voice name="em_alex">La respuesta llegó tras murmullos.</voice>
 
-<voice name="em_santa">—Que son pequeños… ruidosos… indefensos… y peligrosamente inconscientes de ello.</voice>
+<voice name="ef_dora">—Con la mente.</voice>
 
-<voice name="em_santa">—Justo.</voice>
+<voice name="em_alex">La máquina imitó cada uno de sus movimientos como si fuera una extensión de su cuerpo.</voice>
 
-<voice name="em_santa">—También analizaron su anatomía.</voice>
+<voice name="em_alex">Después, Jessica avanzó.</voice>
 
-<voice name="em_alex">El silencio se volvió… pesado.</voice>
+<voice name="em_alex">Sus ojos brillaron… y un rayo púrpura atravesó el aire.</voice>
 
-<voice name="em_santa">—¿Bueno o malo?</voice>
+<voice name="em_alex">El impacto sacudió el lugar, dejando una marca humeante.</voice>
 
-<voice name="em_santa">—Tienen una palabra para ustedes…
-“La traducción más cercana sería…”</voice>
+<voice name="em_santa">—Yo soy una psiónica. Manipulo la realidad con la mente.</voice>
 
-<voice name="em_santa">—“…los pequeños locos desnudos.”</voice>
+<voice name="em_alex">El silencio fue total.</voice>
 
-<voice name="em_alex">Dave sonrió.</voice>
+<voice name="em_santa">—Pero también puedo hacer esto.</voice>
 
-<voice name="em_santa">—Me lo tomo como cumplido.</voice>
+<voice name="em_alex">De repente, cada estudiante tenía un helado en las manos.</voice>
 
-<voice name="em_santa">—No lo es.</voice>
+<voice name="em_alex">La tensión se rompió en risas.</voice>
 
-<voice name="em_alex">El mapa mostró rutas.
-Tres amenazas principales.</voice>
+<voice name="em_alex">Finalmente, Caliban habló.</voice>
 
-<voice name="em_santa">—Los Glornath. Cazadores. Ven nuevas especies como presas.</voice>
+<voice name="em_santa">—Yo no piloto una nave… yo soy la nave.</voice>
 
-<voice name="em_santa">—Genial… cazadores de trofeos.</voice>
+<voice name="em_alex">Explicó cómo su conciencia existía en múltiples cuerpos mientras su verdadera forma flotaba en el cielo.</voice>
 
-<voice name="em_santa">—Los Brintlax. Conquistadores. Creen que ya se han rendido.</voice>
+<voice name="em_alex">La lección terminó con una verdad simple.</voice>
 
-<voice name="em_santa">—Error grave.</voice>
+<voice name="ef_dora">—Hoy han visto poder, sacrificio y propósito. Todo esto… también será parte de su examen.</voice>
 
-<voice name="em_santa">—Y los más peligrosos… los Sorrowmakers.</voice>
+<voice name="em_alex">Las estudiantes no solo aprobaron aquella prueba.</voice>
 
-<voice name="em_santa">—¿Qué hacen?</voice>
+<voice name="em_alex">La superaron con excelencia.</voice>
 
-<voice name="em_santa">—Consumen mundos enteros.
-Llegarán en ocho meses.</voice>
-
-<voice name="em_alex">Dave miró el mapa.
-Luego al general.</voice>
-
-<voice name="em_santa">—Esto es… mucho, ¿no?</voice>
-
-<voice name="em_alex">Thompson no dudó.</voice>
-
-<voice name="em_santa">—¿Cuántas naves?</voice>
-
-<voice name="em_santa">—Docenas… cientos… y los últimos… desconocido.</voice>
-
-<voice name="em_alex">Thompson asintió.</voice>
-
-<voice name="em_santa">—Llama a todos.
-Aliados… enemigos… a cualquiera con armas grandes.</voice>
-
-<voice name="em_santa">—¿Vamos a pelear con todos?</voice>
-
-<voice name="em_santa">—Sí.</voice>
-
-<voice name="em_santa">—¿AL MISMO TIEMPO?</voice>
-
-<voice name="em_santa">—Uno por uno.</voice>
-
-<voice name="em_alex">Ziltoq observó… horrorizado.</voice>
-
-<voice name="em_santa">—Están completamente locos.</voice>
-
-<voice name="em_santa">—No. Solo somos tercos.</voice>
-
-<voice name="em_alex">Horas después… caos organizado.
-Planes. Estrategias. Decisiones.</voice>
-
-<voice name="em_alex">El general sonrió al ver los datos de los cazadores.</voice>
-
-<voice name="em_santa">—Respetan la fuerza… ¿verdad?</voice>
-
-<voice name="em_santa">—Sí.</voice>
-
-<voice name="em_santa">—Entonces… démosles un rival.</voice>
-
-<voice name="em_alex">Dave miró la foto.</voice>
-
-<voice name="em_santa">—¿Ese tipo no peleaba con caimanes?</voice>
-
-<voice name="em_santa">—Y golpeó a un tiburón… dos veces.</voice>
-
-<voice name="em_alex">Ziltoq finalmente entendió.</voice>
-
-<voice name="em_santa">—No sobrevivieron por inteligencia…
-ni por fuerza…
-Sino porque no saben rendirse.</voice>
-
-<voice name="em_santa">—Exacto.</voice>
-
-<voice name="em_alex">Ziltoq guardó silencio… y luego habló.</voice>
-
-<voice name="em_santa">—Ahora entiendo el nombre…
-Los pequeños locos desnudos.</voice>
-
-<voice name="em_alex">Dave rió.</voice>
-
-<voice name="em_santa">—Vamos a poner eso en una camiseta.</voice>
+<voice name="em_alex">Porque ese día no aprendieron de libros… aprendieron de leyendas vivientes.</voice>

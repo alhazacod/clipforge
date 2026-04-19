@@ -48,7 +48,7 @@ def start_kokoro():
     container_id = result.stdout.strip()
  
     # Wait until the API is ready
-    for _ in range(150):
+    for _ in range(900):
         try:
             if requests.get("http://localhost:8880/health", timeout=2).ok:
                 print("Kokoro ready.")
